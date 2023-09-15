@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: Notifications
 ---
 
@@ -47,7 +47,7 @@ Here's a detailed overview of Petority's notification and notification types:
     Once you access the message notification settings page, you will see various types of message notification options, such as **battery**, **signal**, **heart rate**, **fence** alerts, and more.
   
     Toggle the switch next to each message notification type to enable or disable the respective notification.
-    
+
 **2. Ending Fence Event Alerts:**
 
 ![End event](/img/logo.svg)
