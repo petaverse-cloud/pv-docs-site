@@ -71,12 +71,15 @@ Petority's Historical Data feature provides several advantages:
 + Activity Insights:
     
     Gain valuable insights into your pet's past activities and behavior patterns. Understand how they spend their days and how their routines may have changed over time.
+
 + Health Monitoring:
     
     Monitor your pet's health trends by reviewing historical data. Detect any irregularities or changes in their behavior that might indicate underlying health issues.
+
 + Behavioral Changes:
     
     Identify any behavioral changes or trends in your pet's daily routines. This can help you make informed decisions about their care and well-being.
+
 + Long-Term Trends:
     
     Observe long-term trends in your pet's activity levels, sleep patterns, and more. This information can be essential for maintaining their overall health and happiness.

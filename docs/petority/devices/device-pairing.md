@@ -23,10 +23,8 @@ Follow these steps to pair your device:
 
     Install the app on your smartphone.
 2. Create or Log In to Your Account:
-
-    + If you're a new user, [create a Petority account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
-
-    + If you already have an account, **log in** using your credentials.
++ If you're a new user, [create a Petority account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
++ If you already have an account, **log in** using your credentials.
 3. Access Device Pairing:
 
     Tap **User** > **Device** > **+**
@@ -55,8 +53,8 @@ Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi n
 ![Wifi](/img/logo.svg)
 
 1. Select WiFi Network:
-    + Choose the WiFi network you want to connect your Petority device to.
-    + Ensure your smartphone is connected to the same network during this process.
++ Choose the WiFi network you want to connect your Petority device to.
++ Ensure your smartphone is connected to the same network during this process.
 2. Confirm Configuration:
 
     Verify and confirm the Wi-Fi configuration within the app. The app will send the Wi-Fi settings to your device.
@@ -72,9 +70,13 @@ With your device successfully paired and WiFi configured, you can now enjoy real
 ![choose pet](/img/logo.svg)
 
 1. Choose Your Pet:
-    + Select the pet you want to associate with or **[create a Pet Profile](/docs/petority/devices/pets#1-creating-a-pet-profile)**.
+
+    Select the pet you want to associate with or **[create a Pet Profile](/docs/petority/devices/pets#1-creating-a-pet-profile)**.
+
 2. Link the Device:
-    + Connect the bound Petority device to your pet to ensure their data corresponds to the device.
+
+    Connect the bound Petority device to your pet to ensure their data corresponds to the device.
+    
 3. Enjoy Petority Services:
 
     After association, you'll be able to see the connection status and data of your pet and device within the app.
