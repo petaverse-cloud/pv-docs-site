@@ -1,5 +1,5 @@
 ---
-ssidebar_position: 1
+sidebar_position: 1
 title: Device Pairing
 ---
 
