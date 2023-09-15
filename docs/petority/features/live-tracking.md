@@ -4,26 +4,26 @@ title: LIVE Tracking
 ---
 
 # Real-time Location Tracking and Monitoring
-Petority provides advanced real-time location tracking and monitoring features to ensure the safety and well-being of your beloved pets.With this functionality, you can keep a close eye on your pets' whereabouts and activities, making sure they are always safe and accounted for.
+Petority offers advanced **real-time location tracking and monitoring** features designed to ensure the **safety** and **happiness** of your beloved pets. Through these features, you can closely monitor your pets' **movements** and **activities**, ensuring their well-being at all times.
 
 ![MAP](/img/map/Map.jpg)
 
 ## How to Use:
 1. Log in to the **Petority** App:
-  
-    Open the **Petority** app on your Android or iOS device and **log in** to your account
+    + Open the **Petority** app on your Android or iOS device
+    + **log in** to your account
 2. Access Real-time Tracking:
-  
-     Tap **Home** > **Map**
+    + Tap **Home**.
+    + Select **Map**.
 
 ## Key Features:
-In the Petority app, your current location will be automatically displayed to you alongside your pet's position whenever your smartphone has GPS or location services enabled. Once you're in the **Map** page, you'll be able to see both **you and your pets' current location** on a map
+In the Petority app, your current location will be automatically displayed to you alongside your pet's position whenever your smartphone has GPS or location services enabled. Once you're in the **Map** page, you'll be able to see both **you** and **your pets**' current location on a map
 
-### 1. Monitor Movement
+### 1. Monitor Movement - Real-time Tracking:
 
 ![realtime tracking](/img/map/activities.jpg)
 
-The map will display your pets' movement in real-time, allowing you to track their path and activities.
+The map displays your pets' **movement** in **real-time**, enabling you to track their paths and activities.
 
 **Benefits:**
 
@@ -41,14 +41,16 @@ The map will display your pets' movement in real-time, allowing you to track the
     Whether you're at home or away, you can have peace of mind knowing that you can track your pets and ensure their safety.
 + Customizable Settings:
 
-    Adjust tracking parameters based on your preferences and needs, such as the frequency of location updates.
+    Adjust tracking parameters based on your preferences and needs, such as the **frequency** of location updates.
 
 **Note:** 
 
-> Make sure your device has a stable internet connection and access to GPS signals for accurate and reliable tracking.
+Make sure your device has a stable internet connection and access to GPS signals for accurate and reliable tracking.
 
 ### 2. Call Your Pet
-Petority offers an intelligent **Auto Recall** feature designed to make recalling and controlling your pets easier. No matter where you are, with a simple operation, you can establish a real-time voice connection with your pets to ensure their safe return.
+Petority offers an intelligent **Auto Recall** feature designed to make recalling and controlling your pets easier.
+
+Wherever you are, with a simple operation, you can establish a real-time voice connection with your pets to ensure their safe return.
 
 ![recall](/img/map/Auto-Recall.jpg)
 
@@ -72,24 +74,9 @@ When you need to recall your pet, simply tap the appropriate button to establish
 
     The interface of the Auto Recall feature is user-friendly, allowing for easy operation.
 
-In Petority, you have the flexibility to choose which pets' locations are displayed on the Map page.This feature allows you to focus on specific pets' movements and track them with ease.
+Additionally, you can also check the **status** of your **device**, including its **battery level** and **signal strength**. This allows you to stay informed about the health and performance of your device while using the Petority app.
 
-**Configuring Displayed Pets**
-
-![Displayed Pets](/img/logo.svg)
-
-+ Focused Tracking:
-
-    By choosing specific pets to display on the Map, you can focus on their movements without being overwhelmed by the locations of all your pets.
-+ Quick Overview:
-
-    This feature provides a quick overview of the selected pets' whereabouts, making it easier to keep track of them.
-+ Customized Monitoring:
-
-    If you have multiple pets but are primarily concerned about one or a few, this setting allows you to customize your monitoring experience.
-+ Reduced Clutter:
-
-    Displaying only the selected pets reduces clutter on the Map, enhancing the clarity of the information.
+![icon](/img/logo.svg)
 
 You can also tap on the icon in the bottom right-hand corner of the map, to zoom to different locations:
 
@@ -97,11 +84,11 @@ You can also tap on the icon in the bottom right-hand corner of the map, to zoom
 
 Each time you tap the icon, a different view will be shown:
 
-| Icon      | Description |
-| ----------- | ----------- |
-| ![L_icon](/img/logo.svg) | **Zoom to user:** This centres in on your mobile device's location. |
-| ![N_icon](/img/logo.svg) | **Map North:** This feature helps you maintain a clear sense of direction |
-| ![f_icon](/img/logo.svg) | **Map Refresh Frequency:** It determines how often the app fetches the latest location data from your pet's device and updates it on the map. |
+| Icon      |features | Description |
+| ----------- | ----------- |----------- |
+| ![L_icon](/img/logo.svg) | **Zoom to User**| This option centers the map on your mobile device's current location, keeping you at the center of the map.|
+| ![N_icon](/img/logo.svg) | **Map North**| Clicking this icon helps you maintain a clear sense of direction, orienting the map according to north. |
+| ![f_icon](/img/logo.svg) | **Map Refresh Frequency**| This feature allows you to determine how often the application fetches the latest location data from your pet's device and updates it on the map.You can adjust the refresh frequency based on your preferences to balance real-time updates with battery conservation and data usage. |
 
 **If you are unable to see your or your pet current location, please try the following troubleshooting tips:**
 
@@ -111,4 +98,4 @@ Each time you tap the icon, a different view will be shown:
 + Go outside with the Map view open and wait until your smartphone can get a GPS connection.
 + Contact Petority for further support.
 
-Petority's real-time location tracking and monitoring feature empower you to provide optimal care for your pets.   
+Petority's real-time location tracking and monitoring features empower you to provide optimal care for your pets. Whether you're at home or away, Petority ensures that you can always stay connected to and protect your cherished pets.

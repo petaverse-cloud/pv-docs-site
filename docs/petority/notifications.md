@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-title: Alerts
+title: Notifications
 ---
 
-**Petority offers a range of notifications and notification types that allow you to stay informed about your pet's status and device conditions.**
+Petority offers a range of notifications and notification types that allow you to stay informed about your **pet's status** and **device conditions**.
 
 ![Alert](/img/logo.svg)
  

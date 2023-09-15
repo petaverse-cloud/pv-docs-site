@@ -22,7 +22,8 @@ Once verified, you can use it to log in to the Petority app and start accessing 
 
 **Note:**
 
-+ Make sure to use accurate and truthful information while creating your account, and remember to keep your account and password secure for the safety of your account.
++ Make sure to use accurate and truthful information while creating your account.
++ keep your account and password secure for the safety of your account.
 
 ## Using a Third-Party Account to login
 1. [Download](/docs/petority/intro) and open the **Petority** app.
@@ -31,6 +32,7 @@ Once verified, you can use it to log in to the Petority app and start accessing 
 4. Follow the app's prompts, which may require you to authorize Petority to access your third-party account information.
 5. After authorization, return to the Petority app; your third-party account is linked.
 6. You may need to provide an email to link your Petority account.
+
 ![Third-Party](/img/logo.svg)
   
 Once these steps are completed, you can use your third-party account to log in to the Petority app and access its features.

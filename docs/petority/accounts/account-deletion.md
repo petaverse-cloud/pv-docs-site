@@ -22,12 +22,12 @@ To delete your Petority account, you can follow these steps:
 
     Read the provided **Account Deletion Notice** carefully. Understand that deleting your account will permanently remove all associated data, and it cannot be recovered. If you wish to proceed, click **Delete**.
 
-**Account Deletion Notice:**
+## Account Deletion Notice:
 + Deleting your account will result in the complete removal of all data associated with the account, and it cannot be recovered. Please proceed with caution, as once the account is deactivated successfully, it cannot be retrieved.
 + After submitting the account deactivation request, the account will be taken offline and kept in a **30-day** review period. Within these 30 days, you can attempt to log in to the account to cancel the account deletion request, which will allow you to restore the account and use it normally.
 + Before proceeding with the deactivation, carefully review the information provided on the account deletion page to avoid any unintended consequences.
 
-**Recovering Your Account:**
+## Recovering Your Account:
 Before proceeding with account deactivation, please carefully review the information provided on the account deletion page to avoid unintended consequences.
 
 ![recover account](/img/logo.svg)

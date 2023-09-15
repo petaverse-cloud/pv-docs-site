@@ -1,19 +1,15 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 title: Device Information
 ---
 
 # Docker & Tag Information 
-Petority offers a range of innovative devices designed to help you track and care for your beloved pets.
+Petority offers a range of innovative devices designed to help you track and care for your beloved pets.These devices come equipped with various features that ensure the well-being and safety of your furry companions. 
 
-![device picture](/img/logo.svg)
-
-## Docker & Tag Information
-These devices come equipped with various features that ensure the well-being and safety of your furry companions. 
+Below is a brief overview of the device information and settings available within the Petority ecosystem:
 
 ![Device Information:](/img/logo.svg)
 
-Below is a brief overview of the device information and settings available within the Petority ecosystem:
 
 **Name:**
 
@@ -31,28 +27,21 @@ Monitor the battery status of your device to ensure it's always operational.
 
 View the signal strength of the device's connection to ensure reliable communication.
 
-## [Docker & Tag Settings](/docs/petority/devices/devices-settings)
-**Location Tracking:**
+## Docker & Tag Settings
++ [Geofencing:](/docs/petority/features/fence)
 
-Enable real-time location tracking to monitor your pet's movements and ensure their safety.
+    Set up virtual boundaries to receive alerts when your pet enters or leaves specific areas.
++ [WiFi Configuration:](/docs/petority/devices/configuring-wifi)
 
-**[Geofencing:](/docs/petority/features/fence)**
+    Connect your device to WiFi for seamless data synchronization and enhanced functionality.
++ [Firmware Updates:](/docs/petority/devices/upgrade-firmware)
 
-Set up virtual boundaries to receive alerts when your pet enters or leaves specific areas.
+    Keep your device up to date with the latest features and improvements by performing firmware updates.
++ [Restore Factory](/docs/petority/devices/restore-factory)
+    
+    Petority devices occasionally require a factory reset to restore them to their original settings.
 
-**Health Monitoring:**
-
-Access vital health information, such as heart rate and activity levels, to proactively manage your pet's well-being.
-
-**[WiFi Configuration:](/docs/petority/devices/devices-settings#1-configuring-wifi-connection)**
-
-Connect your device to WiFi for seamless data synchronization and enhanced functionality.
-
-**[Firmware Updates:](/docs/petority/devices/upgrade-firmware)**
-
-Keep your device up to date with the latest features and improvements by performing firmware updates.
-
-## How to Access Device Information and Settings:
+### How to Access Device Information and Settings:
 
 1. Open the Petority App: 
 
@@ -68,7 +57,7 @@ Keep your device up to date with the latest features and improvements by perform
     View essential information about the device, such as battery level and signal strength.
 5.  Device Settings:
 
-    Tap **setting** section to configure various options based on your pet's needs.
+    Tap **[setting](/docs/petority/devices/light-sound)** section to configure various options based on your pet's needs.
     
 ## Note:
 + Regularly check the device's battery level to ensure uninterrupted functionality.
