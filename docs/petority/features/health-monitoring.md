@@ -6,7 +6,7 @@ title: Health Monitoring
 # Tracking Your Pet's Well-being with Petority's Health Feature
 Petority, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. Among its standout capabilities is the **comprehensive health data detection** and **location history tracking functionality**. 
 
-![Health](/img/logo.svg)
+![Health](/img/health/Health.jpg)
 
 ## Exploring Health Data Insights
 
@@ -26,7 +26,7 @@ By following a few simple steps, you can access a wealth of information right at
 
   You can now choose the **desired time frame** for reviewing their health data history.
 
-  ![Health](/img/logo.svg)
+  ![Health](/img/health/time.jpg)
 
 By following these simple steps, you'll be able to access and review your pet's health data with ease.
 
@@ -34,14 +34,14 @@ By following these simple steps, you'll be able to access and review your pet's 
 
 With Petority's Health Data and Location History feature, you gain a comprehensive overview of your pet's daily activities. 
 
-![Path](/img/logo.svg)
+![Path](/img/health/Activities.jpg)
 
 It allows you to understand their movement patterns, providing insights into their exercise routines and overall lifestyle.
 
 ### Heart Rate Monitoring:
 Keeping an eye on your pet's heart health is crucial. This feature empowers you to closely monitor their heart rate in real-time. 
 
-  ![Heart](/img/logo.svg)
+![Heart](/img/health/Heart-Rate-Indicators.jpg)
 
 By having access to their heart rate data, you can promptly detect any irregularities and take necessary actions for their well-being.
 

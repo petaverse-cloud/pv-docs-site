@@ -76,7 +76,7 @@ When you need to recall your pet, simply tap the appropriate button to establish
 
 Additionally, you can also check the **status** of your **device**, including its **battery level** and **signal strength**. This allows you to stay informed about the health and performance of your device while using the Petority app.
 
-![icon](/img/logo.svg)
+![icon](/img/map/Status.jpg)
 
 You can also tap on the icon in the bottom right-hand corner of the map, to zoom to different locations:
 

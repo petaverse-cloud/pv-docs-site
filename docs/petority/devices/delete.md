@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-title: Delete a Pet Profile
+title: Deleting Pet Profiles
 ---
 
-# Delete a Pet Profile
+# Deleting Pet Profiles
 In the Petority app, you have the flexibility to delete pet profiles that are no longer needed. 
 Here are the straightforward steps on how to delete a created pet profile in the Petority app:
 
