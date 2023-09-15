@@ -60,7 +60,7 @@ Easily review your pet's health data by selecting the desired time frame. You ca
 | Soothing    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 | Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
-### [4. Alert](/docs/petority/alerts-notifications)
+### [4. Alert](/docs/petority/notifications)
 #### Instant Fence Alerts
 + Set up virtual fences to define safe areas for your pet. 
 + Receive instant notifications on your phone if your pet leaves these designated zones.

@@ -33,7 +33,7 @@ Once the fence settings are complete, you will receive notifications when your p
 
 **Fence Event Notifications:**
 
-You will receive **[fence event notifications](/docs/petority/alerts-notifications)** when your pet enters or exits the defined fence area.
+You will receive **[fence event notifications](/docs/petority/notifications)** when your pet enters or exits the defined fence area.
 
 By clicking on the alert notification, you can view detailed information about your pet's fence activities.
 

@@ -33,7 +33,7 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Set Up Notifications
 
-    Customize the [notification settings](/docs/petority/general-settings#1-notification-settings) to receive [alerts](/docs/petority/alerts-notifications) when your pet leaves a designated area (geofence), or if there are any changes in their health metrics.
+    Customize the [notification settings](/docs/petority/general-settings#1-notification-settings) to receive [alerts](/docs/petority/notifications) when your pet leaves a designated area (geofence), or if there are any changes in their health metrics.
 
 + Explore Features:
 
