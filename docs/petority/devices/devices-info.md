@@ -12,7 +12,7 @@ Below is a brief overview of the device information and settings available withi
 
 **Bluetooth Status:**
 
-A Bluetooth icon or indicator will be displayed if the connection is active
+View the Bluetooth Status of the device's connection to ensure reliable communication.
 
 **Signal Strength:**
 
@@ -20,13 +20,11 @@ View the signal strength of the device's connection to ensure reliable communica
 
 **GPS Status:**
 
-You can check the GPS status by looking for a GPS icon
+View the GPS Status of the device.
 
 **Battery Level:**
 
-Monitor the battery status of your device(Docker and Tag) to ensure it's always operational.
-
-
+Monitor the battery status of your device (Docker and Tag) to ensure it's always operational.
 
 ## Docker & Tag Settings
 ![Device Information:](/img/device/Device.jpg)
@@ -40,6 +38,9 @@ Monitor the battery status of your device(Docker and Tag) to ensure it's always 
 + [Restore Factory](/docs/petority/devices/restore-factory)
     
     Petority devices occasionally require a factory reset to restore them to their original settings.
++ [Light and Sound](/docs/petority/devices/light-sound)
+    
+	Light Settings, Sound Choices, and Personalized Pet Recall.By adjusting these settings, you can better manage and protect your pet.
 
 ### How to Access Device Information and Settings:
 
