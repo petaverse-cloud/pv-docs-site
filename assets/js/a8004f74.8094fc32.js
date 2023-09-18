@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpv_docs_site=self.webpackChunkpv_docs_site||[]).push([[2516],{3463:e=>{e.exports=JSON.parse('{"title":"Pets","slug":"/category/pets","permalink":"/docs/category/pets","navigation":{"previous":{"title":"FAQs","permalink":"/docs/petority/devices/faqs"},"next":{"title":"Creating Pet Profiles","permalink":"/docs/petority/pets/create"}}}')}}]);
