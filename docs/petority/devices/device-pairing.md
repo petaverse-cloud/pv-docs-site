@@ -9,7 +9,7 @@ Petority is your go-to solution for advanced pet tracking and monitoring.
 
 Whether you're ensuring the safety of your furry companion or keeping a close eye on their well-being, here's a step-by-step guide on how to pair a device, configure Wi-Fi, and provide top-notch care for your pet.
 
-![pairing steps](/img/logo.svg)
+![pairing steps](/img/pair/Device-Pair.gif)
 
 ## Device Pairing:
 
@@ -32,9 +32,8 @@ Follow these steps to pair your device:
 
     Let the app guide you through the device pairing process.
 
-    ![step](/img/logo.svg)
 
-**Tips for Smooth Pairing::**
+**Tips for Smooth Pairing**
 
 + Make sure Bluetooth is turned on and your phone is connected to a **2.4GHz** WLAN.
 + Ensure that the device has **sufficient** battery power.
@@ -50,7 +49,7 @@ Once the app successfully detects your device and establishes a connection, conf
 ## WiFi Configuration:
 Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi network operates on the **2.4GHz** frequency band.
 
-![Wifi](/img/logo.svg)
+![Wifi](/img/pair/wifi.gif)
 
 1. Select WiFi Network:
 + Choose the WiFi network you want to connect your Petority device to.
@@ -67,7 +66,7 @@ With your device successfully paired and WiFi configured, you can now enjoy real
 [What to do if the network configuration fails?](/docs/petority/devices/FAQs/#3what-to-do-if-the-network-configuration-fails)
 
 ## Pet Association:
-![choose pet](/img/logo.svg)
+![choose pet](/img/pair/Add-Pet.gif)
 
 1. Choose Your Pet:
 

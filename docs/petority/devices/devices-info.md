@@ -27,8 +27,6 @@ View the GPS Status of the device.
 Monitor the battery status of your device (Docker and Tag) to ensure it's always operational.
 
 ## Docker & Tag Settings
-![Device Information:](/img/device/Device.jpg)
-
 + [WiFi Configuration:](/docs/petority/devices/configuring-wifi)
 
     Connect your device to WiFi for seamless data synchronization and enhanced functionality.
@@ -43,6 +41,7 @@ Monitor the battery status of your device (Docker and Tag) to ensure it's always
 	Light Settings, Sound Choices, and Personalized Pet Recall.By adjusting these settings, you can better manage and protect your pet.
 
 ### How to Access Device Information and Settings:
+![Device Information:](/img/device/Device.jpg)
 
 1. Open the Petority App: 
 
