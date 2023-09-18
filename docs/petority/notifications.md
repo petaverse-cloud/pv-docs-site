@@ -40,7 +40,7 @@ Here's a detailed overview of Petority's notification and notification types:
 
 ![Manage notifications](/img/logo.svg)
 
-**1. [Enabling or Disabling Message Notifications](/docs/petority/general-settings)**
+**1. [Enabling or Disabling Message Notifications](/docs/petority/general/notifications)**
 
 + Open the Petority app and log in to your account.
 + Tap **User** > **Setting** > **Alert**
