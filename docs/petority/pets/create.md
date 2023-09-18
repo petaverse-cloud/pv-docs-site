@@ -1,6 +1,6 @@
 ---
-sidebar_position: 8
-title: Creating Pet Profiles:
+sidebar_position: 1
+title: Creating Pet Profiles
 ---
 
 # Creating Pet Profiles
