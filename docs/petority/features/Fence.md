@@ -4,50 +4,58 @@ title: Fence
 ---
 
 # Fences for Pet Safety
-The Petority fence feature allows you to establish virtual boundaries for your pets, ensuring they stay within safe areas while roaming. This feature enables you to monitor and manage your pet's activity range, while also providing real-time alerts and notifications to keep you informed about their whereabouts and movements.
+The Petority fence feature allows you to establish virtual boundaries for your pets, ensuring they stay within safe areas while roaming. This feature enables you to monitor and manage your pet's activity range, while also providing real-time alerts and notifications to keep you informed about their whereabouts and movements. 
 
-![fence-map](/img/logo.svg)
+![fence-map](/img/fence/Fence1.jpg)
 
 ## Set up a Fence
 Would you like to be alerted when your pet either leaves or enters a certain area, such as your home or a local park? If so, you can set up a Fence, which is a perimeter that defines a safe area for your pet to be in. 
 
-![fence edit](/img/logo.svg)
+![fence edit](/img/fence/Fence.gif)
 
-Just set up your customizable Fence and you will receive notifications when your pet enters or leaves the Fence!
+1. Open the Petority App:
 
-![shape of fence](/img/logo.svg)
+	Launch the Petority app on your Android or iOS device.
+2. Log In to Your Account:
 
-Once you have set up a Fence, you will begin receiving notifications when your pet enters or leaves one of these areas.
+	Log in to your Petority account.
+3. Access the Fence Section:
 
-In the Petority mobile app:
+	Tap **User** > **Fences**.
+4. Edit Your Fence:
 
-1. Open the Petority app and log in to your account
-2. Tap **User** > **Fences**
-3. Tap **Edit** 
-4. Set the shape of your Fence. Fences can be circular, rectangular, or in a customizable shape
-5. Tap **Ok**  button to confirm the fence settings.
+	Tap **Edit**.
+5. Customize the Fence Shape:
 
-![Steps](/img/logo.svg)
+	You can choose from different fence shapes, including **circular**, **rectangular**, or even create a custom shape that best suits your needs.
+6. Confirm Fence Settings:
 
-Once the fence settings are complete, you will receive notifications when your pet enters or exits the fenced area.
+	After defining the fence's shape and boundaries, tap the **OK** button to confirm your fence settings.
 
 **Fence Event Notifications:**
 
+![Steps](/img/get-to-know/Instant-Fence-Alerts.jpg)
+
+
 You will receive **[fence event notifications](/docs/petority/notifications)** when your pet enters or exits the defined fence area.
 
-By clicking on the alert notification, you can view detailed information about your pet's fence activities.
+By clicking on the [alert notification](/docs/petority/general-settings), you can view detailed information about your pet's fence activities.
 
 ## Editing and Deleting Fences:
-follow these simple steps:
-1. Open the Petority app and log in to your account
-2. Tap **User**> **Fence**
-3. Tap **Edit**
-    For editing, you can modify the fence's boundaries, and other parameters. Save the updated fence settings.
+If you need to modify your fence's boundaries or other parameters, simply follow these steps:
+
+1. Open the Petority app and **log in** to your account.
+2. Tap **User**> **Fence**.
+3. Tap **Edit**.
+
+    For editing, make the necessary adjustments to the fence's shape or boundaries, and then save the updated fence settings.
   
-    For deletion, you can choose to remove the fence. Note that deleting a fence will also clear related data associated with it.
+    For deletion, you can choose to remove the fence. Keep in mind that deleting a fence will also clear any associated data related to it.
 
-![Editing and Deleting](/img/logo.svg)
+![Editing and Deleting](/img/fence/Fence2.jpg)
 
-If you don't need a fence, you can choose to **turn off** the fence switch.
+If you no longer require a specific fence, you can choose to turn off the fence switch.
 
-![switch](/img/logo.svg)
+![switch](/img/fence/Fence3.jpg)
+
+Petority's fence feature provides an added layer of safety and control, allowing you to create secure zones for your pets. By following these simple steps, you can ensure your furry friends stay within safe areas while they explore, giving you peace of mind and enhancing their well-being.

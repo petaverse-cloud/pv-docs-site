@@ -10,11 +10,11 @@ Petority offers advanced **real-time location tracking and monitoring** features
 
 ## How to Use:
 1. Log in to the **Petority** App:
-    + Open the **Petority** app on your Android or iOS device
-    + **log in** to your account
+    Open the **Petority** app on your Android or iOS device
+    **log in** to your account
 2. Access Real-time Tracking:
-    + Tap **Home**.
-    + Select **Map**.
+    Tap **Home**.
+    Select **Map**.
 
 ## Key Features:
 In the Petority app, your current location will be automatically displayed to you alongside your pet's position whenever your smartphone has GPS or location services enabled. Once you're in the **Map** page, you'll be able to see both **you** and **your pets**' current location on a map

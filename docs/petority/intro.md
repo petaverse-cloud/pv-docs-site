@@ -29,7 +29,7 @@ Take advantage of the interactive map to set up virtual boundaries and track you
 + Location Recording
 
 Never worry about your pet wandering off again. Petority records your pet's movements and alerts you if they leave designated safe areas.
-### 2. Exercise Monitoring and Real-time Heart Rate Tracking
+### [2. Exercise Monitoring and Real-time Heart Rate Tracking](/docs/petority/features/realtime-heartrate-monitoring)
 Ensure your pet's health by monitoring their daily exercise routines. Track their heart rate in real-time, and [receive alerts](/docs/petority/notifications) if any irregularities are detected, helping you spot potential health issues early on.
 
 + Check whether they're getting sufficient exercise daily

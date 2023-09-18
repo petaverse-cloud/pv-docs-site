@@ -8,17 +8,13 @@ Petority's **Demo Mode** is a specialized feature that allows users **to experie
 
 This feature proves highly beneficial for new or prospective users, as it provides an opportunity to explore the application's interface, features, and workflow before committing to actual device usage.
 
-![demo](/img/logo.svg)
+![demo](/img/demo/Demo.jpg)
 
 ## What is Demo Mode?
 
 In Demo Mode, users can simulate various scenarios such as changes in pet's location and fluctuations in heart rate.
 
 This simulation helps users better understand how the application's features operate in real-world scenarios. This understanding aids users in making informed decisions about the performance and advantages of the application, even before considering the purchase of Petority devices.
-
-![data](/img/logo.svg)
-
-
 ### Key Benefits:
 
 + Exploration:
