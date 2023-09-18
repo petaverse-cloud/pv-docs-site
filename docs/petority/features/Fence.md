@@ -39,7 +39,7 @@ Would you like to be alerted when your pet either leaves or enters a certain are
 
 You will receive **[fence event notifications](/docs/petority/notifications)** when your pet enters or exits the defined fence area.
 
-By clicking on the [alert notification](/docs/petority/general-settings), you can view detailed information about your pet's fence activities.
+By clicking on the alert notification, you can view detailed information about your pet's fence activities.
 
 ## Editing and Deleting Fences:
 If you need to modify your fence's boundaries or other parameters, simply follow these steps:

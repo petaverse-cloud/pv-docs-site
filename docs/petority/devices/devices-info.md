@@ -8,29 +8,29 @@ Petority offers a range of innovative devices designed to help you track and car
 
 Below is a brief overview of the device information and settings available within the Petority ecosystem:
 
-![Device Information:](/img/logo.svg)
+![Device Information:](/img/device/Device-info.jpg)
 
+**Bluetooth Status:**
 
-**Name:**
-
-Each Petority device is assigned a unique name for easy identification within the app.
-
-**Status:**
-
-You can quickly check whether the device is online and actively connected to the app.
-
-**Battery Level:**
-
-Monitor the battery status of your device to ensure it's always operational.
+A Bluetooth icon or indicator will be displayed if the connection is active
 
 **Signal Strength:**
 
 View the signal strength of the device's connection to ensure reliable communication.
 
-## Docker & Tag Settings
-+ [Geofencing:](/docs/petority/features/fence)
+**GPS Status:**
 
-    Set up virtual boundaries to receive alerts when your pet enters or leaves specific areas.
+You can check the GPS status by looking for a GPS icon
+
+**Battery Level:**
+
+Monitor the battery status of your device(Docker and Tag) to ensure it's always operational.
+
+
+
+## Docker & Tag Settings
+![Device Information:](/img/device/Device.jpg)
+
 + [WiFi Configuration:](/docs/petority/devices/configuring-wifi)
 
     Connect your device to WiFi for seamless data synchronization and enhanced functionality.
@@ -62,8 +62,6 @@ View the signal strength of the device's connection to ensure reliable communica
 ## Note:
 + Regularly check the device's battery level to ensure uninterrupted functionality.
 + Keep the device connected to WiFi for seamless data synchronization and updates.
-+ Customize geofencing settings to receive alerts for your pet's safety within specified areas.
-+ Utilize health monitoring features to monitor your pet's activity and overall well-being.
 + By familiarizing yourself with the device information and settings in the Petority app, you can optimize the care and safety of your pets while enjoying the convenience of modern technology.
 
 
