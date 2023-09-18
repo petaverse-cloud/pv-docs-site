@@ -71,7 +71,7 @@ With your device successfully paired and WiFi configured, you can now enjoy real
 
 1. Choose Your Pet:
 
-    Select the pet you want to associate with or **[create a Pet Profile](/docs/petority/pets/pets#1-creating-a-pet-profile)**.
+    Select the pet you want to associate with or **[create a Pet Profile](/docs/petority/pets/create)**.
 
 2. Link the Device:
 
