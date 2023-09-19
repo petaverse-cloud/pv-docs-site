@@ -3,8 +3,7 @@ sidebar_position: 4
 title: Pet Association
 ---
 
-# Associating, Disassociating, and Switching Devices for Pets in Petority
-
+# Associating, Disassociating, and Switching Devices for Pets
 In Petority, you can easily **associate**, **disassociate**, and **switch** devices for your pets to track and monitor their activities.
 
 Here are the steps to perform these actions:
