@@ -7,9 +7,9 @@ Petority offers a range of general settings that allow you to customize the app 
 
 Here's a comprehensive overview of the Petority general settings:
 
-## [1. Notification Settings:](/docs/general-setting/notification)
-## [2. Unit Preferences:](/docs/general-setting/unit)
-## [3. Privacy and Security:](/docs/general-setting/privacy)
+## [1. Notification Settings:](/docs/petority/general-setting/notification)
+## [2. Unit Preferences:](/docs/petority/general-setting/unit)
+## [3. Privacy and Security:](/docs/petority/general-setting/privacy)
 ### Accessing General Settings:
 ![setting](/img/logo.svg)
 

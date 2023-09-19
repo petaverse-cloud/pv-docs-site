@@ -18,7 +18,7 @@ In the notification settings, you can customize your message notifications as fo
 
 	![sound&shake](/img/logo.svg)
 
-Receive notifications through the Petority app. These notifications will appear in the app's [notification](/docs/petority/notification) center for your convenience.
+Receive notifications through the Petority app. These notifications will appear in the app's [notification](/docs/petority/notifications) center for your convenience.
 
 **Regularly Review Your Settings**
 
