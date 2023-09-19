@@ -60,15 +60,15 @@ Easily review your pet's health data by selecting the desired time frame. You ca
 | Soothing    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 | Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
-### [4. Alert](/docs/petority/notifications)
-#### Instant Fence Alerts
-+ Set up virtual fences to define safe areas for your pet. 
+### 4. Alert
+#### [Instant Fence Alerts](/docs/petority/notification/fence-event)
++ [Set up virtual fences](/docs/petority/features/fence) to define safe areas for your pet. 
 + Receive instant notifications on your phone if your pet leaves these designated zones.
 + The app will provide updates every **10** seconds until your pet returns to the safe area.
 
 ![fence alert](/img/get-to-know/Instant-Fence-Alerts.jpg)
 
-#### Stay Updated
+#### [Stay Updated](/docs/petority/notification/type)
 Petority keeps you in the loop by providing real-time alerts about your pet's battery status, app version updates, and more.
 
 This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy.Experience the convenience and peace of mind that Petority brings to pet ownership.
