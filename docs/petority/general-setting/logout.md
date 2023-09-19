@@ -6,7 +6,7 @@ title: Log Out of Your Account
 # Log Out of Your Account
 If you want to log out of your Petority account, you can do so by following these simple steps:
 
-![logout](/img.logo.svg)
+![logout](/img/logo.svg)
 
 1. Open the Petority App:
 
