@@ -27,12 +27,10 @@ To view your pet's activity on Petority, follow these steps using the Petority a
 
 The app typically provides graphs and charts to visually display your pet's activity patterns. You can check details like step count, active time, rest time, and more.
 
-	![step](img/logo.svg)
+![step](img/logo.svg)
 
 **Notifications:**
 
-	![alert](img/logo.svg)
+![alert](img/logo.svg)
 
-	The app also send notifications to help you keep track of your pet's activity and ensure their well-being.
-
-By using the Petority app, you can conveniently monitor your pet's activity, which is essential for tracking their health and happiness. Please ensure that the Petority device is correctly installed and connected to accurately capture your pet's activity data.
+The app also send notifications to help you keep track of your pet's activity and ensure their well-being.
