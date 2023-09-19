@@ -6,7 +6,7 @@ title: Fence Event
 # Petority Geofence Event Notifications
 Petority's geofence feature allows you to create virtual boundaries for your pet's safety and to receive notifications when your pet enters or exits these predefined areas. Geofence event notifications help you stay informed about your pet's location and movements, ensuring their safety and well-being.
 
-Before receiving geofence event notifications, you'll need to [set up geofences](/docs/petority/features/fences) in the Petority app.
+Before receiving geofence event notifications, you'll need to [set up geofences](/docs/petority/features/fence) in the Petority app.
 
 **Receiving Geofence Event Notifications:**
 
