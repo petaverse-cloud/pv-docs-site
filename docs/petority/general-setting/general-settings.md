@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: General Settings
+title: Types of Settings
 ---
 
 Petority offers a range of general settings that allow you to customize the app according to your preferences and needs. These settings enhance your experience in managing and caring for your pets.

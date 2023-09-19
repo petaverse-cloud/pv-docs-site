@@ -16,7 +16,7 @@ In the notification settings, you can customize your message notifications as fo
 
 + Notification Channels:
 
-	Define how you want to receive notifications.
+	Define how you want to receive notifications. Tap the section to configure various options based on your pet's needs.
 
 	![sound&shake](/img/logo.svg)
 
