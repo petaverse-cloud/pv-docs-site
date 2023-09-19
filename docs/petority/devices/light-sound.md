@@ -3,35 +3,33 @@ sidebar_position: 6
 title: Light and Sound
 ---
 
-# Customizing Petority: Light Settings, Sound Choices, and Personalized Pet Recall
+# Customizing Petority: Light Settings, Sound Choices
 Petority is all about tailoring your pet tracking and monitoring experience to suit your preferences. 
 
 In this comprehensive guide, we'll explore how you can personalize your Petority experience by adjusting **light** settings, selecting **sound types**, and customizing your pet's recall sound. By adjusting these settings, you can better manage and protect your pet.
 
-![Tag light](/img/logo.svg)
+![Tag light](/img/light-sound/Light-and-Sound.jpg)
 
 ## 1.Light Settings: Illuminate Your Pet's Path
 
-![light](/img/logo.svg)
+![light](/img/light-sound/Light.jpg)
 
 Petority's smart pet tag comes with built-in LED lights that not only enhance visibility but also add a touch of style. Here's how to make the most of them:
 
 Light Switch: Petority's tag features a light switch that allows you to control when the lights are on and when they're off. Simply toggle the switch to illuminate your pet's path during nighttime walks or keep it turned off during the day.
 
 ## 2. Sound Choices: Tailoring Audio Cues to Your Liking
-![Sound Settings](/img/logo.svg)
-
 Petority understands that every pet and owner has unique preferences. That's why it offers a selection of sound choices, including the option to customize your pet's recall sound.
 
-**Default Sounds:** The Petority system includes a range of default sounds for pet recall. These are carefully designed to be pet-friendly and attention-grabbing. You can choose from a variety of tones and melodies to suit your pet's preferences.
-
-### Customizing Pet Recall Sound: Make It Your Own
+**Default Sounds:** The Petority system includes a sound for pet recall. This is carefully designed to be pet-friendly and attention-grabbing. 
 
 One of Petority's standout features is the ability to personalize your pet's recall sound. This allows you to use a sound that resonates with your pet and captures their attention effectively. 
 
-[Sound Settings](/img/logo.svg)
+**Customizing Pet Recall Sound: Make It Your Own**
 
 Here's how to do it:
+
+![Sound Settings](/img/light-sound/Audio.gif)
 
 **Step 1:** Access Settings:
 

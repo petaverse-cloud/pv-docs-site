@@ -6,7 +6,7 @@ title: Restore Factory
 # Restore Factory
 Petority devices occasionally require a factory reset to restore them to their original settings.
 
-![Restore factory](/img/logo.svg)
+![Restore factory](/img/restore/Restore-Factory.jpg)
 
 Follow the steps below to perform a factory reset on your Petority device:
 

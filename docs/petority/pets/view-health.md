@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 2
 title: View Pet's Activity
 ---
 
@@ -15,9 +15,9 @@ To view your pet's activity on Petority, follow these steps using the Petority a
 	Tap **Health**.
 3. View Pet Activity:
 
-On the **[Health](/docs/petority/features/health-monitoring)** page, you can see various activity information about your pet, such as step, heart rate, and other activity history.
+	On the **[Health](/docs/petority/features/health-monitoring)** page, you can see various activity information about your pet, such as step, heart rate, and other activity history.
 
-![step](/img/logo.svg)
+	![step](/img/logo.svg)
     
 + Select Time Range:
 

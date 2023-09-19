@@ -24,6 +24,6 @@ Once you've created geofences, you'll automatically start receiving geofence eve
 
 + Click the **End event** button in the notification to stop the related fence event alert.
 
-Managing Geofence Event Notifications,see[Notification Settings](/docs/petority/general-setting/notification)
+Managing Geofence Event Notifications, see [Notification Settings](/docs/petority/general-setting/notification)
 
 Geofence event notifications are a valuable feature that helps you ensure your pet's safety and monitor their whereabouts, especially in areas where they should be supervised or restricted. By setting up and managing geofences effectively, you can have peace of mind and a greater sense of control over your pet's outdoor activities.

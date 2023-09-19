@@ -9,7 +9,7 @@ Unbinding a device in Petority is a straightforward process that allows you to d
 
 Here's a step-by-step guide on how to unbind a device:
 
-![unbinding](/img/logo.svg)
+![unbinding](/img/unbind/Unbind.jpg)
 
 1. Open the Petority App:
 
