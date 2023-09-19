@@ -20,7 +20,7 @@ In the notification settings, you can customize your message notifications as fo
 
 	![sound&shake](/img/logo.svg)
 
-These notifications will appear in the app's [notification](/docs/petority/notifications) center for your convenience.
+These notifications will appear in the app's [notification](/docs/petority/notification/type) center for your convenience.
 
 **Regularly Review Your Settings**
 

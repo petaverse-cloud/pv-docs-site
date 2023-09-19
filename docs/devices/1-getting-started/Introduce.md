@@ -52,7 +52,7 @@ Beyond its aesthetic appeal, Petority device integrates several robust features 
 
   Petority monitors your pet's health, including heart rate. You can monitor your pet's heart rate at any time and promptly detect anomalies.
   
-+ [Fence Setup](/docs/petority/features/fence) and [Alerts](/docs/petority/notifications):
++ [Fence Setup](/docs/petority/features/fence) and [Alerts](/docs/petority/notification/fence-event):
 
     By setting up a virtual fence area, you receive instant notifications if your pet leaves the defined zone, ensuring their safety.
 

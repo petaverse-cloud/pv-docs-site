@@ -37,7 +37,7 @@ Would you like to be alerted when your pet either leaves or enters a certain are
 ![Steps](/img/get-to-know/Instant-Fence-Alerts.jpg)
 
 
-You will receive **[fence event notifications](/docs/petority/notifications)** when your pet enters or exits the defined fence area.
+You will receive **[fence event notifications](/docs/petority/notification/fence-event)** when your pet enters or exits the defined fence area.
 
 By clicking on the alert notification, you can view detailed information about your pet's fence activities.
 
