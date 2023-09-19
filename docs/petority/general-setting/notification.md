@@ -8,20 +8,24 @@ Petority offers a range of notifications and alert types, allowing you to stay i
 ## Configure Message Notifications
 In the notification settings, you can customize your message notifications as follows:
 
-![type](/img/logo.svg)
-
 + Choose Notification Types: 
-	Select the types of notifications you want to receive, such as Battery, Signal, Heart Rate, Fence, Health, and more. Enable or disable each notification type as needed.
+
+	Select the types of notifications you want to receive, such as **Battery**, **Signal**, **Heart Rate**, **Fence**, and more. Enable or disable each notification type as needed.
+
+	![type](/img/logo.svg)
+
 + Notification Channels:
 
 	Define how you want to receive notifications.
 
 	![sound&shake](/img/logo.svg)
 
-Receive notifications through the Petority app. These notifications will appear in the app's [notification](/docs/petority/notifications) center for your convenience.
+These notifications will appear in the app's [notification](/docs/petority/notifications) center for your convenience.
 
 **Regularly Review Your Settings**
 
 It's a good practice to periodically review your notification settings to ensure you're still receiving important information about your pet.
+
+![sound&shake](/img/logo.svg)
 
 Customizing your Petority notification settings allows you to keep your pet safe while avoiding unnecessary distractions. Manage your notifications and alerts based on your needs and priorities.
