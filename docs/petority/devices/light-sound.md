@@ -16,16 +16,20 @@ In this comprehensive guide, we'll explore how you can personalize your Petority
 
 Petority's smart pet tag comes with built-in LED lights that not only enhance visibility but also add a touch of style. Here's how to make the most of them:
 
-Light Switch: Petority's tag features a light switch that allows you to control when the lights are on and when they're off. Simply toggle the switch to illuminate your pet's path during nighttime walks or keep it turned off during the day.
+**Light Switch:** 
+
+Petority's tag features a light switch that allows you to control when the lights are on and when they're off. Simply toggle the switch to illuminate your pet's path during nighttime walks or keep it turned off during the day.
 
 ## 2. Sound Choices: Tailoring Audio Cues to Your Liking
 Petority understands that every pet and owner has unique preferences. That's why it offers a selection of sound choices, including the option to customize your pet's recall sound.
 
-**Default Sounds:** The Petority system includes a sound for pet recall. This is carefully designed to be pet-friendly and attention-grabbing. 
+**Default Sounds:** 
 
-One of Petority's standout features is the ability to personalize your pet's recall sound. This allows you to use a sound that resonates with your pet and captures their attention effectively. 
+The Petority system includes a sound for pet recall. This is carefully designed to be pet-friendly and attention-grabbing. 
 
 **Customizing Pet Recall Sound: Make It Your Own**
+
+One of Petority's standout features is the ability to personalize your pet's recall sound. This allows you to use a sound that resonates with your pet and captures their attention effectively. 
 
 Here's how to do it:
 
