@@ -37,4 +37,4 @@ Petority uses color coding or icons to indicate different heart rate ranges, suc
 ## Set Up Heart Rate Alerts:
 You may have the option to configure heart rate alerts, so you'll [receive notifications](docs/petority/notification/type) if your pet's heart rate becomes abnormal, enabling you to take timely action.
 ## Health Trends:
-The app typically provides insights into your pet's heart rate trends and [historical]((/docs/petority/features/health-monitoring)) data, helping you track their cardiovascular health over time.
+The app typically provides insights into your pet's heart rate trends and [historical](/docs/petority/features/health-monitoring) data, helping you track their cardiovascular health over time.
