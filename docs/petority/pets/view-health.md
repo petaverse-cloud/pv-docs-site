@@ -21,7 +21,7 @@ To view your pet's activity on Petority, follow these steps using the Petority a
     
 + Select Time Range:
 
-	You can choose **different time ranges** to view your pet's activity history. Petority allows you to check activity for the **day**, **week**, **month** or **longer periods**.
+	You can choose **different time ranges** to view your pet's activity history. Petority allows you to check activity for the **day**, **week**, **month**.
 
 **Graphs and Charts:**
 
