@@ -80,4 +80,4 @@ With your device successfully paired and WiFi configured, you can now enjoy real
 
     After association, you'll be able to see the connection status and data of your pet and device within the app.
 
-By following these steps – **pairing the device**, **configuring Wi-Fi**, and **associating your pet** – you can effortlessly utilize the Petority system to **[real-time track](/docs/petority/features/live-tracking)** and **[monitor your pet](/docs/petority/features/health-monitoring)**, ensuring their safety and well-being are in the best of hands. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.
+By following these steps – **pairing the device**, **configuring Wi-Fi**, and **associating your pet** – you can effortlessly utilize the Petority system to **[real-time track](/docs/petority/features/live-tracking)** and **[monitor your pet](/docs/petority/features/health-monitoring)**, ensuring their safety and well-being are in the best of hands. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.🐶🐱🐾
