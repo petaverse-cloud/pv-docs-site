@@ -31,6 +31,6 @@ The app typically provides graphs and charts to visually display your pet's acti
 
 **Notifications:**
 
-![alert](/img/pet/Notifications.jpg)
+![alert](/img/pet/Notification.jpg)
 
 The app also send notifications to help you keep track of your pet's activity and ensure their well-being.
