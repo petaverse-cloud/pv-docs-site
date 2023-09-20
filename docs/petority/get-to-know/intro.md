@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Get to Know
+title: What is Perority?
 ---
 
 #### [Always Close,Never Lost.Track your pet with a Tap!](/img/logo.svg) 
