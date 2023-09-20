@@ -33,7 +33,7 @@ This simulation helps users better understand how the application's features ope
 ### Using Demo Mode
 + Access:
 
-    Users can access Demo Mode easily through the **[Petority app](/docs/petority/intro)** without requiring an active device.
+    Users can access Demo Mode easily through the **[Petority app](/docs/petority/get-to-know/intro)** without requiring an active device.
 + Simulate Scenarios:
 
     Users can simulate a variety of scenarios, such as tracking pet movements or monitoring health data, allowing them to witness the app's functionalities in action.
