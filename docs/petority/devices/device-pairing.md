@@ -43,9 +43,9 @@ Once the app successfully detects your device and establishes a connection, conf
 
 **Troubleshooting:**
 
-[Wondering what to do if the device cannot be scanned?](/docs/petority/devices/FAQs/#2what-to-do-if-the-device-cannot-be-scanned)
+[Wondering what to do if the device cannot be scanned?](/docs/petority/Troubleshooting/FAQs/#2what-to-do-if-the-device-cannot-be-scanned)
 
-[Encountering issues with pairing? Learn what to do if pairing fails.](/docs/petority/devices/FAQs#1what-to-do-if-pairing-fails)
+[Encountering issues with pairing? Learn what to do if pairing fails.](/docs/petority/Troubleshooting/FAQs#1what-to-do-if-pairing-fails)
 ## WiFi Configuration:
 Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi network operates on the **2.4GHz** frequency band.
 
@@ -63,7 +63,7 @@ Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi n
 
 With your device successfully paired and WiFi configured, you can now enjoy real-time tracking and data synchronization for your pet's well-being.
 
-[What to do if the network configuration fails?](/docs/petority/devices/FAQs/#3what-to-do-if-the-network-configuration-fails)
+[What to do if the network configuration fails?](/docs/petority/Troubleshooting/FAQs/#3what-to-do-if-the-network-configuration-fails)
 
 ## Pet Association:
 ![choose pet](/img/pair/Add-Pet.gif)
