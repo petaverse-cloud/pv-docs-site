@@ -30,4 +30,4 @@ Here's a step-by-step guide on how to unbind a device:
 
 	The system will prompt you to confirm whether you want to unbind the device. Once confirmed, the device will be unbound from your pet in the Petority app.
 
-Once you've completed these steps, the device will no longer be associated with your pet. Please note that unbinding a device will result in the deletion of all information and data associated with that device. 
+Once you've completed these steps, the device will no longer be associated with your pet. 

@@ -10,7 +10,7 @@ Here are the steps to perform these actions:
 
 ## Associating a Device with a Pet:
 
-![disassociating](/img/logo.svg)
+![disassociating](/img/pet/Associating.jpg)
 
 1. Open the Petority App:
 
@@ -38,7 +38,7 @@ Here are the steps to perform these actions:
 
 ## Disassociating a Device from a Pet:
 
-![disassociating](/img/logo.svg)
+![disassociating](/img/pet/Disassociating.jpg)
 
 1. Disassociate: 
 

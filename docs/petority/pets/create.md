@@ -8,7 +8,7 @@ Creating a pet profile in the Petority app is an essential step to keep your pet
 
 Here are the simple steps to create a pet profile in the Petority app:
 
-![create](/img/logo.svg)
+![create](/img/pair/Add-Pet.gif)
 
 1. Open the App:
 

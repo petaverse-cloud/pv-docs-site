@@ -7,7 +7,6 @@ title: Editing Pet Profiles
 Keeping your pet's information up-to-date is essential for effective pet management using the Petority app. 
 
 Here's a guide on how to edit the information in your pet's profile:
-![edit]
 
 1. Open the App:
 

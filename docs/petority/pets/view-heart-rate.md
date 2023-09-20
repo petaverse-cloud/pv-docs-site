@@ -22,7 +22,7 @@ Here's a brief guide on how to check your pet's heart rate using Petority:
 
 On **Home** page, you can find information about their [real-time heart rate](/docs/petority/features/realtime-heartrate-monitoring), typically displayed as beats per minute (bpm). allowing you to see your pet's current heart rate at any time.
 
-![heart rate](/img/logo.svg)
+![heart rate](/img/heart/Heart-Rate2.jpg)
 
 **Heart Rate Range Indicators:**
 

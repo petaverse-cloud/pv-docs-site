@@ -26,6 +26,6 @@ Here are the straightforward steps on how to delete a created pet profile in the
 
     Once confirmed, the pet profile and associated data will be permanently deleted from your Petority account.
 
-![delete](/img/logo.svg)
+![delete](/img/pet/Deleting.jpg)
 
 Deleting pet information is irreversible, and all associated data will be removed. Make sure to double-check before proceeding with the deletion.

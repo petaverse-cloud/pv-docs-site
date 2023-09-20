@@ -17,7 +17,7 @@ To view your pet's activity on Petority, follow these steps using the Petority a
 
 	On the **[Health](/docs/petority/features/health-monitoring)** page, you can see various activity information about your pet, such as step, heart rate, and other activity history.
 
-	![step](/img/logo.svg)
+	![step](/img/health/Health.jpg)
     
 + Select Time Range:
 
@@ -27,10 +27,10 @@ To view your pet's activity on Petority, follow these steps using the Petority a
 
 The app typically provides graphs and charts to visually display your pet's activity patterns. You can check details like step count, active time, rest time, and more.
 
-![step](/img/logo.svg)
+![step](/img/get-to-know/Comprehensive-Health-Insights.gif)
 
 **Notifications:**
 
-![alert](/img/logo.svg)
+![alert](/img/pet/Notifications.jpg)
 
 The app also send notifications to help you keep track of your pet's activity and ensure their well-being.
