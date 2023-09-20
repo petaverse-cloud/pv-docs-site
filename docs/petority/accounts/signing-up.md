@@ -10,7 +10,7 @@ Welcome to Petority, your trusted companion in pet care management!
 
 To embark on your pet tracking journey, you'll need to **create a Petority account**. This guide will walk you through the account creation process and provide solutions to common issues you might encounter.
 ## Create an account with an email
-1. [Download](/docs/petority/intro) and open the **Petority** app.
+1. [Download](/docs/petority/get-to-know/intro) and open the **Petority** app.
 2. Enter your email address, ensuring that it's **valid** and **not already registered** with Petority.
 3. Create a secure **password**, which should have at least **8** characters and include both **letters** and **numbers**, avoiding any illegl characters.
 4. Click the **Create account** button.
