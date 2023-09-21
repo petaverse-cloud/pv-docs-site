@@ -7,7 +7,7 @@ title: Notification Types
 
 Petority offers a range of notifications and notification types that allow you to stay informed about your pet's status and device conditions.
 
-![alert](/img/notification/Notification.jpg)
+![alert](/img/notification/Notification(1).jpg)
 
 + **Battery Notification:**
 
