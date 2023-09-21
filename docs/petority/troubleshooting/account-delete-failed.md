@@ -1,3 +1,4 @@
+---
 sidebar_position: 5
 title:  Account Deletion Failed
 ---
