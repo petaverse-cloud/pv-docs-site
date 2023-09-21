@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-title:  Account Deletion Failed
+title: Account Deletion Failed
 ---
 
-What to Do If the Account Deletion Fails:
+# What to Do If the Account Deletion Fails:
 + When deactivating your account, a security verification is required. The application will send a verification code to your registered email address to ensure security.
 + Once you submit the account deletion request, the account enters a 30-day review period. During this time, it cannot be used, and clicking **Keep Account** will cancel the deactivation process.
 
