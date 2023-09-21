@@ -11,19 +11,19 @@ Petority offers users the flexibility to customize the refresh rates for pet loc
 ## Available Refresh Rate Options:
 Petority provides four refresh rate options for updating pet location and health data:
 
-+ 10 Seconds: 
++ **10 Seconds:** 
 
 	For users who require real-time updates and want to monitor their pet's location and health with minimal delay. Please note that this option may consume device battery more quickly due to frequent updates.
 
-+ 30 Seconds: 
++ **30 Seconds:** 
 
 	A balanced option that offers updates every half-minute, suitable for most users' needs. It strikes a good balance between real-time monitoring and battery conservation.
 
-+ 60 Seconds: 
++ **60 Seconds:** 
 
 	Designed for users who prioritize device battery life over very frequent updates. This option updates the data once every minute.
 
-+ 90 Seconds: 
++ **90 Seconds:** 
 
 	Offers longer intervals between updates, suitable for users who want to maximize device battery life and don't require very frequent data updates.
 

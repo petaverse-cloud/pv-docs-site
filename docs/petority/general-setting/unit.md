@@ -15,7 +15,3 @@ Petority allows users to customize their preferred units for various measurement
 + Weight Units:
 
 	Choose your preferred units for weight measurement, like kilograms or pounds.
-
-**Verify Displayed Information:**
-
-Once you've saved your unit preferences, double-check the displayed information within the Petority app to ensure it aligns with your chosen units.

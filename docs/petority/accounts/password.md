@@ -41,11 +41,3 @@ Forgetting your Petority account password doesn't have to be a headache. This gu
     Once verified, you can set a new password for your account, ensuring it meets the necessary security criteria.
 
     ![user update](/img/manage-account/Password-Reset2.gif)
-
-## FAQs
-**Not Receiving the Verification Code?**
-+ Check your junk/spam inbox for the verification email.
-+ Ensure that **noreplay@peteverse.cloud** is marked as an approved sender in your email settings. If not, add it to your whitelist.
-+ If the issue persists despite trying these steps, contact our customer service representatives (available from 9:00 AM to 9:00 PM) for further assistance in troubleshooting and resolving the issue.
-
-By following these user-friendly steps, you can successfully reset your Petority account password and regain access to your account, ensuring your pet care management continues smoothly.

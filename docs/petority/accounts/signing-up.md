@@ -36,14 +36,3 @@ Once verified, you can use it to log in to the Petority app and start accessing 
 ![Third-Party](/img/logo.svg)
   
 Once these steps are completed, you can use your third-party account to log in to the Petority app and access its features.
-
-## FAQs
-### Account Creation Failed:
-1. When creating an account using an email, please select an email address that has not been registered with the Petority App before.
-2. If you find that the email address you are trying to use has already been registered with another account, please try using a different email address for registration or go through the password reset process if you believe you have an existing account.
-3. Ensure that the username and password you enter meet the requirements, such as length, character types, etc. Double-check for any input errors or omissions.
-4. When using third-party login for the Petority App, you will need to authorize the third-party provider to access your account information.
-
-### Still Facing Issues?
-If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue.
-
