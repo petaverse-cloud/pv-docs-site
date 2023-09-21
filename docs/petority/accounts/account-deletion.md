@@ -30,5 +30,5 @@ To delete your Petority account, you can follow these steps:
 ## Recovering Your Account:
 Before proceeding with account deactivation, please carefully review the information provided on the account deletion page to avoid unintended consequences.
 
-![recover account](/img/logo.svg)
+![recover account](/img/manage-account/Recovering.jpg)
 

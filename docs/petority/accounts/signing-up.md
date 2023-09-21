@@ -33,6 +33,6 @@ Once verified, you can use it to log in to the Petority app and start accessing 
 5. After authorization, return to the Petority app; your third-party account is linked.
 6. You may need to provide an email to link your Petority account.
 
-![Third-Party](/img/logo.svg)
+![Third-Party](/img/manage-account/Third-party.jpg)
   
 Once these steps are completed, you can use your third-party account to log in to the Petority app and access its features.
