@@ -18,7 +18,7 @@ Once you've created geofences, you'll automatically start receiving geofence eve
 
 **Ending Fence Event Alerts:**
 
-![End event](/img/logo.svg)
+![End event](/img/notification/Fence-Event.jpg)
 
 + When you receive a fence event alert, you will see an **End event** button displayed within the notification. 
 
