@@ -5,7 +5,7 @@ title: Offline Mode
 
 # Petority's Offline Mode
 
-![offline](/img/logo.svg)
+![offline](/img/get-to-know/Offline-mode.jpg)
 
 Petority will automatically switch to this mode when your internet connection is lost. This means that you can still access your pet's location history and health data, even when your smartphone isn't connected to the internet. Offline Mode ensures that your concern and your pet's safety won't be compromised due to network issues.
 

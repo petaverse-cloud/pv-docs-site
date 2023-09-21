@@ -6,7 +6,7 @@ title: Refresh Rates
 # Setting Petority Refresh Rates
 Petority offers users the flexibility to customize the refresh rates for pet location and health data updates. 
 
-![fren](/img/logo.svg)
+![fren](/img/setting/Refresh-Rates.jpg)
 
 ## Available Refresh Rate Options:
 Petority provides four refresh rate options for updating pet location and health data:
