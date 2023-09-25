@@ -59,7 +59,7 @@ Check whether they're getting sufficient exercise daily.
 
 ![tracking](/img/get-to-know/Tracking.jpg)
 
-**Static/Walking/Running State:**
++ **Static/Walking/Running State:**
 
 | Motion| Color   |
 | ----------- | ----------- |
@@ -67,7 +67,7 @@ Check whether they're getting sufficient exercise daily.
 | Walking |  <li style={{ "color": "#1F8AEC" }}><span style={{ "color": "#000" }}>Blue</span></li> |
 | Running |  <li style={{ "color": "#7A12FF" }}><span style={{ "color": "#000" }}>Purple</span></li> |
 
-**Tracking/Untracking State:**
++ **Tracking/Untracking State:**
 
 | Status| Color   |
 | ----------- | ----------- |
