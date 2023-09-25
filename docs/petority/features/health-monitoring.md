@@ -61,6 +61,12 @@ Check whether they're getting sufficient exercise daily.
 
 | Sates| Color   |
 | ----------- | ----------- |
+|  Static    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+| Walking |  <li style={{ "color": "1F8AEC" }}><span style={{ "color": "#000" }}>Blue</span></li> |
+| Running |  <li style={{ "color": "7A12FF" }}><span style={{ "color": "#000" }}>Purple</span></li> |
+
+| Sates| Color   |
+| ----------- | ----------- |
 |  Tracking    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
 | Untracking |  <li style={{ "color": "#C1C5C9" }}><span style={{ "color": "#000" }}>Grey</span></li> |
 
