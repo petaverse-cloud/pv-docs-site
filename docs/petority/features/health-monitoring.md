@@ -57,7 +57,7 @@ By having access to their heart rate data, you can promptly detect any irregular
 ### Tracking
 Check whether they're getting sufficient exercise daily.
 
-![tracking](/img/logo.svg)
+![tracking](/img/get-to-know/Tracking.jpg)
 
 | Sates| Color   |
 | ----------- | ----------- |

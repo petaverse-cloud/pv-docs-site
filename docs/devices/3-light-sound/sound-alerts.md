@@ -11,6 +11,6 @@ Petority devices trigger an **[Automatic Recall](/docs/petority/devices/light-so
 
 When a pet ventures outside the predefined safe zone, Petority devices emit a distinct sound alert pattern to signal the occurrence.
 
-![Fence alert](/img/logo.svg)
+![fence](/img/get-to-know/Instant-Fence-Alerts.jpg)
 
 The integration of sound alerts and automatic recall functions in Petority devices provides timely warnings and measures when a pet leaves the safe zone. This comprehensive approach helps ensure the pet's safety, offering owners peace of mind as they effectively manage and care for their cherished companions.
