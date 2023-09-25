@@ -8,7 +8,7 @@ Petority is committed to offering pet owners a range of high-quality hardware de
 
 From material quality and size to functionality and advantages, let's delve into the remarkable aspects of Petority device.
 
-![device](/img/logo.svg)
+![device](/img/devices/device.png)
 
 ## Material:
 
