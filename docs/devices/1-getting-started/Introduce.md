@@ -12,7 +12,7 @@ From material quality and size to functionality and advantages, let's delve into
 
 ## Material:
 
-![Material](/img/devices/material.png)
+![Material](/img/devices/material.gif)
 
 The Petority device is crafted from high-quality, durable materials that are safe for your pets. 
 The outer casing is designed to withstand everyday wear and tear, ensuring the device's longevity and reliability.
@@ -22,8 +22,8 @@ Petority device boasts carefully selected materials for comfort and durability. 
 
 | Device  | Size | Weight |
 | ----------- | ----------- | ----------- |
-| ![Docker](/img/logo.svg) Docker | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
-| ![Tag](/img/logo.svg) Tag | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
+| ![Docker](/img/devices/docker.png) Docker | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
+| ![Tag](/img/devices/tag.png) Tag | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
 
 + Ensuring a compact and unobtrusive presence on your pet.
 
@@ -32,9 +32,6 @@ Petority device boasts carefully selected materials for comfort and durability. 
 + Recommended for dogs above **18** kg (**40** lbs).
 
 ## Appearance:
-
-![Appearance](/img/logo.svg)
-
 + The Petority device features a sleek and minimalist design. It is **small** and **unobtrusive**, ensuring that your pets can wear it comfortably without feeling burdened. The device is available in **various** colors, allowing you to choose the one that best suits your pet's style.
 
 + Whether attached to a collar, harness, or other pet accessories, the Petority device's unassuming appearance ensures that your pet's comfort and style are not compromised.
