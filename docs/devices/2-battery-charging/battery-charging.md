@@ -40,7 +40,7 @@ The Docker is equipped with an LED indicator light that displays the charging st
 
 Charging Status Indicator Colors:
 
-| Charging Status      | Lingh Color |
+| Charging Status      | Light Color |
 | ----------- | ----------- |
 | Battery Low | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>       |
 | Charging | <li style={{ "color": "#FFA500" }}><span style={{ "color": "#000" }}>Orange</span></li>        |

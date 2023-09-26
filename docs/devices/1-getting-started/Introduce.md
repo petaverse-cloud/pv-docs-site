@@ -20,10 +20,10 @@ The outer casing is designed to withstand everyday wear and tear, ensuring the d
 ## Dimensions:
 Petority device boasts carefully selected materials for comfort and durability. Here are the key details:
 
-| Device  |  Illustration  | Size | Weight |
-| ----------- |----------- | ----------- | ----------- |
-| Docker | ![Docker](/img/devices/docker.png) | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
-| Tag  | ![Tag](/img/devices/tag.png) | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
+| Device  |  Illustration  | Color | Size | Weight |
+| ----------- |----------- | ----------- | ----------- | ----------- |
+| **Docker** | ![Docker](/img/devices/docker.png) | ![color](/img/devices/color.png) | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
+| **Tag**  | ![Tag](/img/devices/tag.png) |![color](/img/devices/color.png) White Black | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
 
 + Ensuring a compact and unobtrusive presence on your pet.
 
