@@ -20,10 +20,10 @@ The outer casing is designed to withstand everyday wear and tear, ensuring the d
 ## Dimensions:
 Petority device boasts carefully selected materials for comfort and durability. Here are the key details:
 
-| Device  | Size | Weight |
-| ----------- | ----------- | ----------- |
-| ![Docker](/img/devices/docker.png) Docker | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
-| ![Tag](/img/devices/tag.png) Tag | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
+| Device  |  Illustration  | Size | Weight |
+| ----------- |----------- | ----------- | ----------- |
+| Docker | ![Docker](/img/devices/docker.png) | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
+| Tag  | ![Tag](/img/devices/tag.png) | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
 
 + Ensuring a compact and unobtrusive presence on your pet.
 
@@ -31,7 +31,8 @@ Petority device boasts carefully selected materials for comfort and durability. 
 
 + Recommended for dogs above **18** kg (**40** lbs).
 
-## Appearance:
+**Appearance:**
+
 + The Petority device features a sleek and minimalist design. It is **small** and **unobtrusive**, ensuring that your pets can wear it comfortably without feeling burdened. The device is available in **various** colors, allowing you to choose the one that best suits your pet's style.
 
 + Whether attached to a collar, harness, or other pet accessories, the Petority device's unassuming appearance ensures that your pet's comfort and style are not compromised.
