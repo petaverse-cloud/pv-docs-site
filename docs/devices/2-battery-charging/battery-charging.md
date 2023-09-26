@@ -43,7 +43,7 @@ Charging Status Indicator Colors:
 | Charging Status      | Lingh Color |
 | ----------- | ----------- |
 | Battery Low | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>       |
-| Charging | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Orange</span></li>        |
+| Charging | <li style={{ "color": "#FFA500" }}><span style={{ "color": "#000" }}>Orange</span></li>        |
 | Charging Complete | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   |
 
 **Tips:**
