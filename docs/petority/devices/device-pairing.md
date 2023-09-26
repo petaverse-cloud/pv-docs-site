@@ -41,7 +41,7 @@ Follow these steps to pair your device:
 
 Once the app successfully detects your device and establishes a connection, confirm the Pairing on both the app and the device itself.
 
-**troubleshooting:**
+**Troubleshooting:**
 
 [Wondering what to do if the device cannot be scanned?](/docs/petority/troubleshooting/device-pairing)
 

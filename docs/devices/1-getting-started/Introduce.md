@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Introduce
+title: Premium Design and Powerful Features
 ---
 
 # Premium Design and Powerful Features
