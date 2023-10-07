@@ -23,7 +23,7 @@ Here's how you can easily check the battery status:
     
    On the **Home** page, you can see your Docker & Tag along with their respective battery percentages displayed.
 
-    ![battery](/img/battery/home-battery.gpg)
+    ![battery](/img/battery/home-battery.jpg)
 
     On the **Map** page, select the icon corresponding to the Pet's Docker & Tag you wish to check.
 
