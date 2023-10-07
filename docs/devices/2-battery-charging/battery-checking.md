@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Check the battery 
+title: Battery Checking
 ---
 
 # How to Check the Battery Level of Petority Docker & Tag

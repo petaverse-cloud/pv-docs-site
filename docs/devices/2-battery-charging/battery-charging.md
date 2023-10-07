@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Charging Docker and Tag
+title: Battery Charging
 --- 
 
 # Charging Docker and Tag
