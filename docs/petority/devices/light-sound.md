@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Light and Sound
+title: Light & Sound
 ---
 
 # Customizing Petority: Light Settings, Sound Choices
