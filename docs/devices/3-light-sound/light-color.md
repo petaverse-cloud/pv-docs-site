@@ -12,7 +12,7 @@ Here's a breakdown of the various device statuses, their corresponding light col
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
 | ----------- | ----------- |----------- |----------- |
-| **Normal Operation**	  | ![color](/img/logo.svg)      | ![color](/img/logo.svg)      |  Device is functioning normally.     | 
+| **Normal Operation**	  | ![color](/img/logo.svg)      | ![color](/img/logo.svg)      |  Device is functioning normally.     |
 | **Charging**     | ![color](/img/logo.svg)       |  ![color](/img/logo.svg)     |  Device is currently charging.      | 
 | **Charging Complete**	  | ![color](/img/logo.svg)         | ![color](/img/logo.svg)        |  Device has completed charging.      | 
 | **Low Battery**  | ![color](/img/logo.svg)      | ![color](/img/logo.svg)     |  Device battery is running low.      | 

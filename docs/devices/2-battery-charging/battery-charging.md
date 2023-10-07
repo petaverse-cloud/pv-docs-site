@@ -6,13 +6,11 @@ title: Charging Docker and Tag
 # Charging Docker and Tag
 To charge or activate your tag, the Tag must sit in the indention on the top side of your Petority Docker and access to electricity.
 
-![charge](/img/logo.svg)
-
 The Petority device takes **3** hours to charge from 0 to 100%. We'll send a reminder at **10%** to recharge. See: Alerts & Notifications]
 
 ## Charging the Tag:
 
-![charge](/img/logo.svg)
+![charge](/img/battery/charging-tag.gif)
 
 + Place the Tag on the top shell of the Docker:
 Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
@@ -28,7 +26,7 @@ Once the Tag is fully charged, the indicator light will stop blinking and remain
 
 ## Charging the Docker:
 
-![charge](/img/logo.svg)
+![charge](/img/battery/charging-docker.gif)
 
 + Connect the Docker to a Power Source:
 
