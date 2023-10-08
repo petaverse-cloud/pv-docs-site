@@ -3,9 +3,9 @@ sidebar_position: 1
 title: Device Status & Light Color
 ---
 
-# Understanding Petority Device Light Colors and Behaviors
+# Petority Device Light Colors and Behaviors
 The Petority device comes with a range of helpful light colors and behaviors that provide valuable insights into its current status and operation. These visual indicators help users easily understand how their device is functioning, enhancing the overall user experience.
-## Device Status Overview:
+
 Here's a breakdown of the various device statuses, their corresponding light colors, and the associated light behaviors:
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
