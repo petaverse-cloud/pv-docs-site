@@ -12,12 +12,12 @@ Here's a breakdown of the various device statuses, their corresponding light col
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
 | ----------- | ----------- |----------- |----------- |
-| **Normal Operation**	  | ![color](/img/logo.svg)      | ![color](/img/logo.svg)      |  Device is functioning normally.     |
-| **Charging**     | ![color](/img/logo.svg)       |  ![color](/img/logo.svg)     |  Device is currently charging.      | 
-| **Charging Complete**	  | ![color](/img/logo.svg)         | ![color](/img/logo.svg)        |  Device has completed charging.      | 
-| **Low Battery**  | ![color](/img/logo.svg)      | ![color](/img/logo.svg)     |  Device battery is running low.      | 
-| **Pairing**  | ![color](/img/logo.svg)     | ![color](/img/logo.svg)       |  Device is in pairing mode.    | 
-| **Weak Lora or GPS Signal**	  | ![color](/img/logo.svg)       | ![color](/img/logo.svg)      | Weak Lora or GPS signal, data updates might be delayed.    | 
-| **No Lora or GPS Signal**	  | ![color](/img/logo.svg)       | ![color](/img/logo.svg)      |  No Lora or GPS signal, device is in offline mode.    | 
+| **Normal Operation**	  | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   | Constantly illuminated.   |  Device is functioning normally.     |
+| **Low Battery**  | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>   | Constantly illuminated.    |  Device battery is running low.      | 
+| **Charging**     | <li style={{ "color": "#FFA500" }}><span style={{ "color": "#000" }}>Orange</span></li>  | Constantly illuminated.   |  Device is currently charging.      | 
+| **Charging Complete**	  | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   | Constantly illuminated. |  Device has completed charging.      | 
+| **Pairing**  | <li style={{ "color": "#FFA500" }}><span style={{ "color": "#000" }}>Orange</span></li>  <li style={{ "color": "##FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li>    | Repeating every 4 seconds.   |  Device is in pairing mode.    | 
+| **Signal abnormality**	  | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>  | Flashing rapidly every two seconds. | Offline mode (when both BLE and WiFi are disconnected). Lora signal abnormality (long distance or disconnection). | 
 
 These light colors and behaviors help users understand the current status and operation of the Petority device, facilitating better management and usage.
+
