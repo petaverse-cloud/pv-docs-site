@@ -10,12 +10,12 @@ Here's a breakdown of the various device statuses, their corresponding light col
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
 | ----------- | ----------- |----------- |----------- |
-| Normal Operation  | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   | Constantly illuminated.   |  Petority is functioning normally.     |
-| Low Battery | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>   | Constantly illuminated.    |  Petority's battery is running low.      | 
-| Charging   | <li style={{ "color": "#FFA500" }}><span style={{ "color": "#000" }}>Orange</span></li>  | Constantly illuminated.   |  Petority is currently charging.   | 
-| Charging Complete  | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   | Constantly illuminated. |  Petority has completed charging.      | 
-| Pairing | <li style={{ "color": "#FFA500" }}><span style={{ "color": "#000" }}>Orange</span></li>  <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li>    | Repeating every 4 seconds.   |  Petority is in pairing mode.    | 
-| Signal abnormality | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>  | Flashing rapidly every two seconds. | Offline mode. Lora signal abnormality. | 
+| Normal Operation  | ![battery](/img/device/green.png) | Constantly illuminated.   |  Petority is functioning normally.     |
+| Low Battery | ![battery](/img/device/red.png) | Constantly illuminated.    |  Petority's battery is running low.      | 
+| Charging   | ![battery](/img/device/orange.png)  | Constantly illuminated.   |  Petority is currently charging.   | 
+| Charging Complete  | ![battery](/img/device/green.png)  | Constantly illuminated. |  Petority has completed charging.      | 
+| Pairing | ![battery](/img/device/gradual-change.png)  | Gradual Transition.   |  Petority is in pairing mode.    |
+| Signal abnormality | ![battery](/img/device/red.png)  | Flashing. | Offline mode. Lora signal abnormality. | 
 
 These light colors and behaviors help users understand the current status and operation of the Petority device, facilitating better management and usage.
 
