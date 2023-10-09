@@ -4,9 +4,6 @@ title: Tracking Range
 ---
 
 # How Far Can It Track My Dog?
-
-**With a Petority, as long as your dog is in the United States, there is GPS and cellular (LTE) coverage, there is no limit on how far Petority can track your pet!**
-
 Petority offers a reliable tracking solution to help you keep tabs on your furry friend, but the tracking range can vary based on factors like network coverage and terrain. Here's what you need to know about the tracking range of Petority:
 
 + GPS and Network Coverage:
