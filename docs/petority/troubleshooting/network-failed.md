@@ -23,7 +23,7 @@ Most routers available in the market are dual-band routers, offering both 2.4GHz
 + If your network has no password, you can leave the password field empty and simply click on "Connect" to start the connection process.
 
 ## 3.What to do if the network configuration fails?
-### Attempting to use your mobile hotspot to set up the device:
+**Attempting to use your mobile hotspot to set up the device:**
 + Check the password length for your mobile hotspot; it should not exceed 15 characters.
 + Ensure that your mobile hotspot has no restrictions on the number of connected devices. For iOS 12.0 and above on Apple devices, enable "Maximize Compatibility." For Android devices, set the "Maximum Connections" to a value greater than 1.
 + Avoid using special symbols in the password for the mobile hotspot.
@@ -34,7 +34,6 @@ Most routers available in the market are dual-band routers, offering both 2.4GHz
 Choose a stable mobile network (mobile hotspot) for the setup to avoid issues with weak signal or low network speed that may prevent device connection.
 
 **If the above steps are not effective, check the WiFi router settings:**
-
 + Verify that the router settings have not been modified (enable 2.4GHz WiFi frequency, do not hide WiFi or enable anti-spoofing features).
 + Make sure the WiFi is set to the 2.4GHz frequency band. Reconnect using the mobile hotspot to attempt the setup again.
 + Restart the router and try the setup again.

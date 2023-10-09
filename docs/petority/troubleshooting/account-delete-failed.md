@@ -12,5 +12,6 @@ Once you submit the account deletion request, the account enters a 30-day review
 + After submitting a request for account deactivation, it generally takes 30 days for the review process. During this period, you have the option to restore the account, canceling the deactivation request and regaining access. You can attempt account recovery on the login page.
 + After the review is completed and approved, the account will be deactivated successfully, and all data will be permanently deleted, making recovery impossible.
 
-## Contact Support:
+**Contact Support:**
+
 If you have tried the above methods and still cannot register, reach out to Petority's customer support team. They can provide further assistance and support. Ways to Contact Us: help@petority.net.
