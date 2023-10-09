@@ -15,7 +15,8 @@ Here's a comprehensive overview of the Petority general settings:
 4. [Unit Preferences:](/docs/petority/general-setting/unit)
 5. [Log Out of Your Account:](/docs/petority/accounts/logout)
 
-## Accessing General Settings:
+**Accessing General Settings:**
+
 1. Open the Petority App: 
 
     Download and open the Petority app, and ensure you are logged into your account.

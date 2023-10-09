@@ -20,8 +20,6 @@ Tap **User** > **Settings**.
 
 **Step 4:** Enable Message Notifications
 
-Within the settings, you'll find options related to message notifications. 
+You can enable or disable various notification types, such as **battery**, **signal**, **[geofence](/docs/petority/notification/fence-event)**, and more, based on your preferences.
 
-You can enable or disable various notification types, such as **battery**, **signal**, **geofence**, and more, based on your preferences.
-
-By following these steps, you have successfully enabled message notifications in Petority. You will now receive timely updates about your pet and device, ensuring that you stay connected and informed. Customize your notification settings as needed to suit your preferences and requirements, and enjoy peace of mind knowing you're always in the loop.
+Customize your notification settings as needed to suit your preferences and requirements, and enjoy peace of mind knowing you're always in the loop.
