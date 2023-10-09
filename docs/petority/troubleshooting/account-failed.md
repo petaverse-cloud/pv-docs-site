@@ -13,4 +13,4 @@ If you encounter issues while trying to register for a Petority account, this gu
 
 **Contact Support:**
 
-If you have tried the above methods and still cannot register, reach out to Petority's customer support team. They can provide further assistance and support.
+If you have tried the above methods and still cannot register, reach out to Petority's customer support team. They can provide further assistance and support. Ways to Contact Us: help@petority.net.

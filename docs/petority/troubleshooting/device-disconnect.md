@@ -36,6 +36,6 @@ Attempt to reconnect the device promptly to ensure that your pet's location info
 	Restart your Petority device and your smartphone to refresh their connections.
 7. Contact Support:
 
-	If the problem persists, reach out to Petority customer support for further assistance. They can provide specialized guidance and help you troubleshoot any technical issues.
+	If the problem persists, reach out to Petority customer support for further assistance. They can provide specialized guidance and help you troubleshoot any technical issues. Ways to Contact Us: help@petority.net.
 
 Thank you for your care and concern for your pet. We are committed to providing you with the best pet protection service! 🐶🐱🐾
