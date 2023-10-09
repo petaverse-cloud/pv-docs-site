@@ -7,10 +7,10 @@ title: Network Configuration Failed
 ## 1.What if the router is a 5GHz network?
 Most routers available in the market are dual-band routers, offering both 2.4GHz and 5GHz WiFi frequencies. To connect to the 2.4GHz network, select a network without the "5G" suffix.
 
-+ If you haven't modified your WiFi name:**
++ If you haven't modified your WiFi name:
 
     Check the WiFi list on your phone. Networks with names like "XXX-5G" indicate 5GHz WiFi, while networks without the "5G" suffix are 2.4GHz WiFi.
-+ If you have modified your WiFi name:**
++ If you have modified your WiFi name:
 
     Access your router's management page or use the router's companion app to view the SSID (network name). It will indicate whether it is 5GHz by displaying "5G" in the name.
 
