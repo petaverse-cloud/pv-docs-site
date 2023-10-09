@@ -11,6 +11,5 @@ If you encounter issues while trying to register for a Petority account, this gu
 3. Ensure that the username and password you enter meet the requirements, such as length, character types, etc. Double-check for any input errors or omissions.
 4. When using third-party login for the Petority App, you will need to authorize the third-party provider to access your account information.
 
-**Contact Support:**
-
+## Contact Support:
 If you have tried the above methods and still cannot register, reach out to Petority's customer support team. They can provide further assistance and support. Ways to Contact Us: help@petority.net.
