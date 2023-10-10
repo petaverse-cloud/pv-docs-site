@@ -57,7 +57,7 @@ The platform reserves the right to change this Agreement at any time. Any change
 
 ## Contact Us:
 
-If you have any concerns or questions about this Agreement or the account deletion process, please contact our customer support.
+If you have any concerns or questions about this Agreement or the account deletion process, please contact our customer support. Ways to Contact Us: help@petority.net.
 
 ## Acceptance of Agreement:
 
