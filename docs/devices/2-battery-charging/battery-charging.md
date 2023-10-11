@@ -13,16 +13,19 @@ The Petority device takes **3** hours to charge from 0 to 100%. We'll send a r
 ![charge](/img/battery/charging-tag.gif)
 
 + Place the Tag on the top shell of the Docker:
-Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
 
+	Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
 + Connect the Docker to a Power Source:
-Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
+
+	Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
 
 + Charging Indicator Light:
-The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Tag is charging, while a green light indicates that the Docker's battery is fully charged.
 
-Wait for Charging Completion:
-Once the Tag is fully charged, the indicator light will stop blinking and remain green.
+	The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Tag is charging, while a green light indicates that the Docker's battery is fully charged.
+
++ Wait for Charging Completion:
+
+	Once the Tag is fully charged, the indicator light will stop blinking and remain green.
 
 ## Charging the Docker:
 
@@ -30,11 +33,11 @@ Once the Tag is fully charged, the indicator light will stop blinking and remain
 
 + Connect the Docker to a Power Source:
 
-Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
+	Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
 
 + Charging Indicator Light:
 
-The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Docker is charging, while a green light indicates that the Docker's battery is fully charged.
+	The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Docker is charging, while a green light indicates that the Docker's battery is fully charged.
 
 Charging Status Indicator Colors:
 
