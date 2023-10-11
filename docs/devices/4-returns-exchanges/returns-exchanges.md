@@ -6,11 +6,11 @@ title: Return Policy
 # What is Petority's Return Policy?
 At Petority, we are committed to ensuring you have a delightful experience with our products. In the event that your device or our application encounters technical difficulties, we are eager to have the opportunity to address the issue. If you have any questions or feedback, please reach out to our support team. However, if you still wish to proceed with a return, please refer to the information below for details on how our return policy operates.
 
-+ Petority.net Purchases:
++ **Petority.net Purchases:**
 
-	If you purchased your Petority smart device on Petority.net and are dissatisfied, you have the option to return the smart device within 30 days from the date of purchase.
+	If you purchased your Petority smart device on Petority.net and are dissatisfied, you have the option to return the smart device within **30 days** from the date of purchase.
 
-+ Amazon or Other Authorized Dealers:
++ **Amazon or Other Authorized Dealers:**
 
 	If you made your purchase through an authorized dealer such as Amazon, the return of your Petority tracker is subject to the seller's return policy. Please adhere to the dealer's policies regarding returns.
 
