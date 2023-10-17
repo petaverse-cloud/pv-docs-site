@@ -85,7 +85,7 @@ Personalizing your pet's recall sound has several benefits:
 
     Based on your preferences and needs, enable/disable pet tag light and sound settings.
     
-### Tips:
+## Tips:
 + Choose sound effects and light settings that match your pet's personality and habits.
 + Use sound effects appropriately to avoid unnecessary disturbances, considering the time and environment.
 + When using the pet tag light in low-light conditions, ensure it doesn't hinder your pet's visibility or activities.
