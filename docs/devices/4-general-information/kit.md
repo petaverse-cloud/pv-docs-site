@@ -21,6 +21,8 @@ title: Petority Kit
 
 	Petority provides a warranty for your kit, ensuring peace of mind and support for any unforeseen issues.
 
+![kit](/img/logo.svg)
+
 ## Usage Guidelines:
 
 1. [Docker and Tag Placement:](/docs/devices/getting-started/attaching)
