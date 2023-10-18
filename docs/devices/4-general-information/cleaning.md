@@ -6,18 +6,22 @@ title: Cleaning Guide
 # Petority Device and Collar Cleaning Guide
 ## Collar Cleaning:
 1. Sink Cleaning:
+
 	Use warm water and a cleaning agent to clean the strap. Place the strap in a mesh bag and wash it in warm water with a gentle detergent to ensure thorough cleaning.
 
 2. Air Drying:
+
 	Allow the strap to air dry in a well-ventilated area to ensure complete dryness before re-wearing.
 
 ## Petority Device Cleaning:
-Petority Tag waterproof rating is IP**67**, Petority Docker waterproof rating is IP**53**, but they are not suitable for washing machines. Please use the following methods:
+Petority Tag waterproof rating is IP **67**, Petority Docker waterproof rating is IP **53**, but they are not suitable for washing machines. Please use the following methods:
 
 1. Magic Eraser Cleaning:
+
 	For slight wear or marks, it is recommended to gently wipe the Tag with a magic eraser. Avoid using alcohol to clean the module to prevent damage.
 
 2. Module Rinse:
+
 	If there is excess dirt, place the module in the sink and rinse it with water. Ensure the device is off and disconnected from the power source to prevent water from entering charging ports or other interfaces.
 
 ### Precautions:

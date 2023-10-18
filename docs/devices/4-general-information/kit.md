@@ -22,7 +22,7 @@ Petority Kit Contents:
 1. [Docker and Tag Placement:](/docs/devices/getting-started/attaching)
 	Attach the Docker and Tag securely to the necktie for optimal performance and tracking accuracy.
 
-2. [Charging the Docker and Tag:](/docs/devices/getting-started/battery-charging) 
+2. [Charging the Docker and Tag:](/docs/devices/battery-charging/battery-charging) 
 	When the Docker Tag needs charging, use the provided USB charging cable. Ensure the device is powered off during charging.
 
 3. Warranty: Refer to the warranty documentation for details on coverage and procedures in case of any issues.
@@ -33,7 +33,7 @@ Petority Kit Contents:
 ### Important Notes:
 
 + Water Resistance: 
-	The Docker is rated IP**53**, The Tag is rated IP**67**, providing water resistance. However, avoid submerging it in water to prevent potential damage.
+	The Docker is rated IP **53**, The Tag is rated IP **67**, providing water resistance. However, avoid submerging it in water to prevent potential damage.
 
 + Charging Safety: 
 	Use only the provided USB charging cable to ensure safe and efficient charging.
