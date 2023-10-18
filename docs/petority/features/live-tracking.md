@@ -84,7 +84,7 @@ Additionally, you can also check the **status** of your **device**, including it
 
 You can also tap on the icon in the bottom right-hand corner of the map, to zoom to different locations:
 
-![icon](/img/map/bottom.jpg)
+![icon](/img/map/botton.jpg)
 
 Each time you tap the icon, a different view will be shown:
 
