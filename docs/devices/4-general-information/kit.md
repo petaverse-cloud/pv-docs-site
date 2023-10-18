@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Petority Kit
 ---
 
-Petority Kit Contents:
+## Petority Kit Contents:
 
 1. Docker and Tag: 
 
