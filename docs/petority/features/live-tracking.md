@@ -92,7 +92,7 @@ Each time you tap the icon, a different view will be shown:
 | ----------- | ----------- |----------- |
 | ![N_icon](/img/map/map-north.png) | **Map North**| Clicking this icon helps you maintain a clear sense of direction, orienting the map according to north. |
 | ![L_icon](/img/map/user.png) | **Zoom to User**| This option centers the map on your mobile device's current location, keeping you at the center of the map.|
-| ![L_icon](/img/map/user-north.png) | **user orientation**| This option typically refers to a set of features designed to assist users in understanding directions and navigating their surroundings more effectively. .|
+| ![L_icon](/img/map/user-north.png) | **user orientation**| This option typically refers to a set of features designed to assist users in understanding directions and navigating their surroundings more effectively. |
 | ![f_icon](/img/map/refresh.png) | **Map Refresh Frequency**| This feature allows you to determine how often the application fetches the latest location data from your pet's device and updates it on the map.You can adjust the refresh frequency based on your preferences to balance real-time updates with battery conservation and data usage. |
 
 **If you are unable to see your or your pet current location, please try the following troubleshooting tips:**
