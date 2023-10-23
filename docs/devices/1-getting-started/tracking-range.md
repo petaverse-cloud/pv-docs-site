@@ -4,7 +4,9 @@ title: Tracking Range
 ---
 
 # How Far Can It Track My Dog?
-Petority offers a reliable tracking solution to help you keep tabs on your furry friend, but the tracking range can vary based on factors like network coverage and terrain. Here's what you need to know about the tracking range of Petority:
+Petority offers a reliable tracking solution to help you keep tabs on your furry friend, but the tracking range can vary based on factors like network coverage and terrain. 
+
+Here's what you need to know about the tracking range of Petority:
 
 + GPS and Network Coverage:
 
@@ -22,4 +24,4 @@ Petority offers a reliable tracking solution to help you keep tabs on your furry
   
     It's important to note that while Petority offers a considerable tracking range, the actual distance can be influenced by the factors mentioned above. Always ensure that your pet's collar or tag has a clear line of sight to the sky to receive optimal GPS signals.
 
-**Petority is designed to help you track your dog's location effectively, providing you with peace of mind whether your pet is nearby or exploring a bit farther from home.**
+Petority is designed to help you track your dog's location effectively, providing you with peace of mind whether your pet is nearby or exploring a bit farther from home.
