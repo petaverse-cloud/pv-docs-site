@@ -30,4 +30,4 @@ Once you submit the account deletion request, the account enters a **30-day** re
 
 **Contact Support:**
 
-If you have tried the above methods and still cannot register, reach out to Petority's customer support team. They can provide further assistance and support. Ways to Contact Us: help@petority.net.
+If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.
