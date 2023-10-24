@@ -7,9 +7,7 @@ title: Sound Alerts
 
 **Sound Alerts:**
 
-Petority devices trigger an **[Automatic Recall](/docs/petority/devices/light-sound)** function. This function is pre-configured to guide the pet back within the safety confines of the designated area.
-
-When a pet ventures outside the predefined safe zone, Petority devices emit a distinct sound alert pattern to signal the occurrence.
+Petority devices trigger an **[Automatic Recall](/docs/petority/devices/light-sound)** function. This function is pre-configured to guide the pet back within the safety confines of the designated area.When a pet ventures outside the predefined safe zone, Petority devices emit a distinct sound alert pattern to signal the occurrence.
 
 ![fence](/img/get-to-know/Instant-Fence-Alerts.jpg)
 

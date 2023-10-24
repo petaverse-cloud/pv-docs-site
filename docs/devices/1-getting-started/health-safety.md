@@ -12,7 +12,7 @@ Petority is specifically designed for pets, meticulously crafted to ensure comfo
 
 + Health-Friendly Materials:
 
-    We select materials that are compatible with pets' skin to prevent allergies or irritations. These materials undergo rigorous testing to meet health and safety standards.
+    We select materials that are [compatible with pets' skin](/docs/devices/getting-started/Introduce) to prevent allergies or irritations. These materials undergo rigorous testing to meet health and safety standards.
 
 + Harmless Design:
 
@@ -20,7 +20,7 @@ Petority is specifically designed for pets, meticulously crafted to ensure comfo
 
 + Lightweight:
 
-    The Petority is designed to be lightweight, preventing any unnecessary burden on pets. Whether it's a small dog or a large cat, the hardware is easy to wear, allowing pets to move freely.
+    The Petority is designed to be lightweight, preventing any unnecessary burden on pets. Whether it's a small dog or a large dog, the hardware is easy to wear, allowing pets to move freely.
 
 + Ergonomics:
 

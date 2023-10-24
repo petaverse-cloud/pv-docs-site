@@ -11,13 +11,13 @@ Petority offers a range of notifications and notification types that allow you t
 
 + **Battery Notification:**
 
-    When your Petority device's battery is running low, you will receive a notification to ensure you can charge the device promptly.
+    When your Petority device's battery is running low(Below **10%** or automatic **shutdown**), you will receive a notification to ensure you can charge the device promptly.
 + **Signal Notification:**
 
     In case your Petority device loses connection or experiences weak signal, you'll be notified about the signal status to keep you informed about the device's connectivity.
 + **Heart Rate Notification:**
 
-    Petority can monitor your pet's heart rate. You can set up heart rate notifications to receive alerts in case of abnormal heart rates, enabling you to take timely action.
+    Petority can monitor your pet's heart rate. You can set up [heart rate notifications](/docs/petority/notification/enable-nitif) to receive alerts in case of abnormal heart rates, enabling you to take timely action.
 + **[Geofence Notification:](/docs/petority/notification/fence-event)**
 
     If you've set up a geofence (safe zone), you'll receive notifications when your pet enters or exits the defined area, ensuring you're always aware of your pet's location.

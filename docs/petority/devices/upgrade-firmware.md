@@ -25,7 +25,7 @@ Follow these steps to upgrade your Petority device:
 
 **Step 3:** Download and Install
 
-**If an update is available, follow the prompts to download and install it.**
+If an update is available, follow the prompts to download and install it.
 
 + Make sure your device is connected to a stable Wi-Fi network during this process to ensure a smooth download.
 + Place your device as close to your phone as possible.

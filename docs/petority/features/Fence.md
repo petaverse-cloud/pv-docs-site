@@ -44,6 +44,8 @@ By clicking on the alert notification, you can view detailed information about y
 ## Editing and Deleting Fences:
 If you need to modify your fence's boundaries or other parameters, simply follow these steps:
 
+![Editing and Deleting](/img/fence/Fence2.jpg)
+
 1. Open the Petority app and **log in** to your account.
 2. Tap **User**> **Fence**.
 3. Tap **Edit**.
@@ -51,8 +53,6 @@ If you need to modify your fence's boundaries or other parameters, simply follow
     For editing, make the necessary adjustments to the fence's shape or boundaries, and then save the updated fence settings.
   
     For deletion, you can choose to remove the fence. Keep in mind that deleting a fence will also clear any associated data related to it.
-
-![Editing and Deleting](/img/fence/Fence2.jpg)
 
 If you no longer require a specific fence, you can choose to turn off the fence switch.
 

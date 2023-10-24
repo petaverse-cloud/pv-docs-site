@@ -4,7 +4,7 @@ title: Demo Mode
 ---
 
 # Petority's Demo Mode
-Petority's **Demo Mode** is a specialized feature that allows users **to experience the application's functionalities using simulated data, without the need for actual devices**. 
+Petority's **Demo Mode** is a specialized feature that allows users **to experience** the application's functionalities using simulated data, **without** the need for [**actual devices**](https://www.petority.net/). 
 
 This feature proves highly beneficial for new or prospective users, as it provides an opportunity to explore the application's interface, features, and workflow before committing to actual device usage.
 

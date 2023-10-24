@@ -14,7 +14,7 @@ title: Cleaning Guide
 	Allow the strap to air dry in a well-ventilated area to ensure complete dryness before re-wearing.
 
 ## Petority Device Cleaning:
-Petority Tag waterproof rating is IP **67**, Petority Docker waterproof rating is IP **53**, but they are not suitable for washing machines. Please use the following methods:
+Petority Tag waterproof rating is [IP **67**](/docs/devices/general-information/waterproof-dustproof), Petority Docker waterproof rating is [IP **53**](/docs/devices/general-information/waterproof-dustproof), but they are not suitable for washing machines. Please use the following methods:
 
 1. Magic Eraser Cleaning:
 

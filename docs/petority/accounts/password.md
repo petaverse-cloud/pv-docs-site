@@ -5,6 +5,8 @@ title: Reset Password
 
 Forgetting your Petority account password doesn't have to be a headache. This guide outlines the straightforward steps to reset your password and regain access to your account.
 ### Resetting Your Password from the Login Page:
+![login-update](/img/manage-account/Password-reset1.gif)
+
 1. Access the Login Page:
 
     If you've forgotten your password, head to the Petority login page.
@@ -21,9 +23,9 @@ Forgetting your Petority account password doesn't have to be a headache. This gu
 
     Once verified, you can set a new password for your account. Make sure it's secure and meets any requirements specified by Petority.
 
-![login-update](/img/manage-account/Password-reset1.gif)
-
 ### Resetting Your Password Within the App:
+![user update](/img/manage-account/Password-Reset2.gif)
+
 1. Access Account Security:
 
     Tap **User** > **Account security**.
@@ -40,4 +42,3 @@ Forgetting your Petority account password doesn't have to be a headache. This gu
 
     Once verified, you can set a new password for your account, ensuring it meets the necessary security criteria.
 
-    ![user update](/img/manage-account/Password-Reset2.gif)

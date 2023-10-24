@@ -27,6 +27,8 @@ Even when you're not physically present, you can stay connected and monitor your
 | Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 ### How to use:
+![steps](/img/heart/Heart-Rate2.jpg)
+
 1. Access the Feature:
 
     Open the **Petority app** on your Android or iOS device and log in.
@@ -39,8 +41,6 @@ Even when you're not physically present, you can stay connected and monitor your
 4. Real-Time Monitoring:
 
     Once you've selected the pet, you'll be able to see their heart rate in real time. The app provides a graphical representation of the heart rate data, making it easy to track any fluctuations.
-
-![steps](/img/heart/Heart-Rate2.jpg)
 
 Petority's real-time heart rate monitoring empowers you to provide the best care for your pet's cardiovascular health. By integrating technology with pet care, you can enhance your pet's overall quality of life and well-being. 
 

@@ -4,7 +4,7 @@ title: Device Activate
 ---
 
 # Device Activate
-To **activate** your Petority Docker & Tag, the Tag must sit in the indention on the top side of your Petority Docker and access to electricity.See: [Charging Docker & Tag](/docs/devices/battery-charging/battery-charging)
+To **activate** your Petority Docker & Tag, the Tag must sit in the indention on the top side of your Petority Docker and access to electricity. See: [Charging Docker & Tag](/docs/devices/battery-charging/battery-charging)
 
 Here's how to reactivate your tracker:
 1. Fully charge your device (the light on the Petority device should turn green after about 2 hours).

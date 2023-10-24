@@ -25,7 +25,7 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Configure Settings:
 
-    Inside the app, you can configure various settings for your device. This might include **[setting up geofences](/docs/petority/features/fence#set-up-a-fence)**, adjusting notification preferences, and customizing activity tracking.
+    Inside the app, you can configure various settings for your device. This might include **[setting up geofences](/docs/petority/features/fence#set-up-a-fence)**, adjusting [notification](/docs/petority/notification/enable-nitif) preferences, and customizing activity [tracking](/docs/petority/general-setting/refresh-rates).
 
 + Monitor Location and Health:
 

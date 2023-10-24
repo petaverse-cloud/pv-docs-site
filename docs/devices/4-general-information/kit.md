@@ -45,10 +45,10 @@ title: Petority Kit
 
 + Water Resistance:
 
-	The Docker is rated IP **53**, The Tag is rated IP **67**, providing water resistance. However, avoid submerging it in water to prevent potential damage.
+	The Docker is rated IP **53**, The Tag is rated IP **67**, providing [water resistance](/docs/devices/general-information/waterproof-dustproof). However, avoid submerging it in water to prevent potential damage.
 
 + Charging Safety: 
 
-	Use only the provided USB charging cable to ensure safe and efficient charging.
+	Use only the provided USB [charging](/docs/devices/battery-charging/battery-charging) cable to ensure safe and efficient charging.
 
 Petority combines style and functionality in the Petority Kit, offering a comprehensive solution for intelligent tracking. Enjoy the benefits of advanced technology with the assurance of warranty support. 

@@ -4,13 +4,10 @@ title: Premium Design
 ---
 
 # Premium Design and Powerful Features
-Petority is committed to offering pet owners a range of high-quality hardware devices designed to enhance pet safety and well-being. 
-
-From material quality and size to functionality and advantages, let's delve into the remarkable aspects of Petority device.
-
 ![device](/img/devices/device.png)
 
-## Material: Plastic
+Petority is committed to offering pet owners a range of high-quality hardware devices designed to enhance pet safety and well-being. From material quality and size to functionality and advantages, let's delve into the remarkable aspects of Petority device.
+## Material and Dimensions:
 ![Material](/img/devices/material.gif)
 
 Petority devices, constructed from **plastic**, combine the advantages of being **lightweight**, **durable**, **waterproof**, **cost-effective**, and featuring a flexible design, offering several advantages:
@@ -31,21 +28,12 @@ Petority devices, constructed from **plastic**, combine the advantages of being 
 
 	The smooth surface of plastic makes Petority devices easy to clean. This simplifies maintenance for pet owners, allowing them to effortlessly keep the device clean and hygienic.
 
-## Dimensions:
 Petority device boasts carefully selected materials for comfort and durability. Here are the key details:
 
 | Device  |  Illustration  | Color | Size | Weight |
 | ----------- |----------- | ----------- | ----------- | ----------- |
 | **Docker** | ![Docker](/img/devices/docker.png) | ![color](/img/devices/color.png) | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
 | **Tag**  | ![Tag](/img/devices/tag.png) |![color](/img/devices/color.png) | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
-
-+ Ensuring a compact and unobtrusive presence on your pet.
-
-+ The lightweight design ensures that your pet hardly feels it.
-
-+ Recommended for dogs above **18** kg (**40** lbs).
-
-**Appearance:**
 
 + The Petority device features a sleek and minimalist design. It is **small** and **unobtrusive**, ensuring that your pets can wear it comfortably without feeling burdened. The device is available in **various** colors, allowing you to choose the one that best suits your pet's style.
 

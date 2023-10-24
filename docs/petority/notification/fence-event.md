@@ -8,7 +8,7 @@ Petority's geofence feature allows you to create virtual boundaries for your pet
 
 Before receiving geofence event notifications, you'll need to [set up geofences](/docs/petority/features/fence) in the Petority app.
 
-**Receiving Geofence Event Notifications:**
+1. Receiving Geofence Event Notifications:
 
 Once you've created geofences, you'll automatically start receiving geofence event notifications when your pet enters or exits these predefined areas. These notifications will help you stay updated on your pet's location and movements. Here's what you can expect:
 
@@ -16,7 +16,7 @@ Once you've created geofences, you'll automatically start receiving geofence eve
 
 + Exit Geofence Notification: You'll be notified when your pet exits a geofenced area.
 
-**Ending Fence Event Alerts:**
+2. Ending Fence Event Alerts:
 
 ![End event](/img/notification/Fence-Event.jpg)
 

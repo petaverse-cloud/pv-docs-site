@@ -13,7 +13,7 @@ Please note that certain features, such as **[real-timelocation tracking](/docs/
 
 **To monitor your pet in real-time with Petority：**
 
-+ Activate WiFi or Bluetooth:
++ [Activate WiFi](/docs/petority/devices/configuring-wifi) or Bluetooth:
 
 	In the app, ensure that your phone's **WiFi** or **Bluetooth** features are turned on and active.
 

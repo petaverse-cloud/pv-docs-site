@@ -42,4 +42,4 @@ If you are experiencing difficulties with pairing your Petority device, consider
 
 **Contact Support:**
 
-If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.
+	If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.

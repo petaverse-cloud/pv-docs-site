@@ -18,10 +18,10 @@ Petority is an intelligent tracking device meticulously designed and tested excl
 
 ## Features:
 
-+ Lightweight Design: 
++ [Lightweight Design:](/docs/devices/getting-started/Introduce) 
 
 	Petority features a lightweight design, suitable for dogs of various sizes, ensuring a comfortable wearing experience.
 
-+ Intelligent Tracking: 
++ [Intelligent Tracking:](/docs/petority/features/live-tracking) 
 
 	With Petority, you can achieve real-time tracking of your dog, providing enhanced peace of mind.
