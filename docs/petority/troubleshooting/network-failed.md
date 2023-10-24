@@ -47,4 +47,4 @@ Choose a stable mobile network (mobile hotspot) for the setup to avoid issues wi
 + Try configuring a stable WiFi network for your device. 
 
 ## 6.If all the solutions have been tried and the device still cannot connect to the network successfully, what should I do?
-	If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.
+If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.
