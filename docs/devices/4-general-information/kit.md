@@ -25,7 +25,7 @@ title: Petority Kit
 
 ## Usage Guidelines:
 
-1. [Docker and Tag Placement:](/docs/devices/getting-started/attaching)
+1. [Docker and Tag Placement:](/docs/devices/general-information/attaching)
 
 	Attach the Docker and Tag securely to the necktie for optimal performance and tracking accuracy.
 
