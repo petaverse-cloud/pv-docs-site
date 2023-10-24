@@ -10,12 +10,26 @@ From material quality and size to functionality and advantages, let's delve into
 
 ![device](/img/devices/device.png)
 
-## Material:
-
+## Material: Plastic
 ![Material](/img/devices/material.gif)
 
-The Petority device is crafted from high-quality, durable materials that are safe for your pets. 
-The outer casing is designed to withstand everyday wear and tear, ensuring the device's longevity and reliability.
+Petority devices, constructed from **plastic**, combine the advantages of being **lightweight**, **durable**, **waterproof**, **cost-effective**, and featuring a flexible design, offering several advantages:
+
+1. Portable Lightweight:
+
+	Plastic material ensures that Petority devices are lightweight, providing comfort for pets without causing excessive burden. This makes it suitable for pets of various sizes.
+
+2. Durable:
+
+	Plastic is known for its excellent wear resistance and impact resistance. It shields the device from daily collisions and abrasions, extending the overall lifespan of the device.
+
+3. Waterproof and Dustproof:
+
+	Petority devices made from plastic typically feature [**waterproof** and **dustproof**](/docs/devices/general-information/waterproof-dustproof) capabilities. This allows them to function seamlessly in rainy or humid conditions, protecting the device from moisture and dust.
+
+4. Easy Maintenance:
+
+	The smooth surface of plastic makes Petority devices easy to clean. This simplifies maintenance for pet owners, allowing them to effortlessly keep the device clean and hygienic.
 
 ## Dimensions:
 Petority device boasts carefully selected materials for comfort and durability. Here are the key details:
@@ -72,4 +86,4 @@ Beyond its aesthetic appeal, Petority device integrates several robust features 
 
   Even if pets need time to adjust to the new tag, Petority's design ensures a smooth transition period. Pets quickly adapt to the new accessory.
 
-Through Petority device, you can provide comprehensive care and security for your pets. Whether it's [real-time tracking](/docs/petority/features/live-tracking), [health monitoring](/docs/petority/features/health-monitoring), or fence setup, Petority device becomes an indispensable companion in your pet's life.
+Through Petority device, you can provide comprehensive care and security for your pets. Whether it's [**real-time tracking**](/docs/petority/features/live-tracking), [**health monitoring**](/docs/petority/features/health-monitoring), or [**fence**](/docs/petority/features/Fence) setup, Petority device becomes an indispensable companion in your pet's life.
