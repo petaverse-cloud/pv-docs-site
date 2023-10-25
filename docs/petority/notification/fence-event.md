@@ -14,17 +14,17 @@ Before receiving geofence event notifications, you'll need to [set up geofences]
 
 	Here's what you can expect:
 
-	+ Enter Geofence Notification: You'll receive a notification when your pet enters a geofenced area.
+	1. Enter Geofence Notification: You'll receive a notification when your pet enters a geofenced area.
 
-	+ Exit Geofence Notification: You'll be notified when your pet exits a geofenced area.
+	2. Exit Geofence Notification: You'll be notified when your pet exits a geofenced area.
 
 2. Ending Fence Event Alerts:
 
 	![End event](/img/notification/Fence-Event.jpg)
 
-	+ When you receive a fence event alert, you will see an **End event** button displayed within the notification. 
+	1. When you receive a fence event alert, you will see an **End event** button displayed within the notification. 
 
-	+ Click the **End event** button in the notification to stop the related fence event alert.
+	2. Click the **End event** button in the notification to stop the related fence event alert.
 
 Managing Geofence Event Notifications, see [Notification Settings](/docs/petority/general-setting/notification)
 

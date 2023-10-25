@@ -21,8 +21,8 @@ Follow these steps to pair your device:
 
     Start by downloading the Petority app from the [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg). Install the app on your smartphone.
 2. Create or Log In to Your Account:
-	+ If you're a new user, [create a Petority account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
-	+ If you already have an account, **log in** using your credentials.
+	1. If you're a new user, [create a Petority account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
+	2. If you already have an account, **log in** using your credentials.
 3. Access Device Pairing:
 
     Tap **User** > **Device** > **+**
@@ -47,8 +47,8 @@ Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi n
 ![Wifi](/img/pair/wifi.gif)
 
 1. Select WiFi Network:
-	+ Choose the WiFi network you want to connect your Petority device to.
-	+ Ensure your smartphone is connected to the same network during this process.
+	1. Choose the WiFi network you want to connect your Petority device to.
+	2. Ensure your smartphone is connected to the same network during this process.
 2. Confirm Configuration:
 
     Verify and confirm the Wi-Fi configuration within the app. The app will send the Wi-Fi settings to your device.
