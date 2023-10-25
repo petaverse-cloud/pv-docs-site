@@ -31,7 +31,7 @@ If you are experiencing difficulties with pairing your Petority device, consider
 	Ensure that the Petority device has sufficient battery charge. Low battery levels may lead to connection problems.
 
 If pairing fails:
-
+ 
 + Check if your phone's Bluetooth is on and has an active internet connection.
 + Ensure the device has enough battery power.
 + If the device turns off during pairing, provide power before continuing.
