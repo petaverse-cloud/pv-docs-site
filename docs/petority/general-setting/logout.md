@@ -4,5 +4,5 @@ title: Sign Out of Your Account
 ---
 
 # Log Out of Your Account
-If you want to log out of your Petority account, see:[Sign Out of Your Account](/docs/petority/accounts/logout)
+Want you to log out of your Petority account? See:[Sign Out of Your Account](/docs/petority/accounts/logout)
 

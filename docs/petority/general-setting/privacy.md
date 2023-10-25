@@ -4,7 +4,7 @@ title: Privacy and Security
 ---
 
 # Privacy and Security
-Adjust your account security settings, including password management and [email management.
+Adjust your account security settings, including **password** management and **email** management.
 
 **Password Protection:**
 
