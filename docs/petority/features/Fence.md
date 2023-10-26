@@ -49,10 +49,8 @@ If you need to **modify** your fence's *boundaries* or *other parameters*, simpl
 1. Open the Petority app and **log in** to your account.
 2. Tap **User**> **Fence**.
 3. Tap **Edit**.
-
-    + For editing, make the necessary **adjustments** to the fence's *shape* or *boundaries*, and then save the updated fence settings.
-  
-    + For deletion, you can choose to **remove** the fence. Keep in mind that deleting a fence will also clear any associated data related to it.
++ For editing, make the necessary **adjustments** to the fence's *shape* or *boundaries*, and then save the updated fence settings.
++ For deletion, you can choose to **remove** the fence. Keep in mind that deleting a fence will also clear any associated data related to it.
 
 If you no longer require a specific fence, you can choose to **turn off** the fence switch.
 
