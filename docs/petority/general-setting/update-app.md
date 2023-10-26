@@ -6,7 +6,7 @@ title: Update Petority App
 Keeping your Petority App **up-to-date** ensures you have access to the **latest** features and improvements. Here's how you can update the Petority App on different devices:
 
 + iOS (Apple Devices):
-	1. Open your *App Store* app on your iPhone.
+	1. Open your ***App Store*** app on your iPhone.
 	2. In the bottom menu, select **"Petority"** at the bottom of the screen.
 	3. Tap on your profile icon in the top right corner.
 	4. Scroll down to the **"Available Updates"** section.
@@ -14,7 +14,7 @@ Keeping your Petority App **up-to-date** ensures you have access to the **latest
 	If Petority is listed, tap **"Update"** next to the app. Alternatively, you can tap **"Update All"** to update all your apps.
 
 + Android Devices:
-	1. Open the *Google Play Store* app on your Android device.
+	1. Open the ***Google Play Store*** app on your Android device.
 	2. Tap on your profile picture in the top right corner.
 	3. Select **"Manage apps & device."**
 	4. Look for the **"Updates Available"** section. 
