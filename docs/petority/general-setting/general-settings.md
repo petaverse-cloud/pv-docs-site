@@ -14,6 +14,7 @@ Here's a comprehensive overview of the Petority general settings:
 3. [Refresh Rates:](/docs/petority/general-setting/refresh-rates)
 4. [Unit Preferences:](/docs/petority/general-setting/unit)
 5. [Log Out of Your Account:](/docs/petority/accounts/logout)
+6. [Update Petority App:](/docs/petority/general-setting/update-app)
 
 **Accessing General Settings:**
 
