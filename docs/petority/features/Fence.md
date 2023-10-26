@@ -4,7 +4,7 @@ title: Fence
 ---
 
 # Fences for Pet Safety
-The Petority fence feature allows you to establish virtual boundaries for your pets, ensuring they stay within safe areas while roaming. This feature enables you to monitor and manage your pet's activity range, while also providing real-time alerts and notifications to keep you informed about their whereabouts and movements. 
+The Petority fence feature allows you to establish **virtual boundaries** for your pets, ensuring they stay within safe areas while roaming. This feature enables you to monitor and manage your pet's activity range, while also providing real-time alerts and notifications to keep you informed about their whereabouts and movements. 
 
 ![fence-map](/img/fence/Fence1.jpg)
 
@@ -39,10 +39,10 @@ Would you like to be alerted when your pet either leaves or enters a certain are
 
 You will receive **[fence event notifications](/docs/petority/notification/fence-event)** when your pet enters or exits the defined fence area.
 
-By clicking on the alert notification, you can view detailed information about your pet's fence activities.
+By clicking on the **alert** notification, you can view **detailed** information about your pet's fence activities.
 
 ## Editing and Deleting Fences:
-If you need to modify your fence's boundaries or other parameters, simply follow these steps:
+If you need to **modify** your fence's *boundaries* or *other parameters*, simply follow these steps:
 
 ![Editing and Deleting](/img/fence/Fence2.jpg)
 
@@ -50,11 +50,11 @@ If you need to modify your fence's boundaries or other parameters, simply follow
 2. Tap **User**> **Fence**.
 3. Tap **Edit**.
 
-    For editing, make the necessary adjustments to the fence's shape or boundaries, and then save the updated fence settings.
+    + For editing, make the necessary **adjustments** to the fence's *shape* or *boundaries*, and then save the updated fence settings.
   
-    For deletion, you can choose to remove the fence. Keep in mind that deleting a fence will also clear any associated data related to it.
+    + For deletion, you can choose to **remove** the fence. Keep in mind that deleting a fence will also clear any associated data related to it.
 
-If you no longer require a specific fence, you can choose to turn off the fence switch.
+If you no longer require a specific fence, you can choose to **turn off** the fence switch.
 
 ![switch](/img/fence/Fence3.jpg)
 
