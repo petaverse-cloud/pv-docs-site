@@ -17,11 +17,11 @@ The Petority device takes **3** hours to charge from 0 to 100%. We'll send a r
 	Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
 + Connect the Docker to a Power Source:
 
-	Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
+	Use the **USB-C** charging cable provided in the [product packaging](/docs/devices/general-information/kit) to connect the Docker to a power adapter or USB port on a computer.
 
 + Charging Indicator Light:
 
-	The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Tag is charging, while a green light indicates that the Docker's battery is fully charged.
+	The Docker is equipped with an [LED indicator light](/docs/devices/light-sound/light-color) that displays the charging status. An **orange** light indicates that the Tag is charging, while a **green** light indicates that the Docker's battery is **fully** charged.
 
 + Wait for Charging Completion:
 
@@ -33,11 +33,11 @@ The Petority device takes **3** hours to charge from 0 to 100%. We'll send a r
 
 + Connect the Docker to a Power Source:
 
-	Use the USB-C charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
+	Use the **USB-C** charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
 
 + Charging Indicator Light:
 
-	The Docker is equipped with an LED indicator light that displays the charging status. An orange light indicates that the Docker is charging, while a green light indicates that the Docker's battery is fully charged.
+	The Docker is equipped with an [LED indicator light](/docs/devices/light-sound/light-color) that displays the charging status. An **orange** light indicates that the Docker is charging, while a **green** light indicates that the Docker's battery is **fully** charged.
 
 Charging Status Indicator Colors:
 
@@ -48,5 +48,5 @@ Charging Status Indicator Colors:
 | Charging Complete | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   |
 
 **Tips:**
-+ Keep an eye on the indicator colors and patterns to understand the charging progress and status.
-+ Disconnect the device from power once it's fully charged to prevent overcharging.
++ Keep an eye on the indicator **colors** and **patterns** to understand the charging progress and status.
++ **Disconnect** the device from power once it's fully charged to prevent **overcharging**.
