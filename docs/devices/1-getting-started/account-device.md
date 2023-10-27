@@ -8,7 +8,7 @@ Petority devices follow unique binding rules to ensure account security and devi
 
 + One Device, One Account: 
 
-	Each Petority device can **only** be bound to **one** account. This means users **cannot** simultaneously bind the same device to multiple accounts.
+	Each Petority device can **only** be bound to **one account**. This means users **cannot** simultaneously bind the same device to multiple accounts.
 
 + Unbinding Process: 
 
