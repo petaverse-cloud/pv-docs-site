@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Account Deletion Failed
+title: Échec de la Suppression du Compte
 ---
 
 # Que faire si la suppression du compte échoue
