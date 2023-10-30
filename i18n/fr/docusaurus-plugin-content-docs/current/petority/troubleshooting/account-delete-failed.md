@@ -3,31 +3,31 @@ sidebar_position: 5
 title: Account Deletion Failed
 ---
 
-# What to Do If the Account Deletion Fails:
-If you encounter issues with the failed deletion of your Petority account, you can take the following steps to resolve the issue:
+# Que faire si la suppression du compte échoue
+Si vous rencontrez des problèmes avec la suppression échouée de votre compte Petority, vous pouvez suivre les étapes suivantes pour résoudre le problème :
 
-1. Check Network Connection: 
+1. Vérifiez la connexion réseau :
 
-	Ensure that your device is connected to the internet and has a stable network connection. Deleting an account may require communication with Petority servers.
+	Assurez-vous que votre appareil est connecté à Internet et dispose d'une connexion réseau stable. La suppression d'un compte peut nécessiter une communication avec les serveurs Petority.
 
-2. Clear Cache and Cookies: 
+2. Effacez le cache et les cookies :
 
-	Clear the cache and cookies in your mobile app to ensure you have the latest information and status.
+	Effacez le cache et les cookies de votre application mobile pour vous assurer d'avoir les informations et le statut les plus récents.
 
-3. Try Different Browser or Device: 
+3. Essayez un navigateur ou un appareil différent :
 
-	Sometimes, certain devices may have compatibility issues. Try using a different browser or device to perform the account deletion operation.
+	Parfois, certains appareils peuvent avoir des problèmes de compatibilité. Essayez d'utiliser un navigateur ou un appareil différent pour effectuer l'opération de suppression de compte.
 
-When deactivating your account, a security verification is required. The application will send a verification code to your registered email address to ensure security.
+Lors de la désactivation de votre compte, une vérification de sécurité est nécessaire. L'application enverra un code de vérification à votre adresse e-mail enregistrée pour assurer la sécurité.
 
-Once you submit the account deletion request, the account enters a **30-day** review period. During this time, it cannot be used, and clicking **Keep Account** will cancel the deactivation process.
+Une fois que vous avez soumis la demande de suppression de compte, le compte entre dans une période de révision de **30 jours**. Pendant ce temps, il ne peut pas être utilisé, et cliquer sur **Conserver le compte** annulera le processus de désactivation.
 
-**Account Recovery After Deletion:**
+**Récupération du compte après la suppression:**
 
-+ Once an account is successfully deactivated, it cannot be retrieved.
-+ After submitting a request for account deactivation, it generally takes **30** days for the review process. During this period, you have the option to restore the account, canceling the deactivation request and regaining access. You can attempt account recovery on the login page.
-+ After the review is completed and approved, the account will be deactivated successfully, and all data will be permanently deleted, making recovery impossible.
++ Une fois qu'un compte est désactivé avec succès, il ne peut pas être récupéré.
++ Après avoir soumis une demande de désactivation de compte, le processus de révision prend généralement 30 jours. Pendant cette période, vous avez la possibilité de restaurer le compte, d'annuler la demande de désactivation et de regagner l'accès. Vous pouvez tenter la récupération du compte sur la page de connexion.
++ Une fois la révision terminée et approuvée, le compte sera désactivé avec succès, et toutes les données seront supprimées de manière permanente, rendant la récupération impossible.
 
-**Contact Support:**
+**Contacter le support:**
 
-If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.
+Si vous avez essayé toutes les étapes mentionnées et que vous rencontrez toujours des problèmes, vous pouvez essayer de contacter les représentants du service client (disponibles de 9h00 à 21h00) pour vous aider à résoudre le problème. Moyens de nous contacter: help@petority.net.

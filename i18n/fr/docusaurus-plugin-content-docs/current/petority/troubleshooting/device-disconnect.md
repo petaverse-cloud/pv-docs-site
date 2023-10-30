@@ -1,41 +1,56 @@
 ---
 sidebar_position: 1
-title: Device Disconnected
+title: Dispositif Petority Déconnecté
 ---
 
-# Petority Device Disconnected – Pet's Location Not Updating
-Losing connection between your Petority device and your phone can lead to delays in updating your pet's location in real-time. 
+# Dispositif Petority Déconnecté – La Localisation de l'Animal de Compagnie ne se Met pas à Jour en Temps Réel
+Perdre la connexion entre votre dispositif Petority et votre téléphone peut entraîner des retards dans la mise à jour de la localisation de votre animal de compagnie en temps réel.
 
-🐾 **Pet's Location may not Update in Real-time** 🐾
+🐾 **La Localisation de l'Animal de Compagnie Peut ne pas se Mettre à Jour en Temps Réel** 🐾
 
-Due to the device disconnection, we're unable to receive the most up-to-date location data for your pet. To stay informed about your pet's location, please take the following steps:
+En raison de la déconnexion du dispositif, nous ne pouvons pas recevoir les données de localisation les plus récentes pour votre animal de compagnie. Pour rester informé de la localisation de votre animal de compagnie, veuillez suivre les étapes suivantes :
 
-🗺️ **Check your Pet's Last Known Location:**
+🗺️ **Vérifiez la Dernière Localisation Connue de Votre Animal de Compagnie:**
 
-You can view your pet's last known location [on the map](/docs/petority/features/live-tracking) within the Petority app.
+Vous pouvez consulter la dernière localisation connue de votre animal de compagnie [sur la carte](/docs/petority/features/live-tracking) à l'intérieur de l'application Petority.
 
-🏃 **Take Immediate Action:**
+🏃 Agissez Immédiatement :
 
-Attempt to reconnect the device promptly to ensure that your pet's location information is up-to-date. You can also search for your pet and ensure their safety.
+Essayez de reconnecter le dispositif rapidement pour vous assurer que les informations de localisation de votre animal de compagnie sont à jour. Vous pouvez également rechercher votre animal de compagnie et garantir sa sécurité.
 
-**If you're facing this issue, here are some steps to help you resolve it and ensure your pet's safety:**
+**Si vous rencontrez ce problème, voici quelques étapes pour vous aider à le résoudre et assurer la sécurité de votre animal de compagnie:**
 
-1. Check Device Connectivity:
+1. Vérifiez la Connectivité du Dispositif :
 
-	Ensure that your Petority device is powered on and within range of your smartphone. Sometimes, a simple proximity issue can lead to disconnection.
-2. Enable Bluetooth and WiFi:
+	Assurez-vous que votre dispositif Petority est allumé et à portée de votre smartphone. Parfois, un simple problème de proximité peut entraîner une déconnexion.
+2. Activez le Bluetooth et le WiFi :
 
-	Open your smartphone's settings and ensure that both Bluetooth and WiFi are turned on. These technologies are crucial for maintaining the connection between your device and the app.
-3. Update the App and [Firmware](/docs/petority/devices/upgrade-firmware):
+	Ouvrez les paramètres de votre smartphone et assurez-vous que le Bluetooth et le WiFi sont activés. Ces technologies sont cruciales pour maintenir la connexion entre votre dispositif et l'application.
+3. Mettez l'Application et le [Firmware](/docs/petority/devices/upgrade-firmware) à Jour :
 
-	Make sure you're using the latest version of the Petority app. Similarly, check if there are any firmware updates available for your Petority device. Updating both can resolve compatibility issues.
-6. Restart the App and Device:
+	Assurez-vous d'utiliser la dernière version de l'application Petority. De même, vérifiez s'il existe des mises à jour du firmware disponibles pour votre dispositif Petority. Mettre à jour les deux peut résoudre les problèmes de compatibilité.
+4. Redémarrez l'Application et le Dispositif :
 
-	Close the Petority app and reopen it.
-	
-	Restart your Petority device and your smartphone to refresh their connections.
-7. Contact Support:
+	Fermez l'application Petority et rouvrez-la.
 
-	If the problem persists, reach out to Petority customer support for further assistance. They can provide specialized guidance and help you troubleshoot any technical issues. Ways to Contact Us: help@petority.net.
+	Redémarrez votre dispositif Petority et votre smartphone pour rafraîchir leurs connexions.
 
-Thank you for your care and concern for your pet. We are committed to providing you with the best pet protection service! 🐶🐱🐾
+5. Contactez le Support :
+
+	Si le problème persiste, contactez le support client de Petority pour obtenir une assistance supplémentaire. Ils peuvent fournir des conseils spécialisés et vous aider à résoudre tout problème technique. Moyens de Nous Contacter : help@petority.net.
+
+Merci pour votre soin et votre préoccupation pour votre animal de compagnie. Nous nous engageons à vous fournir le meilleur service de protection des animaux de compagnie ! 🐶🐱🐾
+
+
+
+
+
+
+
+
+
+
+
+
+
+
