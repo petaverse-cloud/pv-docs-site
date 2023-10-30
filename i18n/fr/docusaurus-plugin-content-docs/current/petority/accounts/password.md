@@ -1,44 +1,52 @@
 ---
 sidebar_position: 4
-title: Reset Password
+title: Réinitialiser le mot de passe
 ---
 
-Forgetting your Petority account password doesn't have to be a headache. This guide outlines the straightforward steps to reset your password and regain access to your account.
-### Resetting Your Password from the Login Page:
+Oublier le mot de passe de votre compte Petority ne doit pas être un casse-tête. Ce guide explique les étapes simples pour réinitialiser votre mot de passe et regagner l'accès à votre compte.
+### Réinitialiser votre mot de passe depuis la page de connexion :
 ![login-update](/img/manage-account/Password-reset1.gif)
 
-1. Access the Login Page:
+1. Accédez à la page de connexion :
 
-    If you've forgotten your password, head to the Petority login page.
-2. Initiate Password Reset:
+    Si vous avez oublié votre mot de passe, rendez-vous sur la page de connexion de Petority.
 
-    On the login page, click the **Forgot Password** button.
-3. Receive a Verification Email:
+2. Initiez la réinitialisation du mot de passe :
 
-    After clicking, a verification email will be dispatched to the email address associated with your account.
-4. Complete Email Verification:
+    Sur la page de connexion, cliquez sur le bouton **Mot de passe oublié**.
 
-    Check your inbox for the verification email. Follow the provided instructions to complete the account verification process, which confirms your identity.
-5. Set a New Password:
+3. Recevez un e-mail de vérification :
 
-    Once verified, you can set a new password for your account. Make sure it's secure and meets any requirements specified by Petority.
+    Après avoir cliqué, un e-mail de vérification sera envoyé à l'adresse e-mail associée à votre compte.
 
-### Resetting Your Password Within the App:
+4. Terminez la vérification par e-mail :
+
+    Consultez votre boîte de réception pour trouver l'e-mail de vérification. Suivez les instructions fournies pour terminer le processus de vérification du compte, qui confirme votre identité.
+
+5. Définissez un nouveau mot de passe :
+
+    Une fois vérifié, vous pouvez définir un nouveau mot de passe pour votre compte. Assurez-vous qu'il est sécurisé et répond aux exigences spécifiées par Petority.
+
+### Réinitialiser votre mot de passe depuis l'application :
 ![user update](/img/manage-account/Password-Reset2.gif)
 
-1. Access Account Security:
+1. Accédez à la sécurité du compte:
 
-    Tap **User** > **Account security**.
-2. Initiate Password Reset:
+    Appuyez sur **Utilisateur** > **Sécurité du compte**.
 
-    Locate and click on **Password Reset**.
-3. Receive a Verification Email:
+2. Initiez la réinitialisation du mot de passe:
 
-    Click the **Get Code** button, triggering a verification email sent to the email address associated with your account.
-4. Complete Email Verification:
+    Localisez et cliquez sur Réinitialiser le **mot de passe**.
 
-    Check your inbox for the verification email and follow the provided instructions to complete the account verification process.
-5. Set a New Password:
+3. Recevez un e-mail de vérification:
 
-    Once verified, you can set a new password for your account, ensuring it meets the necessary security criteria.
+    Cliquez sur le bouton **Obtenir le code**, déclenchant l'envoi d'un e-mail de vérification à l'adresse e-mail associée à votre compte.
+
+4. Complétez la vérification par e-mail:
+
+    Consultez votre boîte de réception pour l'e-mail de vérification et suivez les instructions fournies pour compléter le processus de vérification du compte.
+
+5. Définissez un nouveau mot de passe:
+
+    Une fois vérifié, vous pouvez définir un nouveau mot de passe pour votre compte, en vous assurant qu'il répond aux critères de sécurité nécessaires.
 

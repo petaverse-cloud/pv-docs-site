@@ -4,8 +4,7 @@ title: Mode démo
 ---
 
 # Mode démo
-Le **mode démo** de Petority est une fonctionnalité spécialisée qui permet aux utilisateurs de **découvrir** les fonctionnalités de l'application à l'aide de données simulées, **sans** avoir besoin de [**dispositifs réels**]
-(https://www.petority.net/).
+Le **mode démo** de Petority est une fonctionnalité spécialisée qui permet aux utilisateurs de **découvrir** les fonctionnalités de l'application à l'aide de données simulées, **sans** avoir besoin de **[dispositifs réels](https://www.petority.net/)**.
 
 Cette fonctionnalité s'avère très utile pour les nouveaux utilisateurs ou ceux qui envisagent d'utiliser l'application, car elle offre l'opportunité d'explorer l'interface, les fonctionnalités et le fonctionnement de l'application avant de s'engager dans une utilisation réelle du dispositif.
 

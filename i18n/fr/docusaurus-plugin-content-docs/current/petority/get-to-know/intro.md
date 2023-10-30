@@ -72,7 +72,7 @@ Petority fournit des repères visuels pour différentes plages de fréquence car
 | Apaisant   | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Jaune</span></li> |
 | Féroce   | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Rouge</span></li> |
 
-### 4. [Notifications ](/docs/petority/notification/type)
+### [4. Notifications ](/docs/petority/notification/type)
 1. [IAlertes instantanées pour les clôtures virtuelles](/docs/petority/notification/fence-event)
 	1. [Configurez des clôtures virtuelles](/docs/petority/features/fence) pour définir des zones sûres pour votre animal. 🚧📢
 	2. Recevez des [notifications](/docs/petority/notification/fence-event) instantanées sur votre téléphone si votre animal quitte ces zones désignées.

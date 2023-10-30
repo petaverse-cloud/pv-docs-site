@@ -1,36 +1,39 @@
 ---
 sidebar_position: 3
-title: Change Email
+title: Changer d'adresse électronique
 ---
 
-Updating your email address in Petority is a straightforward process that ensures your account information remains current. Here's a step-by-step guide on how to change your email address within the Petority app.
+Mettre à jour votre adresse électronique dans Petority est un processus simple qui garantit que vos informations de compte restent à jour. Voici un guide étape par étape sur la façon de changer votre adresse électronique dans l'application Petority.
 
 ![Update email](/img/manage-account/Change-Email.gif)
 
-To Change the email of your account, follow these steps:
-1. Open the Petority App and Log In:
+Pour changer l'e-mail de votre compte, suivez ces étapes :
+1. Ouvrez l'application Petority et connectez-vous :
 
-    Launch the Petority app and log in to your existing account.
-2. Access Account Settings:
+    Lancez l'application Petority et connectez-vous à votre compte existant.
+2. Accédez aux paramètres du compte :
 
-   Tap **User** > **Settings** > **Account security** > **Email**.
-3. Initiate the Process:
+   Appuyez sur **Utilisateur** > **Paramètres** > **Sécurité du compte** > **E-mail**.
+3. Initiez le processus :
 
-    Click on the **Get Code** button. This will trigger a verification email sent to your original email address provided during account creation.
-4. Complete Original Email Verification:
+    Cliquez sur le bouton **Obtenir le code**. Cela déclenchera l'envoi d'un e-mail de vérification à votre adresse e-mail d'origine fournie lors de la création du compte.
 
-    Check your inbox for the verification email sent to your original email address. Follow the instructions in the email to complete the account verification process. This step helps confirm your identity.
-5. Enter the New Email Address:
+4. Vérification de l'e-mail d'origine :
 
-    After successfully verifying your original email address, you can now enter the new email address you want to use for your Petority account.
-6. Get Verification Code for the New Email:
+   Consultez votre boîte de réception pour l'e-mail de vérification envoyé à votre adresse e-mail d'origine. Suivez les instructions de l'e-mail pour finaliser le processus de vérification du compte. Cette étape permet de confirmer votre identité.
+5. Saisissez la nouvelle adresse e-mail :
 
-    Click on the **Get Code** button again. This will send a verification email to the new email address you've provided.
-7. Complete New Email Verification:
+    Après avoir vérifié avec succès votre adresse e-mail d'origine, vous pouvez maintenant saisir la nouvelle adresse e-mail que vous souhaitez utiliser pour votre compte Petority.
+6. Obtenez le code de vérification pour la nouvelle adresse e-mail :
 
-    Check your new email inbox for the verification email and follow the provided instructions to complete the account verification process for your new email address.
+	Cliquez à nouveau sur le bouton **Obtenir le code**. Cela enverra un e-mail de vérification à la nouvelle adresse e-mail que vous avez fournie.
+7. Vérification de la nouvelle adresse e-mail :
 
-## Confirmation:
-Your Petority account's email address will be successfully updated to the new one you've provided. This ensures that your account information remains accurate and up-to-date. Make sure to use accurate and truthful information throughout the email change process for security and authentication purposes.
+	Consultez votre nouvelle boîte de réception pour l'e-mail de vérification et suivez les instructions fournies pour finaliser le processus de vérification du compte pour votre nouvelle adresse e-mail.
+
+## Confirmation :
+L'adresse e-mail de votre compte Petority a été mise à jour avec succès pour la nouvelle adresse que vous avez fournie. Cela garantit que les informations de votre compte restent précises et à jour. Assurez-vous d'utiliser des informations précises et véridiques tout au long du processus de changement d'e-mail à des fins de sécurité et d'authentification.
+
+
 
 

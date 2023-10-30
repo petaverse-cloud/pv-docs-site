@@ -1,19 +1,19 @@
 ---
 sidebar_position: 6
-title: Sign Out of Your Account
+title: Se déconnecter de votre compte
 ---
 
-# Log Out of Your Account
-If you want to log out of your Petority account, you can do so by following these simple steps:
+# Se déconnecter de votre compte
+Si vous souhaitez vous déconnecter de votre compte Petority, vous pouvez le faire en suivant ces étapes simples :
 
 ![logout](/img/setting/Sign-out.jpg)
 
-1. Open the Petority App:
+1. Ouvrez l'application Petority :
 
-	Launch the Petority app on your Android or iOS device.
+	Lancez l'application Petority sur votre appareil Android ou iOS.
 
-2. Navigate to Settings: 
+2. Accédez aux paramètres :
 
-	Tap **Setting** > **Sign out**.
+	Appuyez sur **Paramètres** > **Se déconnecter**.
 
-Please note that once you log out of your account, you won't receive notifications and information about your pets until you log back in. If you plan to use Petority on a different device, you'll need to log in again with your credentials.
+Veuillez noter qu'une fois déconnecté de votre compte, vous ne recevrez plus de notifications et d'informations sur vos animaux de compagnie jusqu'à ce que vous vous reconnectiez. Si vous prévoyez d'utiliser Petority sur un autre appareil, vous devrez vous reconnecter avec vos identifiants.

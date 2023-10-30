@@ -1,34 +1,38 @@
 ---
 sidebar_position: 5
-title: Delete Account
+title: Supprimer le compte
 ---
 
-# Delete Your Account
-Sometimes, you may decide to part ways with your Petority account. This guide provides a step-by-step process for deleting your account, along with essential information and solutions to common questions.See:[Data Deletion Instructions](/docs/data-deletion-instructions).
+# Supprimer votre compte
+Parfois, vous pouvez décider de mettre fin à votre compte Petority. Ce guide fournit un processus étape par étape pour supprimer votre compte, ainsi que des informations essentielles et des solutions à des questions courantes. Voir: [Instructions de suppression des données](/docs/data-deletion-instructions).
 
 ![delete account](/img/manage-account/Delete-Account.gif)
 
-To delete your Petority account, you can follow these steps:
-1. Open the Petority App and Log In:
+Pour supprimer votre compte Petority, suivez ces étapes :
 
-    Begin by opening the Petority app and logging in to your account.
+1. Ouvrez l'application Petority et connectez-vous :
+
+	Commencez par ouvrir l'application Petority et connectez-vous à votre compte.
 2. Access Account Settings:
 
     Click on **User** > **Settings**.
-3. Initiate Account Deletion:
 
-    Navigate to **Account Security** and click on **Delete Account**.
-4. Review and Confirm:
+2. Accédez aux paramètres du compte :
 
-    Read the provided **Account Deletion Notice** carefully. Understand that deleting your account will permanently remove all associated data, and it cannot be recovered. If you wish to proceed, click **Delete**.
+	Cliquez sur **Utilisateur** > **Paramètres**.
+3. Initiez la suppression du compte :
 
-## Account Deletion Notice: 
-+ Deleting your account will result in the complete removal of all data associated with the account, and it cannot be recovered. Please proceed with caution, as once the account is deactivated successfully, it cannot be retrieved.
-+ After submitting the account deactivation request, the account will be taken offline and kept in a **30-day** review period. Within these 30 days, you can attempt to log in to the account to cancel the account deletion request, which will allow you to restore the account and use it normally.
-+ Before proceeding with the deactivation, carefully review the information provided on the account deletion page to avoid any unintended consequences.
+	Accédez à **Sécurité du compte** et cliquez sur **Supprimer le compte**.
+4. Examinez et confirmez :
 
-## Recovering Your Account:
-Before proceeding with account deactivation, please carefully review the information provided on the account deletion page to avoid unintended consequences.
+	Lisez attentivement l'**avis de suppression du compte** fourni. Comprenez que la suppression de votre compte supprimera définitivement toutes les données associées, et elles ne pourront pas être récupérées. Si vous souhaitez continuer, cliquez sur **Supprimer**.
 
+## Avis de suppression de compte :
++ La suppression de votre compte entraînera la suppression complète de toutes les données associées au compte, et celles-ci ne pourront pas être récupérées. Veuillez procéder avec prudence, car une fois le compte désactivé avec succès, il ne pourra pas être récupéré.
++ Après avoir soumis la demande de désactivation du compte, celui-ci sera mis hors ligne et passera par une période d'examen de 30 jours. Pendant ces 30 jours, vous pouvez tenter de vous connecter au compte pour annuler la demande de suppression de compte, ce qui vous permettra de restaurer le compte et de l'utiliser normalement.
++ Avant de procéder à la désactivation, veuillez examiner attentivement les informations fournies sur la page de suppression du compte afin d'éviter toute conséquence indésirable.
+
+## Récupération de votre compte :
+Avant de procéder à la désactivation du compte, veuillez examiner attentivement les informations fournies sur la page de suppression du compte afin d'éviter toute conséquence indésirable.
 ![recover account](/img/manage-account/Recovering.jpg)
 

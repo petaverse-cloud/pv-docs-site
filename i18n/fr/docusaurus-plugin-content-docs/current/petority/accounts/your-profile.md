@@ -1,41 +1,45 @@
 ---
 sidebar_position: 2
-title: Your Profile
+title: Votre profil
 ---
 
-Petority is an intelligent application designed for pet owners, aimed at helping you better manage and care for your pets. In Petority, you can edit and manage your user information to ensure that your profile is accurate and linked to your pet data.
+Petority est une application intelligente conçue pour les propriétaires d'animaux, dans le but de vous aider à mieux gérer et prendre soin de vos animaux. Dans Petority, vous pouvez éditer et gérer vos informations utilisateur pour vous assurer que votre profil est précis et lié à vos données sur les animaux.
 
-## Editing your profile
+## Modification de votre profil
 ![Userinfo](/img/manage-account/User-info.gif)
 
-Here are the steps to edit user information in Petority:
-1. Login to Your Account:
+Voici les étapes pour modifier les informations utilisateur dans Petority :
 
-    Open the Petority app and log in using your account credentials.
-2. Access Personal Settings:
+1. Connectez-vous à votre compte :
 
-    Click the **User info** option in the user page.
-3. Enter Edit Mode:
+	Ouvrez l'application Petority et connectez-vous avec vos identifiants de compte.
 
-    In the personal settings page, locate and click on **Edit** option.
+2. Accédez aux paramètres personnels :
 
-    This will enter the edit mode, allowing you to modify your personal information.
-4. Modify Profile:
+	Cliquez sur l'option **Informations utilisateur** dans la page utilisateur.
 
-    While in edit mode, you can modify your personal details, including your **profile picture**, **nickname**, **contact information**, and more.
-5. Save Changes:
+3. Entrez en mode édition :
 
-    After making your edits, make sure to click the **Save** button to save your modifications.
-  
-    The system will prompt you to confirm your changes.
+	Sur la page des paramètres personnels, localisez et cliquez sur l'option **Modifier**.
 
-Once saved, your updated personal information will be reflected in your Petority account. You can view the updated information on the personal settings page.
+	Cela entrera en mode édition, vous permettant de modifier vos informations personnelles.
+4. Modifiez le profil :
 
-## Considerations:
-+ When editing your personal information, ensure that you use accurate and truthful details to maintain the correct association.
-+ Certain information may be mandatory fields, such as email address and password. Make sure you provide accurate information.
-+ If you have any questions or encounter issues, you can consult Petority's official support or customer service for more detailed assistance and guidance.
-+ By editing and managing your user information, you can ensure that your Petority account remains up-to-date and accurate, allowing you to better manage and care for your pets.
+	En mode édition, vous pouvez modifier vos détails personnels, y compris votre **photo de profil**, **votre surnom**, **vos coordonnées**, et plus encore.
 
-By regularly updating and managing your user information, you can keep your Petority account up-to-date and accurate, allowing you to provide the best possible care for your pets.
+5. Enregistrez les modifications :
+
+	Après avoir apporté vos modifications, assurez-vous de cliquer sur le bouton **Enregistrer** pour sauvegarder vos modifications.
+
+	Le système vous demandera de confirmer vos changements.
+
+Une fois enregistrées, vos informations personnelles mises à jour seront reflétées dans votre compte Petority. Vous pouvez consulter les informations mises à jour sur la page des paramètres personnels.
+
+## Considérations :
++ Lors de la modification de vos informations personnelles, assurez-vous d'utiliser des détails précis et véridiques pour maintenir l'association correcte.
++ Certaines informations peuvent être des champs obligatoires, tels que l'adresse e-mail et le mot de passe. Assurez-vous de fournir des informations précises.
++ Si vous avez des questions ou rencontrez des problèmes, vous pouvez consulter le support officiel ou le service client de Petority pour obtenir une assistance plus détaillée et des conseils.
++ En éditant et en gérant vos informations utilisateur, vous pouvez vous assurer que votre compte Petority reste à jour et précis, vous permettant de mieux gérer et prendre soin de vos animaux.
+
+En mettant régulièrement à jour et en gérant vos informations utilisateur, vous pouvez maintenir votre compte Petority à jour et précis, vous permettant d'offrir les meilleurs soins possibles à vos animaux.
    
