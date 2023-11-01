@@ -4,7 +4,7 @@ title: Delete Account
 ---
 
 # Delete Your Account
-Sometimes, you may decide to part ways with your Petority account. This guide provides a step-by-step process for deleting your account, along with essential information and solutions to common questions.See:[Data Deletion Instructions](/docs/data-deletion-instructions).
+Sometimes, you may decide to part ways with your Petority account. This guide provides a step-by-step process for deleting your account, along with essential information and solutions to common questions. See:[Data Deletion Instructions](/docs/data-deletion-instructions).
 
 ![delete account](/img/manage-account/Delete-Account.gif)
 
