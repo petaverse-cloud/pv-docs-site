@@ -4,17 +4,17 @@ title: Échec de la Suppression du Compte
 ---
 
 # Que faire si la suppression du compte échoue
-Si vous rencontrez des problèmes avec la suppression échouée de votre compte Petority, vous pouvez suivre les étapes suivantes pour résoudre le problème :
+Si vous rencontrez des problèmes avec la suppression échouée de votre compte Petority, vous pouvez suivre les étapes suivantes pour résoudre le problème:
 
-1. Vérifiez la connexion réseau :
+1. Vérifiez la connexion réseau:
 
 	Assurez-vous que votre appareil est connecté à Internet et dispose d'une connexion réseau stable. La suppression d'un compte peut nécessiter une communication avec les serveurs Petority.
 
-2. Effacez le cache et les cookies :
+2. Effacez le cache et les cookies:
 
 	Effacez le cache et les cookies de votre application mobile pour vous assurer d'avoir les informations et le statut les plus récents.
 
-3. Essayez un navigateur ou un appareil différent :
+3. Essayez un navigateur ou un appareil différent:
 
 	Parfois, certains appareils peuvent avoir des problèmes de compatibilité. Essayez d'utiliser un navigateur ou un appareil différent pour effectuer l'opération de suppression de compte.
 

@@ -11,7 +11,7 @@ Petority basculera automatiquement vers ce mode lorsque votre connexion Internet
 
 Veuillez noter que certaines fonctionnalités, telles que le **[suivi de localisation en temps réel](/docs/petority/features/live-tracking)**, peuvent ne pas être disponibles en mode hors ligne.
 
-**Pour surveiller votre animal en temps réel avec Petority :**
+**Pour surveiller votre animal en temps réel avec Petority:**
 
 + [Activez le WiFi](/docs/petority/devices/configuring-wifi) ou le Bluetooth :
 

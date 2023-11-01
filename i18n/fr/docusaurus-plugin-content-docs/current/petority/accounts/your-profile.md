@@ -8,26 +8,26 @@ Petority est une application intelligente conçue pour les propriétaires d'anim
 ## Modification de votre profil
 ![Userinfo](/img/manage-account/User-info.gif)
 
-Voici les étapes pour modifier les informations utilisateur dans Petority :
+Voici les étapes pour modifier les informations utilisateur dans Petority:
 
-1. Connectez-vous à votre compte :
+1. Connectez-vous à votre compte:
 
 	Ouvrez l'application Petority et connectez-vous avec vos identifiants de compte.
 
-2. Accédez aux paramètres personnels :
+2. Accédez aux paramètres personnels:
 
 	Cliquez sur l'option **Informations utilisateur** dans la page utilisateur.
 
-3. Entrez en mode édition :
+3. Entrez en mode édition:
 
 	Sur la page des paramètres personnels, localisez et cliquez sur l'option **Modifier**.
 
 	Cela entrera en mode édition, vous permettant de modifier vos informations personnelles.
-4. Modifiez le profil :
+4. Modifiez le profil:
 
 	En mode édition, vous pouvez modifier vos détails personnels, y compris votre **photo de profil**, **votre surnom**, **vos coordonnées**, et plus encore.
 
-5. Enregistrez les modifications :
+5. Enregistrez les modifications:
 
 	Après avoir apporté vos modifications, assurez-vous de cliquer sur le bouton **Enregistrer** pour sauvegarder vos modifications.
 
@@ -35,7 +35,7 @@ Voici les étapes pour modifier les informations utilisateur dans Petority :
 
 Une fois enregistrées, vos informations personnelles mises à jour seront reflétées dans votre compte Petority. Vous pouvez consulter les informations mises à jour sur la page des paramètres personnels.
 
-## Considérations :
+## Considérations:
 + Lors de la modification de vos informations personnelles, assurez-vous d'utiliser des détails précis et véridiques pour maintenir l'association correcte.
 + Certaines informations peuvent être des champs obligatoires, tels que l'adresse e-mail et le mot de passe. Assurez-vous de fournir des informations précises.
 + Si vous avez des questions ou rencontrez des problèmes, vous pouvez consulter le support officiel ou le service client de Petority pour obtenir une assistance plus détaillée et des conseils.

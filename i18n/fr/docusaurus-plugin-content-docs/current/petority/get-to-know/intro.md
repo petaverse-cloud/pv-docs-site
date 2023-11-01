@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Qu'est-ce que Perority ?
+title: Qu'est-ce que Perority?
 ---
 
 #### [Toujours à proximité, jamais perdu. Suivez votre animal de compagnie d'un simple geste !](https://www.petority.net/) 
@@ -11,7 +11,7 @@ Perority est votre compagnon ultime pour veiller sur vos animaux de compagnie bi
 + iPhone avec iOS **11** ou supérieur. 📱
 + Appareils Android avec système d'exploitation **7.0** et supérieur (Google Play Services requis).
 
-## Fonctionnalités de l'application :
+## Fonctionnalités de l'application:
 Cette application propose une gamme de fonctionnalités de pointe qui garantissent la **santé**, la **sécurité** et le **bonheur** de vos amis à quatre pattes.
 ### [1. Suivi et surveillance en temps réel de l'emplacement](/docs/petority/features/live-tracking)
 Grâce à un signal GPS fort et une couverture réseau fiable, vous pouvez facilement suivre en temps réel l'emplacement de votre animal de compagnie, peu importe s'il est près ou loin de vous. Cette fonctionnalité vous offre la tranquillité d'esprit en vous permettant de savoir exactement où se trouve votre animal de compagnie à tout moment. 🗺️🐶
@@ -22,7 +22,7 @@ Grâce à un signal GPS fort et une couverture réseau fiable, vous pouvez facil
 
 ![update](/img/get-to-know/Map.jpg)
 
-1. Rotation de la carte :
+1. Rotation de la carte:
 
 	Profitez de la fonctionnalité de rotation de la carte, vous permettant d'ajuster l'orientation de la carte en fonction de votre direction pour une compréhension plus intuitive de l'emplacement de votre animal de compagnie.
 
@@ -30,7 +30,7 @@ Grâce à un signal GPS fort et une couverture réseau fiable, vous pouvez facil
 
 	Petority offre aux utilisateurs la flexibilité de personnaliser les taux de rafraîchissement pour les mises à jour des données de localisation et de santé des animaux de compagnie.
 
-3. Positionnement de l'emplacement actuel :
+3. Positionnement de l'emplacement actuel:
 
 	Cliquez sur le bouton respectif pour localiser la carte à votre position actuelle, fournissant un point de référence pour un suivi plus précis des animaux de compagnie.
 

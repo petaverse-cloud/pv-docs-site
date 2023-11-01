@@ -4,15 +4,15 @@ title: Se déconnecter de votre compte
 ---
 
 # Se déconnecter de votre compte
-Si vous souhaitez vous déconnecter de votre compte Petority, vous pouvez le faire en suivant ces étapes simples :
+Si vous souhaitez vous déconnecter de votre compte Petority, vous pouvez le faire en suivant ces étapes simples:
 
 ![logout](/img/setting/Sign-out.jpg)
 
-1. Ouvrez l'application Petority :
+1. Ouvrez l'application Petority:
 
 	Lancez l'application Petority sur votre appareil Android ou iOS.
 
-2. Accédez aux paramètres :
+2. Accédez aux paramètres:
 
 	Appuyez sur **Paramètres** > **Se déconnecter**.
 

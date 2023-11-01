@@ -10,32 +10,32 @@ Cette fonctionnalité s'avère très utile pour les nouveaux utilisateurs ou ceu
 
 ![demo](/img/demo/Demo.jpg)
 
-## Qu'est-ce que le mode démo ?
+## Qu'est-ce que le mode démo?
 En mode démo, les utilisateurs peuvent simuler divers scénarios tels que des changements de localisation de l'animal de compagnie et des fluctuations de la fréquence cardiaque.
 
 Cette simulation aide les utilisateurs à mieux comprendre le fonctionnement des fonctionnalités de l'application dans des scénarios du monde réel. Cette compréhension aide les utilisateurs à prendre des décisions éclairées sur les performances et les avantages de l'application, même avant de considérer l'achat des dispositifs Petority.
-### Avantages clés :
-+ Exploration :
+### Avantages clés:
++ Exploration:
 
 	Les utilisateurs peuvent naviguer à travers les fonctionnalités et l'interface de l'application pour explorer ses fonctionnalités, se familiariser avec son fonctionnement sans avoir besoin d'un dispositif réel.
 
-+ Compréhension :
++ Compréhension:
 
 	Le mode démo offre aux utilisateurs une compréhension approfondie du fonctionnement pratique du [suivi en temps réel](/docs/petority/features/live-tracking), de la [surveillance de la santé](/docs/petority/features/health-monitoring) et d'autres fonctionnalités.
 
-+ Prise de décision :
++ Prise de décision:
 
 	Les utilisateurs potentiels peuvent prendre des décisions plus confiantes concernant l'achat des dispositifs Petority après s'être familiarisés avec les capacités de l'application grâce au mode démo.
 
-+ Formation :
++ Formation:
 
 	Le mode démo peut être utilisé pour former de nouveaux utilisateurs, les aidant à se familiariser avec l'interface et les opérations de l'application même avant d'avoir un [dispositif physique](/img/logo.svg).
 
 ### Utilisation du mode démo
-+ Accès :
++ Accès:
 
     Les utilisateurs peuvent accéder facilement au mode démo via **[l'application Petority](/docs/petority/get-to-know/intro)** sans avoir besoin d'un appareil actif.
-+ Simulation de scénarios :
++ Simulation de scénarios:
 
     Les utilisateurs peuvent simuler divers scénarios, tels que le suivi des mouvements des animaux de compagnie ou la surveillance des données de santé, leur permettant ainsi de voir les fonctionnalités de l'application en action.
 

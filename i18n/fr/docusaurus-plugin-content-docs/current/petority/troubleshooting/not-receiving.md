@@ -1,12 +1,13 @@
 ---
 sidebar_position: 6
-title: Not Receiving the Code?
+title: Pas Reçu le Code ?
 ---
 
-If you haven't received the verification code, consider the following solutions:
-+ Check your junk/spam inbox for the verification email.
-+ Ensure that **noreplay@peteverse.cloud** is marked as an approved sender in your email settings. If not, add it to your whitelist.
+Si vous n'avez pas reçu le code de vérification, envisagez les solutions suivantes:
 
-**Contact Support:**
++ Vérifiez votre dossier de courrier indésirable/spam pour l'e-mail de vérification.
++ Assurez-vous que noreplay@peteverse.cloud est marqué comme un expéditeur approuvé dans les paramètres de votre messagerie électronique. Sinon, ajoutez-le à votre liste blanche.
 
-If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives (available from 9:00 AM to 9:00 PM) to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.
+**Contacter le Support:**
+
+Si vous avez essayé toutes les étapes mentionnées et que vous rencontrez toujours des problèmes, vous pouvez essayer de contacter les représentants du service client (disponibles de 9h à 21h) pour vous aider à résoudre le problème. Moyens de nous contacter: help@petority.net.
