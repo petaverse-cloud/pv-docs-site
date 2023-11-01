@@ -7,7 +7,7 @@ title: Upgrade Firmware
 
 Keeping your Petority device up to date with the latest software is essential to ensure optimal performance and access to new features.
 
-![Upgrade](/img/logo.svg)
+![Upgrade](/img/devices/Upgrade.jpg)
 
 Follow these steps to upgrade your Petority device:
 
