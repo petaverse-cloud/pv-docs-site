@@ -16,8 +16,11 @@ title: Petority Kit
 3. USB Charging Cable: 
 
 	A convenient and universal USB cable for charging the Docker Tag, ensuring continuous functionality.
+4. Quick Start Guide
 
-4. Warranty: 
+	This user guide is designed to assist you in using Petority products correctly and ensuring the safety of your pets.
+
+5. Warranty: 
 
 	Petority provides a warranty for your kit, ensuring peace of mind and support for any unforeseen issues.
 
