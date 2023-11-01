@@ -18,7 +18,7 @@ With the help of a strong GPS signal and reliable network coverage, you can easi
 
 ![Map](/img/get-to-know/GPS.jpg)
 
-**Interactive Map Interface:** Petority's map feature offers a comprehensive and intuitive real-time location tracking experience. 
+**Interface de carte interactive :** La fonction de carte de Petority offre une expérience complète et intuitive de suivi d'emplacement en temps réel.
 
 ![update](/img/get-to-know/Map.jpg)
 
