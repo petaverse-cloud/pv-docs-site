@@ -53,19 +53,19 @@ By having access to their heart rate data, you can promptly detect any irregular
 | Soothing    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 | Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
-
 ### Tracking
 Check whether they're getting sufficient exercise daily.
 
 ![tracking](/img/get-to-know/Tracking.jpg)
 
-+ Static/Walking/Running State:
++ Static/Walking/Running/Unknown State:
 
 | Motion| Color   |
 | ----------- | ----------- |
 |  Static    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
 | Walking |  <li style={{ "color": "#1F8AEC" }}><span style={{ "color": "#000" }}>Blue</span></li> |
 | Running |  <li style={{ "color": "#7A12FF" }}><span style={{ "color": "#000" }}>Purple</span></li> |
+| Unknown |  <li style={{ "color": "#30C4E5" }}><span style={{ "color": "#000" }}>Blue</span></li> |
 
 + Tracking/Untracking State:
 
