@@ -15,7 +15,7 @@ Whether you're ensuring the safety of your furry companion or keeping a close ey
 
 Follow these steps to pair your device:
 
-![step](/img/logo.svg)
+![step](/img/devices/Pairing.gif)
 
 1. Download and Install the App:
 
