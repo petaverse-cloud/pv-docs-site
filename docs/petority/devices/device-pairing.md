@@ -32,9 +32,10 @@ Follow these steps to pair your device:
 
 **Tips for Smooth Pairing:**
 
-+ Make sure Bluetooth is turned on and your phone is connected to a **2.4GHz** WLAN.
-+ Ensure that the device has **sufficient** battery power.
++ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WLAN.
++ Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
 + Keep your phone as **close** to the hardware device as possible.
+
 
 Once the app successfully detects your device and establishes a connection, confirm the Pairing on both the app and the device itself.
 
@@ -48,7 +49,7 @@ Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi n
 
 1. Select WiFi Network:
 	1. Choose the WiFi network you want to connect your Petority device to.
-	2. Ensure your smartphone is connected to the same network during this process.
+	2. Ensure your smartphone is connected to the **same** network during this process.
 2. Confirm Configuration:
 
     Verify and confirm the Wi-Fi configuration within the app. The app will send the Wi-Fi settings to your device.
@@ -56,7 +57,7 @@ Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi n
 
     Your Petority device will disconnect from your smartphone's Bluetooth temporarily to establish a connection with the chosen WiFi network. Once connected, the device will relay data through the WiFi network.
 
-With your device successfully paired and WiFi configured, you can now enjoy real-time tracking and data synchronization for your pet's well-being.
+With your device successfully **paired** and WiFi **configured**, you can now enjoy real-time tracking and data synchronization for your pet's well-being.
 
 [What to do if the network configuration fails?](/docs/petority/troubleshooting/network-failed)
 
@@ -65,7 +66,7 @@ With your device successfully paired and WiFi configured, you can now enjoy real
 
 1. Choose Your Pet:
 
-    Select the pet you want to associate with or **[create a Pet Profile](/docs/petority/pets/create)**.
+    Select the pet you want to **associate** with or **[create a Pet Profile](/docs/petority/pets/create)**.
 
 2. Link the Device:
 

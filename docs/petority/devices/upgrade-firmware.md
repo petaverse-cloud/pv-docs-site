@@ -42,6 +42,9 @@ After the update is installed, you may be prompted to restart your Petority devi
 Updated software may introduce new features, improvements, and bug fixes. Explore the Petority app to discover any changes and enhancements resulting from the update.
 
 ### Important Tips:
++ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WLAN.
++ Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
++ Keep your phone as **close** to the hardware device as possible.
 + It's recommended to keep your Petority app up to date as well, as new device updates might require app compatibility.
 + Be patient during the update process, as it might take some time based on your device and internet speed.
 + If you encounter any issues during the update or have questions, refer to the official Petority documentation or contact customer support for assistance.

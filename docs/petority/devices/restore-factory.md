@@ -29,4 +29,7 @@ Confirm your intention to proceed with the factory reset.
 After the factory reset is completed, you'll need to reconfigure the device from scratch. This include **pairing** it with the app, **connecting to Wi-Fi**, and other initial setup steps.
 
 **Note:**
++ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WLAN.
++ Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
++ Keep your phone as **close** to the hardware device as possible.
 + Keep in mind that performing a factory reset will erase all data and settings on your Petority device, essentially returning it to its original state as if it were brand new. Only perform a factory reset when necessary, and be aware of the consequences.
