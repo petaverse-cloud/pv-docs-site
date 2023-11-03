@@ -57,7 +57,7 @@ Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi n
 
     Your Petority device will disconnect from your smartphone's Bluetooth temporarily to establish a connection with the chosen WiFi network. Once connected, the device will relay data through the WiFi network.
 
-With your device successfully **paired** and WiFi **configured**, you can now enjoy real-time tracking and data synchronization for your pet's well-being.
+With your device successfully **paired** and WiFi **configured**, you can now enjoy [real-time tracking](/docs/petority/features/live-tracking) and [data synchronization](/docs/petority/features/health-monitoring) for your pet's well-being.
 
 [What to do if the network configuration fails?](/docs/petority/troubleshooting/network-failed)
 
@@ -66,14 +66,14 @@ With your device successfully **paired** and WiFi **configured**, you can now en
 
 1. Choose Your Pet:
 
-    Select the pet you want to **associate** with or **[create a Pet Profile](/docs/petority/pets/create)**.
+    **Select** the pet you want to **associate** with or [**create** a Pet Profile](/docs/petority/pets/create).
 
 2. Link the Device:
 
-    Connect the bound Petority device to your pet to ensure their data corresponds to the device.
+    Connect the **bound** Petority device to your pet to ensure their data corresponds to the device.
     
 3. Enjoy Petority Services:
 
-    After association, you'll be able to see the connection status and data of your pet and device within the app.
+    After association, you'll be able to see the **connection status** and **data** of your pet and device within the app.
 
 By following these steps: **pairing the device**, **configuring Wi-Fi**, and **associating your pet**, you can effortlessly utilize the Petority system to **[real-time track](/docs/petority/features/live-tracking)** and **[monitor your pet](/docs/petority/features/health-monitoring)**, ensuring their safety and well-being are in the best of hands. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.

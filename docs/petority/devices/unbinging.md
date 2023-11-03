@@ -19,10 +19,10 @@ Here's a step-by-step guide on how to unbind a device:
 	Tap **User** > **Device** to access your list of connected devices.
 3. Select the Device to Unbind:
 
-	From the list of devices, choose the specific device you want to unbind.
+	From the list of devices, choose the specific device you **want** to unbind.
 4. Access Device Details: 
     
-    Click on the selected device to access its detailed information.
+    Click on the **selected** device to access its detailed information.
 5. Initiate Unbinding: 
     
     Look for an option labeled **Unbind**. Click on this option.
@@ -34,4 +34,4 @@ Here's a step-by-step guide on how to unbind a device:
 + Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WLAN.
 + Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
 + Keep your phone as **close** to the hardware device as possible.
-Once you've completed these steps, the device will no longer be associated with your pet. 
+Once you've completed these steps, the device will **no longer** be associated with your pet. 

@@ -4,7 +4,7 @@ title: One Device, One Account
 ---
 
 # Petority Account and Device Binding
-Petority devices follow unique binding rules to ensure account security and device uniqueness. Here are the relevant provisions regarding device binding:
+Petority devices follow unique binding rules to ensure account **security** and device **uniqueness**. Here are the relevant provisions regarding device binding:
 
 + One Device, One Account: 
 

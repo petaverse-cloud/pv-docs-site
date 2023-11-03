@@ -25,10 +25,10 @@ Attempt to reconnect the device promptly to ensure that your pet's location info
 	Ensure that your Petority device is powered on and within range of your smartphone. Sometimes, a simple proximity issue can lead to disconnection.
 2. Enable Bluetooth and WiFi:
 
-	Open your smartphone's settings and ensure that both Bluetooth and WiFi are turned on. These technologies are crucial for maintaining the connection between your device and the app.
+	Open your smartphone's settings and ensure that both **Bluetooth** and **WiFi** are **turned on**. These technologies are crucial for maintaining the connection between your device and the app.
 3. Update the App and [Firmware](/docs/petority/devices/upgrade-firmware):
 
-	Make sure you're using the latest version of the Petority app. Similarly, check if there are any firmware updates available for your Petority device. Updating both can resolve compatibility issues.
+	Make sure you're using the **latest** version of the Petority app. Similarly, check if there are any firmware updates available for your Petority device. Updating both can resolve compatibility issues.
 6. Restart the App and Device:
 
 	Close the Petority app and reopen it.
