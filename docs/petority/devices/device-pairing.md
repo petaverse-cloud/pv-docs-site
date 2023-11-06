@@ -28,7 +28,7 @@ Follow these steps to pair your device:
     Tap **User** > **Device** > **+**
 4. Follow On-Screen Prompts:
 
-    Let the app guide you through the device pairing process.
+    Let the app guide you through the device **pairing** process.
 
 **Tips for Smooth Pairing:**
 
@@ -66,14 +66,14 @@ With your device successfully **paired** and WiFi **configured**, you can now en
 
 1. Choose Your Pet:
 
-    **Select** the pet you want to **associate** with or [**create** a Pet Profile](/docs/petority/pets/create).
+    **Select** the pet you want to **associate with** or [**create** a Pet Profile](/docs/petority/pets/create).
 
 2. Link the Device:
 
-    Connect the **bound** Petority device to your pet to ensure their data corresponds to the device.
+    **Connect** the bound Petority device to your pet to ensure their data **corresponds** to the device.
     
 3. Enjoy Petority Services:
 
-    After association, you'll be able to see the **connection status** and **data** of your pet and device within the app.
+    After association, you'll be able to see the [**connection status** and **data**](/docs/devices/battery-charging/battery-checking) of your pet and device within the app.
 
 By following these steps: **pairing the device**, **configuring Wi-Fi**, and **associating your pet**, you can effortlessly utilize the Petority system to **[real-time track](/docs/petority/features/live-tracking)** and **[monitor your pet](/docs/petority/features/health-monitoring)**, ensuring their safety and well-being are in the best of hands. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.

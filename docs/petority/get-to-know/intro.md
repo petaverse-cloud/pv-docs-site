@@ -18,23 +18,23 @@ With the help of a strong GPS signal and reliable network coverage, you can easi
 
 ![Map](/img/get-to-know/GPS.jpg)
 
-**Interface de carte interactive :** La fonction de carte de Petority offre une expérience complète et intuitive de suivi d'emplacement en temps réel.
+**Interface de carte interactive :** Petority's map feature provides a comprehensive and intuitive real-time location tracking experience.
 
 ![update](/img/get-to-know/Map.jpg)
 
-1. Map Rotation:
+1. [Map Rotation:](/docs/petority/features/live-tracking)
 
 	Enjoy map rotation functionality, allowing you to adjust the map orientation based on your direction for a more intuitive understanding of your pet's location.
 
-2. [Customizable Refresh Rate](/docs/petority/general-setting/refresh-rates)
+2. [Customizable Refresh Rate:](/docs/petority/general-setting/refresh-rates)
 
 	Petority offers users the flexibility to customize the refresh rates for pet location and health data updates. 
 
-3. Current Location Positioning:
+3. [Current Location Positioning:](/docs/petority/features/live-tracking#1-monitor-movement---real-time-tracking)
 
 	Click the respective button to locate the map to your current position, providing a reference point for more accurate pet tracking.
 
-4. Location Recording
+4. [Location Recording:](/docs/petority/features/live-tracking#2-call-your-pet)
 
 	Petority records your pet's movements and alerts you if they leave safe areas. 📝🚨
 
