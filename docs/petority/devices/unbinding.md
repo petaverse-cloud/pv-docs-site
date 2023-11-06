@@ -19,7 +19,7 @@ Here's a step-by-step guide on how to unbind a device:
 	Tap **User** > **Device** to access your list of connected devices.
 3. Select the Device to Unbind:
 
-	From the list of devices, choose the specific device you **want** to unbind.
+	From the list of devices, choose the specific device you want to unbind.
 4. Access Device Details: 
     
     Click on the **selected** device to access its detailed information.
