@@ -30,7 +30,7 @@ Once verified, you can use it to log in to the Petority app and start accessing 
   
 1. [Download](/docs/petority/get-to-know/intro) and open the **Petority** app.
 2. On the login page, click **Third-Party Login**.
-3. Choose a supported third-party account  (**Google** and **Facebook**).
+3. Choose a supported third-party account  (**Google**).
 4. Follow the app's prompts, which may require you to authorize Petority to access your third-party account information.
 5. After authorization, return to the Petority app; your third-party account is linked.
 6. You may need to provide an email to link your Petority account.
