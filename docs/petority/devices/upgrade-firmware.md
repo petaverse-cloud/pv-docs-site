@@ -5,7 +5,7 @@ title: Upgrade Firmware
 
 # Upgrading Your Petority Docker or Tag
 
-Keeping your Petority device up to date with the latest software is essential to ensure optimal performance and access to new features.
+Keeping your Petority device **up to date** with the latest software is *essential* to ensure optimal performance and access to **new** features.
 
 ![Upgrade](/img/devices/Upgrade.jpg)
 
@@ -21,15 +21,17 @@ Follow these steps to upgrade your Petority device:
 
 + Tap **Upgrade** . 
 
-    This will initiate a check to see if there are any available updates for your Petority device.
+    This will initiate a check to see if there are any **available** updates for your Petority device.
 
 **Step 3:** Download and Install
 
 If an update is available, follow the prompts to download and install it.
 
-+ Make sure your device is connected to a stable Wi-Fi network during this process to ensure a smooth download.
-+ Place your device as close to your phone as possible.
-+ Ensure that your device has sufficient battery power.
++ Make sure your device is **connected** to a stable Wi-Fi network during this process to ensure a smooth download.
++ Make sure **Bluetooth** is **turned on**.
++ Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
++ Place your device as **close** to your phone as possible.
++ Ensure that your device has **sufficient** battery power.
 
    During the device upgrade, low battery levels can lead to upgrade failures or device damage. It is recommended to connect your device to a power adapter and keep it charging.
 

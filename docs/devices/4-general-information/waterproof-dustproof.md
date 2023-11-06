@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Waterproof & Dustproof
 ---
 
-# Waterproof and Dustproof
+# Waterproof & Dustproof
 Petority is dedicated to crafting high-performance smart devices for pets. The exceptional waterproof and dustproof capabilities empower pets to freely enjoy various activities, providing them with a carefree and immersive lifestyle.
 
 + Petority Tag

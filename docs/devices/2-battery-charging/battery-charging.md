@@ -12,7 +12,7 @@ The Petority device takes **3** hours to charge from **0** to **100**%. We'll 
 
 ![charge](/img/battery/charging-tag.gif)
 
-+ Place the Tag on the top shell of the Docker:
++ Align the magnets to attach the Tag and Docker:
 
 	Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
 + Connect the Docker to a Power Source:

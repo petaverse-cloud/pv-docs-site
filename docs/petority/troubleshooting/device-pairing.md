@@ -12,11 +12,11 @@ If you are experiencing difficulties with pairing your Petority device, consider
 
 2. Verify Bluetooth Connection:
 
-	Confirm that the Bluetooth feature on your device is enabled and set to discoverable. Turn off and then turn on Bluetooth, then attempt to re-pair.
+	Confirm that the **Bluetooth** feature on your device is **enabled** and **set to discoverable**. Turn off and then turn on Bluetooth, then attempt to re-pair.
 
 3. Ensure Petority Device is in Pairing Mode:
 
-	Follow the instructions in the Petority device's user manual to ensure the device is in pairing mode. Typically, devices need to be in pairing mode to connect with others.
+	Follow the instructions in the Petority device's user manual to ensure the device is in **pairing** mode. Typically, devices need to be in pairing mode to connect with others.
 
 4. Try Restarting Devices:
 
@@ -24,23 +24,24 @@ If you are experiencing difficulties with pairing your Petority device, consider
 
 5. Update Petority Application:
 
-	Ensure that you are using the latest version of the Petority application. Check for available updates in the app store or on the official website.
+	Ensure that you are using the **latest** version of the Petority application. Check for [available updates](/docs/petority/general-setting/update-app) in the app store or on the official website.
 
-6. Check Battery Level:
+6. [Check Battery Level:](/docs/devices/battery-charging/battery-checking)
 
-	Ensure that the Petority device has sufficient battery charge. Low battery levels may lead to connection problems.
+	Ensure that the Petority device has [**sufficient** battery charge](/docs/devices/battery-charging/battery-charging). Low battery levels may lead to connection problems.
 
 If pairing fails:
  
-+ Check if your phone's Bluetooth is on and has an active internet connection.
-+ Ensure the device has enough battery power.
-+ If the device turns off during pairing, provide power before continuing.
-+ Keep the device close to your phone during pairing.
++ Check if your phone's **Bluetooth** is turn on and has an active internet connection.
++ Ensure the device has **enough** battery power.
++ Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
++ If the device turns off during pairing, [**provide** power](/docs/devices/battery-charging/battery-charging) before continuing.
++ Keep the device **close** to your phone during pairing.
 
 If the device cannot be scanned:
 
-+ Ensure the device is in a scannable state with sufficient battery power.
-+ Verify that Bluetooth and WiFi permissions on your phone are enabled.
++ Ensure the device is in a **scannable** state with **sufficient** battery power.
++ Verify that **Bluetooth** and **WiFi** permissions on your phone are enabled.
 
 **Contact Support:**
 

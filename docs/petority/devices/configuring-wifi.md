@@ -35,8 +35,9 @@ The Petority device will attempt to connect to the selected WiFi network. During
 Once the device successfully connects to the WiFi network, your device is ready to sync data with your smartphone over the internet.
 
 **Important Tips:**
-+ Ensure that your Wi-Fi network operates on the **2.4GHz** frequency band.
-+ Ensure you input the **correct WiFi password** during the configuration to avoid connection issues.
-+ Confirm that both your smartphone and the device are **within network range** to ensure a smooth connection.
++ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WLAN.
++ Ensure you input the **correct** WiFi password during the configuration to avoid connection issues.
++ Confirm that both your smartphone and the device are **within** network range to ensure a smooth connection.
++ Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
 
 By completing the aforementioned steps, you can ensure your Petority device is successfully connected to the WiFi network, enabling data synchronization and remote control functionality with your smartphone. This contributes to better caring for and managing your pet's health and safety.

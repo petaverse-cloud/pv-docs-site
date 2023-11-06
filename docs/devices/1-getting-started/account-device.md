@@ -4,7 +4,7 @@ title: One Device, One Account
 ---
 
 # Petority Account and Device Binding
-Petority devices follow unique binding rules to ensure account security and device uniqueness. Here are the relevant provisions regarding device binding:
+Petority devices follow unique binding rules to ensure account **security** and device **uniqueness**. Here are the relevant provisions regarding device binding:
 
 + One Device, One Account: 
 
@@ -12,7 +12,7 @@ Petority devices follow unique binding rules to ensure account security and devi
 
 + Unbinding Process: 
 
-	If a user needs to unbind a device from the current account, they must complete the **[unbinding](/docs/petority/devices/unbinging)** process provided by the Petority app. After unbinding, the device can be bound to another account.
+	If a user needs to unbind a device from the current account, they must complete the **[unbinding](/docs/petority/devices/unbinding)** process provided by the Petority app. After unbinding, the device can be bound to another account.
 
 + Security Considerations: 
 

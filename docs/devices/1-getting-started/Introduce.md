@@ -68,7 +68,7 @@ Beyond its aesthetic appeal, Petority device integrates several robust features 
   
 + Versatility:
 
-  While primarily designed for dogs, Petority tags are suitable for tracking other animals such as cats, horses, or sheep.
+  While primarily designed for dogs.
   
 + Seamless Transition:
 
