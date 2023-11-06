@@ -35,3 +35,4 @@ Here's a step-by-step guide on how to unbind a device:
 + Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
 + Keep your phone as **close** to the hardware device as possible.
 Once you've completed these steps, the device will **no longer** be associated with your pet. 
+
