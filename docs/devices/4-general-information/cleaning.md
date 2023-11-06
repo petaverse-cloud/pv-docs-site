@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Cleaning Guide
 ---
 
-# Petority Device and Collar Cleaning Guide
+# Petority Device & Collar Cleaning Guide
 ## Collar Cleaning:
 1. Sink Cleaning:
 

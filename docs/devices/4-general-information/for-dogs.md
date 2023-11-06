@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Designed for Dogs
 ---
 
-# Petority:Designed Exclusively for Dogs
+# Designed Exclusively for Dogs
 Petority is an intelligent tracking device meticulously designed and tested exclusively for dogs. Currently, our product has not been optimized or tested for cats, horses, or any other pets.
 
 ## Applicability:
