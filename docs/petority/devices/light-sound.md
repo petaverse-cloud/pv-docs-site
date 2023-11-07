@@ -6,7 +6,7 @@ title: Light & Sound
 # Customizing Petority: Light Settings, Sound Choices
 Petority is all about tailoring your pet tracking and monitoring experience to suit your preferences. 
 
-In this comprehensive guide, we'll explore how you can personalize your Petority experience by adjusting **light** settings, selecting **sound types**, and customizing your pet's recall sound. By adjusting these settings, you can better manage and protect your pet.
+In this comprehensive guide, we'll explore how you can personalize your Petority experience by adjusting **light settings**, selecting **sound types**, and customizing your pet's **recall sound**. By adjusting these settings, you can better manage and protect your pet.
 
 ![Tag light](/img/light-sound/Light-and-Sound.jpg)
 
