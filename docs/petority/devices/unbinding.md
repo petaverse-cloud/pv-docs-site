@@ -4,7 +4,6 @@ title: Unbinding a Device
 ---
 
 # unbinding a Device in Petority
-
 Unbinding a device in Petority is a straightforward process that allows you to disconnect a device from your pet. 
 
 Here's a step-by-step guide on how to unbind a device:

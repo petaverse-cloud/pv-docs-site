@@ -4,7 +4,7 @@ title: Create an Account
 ---
 
 # Create a Petority account
-**Welcome to Petority, your trusted companion in pet care management!**
+Welcome to Petority, your trusted companion in pet care management!
 
 ![Update email](/img/manage-account/Welcome.jpg)
 

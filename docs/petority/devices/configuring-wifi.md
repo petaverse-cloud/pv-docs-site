@@ -4,7 +4,6 @@ title: Configuring WiFi
 ---
 
 # Configuring WiFi Connection
-
 To ensure your Petority device can effectively connect to the internet and sync with your smartphone, it's essential to configure the device to the appropriate WiFi network.
 
 ![WiFi](/img/WiFi/Configuring-wifi.gif)

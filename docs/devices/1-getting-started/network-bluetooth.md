@@ -4,7 +4,6 @@ title: Network & Bluetooth
 ---
 
 # Network and Bluetooth
-
 In the realm of pet care, Petority stands out not only for its advanced features but also for its seamless connectivity options. Let's delve into how Petority devices stay connected through networks and Bluetooth, enhancing the safety and well-being of your furry companions.
 
 ## Network Connectivity:

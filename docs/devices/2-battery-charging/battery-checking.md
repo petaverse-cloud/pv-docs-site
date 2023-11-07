@@ -4,8 +4,7 @@ title: Battery Checking
 ---
 
 # How to Check the Battery Level of Petority Docker & Tag
-
-**Keeping track of your Petority Docker & Tag's battery levels is crucial to ensuring your pet's safety and proper device functionality.** 
+Keeping track of your Petority Docker & Tag's battery levels is crucial to ensuring your pet's safety and proper device functionality.
 
 Here's how you can easily check the battery status:
 

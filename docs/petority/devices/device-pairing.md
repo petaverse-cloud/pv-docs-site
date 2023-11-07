@@ -4,7 +4,6 @@ title: Device Pairing
 ---
 
 # A Comprehensive Guide to Device Pairing and Pet Care with Petority
-
 Petority is your go-to solution for advanced pet tracking and monitoring. 
 
 Whether you're ensuring the safety of your furry companion or keeping a close eye on their well-being, here's a step-by-step guide on how to pair a device, configure Wi-Fi, and provide top-notch care for your pet.

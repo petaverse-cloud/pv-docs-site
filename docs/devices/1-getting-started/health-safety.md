@@ -3,7 +3,6 @@ sidebar_position: 6
 title: Health & Safety
 ---
 # Designed for Safe and Comfortable Pet Wear
-
 Petority is specifically designed for pets, meticulously crafted to ensure comfortable and safe wear for your beloved companions. 
 
 + Comfortable Wear:

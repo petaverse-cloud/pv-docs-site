@@ -4,7 +4,6 @@ title: View Pet's Activity
 ---
 
 # How to View Your Pet's Activity on Petority?
-
 To view your pet's activity on Petority, follow these steps using the Petority app:
 
 1. Open the Petority App:
