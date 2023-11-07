@@ -18,7 +18,7 @@ Petority's smart pet tag comes with built-in LED lights that not only enhance vi
 
 **Light Switch:** 
 
-Petority's tag features a light switch that allows you to control when the lights are on and when they're off. Simply toggle the switch to illuminate your pet's path during nighttime walks or keep it turned off during the day.
+Petority's light switch allows you to control when the lights are on and when they're off. Simply toggle the switch to illuminate your pet's path during nighttime walks or keep it turned off during the day.
 
 ## 2. Sound Choices: Tailoring Audio Cues to Your Liking
 Petority understands that every pet and owner has unique preferences. That's why it offers a selection of sound choices, including the option to customize your pet's recall sound.
