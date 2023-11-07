@@ -14,7 +14,7 @@ Petority's intelligent pet management device comes with a feature to control its
 
 2. Navigate to the home screen.
 
-3. Locate the lights icon
+3. Locate the lights icon.
 
 	Tap on the lights icon to toggle the lights on or off.
 
