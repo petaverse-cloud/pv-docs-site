@@ -10,13 +10,16 @@ Here's a breakdown of the various device statuses, their corresponding light col
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
 | ----------- | ----------- |----------- |----------- |
-| Normal Operation | ![battery](/img/device/green.png) | <parentName="tr" {...{"align":null}}>{`Docker: Breathing`}<br/>{`Tag: Constantly illuminated`} |
-| Low Battery | Docker Tag | ![battery](/img/device/red.png) |<parentName="tr" {...{"align":null}}>{`Docker: Breathing`}<br/>{`Tag: Constantly illuminated`}|  Petority's battery is running low.      | 
+| Normal Operation | ![battery](/img/device/green.png) | Docker: Breathing  
+Tag: Constantly illuminated | Petority device is functioning normally.|
+| Low Battery | Docker Tag | ![battery](/img/device/red.png) |Docker: Breathing  
+Tag: Constantly illuminated |  Petority's battery is running low.      | 
 | Charging   | ![battery](/img/device/orange.png)  | **Docker & Tag:** Constantly illuminated.   |  Petority is currently charging.   | 
-| Charging Complete  | ![battery](/img/device/green.png)  | **Docker & Tag:** Constantly illuminated. |  Petority has completed charging.      | 
-| Pairing | ![battery](/img/device/gradual-change.png)  | **Docker & Tag:** Gradual Transition.   |  Petority is in pairing mode.    |
-| Signal Abnormality | ![battery](/img/device/orange.png)  | **Docker & Tag:** Flashing. | Offline mode. Lora signal abnormality. | 
-| Heart Rate Monitoring |  ![battery](/img/device/orange.png)  | <parentName="tr" {...{"align":null}}>{`Docker: --`}<br/>{`Tag: Breathing`} | Collecting the pet's heart rate. | 
+| Charging Complete  | ![battery](/img/device/green.png)  | Docker & Tag: Constantly illuminated. |  Petority has completed charging.      | 
+| Pairing | ![battery](/img/device/gradual-change.png)  | Docker & Tag: Gradual Transition.   |  Petority is in pairing mode.    |
+| Signal Abnormality | ![battery](/img/device/orange.png)  | Docker & Tag: Flashing. | Offline mode. Lora signal abnormality. | 
+| Heart Rate Monitoring |  ![battery](/img/device/orange.png)  | Docker: --  
+Tag: Breathing | Collecting the pet's heart rate. | 
 
 These light colors and behaviors help users understand the current status and operation of the Petority device, facilitating better management and usage.
 
