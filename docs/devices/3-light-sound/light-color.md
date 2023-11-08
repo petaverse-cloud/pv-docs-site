@@ -10,14 +10,13 @@ Here's a breakdown of the various device statuses, their corresponding light col
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
 | ----------- | ----------- |----------- |----------- |
-| Normal Operation  | Docker Tag | ![battery](/img/device/green.png) | <td parentName="tr" {...{"align":null}}><strong parentName="td">{`Doceker:`}</strong>{` Breathing `}<br/>{` `}<strong parentName="td">{`Tag:`}</strong>{` Constantly illuminated.`}</td>  |  Petority is functioning normally.     |
-| Low Battery | Docker Tag | ![battery](/img/device/red.png) |<td parentName="tr" {...{"align":null}}><strong parentName="td">{`Doceker:`}</strong>{` Breathing `}<br/>{` `}<strong parentName="td">{`Tag:`}</strong>{` Constantly illuminated.`}</td> |  Petority's battery is running low.      | 
+| Normal Operation | ![battery](/img/device/green.png) | Doceker: Breathing<br>Tag: Constantly illuminated  |  Petority is functioning normally.     |
+| Low Battery | Docker Tag | ![battery](/img/device/red.png) |Doceker: Breathing<br>Tag: Constantly illuminated |  Petority's battery is running low.      | 
 | Charging   | ![battery](/img/device/orange.png)  | **Doceker & Tag:** Constantly illuminated.   |  Petority is currently charging.   | 
 | Charging Complete  | ![battery](/img/device/green.png)  | **Doceker & Tag:** Constantly illuminated. |  Petority has completed charging.      | 
 | Pairing | ![battery](/img/device/gradual-change.png)  | **Doceker & Tag:** Gradual Transition.   |  Petority is in pairing mode.    |
 | Signal Abnormality | ![battery](/img/device/orange.png)  | **Doceker & Tag:** Flashing. | Offline mode. Lora signal abnormality. | 
-| Heart Rate Monitoring |  ![battery](/img/device/orange.png)  | <td parentName="tr" {...{"align":null}}><strong parentName="td">{`Doceker:`}</strong>{` -- `}<br/>{` `}<strong parentName="td">{`Tag:`}</strong>{` Breathing.`}</td>
- | Collecting the pet's heart rate. | 
+| Heart Rate Monitoring |  ![battery](/img/device/orange.png)  | Doceker: --<br>Tag: Breathing | Collecting the pet's heart rate. | 
 
 These light colors and behaviors help users understand the current status and operation of the Petority device, facilitating better management and usage.
 
