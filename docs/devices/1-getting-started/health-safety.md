@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: Health & Safety
 ---
 # Designed for Safe and Comfortable Pet Wear
