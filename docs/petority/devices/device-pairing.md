@@ -27,7 +27,7 @@ Follow these steps to pair your device:
     Tap **User** > **Device** > **+**
 4. Follow On-Screen Prompts:
 
-    Let the app guide you through the device **pairing** process.
+    Let the app guide you through the device **pairing** process. When the light is in **gradient** color, it's in pairing mode.
 
 **Tips for Smooth Pairing:**
 

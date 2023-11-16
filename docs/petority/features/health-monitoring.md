@@ -43,6 +43,8 @@ Keeping an eye on your pet's heart health is crucial. This feature empowers you 
 
 ![Heart](/img/health/Heart-Rate-Indicators.jpg)
 
+The tag emits a **blue** breathing light when actively collecting your pet's heart rate data.
+
 By having access to their heart rate data, you can promptly detect any irregularities and take necessary actions for their well-being.
 
 **Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:**

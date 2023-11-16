@@ -21,7 +21,7 @@ The Petority device takes **3** hours to charge from **0** to **100**%. We'll 
 
 + Charging Indicator Light:
 
-	The Docker is equipped with an [LED indicator light](/docs/devices/light-sound/light-color) that displays the charging status. An **orange** light indicates that the Tag is charging, while a **green** light indicates that the Docker's battery is **fully** charged.
+	The Docker is equipped with an [LED indicator light](/docs/devices/light-sound/light-color) that displays the charging status. An **gradient** light indicates that the Tag is charging, while a **green** light indicates that the Docker's battery is **fully** charged.
 
 + Wait for Charging Completion:
 
@@ -41,11 +41,11 @@ The Petority device takes **3** hours to charge from **0** to **100**%. We'll 
 
 Charging Status Indicator Colors:
 
-| Charging Status      | Light Color |
-| ----------- | ----------- |
-| Battery Low | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li>       |
-| Charging | <li style={{ "color": "#FFA500" }}><span style={{ "color": "#000" }}>Orange</span></li>        |
-| Charging Complete | <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li>   |
+| Charging Status      | Light Color | Light Behavior |
+| ----------- | ----------- |----------- | 
+| Low Battery | ![battery](/img/device/red.png) |Docker: Breathing<br/>Tag: -- | 
+| Charging   | ![battery](/img/device/gradual-change.png)  | Docker: Breathing<br/>Tag: Breathing |  
+| Charging Complete  | ![battery](/img/device/green.png)  | Docker: Steady<br/>Tag: Steady | 
 
 **Tips:**
 + Keep an eye on the indicator **colors** and **patterns** to understand the charging progress and status.
