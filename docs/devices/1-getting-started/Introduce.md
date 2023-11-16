@@ -4,9 +4,43 @@ title: Premium Design
 ---
 
 # Premium Design and Powerful Features
+Petority is committed to offering pet owners a range of high-quality hardware devices designed to enhance pet safety and well-being. From material quality and size to functionality and advantages, let's delve into the remarkable aspects of Petority device.
+
 ![device](/img/devices/device.png)
 
-Petority is committed to offering pet owners a range of high-quality hardware devices designed to enhance pet safety and well-being. From material quality and size to functionality and advantages, let's delve into the remarkable aspects of Petority device.
+Petority consists of two main components: the **Docker** and the **Tag**.
+
+1. Docker:
+
+  The Docker is the **central hub** that communicates with the Tag and gathers data.
+
+  It is responsible for **processing** and **transmitting** information to the Petority app.
+
+  The Docker includes [**LED lights**](/docs/devices/light-sound/light-color) to indicate charging status and device pairing mode.
+
+2. Tag:
+
+  The Tag is a [**wearable** device](/docs/devices/general-information/attaching) attached to your pet's collar.
+
+  Equipped with sensors, it **collects data** such as [**heart rate**](/docs/petority/features/realtime-heartrate-monitoring) and [**activity**](/docs/petority/features/live-tracking).
+
+  The Tag communicates with the Docker, allowing **real-time tracking** of your pet's well-being.
+
+Together, the Docker and Tag create a comprehensive system for [monitoring and managing your pet's health and activities](/docs/petority/features/health-monitoring).
+
+Petority device boasts carefully selected materials for comfort and durability. Here are the key details:
+
+| Device  |  Illustration  | Color | Size | Weight |
+| ----------- |----------- | ----------- | ----------- | ----------- |
+| **Docker** | ![Docker](/img/devices/docker.png) | ![color](/img/devices/color.png) | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
+| **Tag**  | ![Tag](/img/devices/tag.png) |![color](/img/devices/color.png) | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
+
++ The Petority device features a sleek and minimalist design. It is **small** and **unobtrusive**, ensuring that your pets can wear it comfortably without feeling burdened. The device is available in **various** colors, allowing you to choose the one that best suits your pet's style.
+
++ Whether attached to a collar, harness, or other pet accessories, the Petority device's unassuming appearance ensures that your pet's comfort and style are not compromised.
+
++ With its carefully chosen materials, compact dimensions, and appealing appearance, the Petority device seamlessly integrates into your pet's daily life while providing essential tracking and monitoring capabilities.
+
 ## Material and Dimensions:
 ![Material](/img/devices/material.gif)
 
@@ -27,19 +61,6 @@ Petority devices, constructed from **plastic**, combine the advantages of being 
 4. Easy Maintenance:
 
 	The smooth surface of plastic makes Petority devices easy to clean. This simplifies maintenance for pet owners, allowing them to effortlessly keep the device clean and hygienic.
-
-Petority device boasts carefully selected materials for comfort and durability. Here are the key details:
-
-| Device  |  Illustration  | Color | Size | Weight |
-| ----------- |----------- | ----------- | ----------- | ----------- |
-| **Docker** | ![Docker](/img/devices/docker.png) | ![color](/img/devices/color.png) | (L) **64** × (W) **64** × (H) **22.5** mm |  **5** grams |
-| **Tag**  | ![Tag](/img/devices/tag.png) |![color](/img/devices/color.png) | (L) **58** × (W) **24** × (H) **16** mm |  **5** grams |
-
-+ The Petority device features a sleek and minimalist design. It is **small** and **unobtrusive**, ensuring that your pets can wear it comfortably without feeling burdened. The device is available in **various** colors, allowing you to choose the one that best suits your pet's style.
-
-+ Whether attached to a collar, harness, or other pet accessories, the Petority device's unassuming appearance ensures that your pet's comfort and style are not compromised.
-
-+ With its carefully chosen materials, compact dimensions, and appealing appearance, the Petority device seamlessly integrates into your pet's daily life while providing essential tracking and monitoring capabilities.
 
 ## Feature:
 Beyond its aesthetic appeal, Petority device integrates several robust features to cater to diverse needs of pet owners.
