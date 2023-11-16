@@ -28,6 +28,6 @@ Petority offers a range of notifications and notification types that allow you t
 
 	You'll receive firmware update notifications within the Petority app. These notifications will inform you when a new firmware version is available for your device.
 
-**How to Manage Notifications? see:[Notification Settings](/docs/petority/general-setting/notification)**.
+**How to Manage Notifications? See:[Notification Settings](/docs/petority/general-setting/notification)**.
 
 By familiarizing yourself with the device information and settings in the Petority app, you can optimize the care and safety of your pets while enjoying the convenience of modern technology.
