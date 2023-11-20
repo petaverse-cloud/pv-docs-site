@@ -4,9 +4,9 @@ title: Demo Mode
 ---
 
 # Petority's Demo Mode
-Petority's **Demo Mode** is a specialized feature that allows users **to experience** the application's functionalities using simulated data, **without** the need for [**actual devices**](https://www.petority.net/). 
+Petority **Demo Mode** is a specialized feature that allows users **to experience** the application's functionalities using simulated data before purchase. 
 
-This feature proves highly beneficial for new or prospective users, as it provides an opportunity to explore the application's interface, features, and workflow before committing to actual device usage.
+“This feature proves highly beneficial for new or prospective users, providing them with an opportunity to explore the application's interface and features.
 
 ![demo](/img/demo/Demo.jpg)
 
@@ -26,19 +26,20 @@ This simulation helps users better understand how the application's features ope
 + Decision-Making:
 
     Prospective users can make more confident decisions about purchasing Petority devices after familiarizing themselves with the app's capabilities through Demo Mode.
-+ Training:
 
-    Demo Mode can be used to train new users, helping them become accustomed to the app's interface and operations even before [**having a physical device**](/img/logo.svg).
++ Guidance:
 
+	Demo Mode serves as a helpful tool for introducing new users to the app's interface and operations, allowing them to familiarize themselves with the functionalities.
+	
 ### Using Demo Mode
 + Access:
 
-    Users can access Demo Mode easily through the **[Petority app](/docs/petority/get-to-know/intro)** without requiring an active device.
+    Users can access Demo Mode easily through the **[Petority app](/docs/petority/get-to-know/intro)** without requiring an device.
 + Simulate Scenarios:
 
     Users can simulate a variety of scenarios, such as tracking pet movements or monitoring health data, allowing them to witness the app's functionalities in action.
 
-### Transitioning from Demo Mode to Device Binding in Petority
+### Transitioning from Demo Mode in Petority
 If you're ready to transition from Demo Mode to the full functionality of the app with [actual Petority devices](img/logo.svg), here's how you can do it:
 
 + Pairing Your Device. See：[Device Pairing](/docs/petority/devices/device-pairing)
