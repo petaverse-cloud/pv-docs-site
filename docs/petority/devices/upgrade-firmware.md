@@ -40,7 +40,7 @@ After the update is installed, you may be prompted to restart your Petority devi
 
 **Step 5:** Enjoy New Features
 
-Updated software may introduce new features, improvements, and bug fixes. Explore the Petority app to discover any changes and enhancements resulting from the update.
+Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the Petority app to discover any changes and enhancements resulting from the update.
 
 ### Important Tips:
 + It's recommended to keep your Petority app up to date as well, as new device updates might require app compatibility.

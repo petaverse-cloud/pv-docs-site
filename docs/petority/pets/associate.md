@@ -1,14 +1,14 @@
 ---
 sidebar_position: 3
-title: Pet Association
+title: Pet binding
 ---
 
-# Associating, Disassociating, and Switching Devices for Pets
-In Petority, you can easily **associate**, **disassociate**, and **switch** devices for your pets to track and monitor their activities.
+# Binding, Unbinding, and Switching Devices for Pets
+In Petority, you can easily **binding**, **unbinding**, and **switch** devices for your pets to track and monitor their activities.
 
 Here are the steps to perform these actions:
 
-## Associating a Device with a Pet:
+## Binding a Device with a Pet:
 
 ![disassociating](/img/pet/Associating.jpg)
 
@@ -20,7 +20,7 @@ Here are the steps to perform these actions:
 
 	Tap **User** > **Devices** to view your connected device list.
 
-3. Select the Device to Associate: 
+3. Select the Device to Bind: 
 
 	In the device list, choose the device you want to assign to a specific pet.
 
@@ -30,28 +30,28 @@ Here are the steps to perform these actions:
 
 5. Choose a Pet:
 
-	You can select the pet you want to associate with the device from your list of created pets.
+	You can select the pet you want to bind with the device from your list of created pets.
 
 6. Save Settings:
 
-	After making your selection, save the device-to-pet association settings. Your device is now linked to the chosen pet.
+	After making your selection, save the device-to-pet binding settings. Your device is now linked to the chosen pet.
 
-## Disassociating a Device from a Pet:
+## Unbinding a Device from a Pet:
 
 ![disassociating](/img/pet/Disassociating.jpg)
 
-1. Disassociate: 
+1. Unbind: 
 
-	On the Choose a Pet page, Click **Disassociate** option.
+	On the Choose a Pet page, Click **Unbind** option.
 
-2. Confirm Disassociation: 
+2. Confirm Unbind: 
 
-	The system will ask you to confirm if you want to disassociate the device from the pet. Once confirmed, the association will be removed.
+	The system will ask you to confirm if you want to Unbind the device from the pet. Once confirmed, the association will be removed.
 
 ## Switching a Device to Another Pet:
 
-1. Associate with Another Pet: 
+1. Bind with Another Pet: 
 
 	You can follow the **Associating a Device with a Pet** steps to choose another pet and associate the device with it.
 
-By following these steps, you can effortlessly manage your Petority devices and ensure they are associated with the right pets for accurate tracking and monitoring.
+By following these steps, you can effortlessly manage your Petority devices and ensure they are bound with the right pets for accurate tracking and monitoring.

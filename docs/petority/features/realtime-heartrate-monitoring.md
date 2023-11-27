@@ -46,4 +46,4 @@ Petority provides visual cues for different heart rate ranges:
 
 Petority's real-time heart rate monitoring enables you to provide the best care for your pet's cardiovascular health. By integrating technology with pet care, you can enhance your pet's overall quality of life and well-being. 
 
-Please note that this feature requires [**a Petority device**](/img/logo.svg) with heart rate monitoring capability and a stable connection to the app. Always consult with a veterinarian for professional guidance on interpreting your pet's heart rate data and any potential health concerns.  
+Please note that this feature requires [**a Petority device**](/img/logo.svg) with heart rate monitoring capability and a stable connection to the app. Always consult with a veterinarian for professional guidance on interpreting your pet's heart rate data and any potential health concerns. 

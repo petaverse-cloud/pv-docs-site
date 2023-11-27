@@ -1,12 +1,12 @@
 ---
 sidebar_position: 7
-title: Unbinding a Device
+title: Unpairing a Device
 ---
 
-# unbinding a Device in Petority
-Unbinding a device in Petority is a straightforward process that allows you to disconnect a device from your pet. 
+# unpairing a Device in Petority
+Unpairing a device in Petority is a straightforward process that allows you to disconnect a device from your pet. 
 
-Here's a step-by-step guide on how to unbind a device:
+Here's a step-by-step guide on how to unpair a device:
 
 ![unbinding](/img/unbind/Unbind.jpg)
 
@@ -18,19 +18,19 @@ Here's a step-by-step guide on how to unbind a device:
 	Tap **User** > **Device** to access your list of connected devices.
 3. Select the Device to Unbind:
 
-	From the list of devices, choose the specific device you want to unbind.
+	From the list of devices, choose the specific device you want to unpair.
 4. Access Device Details: 
     
     Click on the **selected** device to access its detailed information.
-5. Initiate Unbinding: 
+5. Initiate Unpairing: 
     
-    Look for an option labeled **Unbind**. Click on this option.
-6. Confirm Unbinding:
+    Look for an option labeled **Unpair**. Click on this option.
+6. Confirm Unpairing:
 
-	The system will prompt you to confirm whether you want to unbind the device. Once confirmed, the device will be unbound from your pet in the Petority app.
+	The system will prompt you to confirm whether you want to unpair the device. Once confirmed, the device will be unpair from your pet in the Petority app.
 
 **Tips:**
-+ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WLAN.
++ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WiFi.
 + Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
 + Keep your phone as **close** to the hardware device as possible.
-Once you've completed these steps, the device will **no longer** be associated with your pet. 
+Once you've completed these steps, the device will **no longer** be bound with your pet. 

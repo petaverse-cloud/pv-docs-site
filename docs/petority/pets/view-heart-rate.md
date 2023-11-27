@@ -26,13 +26,13 @@ On **Home** page, you can find information about their [real-time heart rate](/d
 
 **Heart Rate Range Indicators:**
 
-Petority uses color coding or icons to indicate different heart rate ranges, such as normal, soothing, or fierce heart rates.
+Petority uses color coding or icons to indicate different heart rate ranges, such as low, normal, or high heart rates.
 
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |
+| Low    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 |  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| Soothing    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
-| Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| High      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 ## Set Up Heart Rate Alerts:
 You may have the option to configure heart rate alerts, so you'll [receive notifications](docs/petority/notification/type) if your pet's heart rate becomes abnormal, enabling you to take timely action.

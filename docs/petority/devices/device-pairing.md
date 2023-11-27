@@ -73,6 +73,6 @@ With your device successfully **paired** and WiFi **configured**, you can now en
     
 3. Enjoy Petority Services:
 
-    After association, you'll be able to see the [**connection status** and **data**](/docs/devices/battery-charging/battery-checking) of your pet and device within the app.
+    After binding, you'll be able to see the [**connection status** and **data**](/docs/devices/battery-charging/battery-checking) of your pet and device within the app.
 
-By following these steps: **pairing the device**, **configuring Wi-Fi**, and **associating your pet**, You can effortlessly utilize the Petority system to [**monitor you pet**](/docs/petority/features/health-monitoring) and utilize [**real-time tracking**](/docs/petority/features/live-tracking), ensuring their safety. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.
+By following these steps: **pairing the device**, **configuring the Wi-Fi**, and **binding your pet**, You can effortlessly utilize the Petority system to [**monitor you pet**](/docs/petority/features/health-monitoring) and utilize [**real-time tracking**](/docs/petority/features/live-tracking), ensuring their safety. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.
