@@ -27,13 +27,13 @@ Follow these steps to pair your device:
     Tap **User** > **Device** > **+**
 4. Follow On-Screen Prompts:
 
-    Let the app guide you through the device **pairing** process. When the light is in **gradient** color, it's in pairing mode.
+    Let the app guide you through the device **pairing** process. while the light is a rainbow, it's in pairing mode.
 
 **Tips for Smooth Pairing:**
 
-+ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WLAN.
++ Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WiFi.
 + Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
-+ Keep your phone as **close** to the hardware device as possible.
++ Keep your phone as **close** to the device as possible.
 
 
 Once the app successfully detects your device and establishes a connection, confirm the Pairing on both the app and the device itself.
@@ -42,7 +42,7 @@ Once the app successfully detects your device and establishes a connection, conf
 
 [Encountering issues with pairing? Learn what to do if pairing fails.](/docs/petority/troubleshooting/device-pairing)
 ## WiFi Configuration:
-Once paired, proceed to configure Wi-Fi within the app. Ensure that your Wi-Fi network operates on the **2.4GHz** frequency band.
+Once paired, proceed to configure the Wi-Fi within the app. Ensure that your Wi-Fi network operates on the **2.4GHz** frequency.
 
 ![Wifi](/img/pair/wifi.gif)
 
@@ -60,19 +60,19 @@ With your device successfully **paired** and WiFi **configured**, you can now en
 
 [What to do if the network configuration fails?](/docs/petority/troubleshooting/network-failed)
 
-## Pet Association:
+## Pet Binding:
 ![choose pet](/img/pair/Add-Pet.gif)
 
 1. Choose Your Pet:
 
-    **Select** the pet you want to **associate with** or [**create** a Pet Profile](/docs/petority/pets/create).
+    **Select** the pet you want to **bind to** or [**create** a Pet Profile](/docs/petority/pets/create).
 
 2. Link the Device:
 
-    **Connect** the bound Petority device to your pet to ensure their data **corresponds** to the device.
+    Link the tag with the respective pet’s information to enture their data correcsponds to this tag.
     
 3. Enjoy Petority Services:
 
     After association, you'll be able to see the [**connection status** and **data**](/docs/devices/battery-charging/battery-checking) of your pet and device within the app.
 
-By following these steps: **pairing the device**, **configuring Wi-Fi**, and **associating your pet**, you can effortlessly utilize the Petority system to **[real-time track](/docs/petority/features/live-tracking)** and **[monitor your pet](/docs/petority/features/health-monitoring)**, ensuring their safety and well-being are in the best of hands. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.
+By following these steps: **pairing the device**, **configuring Wi-Fi**, and **associating your pet**, You can effortlessly utilize the Petority system to [**monitor you pet**](/docs/petority/features/health-monitoring) and utilize [**real-time tracking**](/docs/petority/features/live-tracking), ensuring their safety. Whether you're at home or away, Petority keeps you connected with your pet's needs and activities.

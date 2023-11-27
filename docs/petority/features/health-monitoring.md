@@ -4,7 +4,7 @@ title: Health Monitoring
 ---
 
 # Tracking Your Pet's Well-being with Petority's Health Feature
-Petority, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. Among its standout capabilities is the **comprehensive health data detection** and **location history tracking functionality**. 
+Petority, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. Some of its standout capabilities are the **comprehensive health data detection** and **location history tracking functionality**. 
 
 ![Health](/img/health/Health.jpg)
 
@@ -36,7 +36,7 @@ With Petority's Health Data and Location History feature, you gain a comprehensi
 
 ![Path](/img/health/Activities.jpg)
 
-It allows you to understand their movement patterns, providing insights into their exercise routines and overall lifestyle.
+This feature allows you to understand their movement patterns, providing insights into their exercise routines and overall lifestyle.
 
 ### Heart Rate Monitoring:
 Keeping an eye on your pet's heart health is crucial. This feature empowers you to closely monitor their heart rate in real-time. 
@@ -51,25 +51,25 @@ By having access to their heart rate data, you can promptly detect any irregular
  
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |
+| Low    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 |  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| Soothing    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
-| Fierce      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| High      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 ### Tracking
-Check whether they're getting sufficient exercise daily.
+Check whether your pet are getting sufficient exercise daily.
 
 ![tracking](/img/get-to-know/Tracking.jpg)
 
-+ Static/Walking/Running/Unknown State:
++ Rest / Walking / Running / Unknown State:
 
 | Motion| Color   |
 | ----------- | ----------- |
-|  Static    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+|  Rest    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
 | Walking |  <li style={{ "color": "#1F8AEC" }}><span style={{ "color": "#000" }}>Blue</span></li> |
 | Running |  <li style={{ "color": "#7A12FF" }}><span style={{ "color": "#000" }}>Purple</span></li> |
 | Unknown |  <li style={{ "color": "#30C4E5" }}><span style={{ "color": "#000" }}>Blue</span></li> |
 
-+ Tracking/Untracking State:
++ Tracking / Untracking State:
 
 | Status| Color   |
 | ----------- | ----------- |
