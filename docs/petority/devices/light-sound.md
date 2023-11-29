@@ -41,11 +41,11 @@ Here's how to do it:
 
 **Step 2:** Navigate to Sound Customization:
 
-+ Tap **User** - **Device** - **Tag Settings**
++ Tap **User** > **Device** > **Tag Settings**
 
 **Step 3:** Select Custom Sound:
 
-+ Choose the option to **Customize Pet Recall Sound**.
++ Choose the option to **Customize audio**.
 
 **Step 4:** Choose Your Sound:
 

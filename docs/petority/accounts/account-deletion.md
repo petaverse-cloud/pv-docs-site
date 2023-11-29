@@ -17,7 +17,7 @@ To delete your Petority account, you can follow these steps:
     Click on **User** > **Settings**.
 3. Initiate Account Deletion:
 
-    Navigate to **Account Security** and click on **Delete Account**.
+    Navigate to **Account security** and click on **Delete account**.
 4. Review and Confirm:
 
     Read the provided **Account Deletion Notice** carefully. Understand that deleting your account will permanently remove all associated data, and it cannot be recovered. If you wish to proceed, click **Delete**.

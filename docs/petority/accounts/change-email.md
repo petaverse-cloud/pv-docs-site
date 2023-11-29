@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Change Email
+title: Change Account
 ---
 
 Updating your email address in Petority is a straightforward process that ensures your account information remains current. Here's a step-by-step guide on how to change your email address within the Petority app.
@@ -13,7 +13,7 @@ To Change the email of your account, follow these steps:
     Launch the Petority app and log in to your existing account.
 2. Access Account Settings:
 
-   Tap **User** > **Settings** > **Account security** > **Email**.
+   Tap **User** > **Settings** > **Account security** > **Change account**.
 3. Initiate the Process:
 
     Click on the **Get Code** button. This will trigger a verification email sent to your original email address provided during account creation.
@@ -30,7 +30,6 @@ To Change the email of your account, follow these steps:
 
     Check your new email inbox for the verification email and follow the provided instructions to complete the account verification process for your new email address.
 
-## Confirmation:
 Your Petority account's email address will be successfully updated to the new one you've provided. This ensures that your account information remains accurate and up-to-date. Make sure to use accurate and truthful information throughout the email change process for security and authentication purposes.
 
 

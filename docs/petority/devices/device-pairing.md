@@ -27,12 +27,12 @@ Follow these steps to pair your device:
     Tap **User** > **Device** > **+**
 4. Follow On-Screen Prompts:
 
-    Let the app guide you through the device **pairing** process. while the light is a rainbow, it's in pairing mode.
+    Let the app guide you through the device **pairing** process. When the light is a rainbow, it's in pairing mode.
 
 **Tips for Smooth Pairing:**
 
 + Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WiFi.
-+ Charge the Docker using the provided **USB** cable, **Align the magnets** to **attach** the Tag and Docker.
++ Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag and Docker.
 + Keep your phone as **close** to the device as possible.
 
 
