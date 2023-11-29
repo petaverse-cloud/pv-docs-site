@@ -57,7 +57,7 @@ View the battery status of both the docker and tag to ensure it’s always opera
     View essential information about the device, such as battery level and signal strength.
 5.  Device Settings:
 
-    Tap the **[setting](/docs/petority/devices/light-sound)** section to configure various options based on your pet's needs.
+    Tap the **[Setting](/docs/petority/devices/light-sound)** section to configure various options based on your pet's needs.
     
 ## Note:
 + Regularly check the device's battery level to ensure uninterrupted functionality.

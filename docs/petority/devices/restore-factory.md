@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Factory Reset
 ---
 
-# RFactory Reset
+# Factory Reset
 Petority devices occasionally require a factory reset to restore them to their original settings.
 
 ![Restore factory](/img/restore/Restore-Factory.jpg)

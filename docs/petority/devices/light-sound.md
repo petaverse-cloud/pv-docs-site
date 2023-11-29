@@ -41,7 +41,7 @@ Here's how to do it:
 
 **Step 2:** Navigate to Sound Customization:
 
-+ Tap **User** > **Device** > **Tag Settings**
++ Tap **User** > **Device** > **Tag settings**
 
 **Step 3:** Select Custom Sound:
 

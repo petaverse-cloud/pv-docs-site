@@ -16,7 +16,7 @@ To Change the email of your account, follow these steps:
    Tap **User** > **Settings** > **Account security** > **Change account**.
 3. Initiate the Process:
 
-    Click on the **Get Code** button. This will trigger a verification email sent to your original email address provided during account creation.
+    Click on the **Get code** button. This will trigger a verification email sent to your original email address provided during account creation.
 4. Complete Original Email Verification:
 
     Check your inbox for the verification email sent to your original email address. Follow the instructions in the email to complete the account verification process. This step helps confirm your identity.

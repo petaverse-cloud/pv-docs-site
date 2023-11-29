@@ -12,7 +12,7 @@ Forgetting your Petority account password doesn't have to be a headache. This gu
     If you've forgotten your password, head to the Petority login page.
 2. Initiate Password Reset:
 
-    On the login page, click the **Forgot Password** button.
+    On the login page, click the **Forgot password** button.
 3. Receive a Verification Email:
 
     After clicking, a verification code will be sent to the email address associated with your account.
@@ -31,10 +31,10 @@ Forgetting your Petority account password doesn't have to be a headache. This gu
     Tap **User** > **Account security**.
 2. Initiate Password Reset:
 
-    Locate and click on **Password Reset**.
+    Locate and click on **Change password**.
 3. Receive a Verification Email:
 
-    Click the **Get Code** button, a verification code will be sent to the email address associated with your account.
+    Click the **Get code** button, a verification code will be sent to the email address associated with your account.
     
 4. Complete Email Verification:
 
