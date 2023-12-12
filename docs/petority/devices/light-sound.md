@@ -1,26 +1,16 @@
 ---
 sidebar_position: 6
-title: Light & Sound
+title: Sound Customization
 ---
 
-# Customizing Petority: Light Settings, Sound Choices
+# Sound Customization
 Petority is all about tailoring your pet tracking and monitoring experience to suit your preferences. 
 
-In this comprehensive guide, we'll explore how you can personalize your Petority experience by adjusting **light settings**, selecting **sound types**, and customizing your pet's **recall sound**. By adjusting these settings, you can better manage and protect your pet.
+In this comprehensive guide, we'll explore how you can personalize your Petority experience by selecting **sound types**, and customizing your pet's **recall sound**. By adjusting these settings, you can better manage and protect your pet.
 
 ![Tag light](/img/light-sound/Light-and-Sound.jpg)
 
-## 1.Light Settings: Illuminate Your Pet's Path
-
-![light](/img/light-sound/Light.jpg)
-
-Petority's smart pet tag comes with built-in LED lights that not only enhance visibility but also add a touch of style. Here's how to make the most of them:
-
-**Light Switch:** 
-
-Petority's light switch allows you to control when the lights are on and when they're off. Simply toggle the switch to illuminate your pet's path during nighttime walks or keep it turned off during the day.
-
-## 2. Sound Choices: Tailoring Audio Cues to Your Liking
+## 1. Sound Choices: Tailoring Audio Cues to Your Liking
 Petority understands that every pet and owner has unique preferences. That's why it offers a selection of sound choices, including the option to customize your pet's recall sound.
 
 **Default Sounds:** 
@@ -83,10 +73,9 @@ Personalizing your pet's recall sound has several benefits:
     Tap **Device** > **Tag settings**
 4. Adjust Settings: 
 
-    Based on your preferences and needs, enable/disable pet tag light and sound settings.
+    Based on your preferences and needs, enable/disable pet tag sound settings.
     
 ## Tips:
-+ Choose sound effects and light settings that match your pet's personality and habits.
++ Choose sound effects that match your pet's personality and habits.
 + Use sound effects appropriately to avoid unnecessary disturbances, considering the time and environment.
-+ When using the pet tag light in low-light conditions, ensure it doesn't hinder your pet's visibility or activities.
-+ By fine-tuning the light and sound settings of the Petority pet tag, you can provide enhanced safety and a personalized experience for your pet, making them more visible and manageable in various situations.
++ By fine-tuning the sound settings of the Petority pet tag, you can provide enhanced safety and a personalized experience for your pet, making them more visible and manageable in various situations.
