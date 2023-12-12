@@ -3,7 +3,7 @@ sidebar_position: 7
 title: Unpairing a Device
 ---
 
-# unpairing a Device in Petority
+# Unpairing a Device in Petority
 Unpairing a device in Petority is a straightforward process that allows you to disconnect a device from your pet. 
 
 Here's a step-by-step guide on how to unpair a device:

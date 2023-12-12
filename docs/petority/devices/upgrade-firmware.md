@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Upgrade Firmware
 ---
 
-# Upgrading Your Petority Docker or Tag
+# Upgrading Your Petority Device
 Keeping your Petority device **up to date** with the latest software is *essential* to ensure optimal performance and access to **new** features.
 
 ![Upgrade](/img/devices/Upgrade.jpg)
