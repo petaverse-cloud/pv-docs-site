@@ -10,8 +10,8 @@ Here's a comprehensive overview of the Petority general settings:
 ![setting](/img/setting/Settings.jpg)
 
 1. [Privacy and Security:](/docs/petority/general-setting/privacy)
-2. [Notification Settings:](/docs/petority/general-setting/notification)
-3. [Refresh Rates:](/docs/petority/general-setting/refresh-rates)
+2. [Alert Settings:](/docs/petority/general-setting/notification)
+3. [Tracking intervals:](/docs/petority/general-setting/refresh-rates)
 4. [Unit Preferences:](/docs/petority/general-setting/unit)
 5. [Log Out of Your Account:](/docs/petority/accounts/logout)
 6. [Update Petority App:](/docs/petority/general-setting/update-app)

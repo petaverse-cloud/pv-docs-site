@@ -18,5 +18,5 @@ Here's a breakdown of the various device statuses, their corresponding light col
 | Signal Abnormality | ![battery](/img/device/red.png)  | Docker: Flashing<br/>Tag: -- | Offline mode. Lora signal abnormality. | 
 | Heart Rate Monitoring |  ![battery](/img/device/blue.png)  | Docker: --<br/>Tag: Breathing | Collecting the pet's heart rate. | 
 
-These light colors and behaviors help users understand the current status and operation of the Petority device, facilitating better management and usage.
+These light colors and behaviors help users understand the current status and operation of the Petority device, facilitating better management and usage. 
 

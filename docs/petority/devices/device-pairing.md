@@ -34,6 +34,7 @@ Follow these steps to pair your device:
 + Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WiFi.
 + Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag and Docker.
 + Keep your phone as **close** to the device as possible.
++ Before pairing the device, scan the QR code on the packaging.
 
 
 Once the app successfully detects your device and establishes a connection, confirm the Pairing on both the app and the device itself.

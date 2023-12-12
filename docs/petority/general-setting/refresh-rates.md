@@ -1,34 +1,30 @@
 ---
 sidebar_position: 4
-title: Refresh Rates
+title: Tracking intervals
 ---
 
-# Setting Petority Refresh Rates
-Petority offers users the flexibility to customize the refresh rates for pet location and health data updates. 
+# Setting Petority Tracking intervals
+Petority offers users the flexibility to customize the Tracking intervals for pet location and health data updates. 
 
 ![fren](/img/setting/Refresh-Rates.jpg)
 
-## Available Refresh Rate Options:
-Petority provides four refresh rate options for updating pet location and health data:
+## Available Tracking interval Options:
+Petority provides four Tracking interval options for updating pet location and health data:
 
 + **10 Seconds:** 
 
-	For users who require real-time updates and want to monitor their pet's location and health with minimal delay. Please note that this option may consume device battery more quickly due to frequent updates.
+	Real-time updates for immediate monitoring, ideal for outdoor activities. Faster battery consumption due to frequent updates.
 
 + **30 Seconds:** 
 
-	A balanced option that offers updates every half-minute, suitable for most users' needs. It strikes a good balance between real-time monitoring and battery conservation.
+	A balanced choice for daily activities, combining real-time monitoring and battery conservation.
 
 + **60 Seconds:** 
 
-	Designed for users who prioritize device battery life over very frequent updates. This option updates the data once every minute.
+	Maximizes battery life, suitable for pets in a safe zone with less frequent updates.
 
-+ **90 Seconds:** 
-
-	Offers longer intervals between updates, suitable for users who want to maximize device battery life and don't require very frequent data updates.
-
-## Configuring Refresh Rates:
-Follow these steps to configure the refresh rates within the Petority app:
+## Configuring Tracking intervals:
+Follow these steps to configure the Tracking intervals within the Petority app:
 
 1. Open the Petority App: 
 
@@ -36,14 +32,14 @@ Follow these steps to configure the refresh rates within the Petority app:
 
 2. Access Settings: 
 
-	Tap **User** > **Setting** > **Location frequency**
+	Tap **User** > **Setting** > **Tracking intervals**.
 
 3. Select Your Preferred Rate:
 
-	Choose from the available refresh rate options (**10** seconds, **30** seconds, **60** seconds, or **90** seconds) based on your tracking needs and preferences.
+	Choose from the available Tracking interval options (**10** seconds, **30** seconds, or **60** seconds) based on your tracking needs and preferences.
 
 4. Save Changes: 
 
-	After selecting your desired refresh rate, save the changes to apply the new settings.
+	After selecting your desired Tracking interval, save the changes to apply the new settings.
 
-Petority's customizable refresh rate feature empowers users to fine-tune their tracking experience. Whether you need real-time updates or prioritize device battery life, there's a refresh rate option to suit your requirements. By configuring these settings, you can ensure that you are getting the most out of Petority while keeping your pet safe and healthy.
+Petority's customizable Tracking interval feature empowers users to fine-tune their tracking experience. Whether you need real-time updates or prioritize device battery life, there's a refresh rate option to suit your requirements. By configuring these settings, you can ensure that you are getting the most out of Petority while keeping your pet safe and healthy.
