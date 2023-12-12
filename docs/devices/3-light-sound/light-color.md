@@ -14,7 +14,7 @@ Here's a breakdown of the various device statuses, their corresponding light col
 | Low Battery | ![battery](/img/device/red.png) |Docker: Breathing<br/>Tag: -- |  Petority's battery is running low.      | 
 | Charging   | ![battery](/img/device/gradual-change.png)  | Docker: Breathing<br/>Tag: Breathing |  Petority is currently charging.   | 
 | Charging Complete  | ![battery](/img/device/green.png)  | Docker: Steady<br/>Tag: Steady |  Petority has completed charging.      | 
-| Pairing | ![battery](/img/device/gradual-change.png)  | Docker: Gradient<br/>Tag: Gradient  |  Petority is in pairing mode.    |
+| Pairing | ![battery](/img/device/gradual-change.png)  | Docker: Rainbow<br/>Tag: Rainbow  |  Petority is in pairing mode.    |
 | Signal Abnormality | ![battery](/img/device/red.png)  | Docker: Flashing<br/>Tag: -- | Offline mode. Lora signal abnormality. | 
 | Heart Rate Monitoring |  ![battery](/img/device/blue.png)  | Docker: --<br/>Tag: Breathing | Collecting the pet's heart rate. | 
 
