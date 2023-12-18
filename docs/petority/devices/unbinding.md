@@ -4,7 +4,7 @@ title: Unpairing a Device
 ---
 
 # Unpairing a Device in Petority
-Unpairing a device in Petority is a straightforward process that allows you to disconnect a device from your pet. 
+Unpairing a device in Petority is a straightforward process that allows you to unbind a device from your pet. 
 
 Here's a step-by-step guide on how to unpair a device:
 
@@ -18,7 +18,7 @@ Here's a step-by-step guide on how to unpair a device:
 	Tap **User** > **Device** to access your list of connected devices.
 3. Select the Device to Unbind:
 
-	From the list of devices, choose the specific device you want to unpair.
+	From the list of devices, choose the specific device to unpair.
 4. Access Device Details: 
     
     Click on the **selected** device to access its detailed information.
@@ -31,6 +31,6 @@ Here's a step-by-step guide on how to unpair a device:
 
 **Tips:**
 + Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WiFi.
-+ Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag and Docker.
-+ Keep your phone as **close** to the hardware device as possible.
++ Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag onto the Docker.
++ Keep your phone as **close** to the device as possible.
 Once you've completed these steps, the device will **no longer** be bound with your pet. 

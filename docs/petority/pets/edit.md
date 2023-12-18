@@ -27,4 +27,4 @@ Here's a guide on how to edit the information in your pet's profile:
 
     After making the necessary changes, click **Save** to save the modifications to your pet's profile.
 
-Remember that keeping your pet's profile information accurate ensures that you have the most relevant information on hand for providing the best care and monitoring for your beloved pets.
+Remember that keeping your pet's profile information accurate ensures that you have the most relevant information at your fingertips for providing the best care and monitoring for your beloved pets.

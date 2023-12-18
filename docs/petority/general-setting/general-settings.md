@@ -29,6 +29,6 @@ Here's a comprehensive overview of the Petority general settings:
     Find the general settings category and explore the various options available.
 4. Adjust Settings:
 
-    Customize your settings based on your preferences by toggling switches, selecting options.
+    Customize your settings based on your preferences by toggling switches, and selecting options.
 
 By utilizing the general settings in the Petority app, you can personalize your experience, optimize functionality, and ensure your pet management journey is both enjoyable and efficient.

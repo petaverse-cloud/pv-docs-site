@@ -20,7 +20,7 @@ Here's a brief guide on how to check your pet's heart rate using Petority:
 
 ## View Heart Rate Data:
 
-On **Home** page, you can find information about their [real-time heart rate](/docs/petority/features/realtime-heartrate-monitoring), typically displayed as beats per minute (bpm). allowing you to see your pet's current heart rate at any time.
+On **Home** page, you can find information about their [real-time heart rate](/docs/petority/features/realtime-heartrate-monitoring), typically displayed as beats per minute (bpm), allowing you to see your pet's current heart rate at any time.
 
 ![heart rate](/img/heart/Heart-Rate2.jpg)
 
@@ -35,6 +35,6 @@ Petority uses color coding or icons to indicate different heart rate ranges, suc
 | High      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 ## Set Up Heart Rate Alerts:
-You may have the option to configure heart rate alerts, so you'll [receive notifications](docs/petority/notification/type) if your pet's heart rate becomes abnormal, enabling you to take timely action.
+You may have the option to configure heart rate alerts, so you'll [receive notifications](docs/petority/notification/type) if your pet's heart rate becomes abnormal, allowing you to take action.
 ## Health Trends:
 The app typically provides insights into your pet's heart rate trends and [historical](/docs/petority/features/health-monitoring) data, helping you track their cardiovascular health over time.

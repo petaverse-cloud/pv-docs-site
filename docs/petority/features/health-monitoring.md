@@ -65,9 +65,9 @@ Check whether your pet are getting sufficient exercise daily.
 | Motion| Color   |
 | ----------- | ----------- |
 |  Rest    |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| Walking |  <li style={{ "color": "#1F8AEC" }}><span style={{ "color": "#000" }}>Blue</span></li> |
+| Walking |  <li style={{ "color": "#1F8AEC" }}><span style={{ "color": "#000" }}>Dark Blue</span></li> |
 | Running |  <li style={{ "color": "#7A12FF" }}><span style={{ "color": "#000" }}>Purple</span></li> |
-| Unknown |  <li style={{ "color": "#30C4E5" }}><span style={{ "color": "#000" }}>Blue</span></li> |
+| Unknown |  <li style={{ "color": "#30C4E5" }}><span style={{ "color": "#000" }}>Light Blue</span></li> |
 
 + Tracking / Untracking State:
 

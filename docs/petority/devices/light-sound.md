@@ -6,7 +6,7 @@ title: Sound Customization
 # Sound Customization
 Petority is all about tailoring your pet tracking and monitoring experience to suit your preferences. 
 
-In this comprehensive guide, we'll explore how you can personalize your Petority experience by selecting **sound types**, and customizing your pet's **recall sound**. By adjusting these settings, you can better manage and protect your pet.
+In this comprehensive guide, we'll explore how you can personalize your Petority experience by selecting **sound types**, and customizing your pet's **recall**. By adjusting these settings, you can better manage and protect your pet.
 
 ![Tag light](/img/light-sound/Light-and-Sound.jpg)
 
@@ -40,6 +40,8 @@ Here's how to do it:
 **Step 4:** Choose Your Sound:
 
 + Pick the sound you'd like to use for your pet's recall. It could be a snippet of your voice, a whistle, or any sound that resonates with your pet.
+
+Ensure that the device is within the WiFi range. Align the magnets then attach the tag onto the docker.
 
 **Step 5:** Save and Confirm:
 
@@ -75,7 +77,7 @@ Personalizing your pet's recall sound has several benefits:
 
     Based on your preferences and needs, enable/disable pet tag sound settings.
     
-## Tips:
+**Important Tips：**
 + Choose sound effects that match your pet's personality and habits.
 + Use sound effects appropriately to avoid unnecessary disturbances, considering the time and environment.
 + By fine-tuning the sound settings of the Petority pet tag, you can provide enhanced safety and a personalized experience for your pet, making them more visible and manageable in various situations.

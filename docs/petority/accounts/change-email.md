@@ -23,7 +23,7 @@ To Change the email of your account, follow these steps:
 5. Enter the New Email Address:
 
     After successfully verifying your original email address, you can now enter the new email address you want to use for your Petority account.
-6. Get Verification Code for the New Email:
+6. Get Verification Code for the New Email: 
 
     Click on the **Get Code** button again. This will send a verification email to the new email address you've provided.
 7. Complete New Email Verification:

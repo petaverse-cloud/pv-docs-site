@@ -18,7 +18,7 @@ You can view your pet's last known location [on the map](/docs/petority/features
 
 Attempt to reconnect the device promptly to ensure that your pet's location information is up-to-date. You can also search for your pet and ensure their safety.
 
-**If you're facing this issue, here are some steps to help you resolve it and ensure your pet's safety:**
+**If you're facing this issue, these are some steps to help you resolve it and ensure your pet's safety:**
 
 1. Check Device Connectivity:
 
@@ -36,6 +36,6 @@ Attempt to reconnect the device promptly to ensure that your pet's location info
 	Restart your Petority device and your smartphone to refresh their connections.
 7. Contact Support:
 
-	If the problem persists, reach out to Petority customer support for further assistance. They can provide specialized guidance and help you troubleshoot any technical issues. Ways to Contact Us: help@petority.net.
+	If the problem persists, reach out to Petority customer support for further assistance. They can provide specialized guidance and help you troubleshoot any technical issues. Contact Us Via: help@petority.net.
 
 Thank you for your care and concern for your pet. We are committed to providing you with the best pet protection service! 🐶🐱🐾

@@ -4,7 +4,7 @@ title: Pet binding
 ---
 
 # Binding, Unbinding, and Switching Devices for Pets
-In Petority, you can easily **binding**, **unbinding**, and **switch** devices for your pets to track and monitor their activities.
+In Petority, you can easily **bind**, **unbind**, and **switch** devices for your pets to track and monitor their activities.
 
 Here are the steps to perform these actions:
 
@@ -30,7 +30,7 @@ Here are the steps to perform these actions:
 
 5. Choose a Pet:
 
-	You can select the pet you want to bind with the device from your list of created pets.
+	You can select the pet you want to bind with the device from your list of pets.
 
 6. Save Settings:
 
@@ -46,12 +46,12 @@ Here are the steps to perform these actions:
 
 2. Confirm Unbind: 
 
-	The system will ask you to confirm if you want to Unbind the device from the pet. Once confirmed, the association will be removed.
+	The system will ask you to confirm if you want to Unbind the device from the pet. Once confirmed , the pet will be unbound
 
 ## Switching a Device to Another Pet:
 
 1. Bind with Another Pet: 
 
-	You can follow the **Associating a Device with a Pet** steps to choose another pet and associate the device with it.
+	You can follow the **Binding a Device with a Pet** steps to choose another pet and associate the device with him/her.
 
 By following these steps, you can effortlessly manage your Petority devices and ensure they are bound with the right pets for accurate tracking and monitoring.
