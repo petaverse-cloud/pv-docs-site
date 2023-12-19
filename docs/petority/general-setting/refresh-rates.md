@@ -1,15 +1,15 @@
 ---
 sidebar_position: 4
-title: Tracking intervals
+title: Tracking Intervals
 ---
 
-# Setting Petority Tracking intervals
-Petority offers users the flexibility to customize the Tracking intervals for pet location and health data updates. 
+# Setting Petority Tracking Intervals
+Petority offers users the flexibility to customize the Tracking Intervals for pet location and health data updates. 
 
 ![fren](/img/setting/Refresh-Rates.jpg)
 
 ## Available Tracking interval Options:
-Petority provides three Tracking interval options for updating pet location and health data:
+Petority provides four Tracking interval options for updating pet location and health data:
 
 + **10 Seconds:** 
 
@@ -23,8 +23,8 @@ Petority provides three Tracking interval options for updating pet location and 
 
 	Maximizes battery life, suitable for pets in a safe zone with less frequent updates.
 
-## Configuring Tracking intervals:
-Follow these steps to configure the Tracking intervals within the Petority app:
+## Configuring Tracking Intervals:
+Follow these steps to configure the Tracking Intervals within the Petority app:
 
 1. Open the Petority App: 
 
@@ -32,7 +32,7 @@ Follow these steps to configure the Tracking intervals within the Petority app:
 
 2. Access Settings: 
 
-	Tap **User** > **Setting** > **Tracking intervals**.
+	Tap **User** > **Setting** > **Tracking Intervals**.
 
 3. Select Your Preferred Rate:
 
