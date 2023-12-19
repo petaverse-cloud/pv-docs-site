@@ -46,4 +46,4 @@ Choose a stable mobile network (mobile hotspot) for the setup to avoid issues wi
 + Restarting your router.
 + Try configuring a stable WiFi network for your device. 
 
-If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives to help you troubleshoot and resolve the issue. Ways to Contact Us: help@petority.net.
+If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives to help you troubleshoot and resolve the issue. Contact Us Via: help@petority.net.
