@@ -20,7 +20,7 @@ To embark on your pet tracking journey, you'll need to **create a Petority accou
 
 Once verified, you can use it to log in to the Petority app and start accessing its features.
 
-**Note:**
+**Important Tips:**
 
 + Make sure to use accurate and truthful information while creating your account.
 + keep your account and password secure for the safety of your account.

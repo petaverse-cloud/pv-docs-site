@@ -32,7 +32,7 @@ Check if the Petority tag is securely attached to the collar, ensuring that the 
 
 Following the Petority product instructions, [activate the tag](/docs/devices/getting-started/device-activate) and ensure all relevant information is correctly input. This way, it will be easier to locate your pet if it goes missing.
 
-**Tips:**
+**Important Tips:**
 
 + In extremely cold weather, ensure that the Petority tag and collar can withstand low temperatures.
 + Regularly check for wear and tear on the tag and collar to ensure they remain in good working condition.

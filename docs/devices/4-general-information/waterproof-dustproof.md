@@ -31,7 +31,7 @@ Petority is dedicated to crafting high-performance smart devices for pets. The e
 
 	Not just swimming but diving too! Petority's advanced waterproof performance ensures reliable operation even when submerged in water.
 
-### Special Notes
+### Important Tips:
 
 + Safety and Peace of Mind:
 

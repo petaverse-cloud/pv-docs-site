@@ -72,7 +72,7 @@ Petority provides visual cues for different heart rate ranges:
 |  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
 | High      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
-### 4. [Notification ](/docs/petority/notification/type)
+### 4. [Alert ](/docs/petority/notification/type)
 1. [Instant Fence Alerts](/docs/petority/notification/fence-event)
 	1. [Set up virtual fences](/docs/petority/features/fence) to define safe areas for your pet.🚧📢 
 	2. Receive instant [notifications](/docs/petority/notification/fence-event) on your phone if your pet leaves these designated zones.

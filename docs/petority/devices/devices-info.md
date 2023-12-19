@@ -59,7 +59,7 @@ View the battery status of both the docker and tag to ensure it’s always opera
 
     Tap the **[Setting](/docs/petority/devices/light-sound)** section to configure various options based on your pet's needs.
     
-## Note:
+## Important Tips:
 + Regularly check the device's battery level to ensure uninterrupted functionality.
 + Keep the docker connected to WiFi for seamless data synchronization and updates.
 + By familiarizing yourself with the device information and settings in the Petority app, you can optimize the care and safety of your pets while enjoying the convenience of modern technology.

@@ -23,7 +23,7 @@ Here's how you can update the Petority App on different devices:
 
 	If *Petority* is listed, tap on it, and then tap **"Update"**.
 
-*Note:*
+**Important Tips:**
 
 + Some devices may have slight variations in the steps due to *different* Android versions or *customized* interfaces.
 + If you don't see Petority listed under available updates, you are already on the latest version.

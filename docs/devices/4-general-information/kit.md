@@ -42,7 +42,7 @@ title: Petority Kit
 
 	Keep the components clean and dry. Follow the provided guidelines for cleaning and maintaining the Docker Tag and necktie.
 
-### Important Notes:
+### Important Tips:
 
 + Water Resistance:
 

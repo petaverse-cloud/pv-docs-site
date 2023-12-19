@@ -47,6 +47,6 @@ Charging Status Indicator Colors:
 | Charging   | ![battery](/img/device/gradual-change.png)  | Docker: Breathing<br/>Tag: Breathing |  
 | Charging Complete  | ![battery](/img/device/green.png)  | Docker: Steady<br/>Tag: Steady | 
 
-**Tips:**
+**Important Tips:**
 + Keep an eye on the indicator **colors** and **patterns** to understand the charging progress and status.
 + **Disconnect** the device from power once it's fully charged to prevent **overcharging**.
