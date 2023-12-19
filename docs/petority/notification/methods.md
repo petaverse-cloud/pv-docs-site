@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Notification Methods
+title: Alert Methods
 ---
 
 # Petority Notification Methods for Comprehensive Pet Care

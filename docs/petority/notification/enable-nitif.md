@@ -1,9 +1,9 @@
 ---
 sidebar_position: 4
-title: Enable Message Notifications
+title: Message Notifications
 ---
 
-# How to Enable Message Notifications in Petority
+# Enabling Message Notifications in Petority
 Petority offers **[various notifications](/docs/petority/notification/type)** to keep you informed about your pet's well-being and device status. 
 
 To ensure you receive these important notifications, follow these steps to [enable message notifications](/docs/petority/general-setting/notification) in the Petority app.
