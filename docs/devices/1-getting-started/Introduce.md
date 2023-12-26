@@ -14,23 +14,23 @@ The Petority device features a **sleek** and **minimalist** design, ensuring **c
 ## Material and Dimensions:
 ![Material](/img/devices/material.gif)
 
-Petority devices, constructed from **plastic**, combine the advantages of being **lightweight**, **durable**, **waterproof**, **cost-effective**, and featuring a flexible design, offering several advantages:
+Petority devices, constructed from **Polycarbonate**, combine the advantages of being **lightweight**, **durable**, **waterproof**, **cost-effective**, and featuring a flexible design, offering several advantages:
 
 1. Portable Lightweight:
 
-  Plastic material ensures that Petority devices are lightweight, providing comfort for pets without causing excessive burden. This makes it suitable for pets of various sizes.
+  Polycarbonate material ensures that Petority devices are lightweight, providing comfort for pets without causing excessive burden. This makes it suitable for pets of various sizes.
 
 2. Durable:
 
-  Plastic is known for its excellent wear resistance and impact resistance. It shields the device from daily collisions and abrasions, extending the overall lifespan of the device.
+  Polycarbonate is known for its excellent wear resistance and impact resistance. It shields the device from daily collisions and abrasions, extending the overall lifespan of the device.
 
 3. Waterproof and Dustproof:
 
-  Petority devices made from plastic typically feature [**waterproof** and **dustproof**](/docs/devices/general-information/waterproof-dustproof) capabilities. This allows them to function seamlessly in rainy or humid conditions, protecting the device from moisture and dust.
+  Petority devices made from Polycarbonate typically feature [**waterproof** and **dustproof**](/docs/devices/general-information/waterproof-dustproof) capabilities. This allows them to function seamlessly in rainy or humid conditions, protecting the device from moisture and dust.
 
 4. Easy Maintenance:
 
-  The smooth surface of plastic makes Petority devices [easy to clean](/docs/devices/general-information/cleaning). This simplifies maintenance for pet owners, allowing them to effortlessly keep the device clean and hygienic.
+  The smooth surface of Polycarbonate makes Petority devices [easy to clean](/docs/devices/general-information/cleaning). This simplifies maintenance for pet owners, allowing them to effortlessly keep the device clean and hygienic.
 
 ## Key Features:
 Beyond its aesthetic appeal, Petority device integrates several robust features to cater to diverse needs of pet owners.
