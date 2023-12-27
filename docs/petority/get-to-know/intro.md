@@ -82,9 +82,9 @@ Petority provides visual cues for different heart rate ranges:
 
 2. [Stay Updated](/docs/petority/notification/type)
 
-	Petority keeps you in the loop by providing real-time [alerts](/docs/petority/notification/type) about your device **battery status**, **app version updates**, and more.
+	Petority keeps you in the loop by providing real-time [alerts](/docs/petority/notification/type) about your **device battery status**, **app version updates**, and more.
 
-This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy.Experience the convenience and peace of mind that Petority brings to pet ownership.🐕‍🦺🏡
+This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy. Experience the convenience and peace of mind that Petority brings to pet ownership.🐕‍🦺🏡
 
 Download Petority now and start enjoying these features for the well-being of your furry friends.🐶🐱🦔
 

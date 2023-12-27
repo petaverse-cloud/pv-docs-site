@@ -19,8 +19,8 @@ In the alert settings, you can customize your alerts as follows:
 	Define how you want to receive alerts. Tap the section to configure various options based on your pet's needs.
 
 
-These notifications will appear in the app's [alerts](/docs/petority/notification/type) center for your convenience.
+These alerts will appear in the app's [alerts](/docs/petority/notification/type) center for your convenience.
 
 **Regularly Review Your Settings:** 
 
-It's a good practice to periodically review your notification settings to ensure you're still receiving important information about your pet. Customizing your Petority alert settings allows you to keep your pet safe while avoiding unnecessary distractions. Manage your notifications and alerts based on your needs and priorities.
+It's a good practice to periodically review your alert settings to ensure you're still receiving important information about your pet. Customizing your Petority alert settings allows you to keep your pet safe while avoiding unnecessary distractions. Manage your alerts and alerts based on your needs and priorities.
