@@ -35,7 +35,7 @@ Following the Petority product instructions, [activate the Tag](/docs/devices/ge
 
 **Important Tips:**
 
-+ In extremely cold weather, ensure that the Petority tTag and collar can withstand low temperatures.
++ In extremely cold weather, ensure that the Petority Tag and collar can withstand low temperatures.
 + Regularly check for wear and tear on the Tag and collar to ensure they remain in working condition.
 
 By correctly wearing Petority, you provide your pet with a safe and effective means of identification, making it easier to locate them at any time.
