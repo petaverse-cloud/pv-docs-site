@@ -24,7 +24,7 @@ Bluetooth plays a pivotal role in ensuring a **strong** and **reliable** connect
   
 + Seamless Data Transfer:
 
-    Bluetooth allows for seamless synchronization of data between your Petority device and the app, providing you with accurate and current information.
+   Bluetooth allows for seamless data synchronization between your Petority device and the app, providing accurate and current information.
   
 + Enhanced Safety:
 
@@ -32,6 +32,6 @@ Bluetooth plays a pivotal role in ensuring a **strong** and **reliable** connect
   
 + Ensuring Stable Connectivity:
 
-    To ensure optimal connectivity and functionality, it's essential to maintain a stable network connection on your smartphone and keep your Petority device within Bluetooth range. Regularly check your device's battery status and network signal strength to ensure consistent tracking and communication.
+    Maintain a stable network connection on your smartphone and keep your Petority device within Bluetooth range to ensure optimal functionality. Regularly check your device's battery status and network signal strength to ensure consistent tracking and communication.
 
 By leveraging the power of network connectivity and Bluetooth technology, Petority devices empower you to provide the best care for your pets. Stay connected, informed, and in control, ensuring your furry friends enjoy a safe and enriching life.

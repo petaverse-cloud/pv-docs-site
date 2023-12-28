@@ -1,13 +1,14 @@
 ---
-sidebar_position: 8
-title: Proper Communication for Your Petority
+sidebar_position: 7
+title: Proper Communication
 ---
 
-Key Steps to Ensure Proper Communication for Your Petority Device：
+# Proper Communication with Your Petority Devices
+ Key steps to ensure proper communication with your petority devices:
 
 + Network Connection: 
 
-	Ensure that both your Petority device and your smartphone are **connected** to a *stable* internet network.
+	 Ensure that your Petority device and smartphone are connected.
 + Enable Bluetooth and WiFi: 
 
 	Open your phone's settings and make sure **Bluetooth** and **WiFi** are *turned on*. 
