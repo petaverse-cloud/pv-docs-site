@@ -3,10 +3,10 @@ sidebar_position: 1
 title: Battery Charging
 --- 
 
-# Charging Docker and Tag
-To charge or activate your tag, the Tag must sit in the indention on the top side of your Petority Docker and access to electricity.
+# Battery Charging
+To charge or activate your Tag, the Tag must sit in the indention on the top side of your Petority Docker and have access to electricity.
 
-The Petority device takes **3** hours to charge from **0** to **100**%. We'll send a reminder at **10%** to recharge. See: [Alerts & Notifications](/docs/petority/notification/type)
+The Petority device takes **3** hours to charge from **0** to **100**%. We'll send a reminder at 10% to recharge your device. See: [Alerts & Notifications](/docs/petority/notification/type)
 
 ## Charging the Tag:
 
@@ -17,13 +17,13 @@ The Petority device takes **3** hours to charge from **0** to **100**%. We'll 
 	Gently place the Tag into the corresponding slot on the Docker, ensuring proper alignment and secure placement.
 + Connect the Docker to a Power Source:
 
-	Use the **USB-C** charging cable provided in the [product packaging](/docs/devices/general-information/kit) to connect the Docker to a power adapter or USB port on a computer.
+	Use the **USB-C** charging cable provided in the [product packaging](/docs/devices/general-information/kit) to connect the Docker to a computer's USB port or power adapter.
 
 + Charging Indicator Light:
 
-	The Docker is equipped with an [LED indicator light](/docs/devices/light-sound/light-color) that displays the charging status. An **gradient** light indicates that the Tag is charging, while a **green** light indicates that the Docker's battery is **fully** charged.
+	The Docker is equipped with an [LED indicator light](/docs/devices/light-sound/light-color) that displays the charging status. A **gradient light** indicates that the Tag is charging, while a **green light** means that the Docker's battery is **fully** charged.
 
-+ Wait for Charging Completion:
++ Wait for Charging to Finish:
 
 	Once the Tag is fully charged, the indicator light will stop blinking and remain green.
 
@@ -33,11 +33,11 @@ The Petority device takes **3** hours to charge from **0** to **100**%. We'll 
 
 + Connect the Docker to a Power Source:
 
-	Use the **USB-C** charging cable provided in the product packaging to connect the Docker to a power adapter or USB port on a computer.
+	Use the **USB-C** charging cable provided in the product packaging to connect the Docker to a computer's USB port or power adapter
 
 + Charging Indicator Light:
 
-	The Docker is equipped with an [LED indicator light](/docs/devices/light-sound/light-color) that displays the charging status. An **orange** light indicates that the Docker is charging, while a **green** light indicates that the Docker's battery is **fully** charged.
+	The Docker has an [Led indicator light](/docs/devices/light-sound/light-color) that displays the charging status. An **orange** light indicates that the Docker is charging, while a **green** light indicates that the Docker's battery is **fully** charged.
 
 Charging Status Indicator Colors:
 

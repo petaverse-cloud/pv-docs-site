@@ -11,10 +11,10 @@ title: Cleaning Guide
 
 2. Air Drying:
 
-	Allow the strap to air dry in a well-ventilated area to ensure complete dryness before re-wearing.
+	Allow the strap to air dry in a well-ventilated area to ensure complete dryness before your pet wears it again
 
 ## Petority Device Cleaning:
-Petority Tag waterproof rating is [IP **67**](/docs/devices/general-information/waterproof-dustproof), Petority Docker waterproof rating is [IP **53**](/docs/devices/general-information/waterproof-dustproof), but they are not suitable for washing machines. Please use the following methods:
+Although the Petority Tag is [rated IP **67** and the Docker is rated IP **53**](/docs/devices/general-information/waterproof-dustproof), they are still not suitable for machine washing. Please use the following methods: 
 
 1. Magic Eraser Cleaning:
 

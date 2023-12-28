@@ -18,7 +18,7 @@ At Petority, we are committed to ensuring you have a delightful experience with 
 
 1. Contact Support:
 
-	Reach out to our support team if you encounter any issues or wish to initiate a return. We are here to assist you.
+	Reach out to our support team if you encounter any issues or wish to return your device. We are here to assist you.
 2. Provide Information:
 
 	When contacting support, please provide relevant details such as order number, date of purchase, and a clear description of the reason for the return.

@@ -16,7 +16,7 @@ Petority is dedicated to crafting high-performance smart devices for pets. The e
 
 	Waterproof and Dustproof Rating: IP **53**
 
-	The device wards off most dust and provides resistance to rainwater spray. It is suitable for light rain and dust environments, ensuring pets' usage in various scenarios.
+	The device wards off most dust and provides resistance to rainwater spray. It is suitable for light rain and dust environments, allowing for usage in various scenarios. 
 
 ## Pet Usage Scenarios
 1. Outdoor Adventures:
@@ -25,7 +25,7 @@ Petority is dedicated to crafting high-performance smart devices for pets. The e
 
 2. Bathing Moments:
 
-	The IP67 rating enables pets to navigate bath times or stroll in the rain with ease, reveling in the joy of water droplets.
+	The IP67 rating enables pets to navigate bath times or strolling in the rain, reveling in the joy of water.
 
 3. Water Activities:
 

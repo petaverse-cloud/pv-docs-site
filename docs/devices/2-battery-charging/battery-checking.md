@@ -8,7 +8,7 @@ Keeping track of your Petority Docker & Tag's battery levels is crucial to ensur
 
 Here's how you can easily check the battery status:
 
-+ Connect Your Petority:
++ Connect your Petority Device:
 
     Ensure that both your Petority Docker and Tag are properly connected to your smartphone through the Petority app.
 
@@ -30,4 +30,4 @@ Here's how you can easily check the battery status:
 
     ![battery](/img/map/Status.jpg)
 
-The battery percentage shown in the Battery Widget and the popup may not always be in real-time sync due to slight delays in updating. However, this should give you a good indication of the approximate battery level of your Docker & Tag .
+The battery percentage shown in the Battery Widget and the popup may not always be in real-time sync due to slight delays in updating. However, this should give you a good indication of the approximate battery level of your Docker & Tag.

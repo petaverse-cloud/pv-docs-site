@@ -15,7 +15,7 @@ title: Petority Kit
 
 3. USB Charging Cable: 
 
-	A convenient and universal USB cable for charging the Docker Tag, ensuring continuous functionality.
+	A convenient and universal USB cable for charging the Docker and Tag, ensuring continuous functionality.
 4. Quick Start Guide
 
 	This user guide is designed to assist you in using Petority products correctly and ensuring the safety of your pets.
@@ -28,11 +28,11 @@ title: Petority Kit
 
 1. [Docker and Tag Placement:](/docs/devices/general-information/attaching)
 
-	Attach the Docker and Tag securely to the necktie for optimal performance and tracking accuracy.
+	Attach the Docker and Tag securely to your pet's collar for optimal performance and tracking accuracy.
 
 2. [Charging the Docker and Tag:](/docs/devices/battery-charging/battery-charging) 
 
-	When the Docker Tag needs charging, use the provided USB charging cable. Ensure the device is powered off during charging.
+	When the Docker or Tag needs charging, use the provided USB charging cable. Ensure the device is powered off during charging.
 
 3. Warranty: 
 	
@@ -40,13 +40,13 @@ title: Petority Kit
 
 4. [Care and Maintenance:](/docs/devices/general-information/cleaning)
 
-	Keep the components clean and dry. Follow the provided guidelines for cleaning and maintaining the Docker Tag and necktie.
+	Keep the components clean and dry. Follow the provided guidelinesw for cleaning and maintaining the Docker, Tag and collar.
 
 ### Important Tips:
 
 + Water Resistance:
 
-	The Docker is rated IP **53**, The Tag is rated IP **67**, providing [water resistance](/docs/devices/general-information/waterproof-dustproof). However, avoid submerging it in water to prevent potential damage.
+	While to Docker is rated IP **53** and the Tag is rated IP **67**, users should still try to avoid submerging the devices to avoid potential damage.
 
 + Charging Safety: 
 
