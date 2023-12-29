@@ -28,11 +28,11 @@ title: Petority Kit
 
 1. [Docker and Tag Placement:](/docs/devices/general-information/attaching)
 
-	Attach the Docker and Tag securely to your pet's collar for optimal performance and tracking accuracy.
+	Attach the Tag securely to your pet's collar for optimal performance and tracking accuracy.
 
 2. [Charging the Docker and Tag:](/docs/devices/battery-charging/battery-charging) 
 
-	When the Docker or Tag needs charging, use the provided USB charging cable. Ensure the device is powered off during charging.
+	When the Docker or Tag needs charging, use the provided USB charging cable.
 
 3. Warranty: 
 	
