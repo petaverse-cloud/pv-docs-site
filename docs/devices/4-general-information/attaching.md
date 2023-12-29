@@ -16,19 +16,15 @@ Before wearing your Petority Device, ensure that you have received the complete 
 
 To insert the Tag, slide it upwards into the collar frame with a curved edge. Please note that attempting to insert it from the top (downwards) is not possible and is strictly prohibited.
 
-**Step 3:** Threading the Collar
-
-Thread the collar provided in the package through both sides of the collar frame, then pass it through the buckle on the collar to adjust the size of the Tag on your pet's neck.
-
-**Step 4:** Adjusting the Size
+**Step 3:** Adjusting the Size
 
 Pass the collar through the buckle on the collar to adjust the size of the Petority tag according to your pet's neck size. Ensure the collar is neither too tight nor too loose for your pet's comfort.
 
-**Step 5:** Check for Secure Attachment
+**Step 4:** Check for Secure Attachment
 
 Check if the Petority Tag is securely attached to the collar, ensuring that the Tag won't easily come off. Gently tug on the Tag to confirm that it stays securely in the desired position.
 
-**Step 6:** Activate Petority
+**Step 5:** Activate Petority
 
 Following the Petority product instructions, [activate the Tag](/docs/devices/getting-started/device-activate) and ensure all relevant information is correctly input. This way, it will be easier to locate your pet if it goes missing.
 
