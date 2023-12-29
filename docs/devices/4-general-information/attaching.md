@@ -26,7 +26,7 @@ Check if the Petority Tag is securely attached to the collar, ensuring that the 
 
 **Step 5:** Activate Petority
 
-Following the Petority product instructions, [activate the Tag](/docs/devices/getting-started/device-activate) and ensure all relevant information is correctly input. This way, it will be easier to locate your pet if it goes missing.
+Following the Petority product instructions, [activate the Device](/docs/devices/getting-started/device-activate) and ensure all relevant information is correctly input. This way, it will be easier to locate your pet if it goes missing.
 
 
 **Important Tips:**
