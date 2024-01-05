@@ -51,7 +51,7 @@ Ensure your pet's health by monitoring their daily exercise routines. Track thei
 ![home-step](/img/get-to-know/Exercise-Monitoring-and-Real-time-Heart-Rate-Tracking.jpg)
 
 ### [3. Track Your Pet's Physical Well-being](/docs/petority/features/health-monitoring)
-asily review your pet’s health data over a desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.📈🐕
+easily review your pet’s health data over a desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.📈🐕
 
 ![Health](/img/get-to-know/Comprehensive-Health-Insights.gif)
 
