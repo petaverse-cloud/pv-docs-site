@@ -3,7 +3,7 @@ sidebar_position: 1
 title: What is Petority?
 ---
 
-#### [Always Close,Never Lost. Track your pet with a Tap!](https://www.petority.net/) 
+#### [Shaping Pets' Lives, Crafting Lasting Delights.](https://www.petority.net/) 
 Petority is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed to enhance your pet's life through a range of comprehensive services. With Petority, you can track your pet's **location**, monitor their **health**, and ensure their **safety** and **happiness**. 🐾📲
 
 #### 📥 Download Petority:📥 [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg)

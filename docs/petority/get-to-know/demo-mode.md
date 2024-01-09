@@ -6,7 +6,7 @@ title: Demo Mode
 # Petority's Demo Mode
 Petority **Demo Mode** is a specialized feature that allows users **to experience** the application's functionalities using simulated data before purchase. 
 
-“This feature proves highly beneficial for new or prospective users, providing them with an opportunity to explore the application's interface and features.
+This feature proves highly beneficial for new or prospective users, providing them with an opportunity to explore the application's interface and features.
 
 ![demo](/img/demo/Demo.jpg)
 
