@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Pet binding
+title: Pet Binding
 ---
 
 # Binding, Unbinding, and Switching Devices for Pets
