@@ -46,7 +46,7 @@ title: Petority Kit
 
 + Water Resistance:
 
-	While to Docker is rated IP **53** and the Tag is rated IP **67**, users should still try to avoid submerging the devices to avoid potential damage.
+	While the Tag is rated IP **67**, users should still try to avoid submerging the devices to avoid potential damage.
 
 + Charging Safety: 
 

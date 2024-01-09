@@ -14,9 +14,9 @@ Petority is dedicated to crafting high-performance smart devices for pets. The e
 
 + Petority Docker
 
-	Waterproof and Dustproof Rating: IP **53**
+	Waterproof Rating: Not specified
 
-	The device wards off most dust and provides resistance to rainwater spray. It is suitable for light rain and dust environments, allowing for usage in various scenarios. 
+	**Avoid** immersing Petority Docker **in water**, as it **lacks waterproof capabilities**. Ensure the device is not heavily covered in dust during use to maintain optimal performance.
 
 ## Pet Usage Scenarios
 1. Outdoor Adventures:
