@@ -28,7 +28,7 @@ If an update is available, follow the prompts to download and install it.
 
 + Make sure your device is **connected** to a stable Wi-Fi network during this process to ensure a smooth download.
 + Make sure **Bluetooth** is **turned on**.
-+ Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag onto the Docker.
++ Charge the Base using the provided **USB** cable, **align the magnets** to **attach** the Tag onto the Base.
 + Place your device as **close** to your phone as possible.
 + Ensure that your device has **sufficient** battery power.
 

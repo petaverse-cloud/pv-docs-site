@@ -5,17 +5,17 @@ title: Petority Kit
 
 ## Petority Kit Contents:
 
-1. Docker and Tag: 
+1. Base and Tag: 
 
 	The heart of Petority's intelligent tracking system, providing real-time monitoring and data collection.
 
 2. Collar:
 
-	This stylish and functional accessory houses the Docker Tag comfortably, ensuring both aesthetics and practicality.
+	This stylish and functional accessory houses the Base Tag comfortably, ensuring both aesthetics and practicality.
 
 3. USB Charging Cable: 
 
-	A convenient and universal USB cable for charging the Docker and Tag, ensuring continuous functionality.
+	A convenient and universal USB cable for charging the Base and Tag, ensuring continuous functionality.
 4. Quick Start Guide
 
 	This user guide is designed to assist you in using Petority products correctly and ensuring the safety of your pets.
@@ -26,13 +26,13 @@ title: Petority Kit
 
 ## Usage Guidelines:
 
-1. [Docker and Tag Placement:](/docs/devices/general-information/attaching)
+1. [Base and Tag Placement:](/docs/devices/general-information/attaching)
 
 	Attach the Tag securely to your pet's collar for optimal performance and tracking accuracy.
 
-2. [Charging the Docker and Tag:](/docs/devices/battery-charging/battery-charging) 
+2. [Charging the Base and Tag:](/docs/devices/battery-charging/battery-charging) 
 
-	When the Docker or Tag needs charging, use the provided USB charging cable.
+	When the Base or Tag needs charging, use the provided USB charging cable.
 
 3. Warranty: 
 	
@@ -40,7 +40,7 @@ title: Petority Kit
 
 4. [Care and Maintenance:](/docs/devices/general-information/cleaning)
 
-	Keep the components clean and dry. Follow the provided guidelinesw for cleaning and maintaining the Docker, Tag and collar.
+	Keep the components clean and dry. Follow the provided guidelinesw for cleaning and maintaining the Base, Tag and collar.
 
 ### Important Tips:
 

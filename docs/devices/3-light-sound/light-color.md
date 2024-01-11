@@ -10,13 +10,13 @@ Here's a breakdown of the various device statuses, their corresponding light col
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
 | ----------- | ----------- |----------- |----------- |
-| Normal Operation | ![battery](/img/device/green.png) | Docker: Breathing<br/>Tag: -- | Petority device is functioning normally.|
-| Low Battery | ![battery](/img/device/red.png) |Docker: Breathing<br/>Tag: -- |  Petority's battery is running low.      | 
-| Charging   | ![battery](/img/device/gradual-change.png)  | Docker: Breathing<br/>Tag: Breathing |  Petority is currently charging.   | 
-| Charging Complete  | ![battery](/img/device/green.png)  | Docker: Steady<br/>Tag: Steady |  Petority has completed charging.      | 
-| Pairing | ![battery](/img/device/gradual-change.png)  | Docker: Rainbow<br/>Tag: Rainbow  |  Petority is in pairing mode.    |
-| Signal Abnormality | ![battery](/img/device/red.png)  | Docker: Flashing<br/>Tag: -- | Offline mode. Lora signal abnormality. | 
-| Heart Rate Monitoring |  ![battery](/img/device/blue.png)  | Docker: --<br/>Tag: Breathing | Collecting the pet's heart rate. | 
+| Normal Operation | ![battery](/img/device/green.png) | Base: Breathing<br/>Tag: -- | Petority device is functioning normally.|
+| Low Battery | ![battery](/img/device/red.png) |Base: Breathing<br/>Tag: -- |  Petority's battery is running low.      | 
+| Charging   | ![battery](/img/device/gradual-change.png)  | Base: Breathing<br/>Tag: Breathing |  Petority is currently charging.   | 
+| Charging Complete  | ![battery](/img/device/green.png)  | Base: Steady<br/>Tag: Steady |  Petority has completed charging.      | 
+| Pairing | ![battery](/img/device/gradual-change.png)  | Base: Rainbow<br/>Tag: Rainbow  |  Petority is in pairing mode.    |
+| Signal Abnormality | ![battery](/img/device/red.png)  | Base: Flashing<br/>Tag: -- | Offline mode. Lora signal abnormality. | 
+| Heart Rate Monitoring |  ![battery](/img/device/blue.png)  | Base: --<br/>Tag: Breathing | Collecting the pet's heart rate. | 
 
 These light colors and behaviors help users understand the current status and operation of the Petority device, facilitating better management and usage. 
 

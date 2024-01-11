@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Battery Duration
 ---
 
-# How Long Does the Petority Docker and Tag Battery Last?
+# How Long Does the Petority Base and Tag Battery Last?
 With the right configuration, your Petority Devices can go months between charges.
 
 Performance will depend on the setup. The batter life of Petority Devices depends on several factors, including **usage frequency**, **environmental conditions**, and **charging habits**.

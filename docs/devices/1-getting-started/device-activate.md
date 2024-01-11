@@ -4,7 +4,7 @@ title: Device Activation
 ---
 
 # Device Activation
-To activate your Petority Docker & Tag, the Tag must sit ontop of your Petority Docker and have access to electricity. Charge the Docker using the provided USB cable, and align the magnets to attach the Tag and Docker. See: [Charging Docker & Tag](/docs/devices/battery-charging/battery-charging)
+To activate your Petority Base & Tag, the Tag must sit ontop of your Petority Base and have access to electricity. Charge the Base using the provided USB cable, and align the magnets to attach the Tag and Base. See: [Charging Base & Tag](/docs/devices/battery-charging/battery-charging)
 
  Here's how to reactivate your Petority device:
 1. Fully [charge your device](/docs/devices/battery-charging/battery-charging) (the light on the Petority device should turn **green** after about **2** hours).

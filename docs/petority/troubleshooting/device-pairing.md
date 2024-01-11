@@ -34,7 +34,7 @@ If pairing fails:
  
 + Check if your phone's **Bluetooth** is turned on and has an active internet connection.
 + Ensure the device is charged.
-+ Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag onto the Docker.
++ Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag onto the Base.
 + If the device turns off during pairing, [**Charge the device**](/docs/devices/battery-charging/battery-charging) before continuing.
 + Keep the device **close** to your phone during pairing.
 

@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Device Information
 ---
 
-# Docker & Tag Information 
+# Base & Tag Information 
 Petority offers a range of innovative devices designed to help you track and care for your beloved pets.These devices come equipped with various features that ensure the well-being and safety of your furry companions. 
 
 Below is a brief overview of the device information and settings available within the Petority ecosystem:
@@ -12,11 +12,11 @@ Below is a brief overview of the device information and settings available withi
 
 **Bluetooth Status:**
 
-View the bluetooth connection between the docker and your phone to ensure reliable communication 
+View the bluetooth connection between the base and your phone to ensure reliable communication 
 
 **Signal Strength:**
 
-View the signal strength between the docker and the tag to ensure reliable communication.
+View the signal strength between the base and the tag to ensure reliable communication.
 
 **GPS Status:**
 
@@ -24,12 +24,12 @@ View the GPS Status of the tag.
 
 **Battery Level:**
 
-View the battery status of both the docker and tag to ensure it’s always operational.
+View the battery status of both the base and tag to ensure it’s always operational.
 
-## Docker & Tag Settings
+## Base & Tag Settings
 + [WiFi Configuration:](/docs/petority/devices/configuring-wifi)
 
-    Connect your docker to WiFi for seamless data synchronization and enhanced functionality.
+    Connect your Base to WiFi for seamless data synchronization and enhanced functionality.
 + [Firmware Updates:](/docs/petority/devices/upgrade-firmware)
 
     Keep your device up to date with the latest features and improvements by performing firmware updates.
@@ -61,7 +61,7 @@ View the battery status of both the docker and tag to ensure it’s always opera
     
 ## Important Tips:
 + Regularly check the device's battery level to ensure uninterrupted functionality.
-+ Keep the docker connected to WiFi for seamless data synchronization and updates.
++ Keep the base connected to WiFi for seamless data synchronization and updates.
 + By familiarizing yourself with the device information and settings in the Petority app, you can optimize the care and safety of your pets while enjoying the convenience of modern technology.
 
 

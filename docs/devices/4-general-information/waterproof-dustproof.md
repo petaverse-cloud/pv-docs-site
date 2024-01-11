@@ -12,11 +12,11 @@ Petority is dedicated to crafting high-performance smart devices for pets. The e
 
 	Petority Tag offers complete protection against dust infiltration and resistance to water immersion. This ensures the utmost defense for pets, allowing them to explore the world without constraints.
 
-+ Petority Docker
++ Petority Base
 
 	**Waterproof Rating: Not specified**
 
-	**Avoid** immersing Petority Docker **in water**, as it **lacks waterproof capabilities**. Ensure the device is not heavily covered in dust during use to maintain optimal performance.
+	**Avoid** immersing Petority Base **in water**, as it **lacks waterproof capabilities**. Ensure the device is not heavily covered in dust during use to maintain optimal performance.
 
 ## Pet Usage Scenarios
 1. Outdoor Adventures:

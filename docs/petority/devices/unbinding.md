@@ -31,6 +31,6 @@ Here's a step-by-step guide on how to unpair a device:
 
 **Important Tips:**
 + Make sure **Bluetooth** is **turned on** and your phone is **connected** to a **2.4GHz** WiFi.
-+ Charge the Docker using the provided **USB** cable, **align the magnets** to **attach** the Tag onto the Docker.
++ Charge the Base using the provided **USB** cable, **align the magnets** to **attach** the Tag onto the Base.
 + Keep your phone as **close** to the device as possible.
 Once you've completed these steps, the device will **no longer** be bound with your pet. 

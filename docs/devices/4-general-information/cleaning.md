@@ -27,12 +27,12 @@ While the Petority Tag is [rated IP **67**](/docs/devices/general-information/wa
 + Avoid submerging the Tag in water.
 + Dry thoroughly before reattaching to your pet.
 
-3. Docker Rinse:
+3. Base Rinse:
 
 **Waterproof Rating: Not specified**
-+ Use a soft, dry cloth to clean the Docker.
-+ Avoid using liquids or submerging the Docker in water.
-+ Ensure the Docker is powered off during cleaning.
++ Use a soft, dry cloth to clean the Base.
++ Avoid using liquids or submerging the Base in water.
++ Ensure the Base is powered off during cleaning.
 + Wipe gently to prevent damage to electronic components.
 
 ### Precautions:
