@@ -41,7 +41,7 @@ Here's how to do it:
 
 + Pick the sound you'd like to use for your pet's recall. It could be a snippet of your voice, a whistle, or any sound that resonates with your pet.
 
-Ensure that the device is within the WiFi range. Align the magnets then attach the tag onto the docker.
+Ensure that the device is within the WiFi range. Align the magnets then attach the tag onto the Base.
 
 **Step 5:** Save and Confirm:
 
