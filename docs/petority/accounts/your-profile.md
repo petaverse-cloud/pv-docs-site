@@ -22,7 +22,7 @@ Here are the steps to edit personal details in Petority:
     This will enter the edit mode, allowing you to modify your personal details.
 4. Modify Profile:
 
-    While in edit mode, you can modify your personal details, including your **profile picture**, **nickname**, **contact information**, and more.
+    While in edit mode, you can modify your personal details, including your **profile picture**, **name**, **contact information**, and more.
 5. Save Changes:
 
     After making your edits, make sure to click the **Save** button to save your modifications.

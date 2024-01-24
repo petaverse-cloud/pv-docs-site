@@ -30,6 +30,6 @@ To Change the email of your account, follow these steps:
 
     Check your new email inbox for the verification email and follow the provided instructions to complete the account verification process for your new email address.
 
-Your Petority account's email address will be successfully updated to the new one you've provided. This ensures that your account information remains accurate and up-to-date. Make sure to use accurate and truthful information throughout the email change process for security and authentication purposes.
+Your Petority account's email address will be successfully updated to the new one you've provided. This ensures that your account information remains accurate and up-to-date. Make sure to use accurate and truthful information throughout the email change process for security and authentication purposes. 
 
 

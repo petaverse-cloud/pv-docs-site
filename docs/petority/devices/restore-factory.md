@@ -20,7 +20,7 @@ Tap **User** > **Device** > **Setting**
 
 **Step 3:** Choose Factory Reset
 
-Tap **Factory Reset**
+Tap **Factory reset**
 
 **Step 4:** Confirm the Action
 
