@@ -24,7 +24,7 @@ Petority's intelligent pet management device comes with a feature to control its
 
 1. Open the Petority application on your mobile device.
 
-2. Tap **User** > **Device** > **Tag Setting**.
+2. Tap **User** > **Device** > **Tag setting**.
 
 3. Find the Tag Lights settings option.
 
