@@ -40,7 +40,7 @@ This simulation helps users better understand how the application's features ope
     Users can simulate a variety of scenarios, such as tracking pet movements or monitoring health data, allowing them to witness the app's functionalities in action.
 
 ### Transitioning from Demo Mode in Petority
-If you're ready to transition from Demo Mode to the full functionality of the app with [actual Petority devices](img/logo.svg), here's how you can do it:
+If you're ready to transition from Demo Mode to the full functionality of the app with actual Petority devices, here's how you can do it:
 
 + Pairing Your Device. See:[Device Pairing](/docs/petority/devices/device-pairing)
 

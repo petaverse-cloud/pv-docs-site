@@ -18,7 +18,7 @@ Follow these steps to pair your device:
 
 1. Download and Install the App:
 
-    Start by downloading the Petority app from the [Apple App Store (iOS)](/img/logo.svg) or [Google Play Store (Android)](/img/logo.svg). Install the app on your smartphone.
+    Start by downloading the Petority app from the Apple App Store (iOS) or Google Play Store (Android). Install the app on your smartphone.
 2. Create or Log In to Your Account:
 	1. If you're a new user, [create a Petority account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
 	2. If you already have an account, **log in** using your credentials.
