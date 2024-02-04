@@ -1,35 +1,32 @@
 ---
-sidebar_position: 4
-title: Cleaning Guide
+sidebar_position: 3
+title: Limited Warranty Policy
 ---
 
 # Petority Device & Collar Cleaning Guide
 ## Collar Cleaning:
 1. Sink Cleaning:
 
-	Use warm water and a cleaning agent to clean the strap. Place the strap in a mesh bag and wash it in warm water with a gentle detergent to ensure thorough cleaning.
+Use warm water and a cleaning agent to clean the strap. Place the strap in a mesh bag and wash it in warm water with a gentle detergent to ensure thorough cleaning.
 
 2. Air Drying:
 
-	Allow the strap to air dry in a well-ventilated area to ensure complete dryness before your pet wears it again
+Allow the strap to air dry in a well-ventilated area to ensure complete dryness before your pet wears it again
 
-## Petority Device Cleaning:
-While the Petority Tag is [rated IP **67**](/docs/devices/general-information/waterproof-dustproof), it is not suitable for machine washing. Please use alternative cleaning methods:
+Petority Device Cleaning:
+While the Petority Tag is waterproof, it is not suitable for machine washing. Please use alternative cleaning methods:
+
 1. Magic Eraser Cleaning:
 
-	For slight wear or marks, it is recommended to gently wipe the Tag with a magic eraser. Avoid using alcohol to clean the module to prevent damage.
+For slight wear or marks, it is recommended to gently wipe the Tag with a magic eraser. Avoid using alcohol to clean the module to prevent damage.
 
 2. Tag Rinse:
 
-**Waterproof Rating: IP 67**
 + Use a damp cloth with mild soap or a pet-safe disinfectant.
 + Gently wipe the surface of the Tag.
 + Avoid submerging the Tag in water.
 + Dry thoroughly before reattaching to your pet.
-
 3. Base Rinse:
-
-**Waterproof Rating: Not specified**
 + Use a soft, dry cloth to clean the Base.
 + Avoid using liquids or submerging the Base in water.
 + Ensure the Base is powered off during cleaning.

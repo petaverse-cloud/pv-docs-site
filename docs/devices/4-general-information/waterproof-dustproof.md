@@ -8,28 +8,13 @@ Petority is dedicated to crafting high-performance smart devices for pets. The e
 
 + Petority Tag
 
-	**Waterproof and Dustproof Rating: IP 67**
+	**Waterproof and Dustproof Rating**
 
 	Petority Tag offers complete protection against dust infiltration and resistance to water immersion. This ensures the utmost defense for pets, allowing them to explore the world without constraints.
 
 + Petority Base
 
-	**Waterproof Rating: Not specified**
-
 	**Avoid** immersing Petority Base **in water**, as it **lacks waterproof capabilities**. Ensure the device is not heavily covered in dust during use to maintain optimal performance.
-
-## Pet Usage Scenarios
-1. Outdoor Adventures:
-
-	Petority devices accompany pets on outdoor adventures in diverse terrains such as deserts, forests, or mountains, without concern for dust interference.
-
-2. Bathing Moments:
-
-	The IP67 rating enables pets to navigate bath times or strolling in the rain, reveling in the joy of water.
-
-3. Water Activities:
-
-	Not just swimming but diving too! Petority's advanced waterproof performance ensures reliable operation even when submerged in water.
 
 ### Important Tips:
 
