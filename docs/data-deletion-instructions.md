@@ -5,7 +5,7 @@ title: Data Deletion Instructions
 
 # Data Deletion Instructions
 
-Effective Date: [Date]
+Effective as of January 29, 2024.
 
 Introduction:
 
