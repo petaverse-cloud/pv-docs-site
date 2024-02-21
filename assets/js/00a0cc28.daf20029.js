@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpv_docs_site=self.webpackChunkpv_docs_site||[]).push([[5112],{472:t=>{t.exports=JSON.parse('{"title":"Get to Know","slug":"/category/get-to-know","permalink":"/docs/category/get-to-know","navigation":{"next":{"title":"What is Petority?","permalink":"/docs/petority/get-to-know/intro"}}}')}}]);
