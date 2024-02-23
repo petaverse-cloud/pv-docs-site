@@ -21,9 +21,9 @@ To insert the Tag, slide it upwards into the collar frame with a curved edge. Pl
 
 Thread the band that's provided in the package through both sides of the band frame. Then pass it through the buckle on the band to adjust the size of the TAG on your pet's neck.
 
-**Step 4:** QR Card
+**Step 4:** QR Plate
 
-Attach the QR Card to the band as a safety measure in case your furry friends get a little too adventurous. 
+Attach the QR Plate to the band as a safety measure in case your furry friends get a little too adventurous. 
 
 **Step 5:** Check for Secure Attachment
 
