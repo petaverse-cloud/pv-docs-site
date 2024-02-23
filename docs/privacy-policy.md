@@ -125,6 +125,7 @@ In this section, we outline the rights and choices available to all users:
 + Access, Query, Update, Correct Your Personal Information: If you have registered an account through the service, you can view and update certain account information by logging into the service and accessing the account settings section.
 + Opt-Out of Marketing: You can contact us to opt-out of marketing-related emails. Please note that if you choose to refuse marketing-related emails, you may still receive service-related and other non-marketing emails.
 + Enable or Disable Location Access: You can disable our access to your device's precise location in your mobile device settings. However, please note that if you disable our access to your device's Bluetooth connection, we may not be able to provide location tracking services for your Petority Smart Collar.
+
 **Privacy Settings:** 
 
 We provide certain privacy settings on the service, including options to opt-out of any social features within the application.

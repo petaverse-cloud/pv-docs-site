@@ -62,7 +62,3 @@ If you have any concerns or questions about this Agreement or the account deleti
 ## Acceptance of Agreement:
 
 By submitting an account deletion request, you confirm that you have read, understood, and agreed to all the terms and conditions of this Agreement.
-
-[Petority]
-
-[Date]
