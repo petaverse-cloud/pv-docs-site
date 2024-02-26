@@ -16,11 +16,16 @@ title: Petority Kit
 3. USB Charging Cable: 
 
 	A convenient and universal USB cable for charging the Base and Tag, ensuring continuous functionality.
-4. Quick Start Guide
+
+4. [QR Plate](/docs/petority/features/qr-code)
+
+	Each pet is equipped with a QR Plate, boldly labeled with a unique QR code. It's essential for device pairing and in case your pet goes missing.
+
+5. Quick Start Guide
 
 	This user guide is designed to assist you in using Petority products correctly and ensuring the safety of your pets.
 
-5. Warranty: 
+6. Warranty: 
 
 	Petority provides a warranty for your kit, ensuring peace of mind and support for any unforeseen issues.
 
