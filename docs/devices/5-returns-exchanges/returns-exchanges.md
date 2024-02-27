@@ -3,7 +3,6 @@ sidebar_position: 1
 title: Return Policy
 ---
 
-# What is Petority's Return Policy?
 At Petority, we are committed to ensuring you have a delightful experience with our products. In the event that your device or our application encounters technical difficulties, we are eager to have the opportunity to address the issue. If you have any questions or feedback, please reach out to our support team. However, if you still wish to proceed with a return, please refer to the information below for details on how our return policy operates.
 
 + **Petority.net Purchases:**
