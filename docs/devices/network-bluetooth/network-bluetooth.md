@@ -28,7 +28,7 @@ Bluetooth plays a pivotal role in ensuring a **strong** and **reliable** connect
   
 + Enhanced Safety:
 
-    The combination of network and Bluetooth connectivity offers comprehensive safety features, helping you keep a close eye on your pet's well-being.
+    The combination of Network and Bluetooth connectivity offers comprehensive safety features, helping you keep a close eye on your pet's well-being.
   
 + Ensuring Stable Connectivity:
 
