@@ -10,7 +10,7 @@ Here's what you need to know about the tracking range of Petority:
 
 + GPS and Network Coverage:
 
-    Petority relies on GPS technology and network coverage to provide accurate location information. As long as your pet is within an area with network connectivity, you can track their location. TThis means that the tracking range can be quite extensive in urban and well-connected areas.
+    Petority relies on GPS technology and network coverage to provide accurate location information. As long as your pet is within an area with network connectivity, you can track their location. This means that the tracking range can be quite extensive in urban and well-connected areas.
 + Open Spaces vs. Obstacles:
   
     You can expect a broader tracking range in open outdoor spaces, such as parks or fields. However, the tracking range might be limited due to potential signal interference while your pet is indoors or in areas with dense vegetation or many buildings.
@@ -21,6 +21,6 @@ Here's what you need to know about the tracking range of Petority:
 
 + Keep in Mind:
   
-   It's important to note that Petority's large tracking range may be limited by the abovementioned factors.  Try to ensure your pet's collar or tag has a clear line of sight to the sky to receive optimal GPS signals.
+   It's important to note that Petority's large tracking range may be limited by the abovementioned factors. Try to ensure your pet's collar or tag has a clear line of sight to the sky to receive optimal GPS signals.
 
 Petority devices are designed to help you track your dog's location effectivley, providing peace of mind whether your pet is nearby or exploring a bit farther from home.
