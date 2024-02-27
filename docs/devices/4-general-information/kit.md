@@ -9,11 +9,11 @@ title: Petority Kit
 
 	The heart of Petority's intelligent tracking system, providing real-time monitoring and data collection.
 
-2. Collar:
+2. [Collar:](/docs/devices/general-information/attaching)
 
 	This stylish and functional accessory houses the Base Tag comfortably, ensuring both aesthetics and practicality.
 
-3. USB Charging Cable: 
+3. [USB Charging Cable:](/docs/devices/battery-charging/battery-charging) 
 
 	A convenient and universal USB cable for charging the Base and Tag, ensuring continuous functionality.
 
