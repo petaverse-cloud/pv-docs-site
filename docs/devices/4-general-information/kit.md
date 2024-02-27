@@ -5,7 +5,7 @@ title: Petority Kit
 
 ## Petority Kit Contents:
 
-1. Base and Tag: 
+1. [Base and Tag:](/docs/devices/getting-started/intro) 
 
 	The heart of Petority's intelligent tracking system, providing real-time monitoring and data collection.
 
