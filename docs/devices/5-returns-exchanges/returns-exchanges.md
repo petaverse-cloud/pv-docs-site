@@ -22,21 +22,35 @@ To qualify for a return, customers need to meet the following conditions:
 
 	If you made your purchase through an authorized dealer such as Amazon, the return of your Petority tracker is subject to the seller's return policy. Please adhere to the dealer's policies regarding returns.
 
-2. **Obtain RMA Number:** Customers need to request a Return Merchandise Authorization (RMA) number through our application form within 30 days of purchase. This number is essential for the smooth processing of returns.
+2. **Obtain RMA Number:** 
 
-3. **Product Condition:** The returned Petority product must be in good, clean physical condition and packaged in its original packaging or equivalent protective packaging.
+	Customers need to request a Return Merchandise Authorization (RMA) number through our application form within 30 days of purchase. This number is essential for the smooth processing of returns.
 
-4. **Included Items:** Returns must include original accessories and documentation to ensure the complete return of the product.
+3. **Product Condition:** 
+
+	The returned Petority product must be in good, clean physical condition and packaged in its original packaging or equivalent protective packaging.
+
+4. **Included Items:** 
+
+	Returns must include original accessories and documentation to ensure the complete return of the product.
 
 ### Return Process:
 
-1. **Request RMA Number:** Customers are required to apply for an RMA number through our application form within the return period. Upon submission, we will confirm and provide the RMA number within 2 business days.
+1. **Request RMA Number:** 
 
-2. **Prepare for Return:** Customers need to prepare the return items according to the shipping instructions provided and ensure that the items are intact and well-packaged.
+	Customers are required to apply for an RMA number through our application form within the return period. Upon submission, we will confirm and provide the RMA number within 2 business days.
 
-3. **Send the Return:** Customers should send the return items along with the RMA number to the address specified by Petority. It is recommended to use a tracking service to ensure the safety of the return.
+2. **Prepare for Return:** 
 
-4. **Refund Processing:** Upon receiving and inspecting the returned items, we will send a confirmation email and process the refund. Refunds will be processed within 2 weeks of receiving the return items.
+	Customers need to prepare the return items according to the shipping instructions provided and ensure that the items are intact and well-packaged.
+
+3. **Send the Return:** 
+
+	Customers should send the return items along with the RMA number to the address specified by Petority. It is recommended to use a tracking service to ensure the safety of the return.
+
+4. **Refund Processing:** 
+
+	Upon receiving and inspecting the returned items, we will send a confirmation email and process the refund. Refunds will be processed within 2 weeks of receiving the return items.
 
 ### Additional Terms and Conditions:
 
