@@ -236,10 +236,10 @@ Nothing in the Agreement or otherwise limits Petority's right to object to subpo
 
 **Entire Agreement.** The Agreement incorporates the following legal documents by reference, as well as any other policies or procedures referenced herein that are posted to the Petority Offerings from time to time:
 
-+ Privacy Policy
-+ Limited Warranty
-+ Extended Hardware Warranty
-+ Return Policy
++ [Privacy Policy](/docs/privacy-policy)
++ [Limited Warranty](/docs/devices/returns-exchanges/limited-warranty)
++ [Extended Hardware Warranty](/docs/devices/returns-exchanges/extend-warranty)
++ [Return Policy](/docs/devices/returns-exchanges/returns-exchanges)
 
 If there is a conflict between any policies posted on the Petority Offerings and the terms of the Agreement, the terms of the Agreement will control. The Agreement represents the entire understanding between Petority and you and supersedes all prior agreements and understandings regarding the same.
 
