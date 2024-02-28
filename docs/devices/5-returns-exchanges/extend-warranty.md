@@ -14,11 +14,17 @@ Extend the standard warranty coverage for your Petority products with our Extend
 
 ## Benefits:
 
-- **Extended Protection:** Enjoy an extended period of coverage beyond the standard warranty period, providing you with peace of mind for a longer duration.
+- **Extended Protection:** 
 
-- **Comprehensive Coverage:** The Extended Hardware Warranty covers defects in materials and workmanship, ensuring that your Petority products continue to perform optimally.
+	Enjoy an extended period of coverage beyond the standard warranty period, providing you with peace of mind for a longer duration.
 
-- **Convenient Service:** Access hassle-free repairs or replacements for covered products, with Petority's dedicated support team ready to assist you throughout the warranty period.
+- **Comprehensive Coverage:** 
+
+	The Extended Hardware Warranty covers defects in materials and workmanship, ensuring that your Petority products continue to perform optimally.
+
+- **Convenient Service:** 
+
+	Access hassle-free repairs or replacements for covered products, with Petority's dedicated support team ready to assist you throughout the warranty period.
 
 ## Eligibility:
 
