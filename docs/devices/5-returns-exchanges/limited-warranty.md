@@ -4,11 +4,10 @@ title: Limited Warranty Policy
 ---
 
 # Limited Warranty Policy
-**Petority Hardware Warranty Policy**
 
 **Six-Month Limited Warranty**
 
-**Warranty Period:**
+## Warranty Period:
 
 **Six months** from the retail purchase date or, for online orders, from the confirmed delivery date as documented by postal delivery confirmation.
 
@@ -28,7 +27,7 @@ Petority will, at its discretion:
 2. Exchange the defective product with a new or refurbished product or a reasonably equivalent product.
 3. Refund the purchase price if replacement is deemed unreasonable.
 
-**How to Obtain Warranty Service:**
+## How to Obtain Warranty Service
 
 1. Fill out the warranty service form.
 2. Obtain a Return Merchandise Authorization (RMA) from Petority's support team.
