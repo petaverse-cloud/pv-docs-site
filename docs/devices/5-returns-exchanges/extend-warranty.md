@@ -4,24 +4,42 @@ title: Extended Hardware Warranty
 ---
 
 
-At Petority, we strive to provide our customers with the highest quality products and exceptional customer service. As part of our commitment to customer satisfaction, we offer an Extended Hardware Warranty Policy to provide additional protection and peace of mind for your Petority hardware products.
+# Extended Hardware Warranty
 
-**Coverage Period:**
+**Additional Coverage for Peace of Mind**
 
-The Petority Extended Hardware Warranty extends the coverage beyond the standard limited warranty period, offering additional protection for a designated extended period of time. This extended coverage begins after the initial **Six months** warranty period provided with the purchase of your product.
+## Warranty Extension:
 
-**Purchase Option:**
+Extend the standard warranty coverage for your Petority products with our Extended Hardware Warranty.
 
-The Extended Hardware Warranty can be purchased separately from the product and must be acquired within a specified time frame following the original purchase date. This option allows customers to enhance their protection and extend the warranty coverage for their Petority hardware products.
+## Benefits:
 
-**Enhanced Protection:**
+- **Extended Protection:** Enjoy an extended period of coverage beyond the standard warranty period, providing you with peace of mind for a longer duration.
 
-With the Extended Hardware Warranty, customers can continue to enjoy coverage for material and manufacturing defects, providing added peace of mind during the extended period. This enhanced protection ensures that your Petority hardware products remain safeguarded against unforeseen issues beyond the standard warranty period.
+- **Comprehensive Coverage:** The Extended Hardware Warranty covers defects in materials and workmanship, ensuring that your Petority products continue to perform optimally.
 
-**Terms and Conditions:** 
+- **Convenient Service:** Access hassle-free repairs or replacements for covered products, with Petority's dedicated support team ready to assist you throughout the warranty period.
 
-The terms and conditions of the Extended Hardware Warranty, including coverage period, exclusions, and claims process, are outlined in the warranty documentation provided at the time of purchase. Customers are encouraged to review the warranty terms carefully to understand the coverage scope and conditions.
+## Eligibility:
 
-**Customer Support:**
+The Extended Hardware Warranty is available for purchase within a specified time frame after your initial product purchase. Please refer to the terms and conditions for eligibility details.
 
-For inquiries or assistance regarding the Extended Hardware Warranty, customers can contact Petority Customer Support at help@petority.com for guidance and support. Our dedicated support team is available to address any questions or concerns related to the extended warranty coverage.
+## How to Purchase:
+
+To purchase the Extended Hardware Warranty for your Petority products, visit our website or contact our customer service team. You will need to provide details of your original product purchase for validation.
+
+## Terms and Conditions:
+
+- The Extended Hardware Warranty extends the coverage period beyond the standard warranty period for eligible Petority products.
+  
+- Coverage under the Extended Hardware Warranty is subject to the terms and conditions outlined in the warranty agreement.
+
+- Warranty extensions must be purchased within the specified time frame after the initial product purchase to be eligible for coverage.
+
+- The Extended Hardware Warranty does not cover accidental damage, misuse, or unauthorized modifications to the covered products.
+
+- Petority reserves the right to determine the eligibility of products for warranty extension and may reject applications that do not meet the specified criteria.
+
+## Contact Us:
+
+For inquiries about the Extended Hardware Warranty or assistance with purchasing, please contact our customer service team at help@petority.com. We are here to help ensure your Petority products are protected for years to come.
