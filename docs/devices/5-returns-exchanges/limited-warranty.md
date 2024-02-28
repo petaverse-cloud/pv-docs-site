@@ -26,9 +26,13 @@ If Petority determines that replacing the defective covered product is unreasona
 
 ## How to Obtain Warranty Service?
 
-- To obtain warranty service, fill out the warranty service form. You must first obtain a Return Merchandise Authorization (RMA), which you can request from our support team at help@petority.net. In your request, include the serial number of the warranty product, a brief description of the reason for your return, photos of the damage or defect (where visible), and a description of the steps you have taken to address the issue. Proof of purchase details may also be required to obtain an RMA.
+- To obtain warranty service, fill out the warranty service form. You must first obtain a Return Merchandise 
 
-- Upon receipt of an RMA, deliver the defective warranty product (using its original packaging or equivalent protective packaging) along with proof of purchase indicating the purchase date to the address specified by Petority. By sending the covered product, you confirm that upon Petority's receipt of the defective covered product, ownership of the covered product transfers to us. If Petority determines that the claim is reasonable under this limited warranty, Petority will bear the cost of shipping the repaired or replacement warranty product to you. Any warranty product returned to Petority without a valid warranty claim or RMA may be refused, returned at your expense (prepaid), or disposed of at Petority's sole discretion, with no further liability or obligation to you.
+	Authorization (RMA), which you can request from our support team at help@petority.net. In your request, include the serial number of the warranty product, a brief description of the reason for your return, photos of the damage or defect (where visible), and a description of the steps you have taken to address the issue. Proof of purchase details may also be required to obtain an RMA.
+
+- Upon receipt of an RMA, deliver the defective warranty product (using its original packaging or equivalent protective 
+
+	packaging) along with proof of purchase indicating the purchase date to the address specified by Petority. By sending the covered product, you confirm that upon Petority's receipt of the defective covered product, ownership of the covered product transfers to us. If Petority determines that the claim is reasonable under this limited warranty, Petority will bear the cost of shipping the repaired or replacement warranty product to you. Any warranty product returned to Petority without a valid warranty claim or RMA may be refused, returned at your expense (prepaid), or disposed of at Petority's sole discretion, with no further liability or obligation to you.
 
 ## Exclusions and Limitations:
 
