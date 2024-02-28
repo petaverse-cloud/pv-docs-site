@@ -18,7 +18,7 @@ The Extended Hardware Warranty can be purchased separately from the product and 
 
 With the Extended Hardware Warranty, customers can continue to enjoy coverage for material and manufacturing defects, providing added peace of mind during the extended period. This enhanced protection ensures that your Petority hardware products remain safeguarded against unforeseen issues beyond the standard warranty period.
 
-**Terms and Conditions:**
+**Terms and Conditions:** 
 
 The terms and conditions of the Extended Hardware Warranty, including coverage period, exclusions, and claims process, are outlined in the warranty documentation provided at the time of purchase. Customers are encouraged to review the warranty terms carefully to understand the coverage scope and conditions.
 

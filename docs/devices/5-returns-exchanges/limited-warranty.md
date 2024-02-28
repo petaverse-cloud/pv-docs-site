@@ -5,8 +5,7 @@ title: Limited Warranty Policy
 
 # Limited Warranty Policy
 
-**Six-Month Limited Warranty**
-
+## Six-Month Limited Warranty
 ## Warranty Period:
 
 **Six months** from the retail purchase date or, for online orders, from the confirmed delivery date as documented by postal delivery confirmation.
