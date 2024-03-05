@@ -3,7 +3,7 @@ sidebar_position: 3
 title: Battery Duration
 ---
 
-# Maximizing Petority Device Battery Life: Tips for Long-lasting Performance
+# Maximizing Petority Device Battery Life
 
 Performance will depend on the setup. The batter life of Petority Devices depends on several factors, including **usage frequency**, **environmental conditions**, and **charging habits**.
 

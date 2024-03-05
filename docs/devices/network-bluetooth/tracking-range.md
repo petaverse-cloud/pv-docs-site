@@ -6,6 +6,10 @@ title: Tracking Range
 # How Far Can It Track My Dog?
 Petority offers a reliable tracking solution to help you keep tabs on your furry friend, but the tracking range can vary based on factors like network coverage and terrain. 
 
+**Optimal range:**
+
+**1-2 kilometers** from the base station. Petority devices provide reliable real-time pet tracking within this distance.
+
 Here's what you need to know about the tracking range of Petority:
 
 + GPS and Network Coverage:

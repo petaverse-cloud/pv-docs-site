@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: Outstanding Battery Performance
+title: Battery Performance
 --- 
 
 
