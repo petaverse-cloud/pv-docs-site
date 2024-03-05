@@ -6,7 +6,17 @@ title: Battery Charging
 # Battery Charging
 To charge or activate your Tag, the Tag must sit in the indention on the top side of your Petority Base and have access to electricity.
 
-The Petority device takes **3** hours to charge from **0** to **100**%. We'll send a reminder at 10% to recharge your device. See: [Alerts & Notifications](/docs/petority/notification/type)
+**Device Charging Time：**
+
+The Petority device takes approximately **3** hours and **15** minutes to charge. Users simply need to connect the device to a power source and wait for the charging process to complete. Once fully charged, the device will reach 100% battery level.
+
+**Battery Level Alert Functionality：**
+
+Low Battery Alerts: When the device battery level drops below ten percent or is about to shut down, the Petority device automatically sends low battery alert notifications.
+
+To assist users in managing device battery levels effectively, the Petority device also provides charging reminder functionality. See: [Alerts & Notifications](/docs/petority/notification/type)
+
+Users can [set reminders to be sent when the battery level drops below ten percent](/docs/petority/general-setting/notification), ensuring timely charging to maintain normal device operation.
 
 ## Charging the Tag:
 

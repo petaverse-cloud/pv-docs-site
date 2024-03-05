@@ -3,7 +3,7 @@ sidebar_position: 8
 title: QR Plate
 ---
 
-**Introducing QR Plate: Your Pet's Safety Identifier**
+**Your Pet's Safety Identifier.**
 
 [QR Plate is a unique identifier equipped with a QR code designed for your pet's safety.](/docs/petority/features/qr-code) Each QR Plate contains a distinctive QR code that can be scanned by anyone who finds your pet. 
 
