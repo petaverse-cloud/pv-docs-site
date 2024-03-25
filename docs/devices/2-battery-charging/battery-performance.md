@@ -8,8 +8,8 @@ Petority devices exhibit remarkable battery performance:
 
 **Extended Standby Time** 
 
-1. The tag boasts an impressive standby time of up to **4000 hours**.
-2. The base station extends this capability to an astounding **8000 hours**.
+1. The tag boasts an impressive standby time of up to **--hours**.
+2. The base station extends this capability to an astounding **--hours**.
    
 This means that even during prolonged periods of non-use, the device's battery maintains its integrity.
 
@@ -17,10 +17,10 @@ This means that even during prolonged periods of non-use, the device's battery m
 
 - **High-Frequency Usage:** 
 
-	Capable of sustaining operation for **5 hours** under high-frequency reporting mode, meeting short-term, high-frequency data transmission demands.
+	Capable of sustaining operation for **--hours** under high-frequency reporting mode, meeting short-term, high-frequency data transmission demands.
   
 - **Low-Frequency Usage:** 
 
-	Able to operate continuously for **a week**.
+	Able to operate continuously for **--week**.
 
 The battery performance of Petority devices ensures prolonged reliability and flexibility.

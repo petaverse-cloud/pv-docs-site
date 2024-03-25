@@ -8,7 +8,7 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Download the App:
 
-    First, download the Petority app from the App Store (iOS) or Google Play Store (Android) and install it on your smartphone.
+    First, download the Petority app from the [App Store (iOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app) and install it on your smartphone.
 
 + Create an Account:
 
