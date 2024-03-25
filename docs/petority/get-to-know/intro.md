@@ -6,7 +6,7 @@ title: What is Petority?
 #### [Shaping Pets' Lives, Crafting Lasting Delights.](https://www.petority.net/) 
 Petority is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed to enhance your pet's life through a range of comprehensive services. With Petority, you can track your pet's **location**, monitor their **health**, and ensure their **safety** and **happiness**. 🐾📲
 
-#### 📥 Download Petority:📥 Apple App Store (IOS) or Google Play Store (Android)
+#### 📥 Download Petority:📥 [Apple App Store (IOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app)
 **The Petority mobile app is compatible with the following devices:**
 + iPhone with iOS **11** or above.📱
 + Android devices with operating system **7.0** and above (Google Play Services required).
