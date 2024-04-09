@@ -8,7 +8,7 @@ To charge or activate your Tag, the Tag must sit in the indention on the top sid
 
 **Device Charging Time：**
 
-The Petority device takes approximately **3** hours and **15** minutes to charge. Users simply need to connect the device to a power source and wait for the charging process to complete. Once fully charged, the device will reach 100% battery level.
+The Petority Base takes approximately **3.35** hours to charge, while the Tag takes approximately **4** hours to charge. Simply connect the device to a power source and wait for the charging process to complete. Once fully charged, the device will reach 100% battery level.
 
 **Battery Level Alert Functionality：**
 

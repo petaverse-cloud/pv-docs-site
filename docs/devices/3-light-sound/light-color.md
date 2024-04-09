@@ -10,7 +10,7 @@ Here's a breakdown of the various device statuses, their corresponding light col
 
 | Device Status  | Light Color | Light Behavior |  Meaning |
 | ----------- | ----------- |----------- |----------- |
-| Normal Operation | ![battery](/img/device/green.png) | Base: Breathing<br/>Tag: -- | Petority device is functioning normally.|
+| Normal Operation | ![battery](/img/device/green.png) | Base: Breathing<br/>Tag: Breathing | Petority device is functioning normally.|
 | Low Battery | ![battery](/img/device/red.png) |Base: Breathing<br/>Tag: -- |  Petority's battery is running low.      | 
 | Charging   | ![battery](/img/device/gradual-change.png)  | Base: Breathing<br/>Tag: Breathing |  Petority is currently charging.   | 
 | Charging Complete  | ![battery](/img/device/green.png)  | Base: Steady<br/>Tag: Steady |  Petority has completed charging.      | 
