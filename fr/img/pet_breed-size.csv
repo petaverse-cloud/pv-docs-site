@@ -1,0 +1,285 @@
+Id,Name,Size
+1,Affenpinscher,XSmall
+2,Afghan hound,Large
+3,Airedale terrier,Large
+4,Akita,XLarge
+5,Alaskan klee kai,Medium
+6,Alaskan malamute,Large
+7,American bulldog,Large
+8,American english coonhound,Large
+9,American eskimo dog,Small
+10,American foxhound,Large
+11,American hairless terrier,Small
+12,American leopard hound,Large
+13,American staffordshire terrier,Medium
+14,American water spaniel,Medium
+15,Anatolian shepherd dog,XLarge
+16,Appenzeller sennenhund,Medium
+17,Australian cattle dog,Medium
+18,Australian kelpie,Medium
+19,Australian shepherd,Medium
+20,Australian stumpy tail cattle dog,Medium
+21,Australian terrier,Small
+22,Azawakh,Large
+23,Barbado da terceira,Medium
+24,Barbet,Medium
+25,Basenji,Small
+26,Basset fauve de bretagne,Medium
+27,Basset hound,Medium
+28,Bavarian mountain scent hound,Medium
+29,Beagle,Small
+30,Bearded collie,Medium
+31,Beauceron,Large
+32,Bedlington terrier,Small
+33,Belgian laekenois,Medium
+34,Belgian malinois,Large
+35,Belgian sheepdog,Large
+36,Belgian tervuren,Large
+37,Bergamasco sheepdog,Large
+38,Berger picard,Large
+39,Bernese mountain dog,XLarge
+40,Bichon frise,Small
+41,Biewer terrier,XSmall
+42,Black and tan coonhound,Large
+43,Black russian terrier,Large
+44,Bloodhound,Large
+45,Bluetick coonhound,Large
+46,Boerboel,XLarge
+47,Bohemian shepherd,Medium
+48,Bolognese,XSmall
+49,Border collie,Medium
+50,Border terrier,Small
+51,Borzoi,XLarge
+52,Boston terrier,Small
+53,Bouvier des flandres,Large
+54,Boxer,Large
+55,Boykin spaniel,Medium
+56,Bracco italiano,Large
+57,Braque du bourbonnais,Medium
+58,Braque francais pyrenean,Medium
+59,Briard,Large
+60,Brittany,Medium
+61,Broholmer,XLarge
+62,Brussels griffon,XSmall
+63,Bull terrier,Medium
+64,Bulldog,Medium
+65,Bullmastiff,XLarge
+66,Cairn terrier,Small
+67,Canaan dog,Medium
+68,Cane corso,Large
+69,Cardigan welsh corgi,Small
+70,Carolina dog,Medium
+71,Catahoula leopard dog,Large
+72,Caucasian shepherd dog,XLarge
+73,Cavalier king charles spaniel,Small
+74,Central asian shepherd dog,Large
+75,Cesky terrier,Small
+76,Chesapeake bay retriever,Large
+77,Chihuahua,XSmall
+78,Chinese crested,XSmall
+79,Chinese shar-pei,Medium
+80,Chinook,Large
+81,Chow chow,Medium
+82,Cirneco dell¡¯etna,Medium
+83,Clumber spaniel,Medium
+84,Cocker spaniel,Small
+85,Collie,Medium
+86,Coton de tulear,Small
+87,Croatian sheepdog,Medium
+88,Curly-Coated retriever,Large
+89,Czechoslovakian vlcak,Medium
+90,Dachshund,Small
+91,Dalmatian,Medium
+92,Dandie dinmont terrier,Small
+93,Danish-Swedish farmdog,Small
+94,Deutscher wachtelhund,Medium
+95,Doberman pinscher,Large
+96,Dogo argentino,Large
+97,Dogue de bordeaux,XLarge
+98,Drentsche patrijshond,Medium
+99,Drever,Medium
+100,Dutch shepherd,Medium
+101,English cocker spaniel,Medium
+102,English foxhound,Large
+103,English setter,Medium
+104,English springer spaniel,Medium
+105,English toy spaniel,Small
+106,Entlebucher mountain dog,Medium
+107,Estrela mountain dog,Large
+108,Eurasier,Medium
+109,Field spaniel,Medium
+110,Finnish lapphund,Medium
+111,Finnish spitz,Medium
+112,Flat-Coated retriever,Medium
+113,French bulldog,Small
+114,French spaniel,Medium
+115,German longhaired pointer,Large
+116,German pinscher,Medium
+117,German shepherd dog,Large
+118,German shorthaired pointer,Medium
+119,German spitz,Small
+120,German wirehaired pointer,Medium
+121,Giant schnauzer,Large
+122,Glen of imaal terrier,Small
+123,Golden retriever,Large
+124,Gordon setter,Large
+125,Grand basset griffon vend¨¦en,Medium
+126,Great dane,XLarge
+127,Great pyrenees,XLarge
+128,Greater swiss mountain dog,XLarge
+129,Greyhound,Large
+130,Hamiltonstovare,Medium
+131,Hanoverian scenthound,Large
+132,Harrier,Medium
+133,Havanese,Small
+134,Hokkaido,Medium
+135,Hovawart,Large
+136,Ibizan hound,Large
+137,Icelandic sheepdog,Medium
+138,Irish red and white setter,Large
+139,Irish setter,Large
+140,Irish terrier,Medium
+141,Irish water spaniel,Large
+142,Irish wolfhound,XLarge
+143,Italian greyhound,Small
+144,Jagdterrier,Small
+145,Japanese akitainu,Medium
+146,Japanese chin,XSmall
+147,Japanese spitz,Small
+148,Japanese terrier,XSmall
+149,Jindo,Medium
+150,Kai ken,Medium
+151,Karelian bear dog,Medium
+152,Keeshond,Medium
+153,Kerry blue terrier,Medium
+154,Kishu ken,Medium
+155,Komondor,Large
+156,Kromfohrlander,Medium
+157,Kuvasz,Large
+158,Labrador retriever,Large
+159,Lagotto romagnolo,Medium
+160,Lakeland terrier,Small
+161,Lancashire heeler,Small
+162,Lapponian herder,Medium
+163,Leonberger,XLarge
+164,Lhasa apso,Small
+165,L?wchen,Small
+166,Maltese,XSmall
+167,Manchester terrier (standard),Small
+168,Manchester terrier (toy),XSmall
+169,Mastiff,XLarge
+170,Miniature american shepherd,Medium
+171,Miniature bull terrier,Small
+172,Miniature pinscher,XSmall
+173,Miniature schnauzer,Small
+174,Mountain cur,Medium
+175,Mudi,Medium
+176,Neapolitan mastiff,XLarge
+177,Nederlandse kooikerhondje,Medium
+178,Newfoundland,XLarge
+179,Norfolk terrier,Small
+180,Norrbottenspets,Small
+181,Norwegian buhund,Medium
+182,Norwegian elkhound,Medium
+183,Norwegian lundehund,Small
+184,Norwich terrier,Small
+185,Nova scotia duck tolling retriever,Medium
+186,Old english sheepdog,Large
+187,Otterhound,Large
+188,Papillon,XSmall
+189,Parson russell terrier,Small
+190,Pekingese,Small
+191,Pembroke welsh corgi,Small
+192,Perro de presa canario,Large
+193,Peruvian inca orchid,Small
+194,Petit basset griffon vend¨¦en,Medium
+195,Pharaoh hound,Medium
+196,Plott hound,Medium
+197,Pointer,Large
+198,Polish lowland sheepdog,Medium
+199,Pomeranian,XSmall
+200,Poodle (miniature),Small
+201,Poodle (standard),Medium
+202,Poodle (toy),XSmall
+203,Porcelaine,Medium
+204,Portuguese podengo,Medium
+205,Portuguese podengo pequeno,Small
+206,Portuguese pointer,Medium
+207,Portuguese sheepdog,Medium
+208,Portuguese water dog,Medium
+209,Pudelpointer,Medium
+210,Pug,Small
+211,Puli,Medium
+212,Pumi,Small
+213,Pyrenean mastiff,XLarge
+214,Pyrenean shepherd,Medium
+215,Rafeiro do alentejo,Large
+216,Rat terrier,Small
+217,Redbone coonhound,Large
+218,Rhodesian ridgeback,Large
+219,Romanian carpathian shepherd,Large
+220,Romanian mioritic shepherd dog,XLarge
+221,Rottweiler,Large
+222,Russell terrier,Small
+223,Russian toy,XSmall
+224,Russian tsvetnaya bolonka,XSmall
+225,Saint bernard,XLarge
+226,Saluki,Large
+227,Samoyed,Medium
+228,Schapendoes,Medium
+229,Schipperke,Small
+230,Scottish deerhound,XLarge
+231,Scottish terrier,Small
+232,Sealyham terrier,Small
+233,Segugio italiano,Medium
+234,Shetland sheepdog,Small
+235,Shiba inu,Small
+236,Shih tzu,Small
+237,Shikoku,Medium
+238,Siberian husky,Medium
+239,Silky terrier,XSmall
+240,Skye terrier,Medium
+241,Sloughi,Large
+242,Slovakian wirehaired pointer,Medium
+243,Slovensky cuvac,Large
+244,Slovensky kopov,Medium
+245,Small munsterlander,Medium
+246,Smooth fox terrier,Small
+247,Soft coated wheaten terrier,Medium
+248,Spanish mastiff,XLarge
+249,Spanish water dog,Medium
+250,Spinone italiano,Medium
+251,Stabyhoun,Medium
+252,Staffordshire bull terrier,Medium
+253,Standard schnauzer,Medium
+254,Sussex spaniel,Medium
+255,Swedish lapphund,Medium
+256,Swedish vallhund,Small
+257,Taiwan dog,Medium
+258,Teddy roosevelt terrier,Small
+259,Thai ridgeback,Medium
+260,Tibetan mastiff,XLarge
+261,Tibetan spaniel,Small
+262,Tibetan terrier,Small
+263,Tornjak,Large
+264,Tosa,Large
+265,Toy fox terrier,XSmall
+266,Transylvanian hound,Medium
+267,Treeing tennessee brindle,Medium
+268,Treeing walker coonhound,Large
+269,Vizsla,Medium
+270,Volpino italiano,Medium
+271,Weimaraner,Large
+272,Welsh springer spaniel,Medium
+273,Welsh terrier,Small
+274,West highland white terrier,Small
+275,Wetterhoun,Medium
+276,Whippet,Medium
+277,Wire fox terrier,Small
+278,Wirehaired pointing griffon,Medium
+279,Wirehaired vizsla,Medium
+280,Working kelpie,Medium
+281,Xoloitzcuintli,Medium
+282,Yakutian laika,Medium
+283,Mixed breed,XSmall
+284,Yorkshire terrier,Large
