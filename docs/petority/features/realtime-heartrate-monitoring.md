@@ -36,13 +36,11 @@ Heart Rate Ranges for Dogs of Different Sizes:
 |  Medium  | 70~110 bpm | 
 | Large/Extra Large | 60 ~ 100 bpm   | 
 
-[点击此处下载本地文件](/image/pet_breed-size.csv)
-
-
 Dogs **under one year old** generally have a heart rate range of **120 ~ 220 bpm**.
 
 Heart rate is influenced by factors such as age, health condition, and activity level. For any concerns, please consult a veterinarian.
 
+When dogs exercise vigorously, their heart rate goes up to meet the increased demand for blood and oxygen. Research shows their heart rate can **rise by about 20%** compared to rest. It's a normal response, helping them adapt to activity levels. So, if your dog's heart rate is up during playtime, it's usually nothing to worry about—it's just their body keeping up with the fun!
 
 ### How to use:
 ![steps](/img/heart/Heart-Rate2.jpg)
