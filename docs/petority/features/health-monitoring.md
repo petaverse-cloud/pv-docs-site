@@ -49,8 +49,8 @@ By having access to their heart rate data, you can promptly detect any irregular
 
 **Monitor your pet's heart rate with ease. Petority provides visual cues for different heart rate ranges:**
  
-| Heart Rate   | Value   | Color   |
-| ----------- | ----------- | ----------- |
+| Heart Rate  | Color   |
+| ----------- | ----------- |
 | Low    |  <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 |  Normal     |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
 | High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |

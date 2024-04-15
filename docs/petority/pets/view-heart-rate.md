@@ -28,8 +28,8 @@ On **Home** page, you can find information about their [real-time heart rate](/d
 
 Petority uses color coding or icons to indicate different heart rate ranges, such as low, normal, or high heart rates.
 
-| Heart Rate   | Value   | Color   |
-| ----------- | ----------- | ----------- |
+| Heart Rate   | Color   |
+| ----------- |  ----------- |
 | Low    |  <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 |  Normal      |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
 | High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
