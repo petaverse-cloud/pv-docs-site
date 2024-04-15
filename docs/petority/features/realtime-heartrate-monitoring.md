@@ -37,8 +37,6 @@ Heart Rate Ranges for Dogs of Different Sizes:
 |  Medium （M）    | 70~110 bpm | 
 | Large/Extra Large (L/XL)    | 60 ~ 100 bpm   | 
 
-[See what body type the dog belongs to](/image/pet_breed-size.csv)
-
 Heart rate is influenced by factors such as age, health condition, and activity level. For any concerns, please consult a veterinarian.
 
 
