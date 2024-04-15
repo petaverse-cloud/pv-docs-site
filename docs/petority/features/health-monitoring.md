@@ -51,9 +51,9 @@ By having access to their heart rate data, you can promptly detect any irregular
  
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |
-| Low    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
-|  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| High      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| Low    |  <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
+|  Normal     |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+| High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 ### Tracking
 Check whether your pet are getting sufficient exercise daily.

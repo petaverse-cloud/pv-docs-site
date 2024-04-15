@@ -68,9 +68,9 @@ Petority provides visual cues for different heart rate ranges:
 
 | Heart Rate   | Value   | Color   |
 | ----------- | ----------- | ----------- |
-| Low    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
-|  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| High      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| Low    |  <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
+|  Normal     |   <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+| High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 ### 4. [Alert ](/docs/petority/notification/type)
 1. [Instant Fence Alerts](/docs/petority/notification/fence-event)
