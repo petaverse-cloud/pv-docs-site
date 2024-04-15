@@ -22,11 +22,25 @@ Even when you're not physically present, you can stay connected and monitor your
 
 Petority provides visual cues for different heart rate ranges:
  
-| Heart Rate   | Value   | Color   |
-| ----------- | ----------- | ----------- |
-| Low    | <70 bpm   | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
-|  Normal     | 70~120 bpm |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| High      | >120 bpm   |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| Heart Rate   | Color   |
+| ----------- | ----------- |
+| Low    | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
+|  Normal     |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
+| High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+
+Heart Rate Ranges for Dogs of Different Sizes:
+
+| Pet Size   | Heart Rate Range   | 
+| ----------- | ----------- |
+| Very Small（XS）   | 120 ~ 220 bpm   | 
+| Small/Toy (S)    | 90 ~ 140 bpm   | 
+|  Medium （M）    | 70~110 bpm | 
+| Large/Extra Large (L/XL)    | 60 ~ 100 bpm   | 
+
+[See what body type the dog belongs to](path/to/image/pet_breed-size.csv)
+
+Heart rate is influenced by factors such as age, health condition, and activity level. For any concerns, please consult a veterinarian.
+
 
 ### How to use:
 ![steps](/img/heart/Heart-Rate2.jpg)
