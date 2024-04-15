@@ -36,6 +36,9 @@ Heart Rate Ranges for Dogs of Different Sizes:
 |  Medium  | 70~110 bpm | 
 | Large/Extra Large | 60 ~ 100 bpm   | 
 
+[点击此处下载本地文件](/image/pet_breed-size.csv)
+
+
 Dogs **under one year old** generally have a heart rate range of **120 ~ 220 bpm**.
 
 Heart rate is influenced by factors such as age, health condition, and activity level. For any concerns, please consult a veterinarian.
