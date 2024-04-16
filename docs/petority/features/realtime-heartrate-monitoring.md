@@ -30,11 +30,11 @@ Petority provides visual cues for different heart rate ranges:
 
 Heart Rate Ranges for Dogs of Different Sizes:
 
-| Pet Size | Heart Rate Range   | 
-| ----------- | ----------- | 
-| Very Small / Small | 90 ~ 140 bpm   | 
-|  Medium  | 70~110 bpm | 
-| Large/Extra Large | 60 ~ 100 bpm   | 
+| Pet Size | Weight | Heart Rate Range   | 
+| ----------- | ----------- | ----------- | 
+| Very Small / Small |  5 ~ 20lb  | 90 ~ 140bpm   | 
+|  Medium  | 21 ~ 50lb |70~110bpm | 
+| Large/Extra Large | 51+lb | 60 ~ 100bpm   | 
 
 Dogs **under one year old** generally have a heart rate range of **120 ~ 220 bpm**.
 
