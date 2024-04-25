@@ -1,11 +1,17 @@
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
+	display: flex;
+	align-items: center;
+	padding: 0 0 5rem;
+	width: 100%;
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+	height: 373px;
+	width: 373px;
+}
+.linkColor,
+.linkColor:hover,
+.linkColor:focus {
+	color: black;
+	text-decoration: none;
 }
