@@ -95,11 +95,6 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://www.petority.net',
-            label: 'Store',
-            position: 'right',
-          },
-          {
             type: 'localeDropdown',
             position: 'right',
           },
@@ -108,44 +103,6 @@ const config = {
       footer: {
         style: 'light',
         links: [
-          {
-            title: 'Petaverse Shop',
-            items: [
-              {
-                label: 'Petaverse Shop',
-                to: '/docs/privacy-policy',
-              },
-              {
-                label: 'Petaverse Subscription Fees',
-                to: '/docs/privacy-policy',
-              },
-              {
-                label: 'Shipping & Delivery',
-                to: '/docs/privacy-policy',
-              },
-              {
-                label: 'Compare Devices',
-                to: '/docs/privacy-policy',
-              },
-            ],
-          },
-          {
-            title: 'For existing customers',
-            items: [
-              {
-                label: 'LIVE Tracking',
-                to: '/docs/privacy-policy',
-              },
-              {
-                label: 'Activate Petority GPS',
-                to: '/docs/privacy-policy',
-              },
-              {
-                label: 'Customer Service',
-                to: '/docs/privacy-policy',
-              },
-            ],
-          },
           {
             title: 'Docs',
             items: [
@@ -160,19 +117,6 @@ const config = {
               {
                 label: 'Terms of Service',
                 to: '/docs/terms-of-service',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Facebook',
-                href: 'https://facebook.com',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
               },
             ],
           },
