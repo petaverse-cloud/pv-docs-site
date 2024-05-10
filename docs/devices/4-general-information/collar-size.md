@@ -5,7 +5,9 @@ title: Collar Size
 
 # Collar Size Guide for Dogs
 
-When choosing a collar for your dog, it's important to consider their neck size to ensure a comfortable and secure fit. Here is a guide to help you select the appropriate size collar for your furry friend:
+When choosing a collar for your dog, it's important to consider their neck size to ensure a comfortable and secure fit. 
+
+Here is a guide to help you select the appropriate size collar for your furry friend:
 
 | Size | Length (cm) | Width (cm) | Thickness (mm) | Recommended Neck Circumference (cm) |
 |------|-------------|------------|----------------|-------------------------------------|

@@ -9,9 +9,13 @@ title: Petority Kit
 
 	The heart of Petority's intelligent tracking system, providing real-time monitoring and data collection.
 
-2. [Collar:](/docs/devices/general-information/collar-size)
+2. [Collar:](/docs/devices/general-information/attaching)
 
 	This stylish and functional accessory houses the Base Tag comfortably, ensuring both aesthetics and practicality.
+
+	The collar comes in **three** sizes: **small (S)**, **medium (M)**, and **large (L)**. 
+
+	[How do you choose the right collar for your dog?](/docs/devices/general-information/collar-size)
 
 3. [USB Charging Cable:](/docs/devices/battery-charging/battery-charging) 
 

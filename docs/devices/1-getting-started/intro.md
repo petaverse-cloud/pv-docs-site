@@ -14,4 +14,4 @@ Here are the key details:
 
 Together, the Base and Tag create a comprehensive system for [monitoring and managing your pet's health and activities](/docs/petority/features/health-monitoring).
 
-If you'd like to learn more about the Petority Kit, please see: [Petority Kit](/docs/devices/general-information/kit)
+If you'd like to learn more about the Petority Kit, please see: [Petority Kit.](/docs/devices/general-information/kit)
