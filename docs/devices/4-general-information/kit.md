@@ -9,7 +9,7 @@ title: Petority Kit
 
 	The heart of Petority's intelligent tracking system, providing real-time monitoring and data collection.
 
-2. [Collar:](/docs/devices/general-information/attaching)
+2. [Collar:](/docs/devices/general-information/collar-size)
 
 	This stylish and functional accessory houses the Base Tag comfortably, ensuring both aesthetics and practicality.
 

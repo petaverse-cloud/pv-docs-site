@@ -13,3 +13,5 @@ Here are the key details:
 |Tag| ![Tag](/img/devices/tag.png) |![color](/img/devices/color.png) | (L) **58** × (W) **24** × (H) **16** mm |  **25** grams |1. [Wearable device](/docs/devices/general-information/attaching) attached to the pet's collar.<br/> 2. Cllects data like [heart rate](/docs/petority/features/realtime-heartrate-monitoring) and [activity](/docs/petority/features/live-tracking).<br/>3. Communicates with the Base for real-time tracking. |
 
 Together, the Base and Tag create a comprehensive system for [monitoring and managing your pet's health and activities](/docs/petority/features/health-monitoring).
+
+If you'd like to learn more about the Petority Kit, please see: [Petority Kit](/docs/devices/general-information/kit)

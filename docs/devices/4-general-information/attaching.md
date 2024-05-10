@@ -1,9 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: Attaching to the Collar
 ---
 
-# How to Properly Wear Petority Tag
 Petority offers an advanced way to identify our pets, ensuring their safety and well-being. Here are detailed steps on how to properly wear Petority:
 
 ![attaching](/img/devices/Attaching.jpg)
@@ -20,6 +19,8 @@ To insert the Tag, slide it upwards into the collar frame with a curved edge. Pl
 **Step 3:** Adjusting the Size
 
 Thread the band that's provided in the package through both sides of the band frame. Then pass it through the buckle on the band to adjust the size of the TAG on your pet's neck.
+
+[How to Choose the Right Collar for Your Dog?](/docs/devices/general-information/collar-size)
 
 **Step 4:** QR Plate
 
