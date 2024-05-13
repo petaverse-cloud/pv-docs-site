@@ -3,24 +3,14 @@ sidebar_position: 4
 title: Battery Performance
 --- 
 
+The device boasts remarkable battery life, catering to various usage demands:
 
-Petority devices exhibit remarkable battery performance:
+- Under normal usage conditions, the device can operate continuously for **8 hours**.
 
-**Extended Standby Time** 
+	During outdoor adventures or activities, the device can sustain operations such as location tracking, heart rate data collection, or communication, meeting the needs of your pet.
 
-1. The tag boasts an impressive standby time of up to **--hours**.
-2. The base station extends this capability to an astounding **--hours**.
-   
-This means that even during prolonged periods of non-use, the device's battery maintains its integrity.
+- Standby time extends up to **12 hours**, ensuring battery longevity even during prolonged periods of non-use.
 
-**Normal Usage Durations**
+	When not in active use, the device remains online and ready to receive instructions or perform monitoring tasks, ensuring you stay connected at all times.
 
-- **High-Frequency Usage:** 
-
-	Capable of sustaining operation for **--hours** under high-frequency reporting mode, meeting short-term, high-frequency data transmission demands.
-  
-- **Low-Frequency Usage:** 
-
-	Able to operate continuously for **--week**.
-
-The battery performance of Petority devices ensures prolonged reliability and flexibility.
+Petority devices ensure prolonged reliability and flexibility with their battery performance. 
