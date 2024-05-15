@@ -12,6 +12,6 @@
 .linkColor,
 .linkColor:hover,
 .linkColor:focus {
-	color: black;
+	color: var(--ifm-color-link-color);
 	text-decoration: none;
 }

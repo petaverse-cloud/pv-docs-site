@@ -6,57 +6,63 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+	--ifm-color-primary: #25c2a0;
+	--ifm-color-primary-dark: #21af90;
+	--ifm-color-primary-darker: #1fa588;
+	--ifm-color-primary-darkest: #1a8870;
+	--ifm-color-primary-light: #29d5b0;
+	--ifm-color-primary-lighter: #32d8b4;
+	--ifm-color-primary-lightest: #4fddbf;
+	--ifm-code-font-size: 95%;
+	--ifm-color-link-color: black;
+	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+	--ifm-color-primary: #25c2a0;
+	--ifm-color-primary-dark: #21af90;
+	--ifm-color-primary-darker: #1fa588;
+	--ifm-color-primary-darkest: #1a8870;
+	--ifm-color-primary-light: #29d5b0;
+	--ifm-color-primary-lighter: #32d8b4;
+	--ifm-color-primary-lightest: #4fddbf;
+	--ifm-color-link-color: white;
+	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
 .hero {
-  background-image: url('~/img/team.png');
-  background-size: cover;
-  background-position: 0% 30%;
-  height: 500px;
+	background-image: url('~/img/team.png');
+	background-size: cover;
+	background-position: 0% 30%;
+	height: 500px;
 }
 
 .navbar__title {
-  font-size: 20px;
+	font-size: 20px;
 }
 
-h1, h2, h3, h4, h5 {
-  font-family: Candara, "Work Sans", "roboto", sans-serif
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: Candara, 'Work Sans', 'roboto', sans-serif;
 }
 
 p {
-  font-family: roboto;
+	font-family: roboto;
 }
 
 .footer__link-item {
-  font-size: 14px;
+	font-size: 14px;
 }
 
 .footer__links {
-  margin-bottom: 8rem;
+	margin-bottom: 8rem;
 }
 
 .footer__copyright {
-  font-size: 14px;
-  color: #606770;
+	font-size: 14px;
+	color: #606770;
 }
