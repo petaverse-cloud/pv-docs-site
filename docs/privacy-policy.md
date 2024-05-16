@@ -162,5 +162,7 @@ If you have any comments, questions, or concerns about this privacy policy or Pe
 
 **Email:** help@petority.net
 
+[View more contact options>>](https://www.petority.net/contact/)
+
 Thank you for taking the time to understand our privacy policy!
 
