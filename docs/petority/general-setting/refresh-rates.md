@@ -23,6 +23,10 @@ Petority provides three Tracking Interval options for updating pet location and 
 
 	Maximizes battery life, suitable for pets in a safe zone with less frequent updates.
 
++ **120 Seconds:** 
+
+	Optimizes battery usage, ideal for pets in a safe zone with minimal updates.
+
 ## Configuring Tracking Intervals:
 Follow these steps to configure the Tracking Intervals within the Petority app:
 
@@ -36,7 +40,7 @@ Follow these steps to configure the Tracking Intervals within the Petority app:
 
 3. Select Your Preferred Rate:
 
-	Choose from the available Tracking Interval options (**10** seconds, **30** seconds, or **60** seconds) based on your needs and preferences.
+	Choose from the available Tracking Interval options (**10** seconds, **30** seconds, **60** seconds,  or **120** seconds) based on your needs and preferences.
 
 4. Save Changes: 
 
