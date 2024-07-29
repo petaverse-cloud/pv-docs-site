@@ -5,7 +5,7 @@ title: Attaching to the Collar
 
 Petority offers an advanced way to identify our pets, ensuring their safety and well-being. Here are detailed steps on how to properly wear Petority:
 
-![attaching](/img/devices/Attaching.jpg)
+![attaching](/img/devices/quick-start.mp4)
 
 **Step 1:** Preparation
 
