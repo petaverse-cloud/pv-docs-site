@@ -3,20 +3,20 @@ sidebar_position: 3
 title: Getting Started
 ---
 
-# What to do if you have a Petority device?
-If you have a Petority device, there are a few steps you can take to get started and make the most out of its features:
+# What to do if you have a Wagguracy PHAST 1?
+If you have a Wagguracy PHAST 1, there are a few steps you can take to get started and make the most out of its features:
 
 + Download the App:
 
-    First, download the Petority app from the [App Store (iOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app) and install it on your smartphone.
+    First, download the Wagguracy app from the [App Store (iOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app) and install it on your smartphone.
 
 + Create an Account:
 
-    Open the app and [create a Petority account](/docs/petority/accounts/signing-up). This will allow you to access and manage your device's data and settings.
+    Open the app and [create a Wagguracy account](/docs/petority/accounts/signing-up). This will allow you to access and manage your device's data and settings.
 
 + Pair the Device:
 
-    Follow the instructions in the app to **[pair your Petority device](/docs/petority/devices/device-pairing)** with your account. 
+    Follow the instructions in the app to **[pair your Wagguracy device](/docs/petority/devices/device-pairing)** with your account. 
 
 + Charge the Device:
 
@@ -41,4 +41,4 @@ If you have a Petority device, there are a few steps you can take to get started
 
 + Keep It Updated:
 
-    Keep your Petority app and [device updated](/docs/petority/devices/upgrade-firmware) to access the latest features and improvements.
+    Keep your Wagguracy app and [device updated](/docs/petority/devices/upgrade-firmware) to access the latest features and improvements.
