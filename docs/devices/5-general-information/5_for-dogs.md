@@ -18,7 +18,7 @@ Wagguracy PHAST 1 is an intelligent tracking device meticulously designed and te
 
 ## Features:
 
-+ [Lightweight Design:](/docs/devices/getting-started/Introduce) 
++ [Lightweight Design:](/docs/devices/getting-started/Introduction) 
 
 	PHAST 1 features a lightweight design, suitable for dogs of various sizes, ensuring a comfortable wearing experience.
 

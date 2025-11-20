@@ -5,7 +5,7 @@ title: Petority Kit
 
 ## Petority Kit Contents:
 
-1. [PHAST 1:](/docs/devices/getting-started/intro) 
+1. [PHAST 1:](/docs/devices/getting-started/introduction) 
 
 	The heart of Wagguracy's intelligent tracking system, providing real-time monitoring and data collection.
 

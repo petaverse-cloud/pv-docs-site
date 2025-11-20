@@ -11,7 +11,7 @@ Wagguracy PHAST 1 is specifically designed for pets and meticulously crafted to 
 
 + Frienldy Materials:
 
-   We select materials [compatible with your pet's skin](/docs/devices/getting-started/Introduce) to prevent allergies or irritations. These materials undergo rigorous testing to meet health and safety standards.
+   We select materials [compatible with your pet's skin](/docs/devices/getting-started/Introduction) to prevent allergies or irritations. These materials undergo rigorous testing to meet health and safety standards.
 
 + Harmless Design:
 
