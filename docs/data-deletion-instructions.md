@@ -5,11 +5,11 @@ title: Data Deletion Instructions
 
 # Data Deletion Instructions
 
-Effective as of January 29, 2024.
+Effective as of November 19, 2025.
 
 Introduction:
 
-This Account Deletion Agreement (hereinafter referred to as the "Agreement") outlines the terms and procedures for users (hereinafter referred to as "you" or "user") to delete their user accounts with Petority. Please read and understand this Agreement carefully because by submitting an account deletion request, you agree to abide by the terms and conditions of this Agreement.
+This Account Deletion Agreement (hereinafter referred to as the "Agreement") outlines the terms and procedures for users (hereinafter referred to as "you" or "user") to delete their user accounts with Wagguracy. Please read and understand this Agreement carefully because by submitting an account deletion request, you agree to abide by the terms and conditions of this Agreement.
 
 ## Account Deletion Conditions:
 + Account Owner: 
@@ -57,7 +57,7 @@ The platform reserves the right to change this Agreement at any time. Any change
 
 ## Contact Us:
 
-If you have any concerns or questions about this Agreement or the account deletion process, please contact our customer support. Contact Us Via: help@petority.net.
+If you have any concerns or questions about this Agreement or the account deletion process, please contact our customer support. Contact Us Via: help@wagguracy.net.
 ## Acceptance of Agreement:
 
 By submitting an account deletion request, you confirm that you have read, understood, and agreed to all the terms and conditions of this Agreement.
