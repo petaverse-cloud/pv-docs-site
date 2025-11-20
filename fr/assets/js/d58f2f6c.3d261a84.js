@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpv_docs_site=globalThis.webpackChunkpv_docs_site||[]).push([[7009],{8599:o=>{o.exports=JSON.parse('{"permalink":"/fr/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

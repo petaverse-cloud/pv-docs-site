@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpv_docs_site=globalThis.webpackChunkpv_docs_site||[]).push([[7928],{4810:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/fr/blog/tags/hola","allTagsPath":"/fr/blog/tags","count":1}')}}]);

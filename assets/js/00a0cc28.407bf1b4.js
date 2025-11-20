@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpv_docs_site=globalThis.webpackChunkpv_docs_site||[]).push([[5808],{5568:t=>{t.exports=JSON.parse('{"title":"Get to Know","slug":"/category/get-to-know","permalink":"/docs/category/get-to-know","navigation":{"next":{"title":"What is Wagguracy?","permalink":"/docs/petority/get-to-know/intro"}}}')}}]);
