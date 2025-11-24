@@ -3,12 +3,12 @@ sidebar_position: 2
 title: View Pet's Activity
 ---
 
-# How to View Your Pet's Activity on Wagguracy?
-To view your pet's activity on Wagguracy, follow these steps using the Wagguracy app:
+# How to View Your Pet's Activity on WAGGURACY?
+To view your pet's activity on WAGGURACY, follow these steps using the WAGGURACY app:
 
-1. Open the Wagguracy App:
+1. Open the WAGGURACY App:
 
-	Download and install the Wagguracy app, then **log in** to your account.
+	Download and install the WAGGURACY app, then **log in** to your account.
 2. Access Pet Activity:
 
 	Tap **Health**.
@@ -20,7 +20,7 @@ To view your pet's activity on Wagguracy, follow these steps using the Wagguracy
     
 + Select Time Range:
 
-	You can choose **different time perious** to view your pet's activity history. Wagguracy allows you to check activity for the **day**, **week**, **month**.
+	You can choose **different time perious** to view your pet's activity history. WAGGURACY allows you to check activity for the **day**, **week**, **month**.
 
 **Graphs and Charts:**
 

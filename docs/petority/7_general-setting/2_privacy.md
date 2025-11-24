@@ -8,10 +8,10 @@ Adjust your account security settings, including **password** management and **e
 
 **Password Protection:**
 
-Users can [create a **strong** and **unique** password](/docs/petority/accounts/password)for their Wagguracy account. 
+Users can [create a **strong** and **unique** password](/docs/petority/accounts/password)for their WAGGURACY account. 
 
 It's recommended to use a combination of uppercase and lowercase **letters**, **numbers**, and **special characters** to create a secure password.
 
 **Account Security:**
 
-[Updating your email address](/docs/petority/accounts/change-email) in Wagguracy is a straightforward process that ensures your account information remains current. 
+[Updating your email address](/docs/petority/accounts/change-email) in WAGGURACY is a straightforward process that ensures your account information remains current. 

@@ -4,14 +4,14 @@ title: Deleting Pet Profiles
 ---
 
 # Deleting Pet Profiles
-In the Wagguracy app, you have the flexibility to delete pet profiles that are no longer needed. 
-Here are the straightforward steps on how to delete a created pet profile in the Wagguracy app:
+In the WAGGURACY app, you have the flexibility to delete pet profiles that are no longer needed. 
+Here are the straightforward steps on how to delete a created pet profile in the WAGGURACY app:
 
 ![delete](/img/pet/Deleting.jpg)
 
 1. Open the App:
 
-    Launch the Wagguracy app and log in to your account.
+    Launch the WAGGURACY app and log in to your account.
 2. Access Pet Profile: 
 
    Tap **User** > **Pet info** section.

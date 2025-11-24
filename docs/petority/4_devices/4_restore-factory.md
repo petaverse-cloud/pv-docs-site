@@ -10,9 +10,9 @@ PHAST 1 occasionally require a factory reset to restore them to their original s
 
 Follow the steps to factory reset your PHAST 1:
 
-**Step 1:** Open the Wagguracy App
+**Step 1:** Open the WAGGURACY App
 
-Launch the Wagguracy app on your smartphone. Log in to your account.
+Launch the WAGGURACY app on your smartphone. Log in to your account.
 
 **Step 2:** Access Device Settings
 

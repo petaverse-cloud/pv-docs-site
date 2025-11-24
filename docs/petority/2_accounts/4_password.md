@@ -3,12 +3,12 @@ sidebar_position: 4
 title: Reset Password
 ---
 
-Forgetting your Wagguracy account password doesn't have to be a headache. This guide outlines the straightforward steps to reset your password and regain access to your account.
+Forgetting your WAGGURACY account password doesn't have to be a headache. This guide outlines the straightforward steps to reset your password and regain access to your account.
 ### Resetting Your Password from the Login Page:
 
 1. Access the Login Page:
 
-    If you've forgotten your password, head to the Wagguracy login page.
+    If you've forgotten your password, head to the WAGGURACY login page.
 2. Initiate Password Reset:
 
     On the login page, click the **Forgot password** button.
@@ -20,7 +20,7 @@ Forgetting your Wagguracy account password doesn't have to be a headache. This g
     Check your inbox for the verification email. Follow the provided instructions to complete the account verification process, which confirms your identity.
 5. Set a New Password:
 
-    Once verified, you can set a new password for your account. Make sure it's secure and meets any requirements specified by Wagguracy.
+    Once verified, you can set a new password for your account. Make sure it's secure and meets any requirements specified by WAGGURACY.
 
 ### Resetting Your Password Within the App:
 ![user update](/img/manage-account/Password-Reset2.gif)

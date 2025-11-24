@@ -1,13 +1,13 @@
 ---
 sidebar_position: 1
-title: What is Wagguracy?
+title: What is WAGGURACY?
 ---
 
 #### [Shaping Pets' Lives, Crafting Lasting Delights.](https://www.petority.net/) 
-Wagguracy is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed to enhance your pet's life through a range of comprehensive services. With Wagguracy, you can track your pet's **location**, monitor their **health**, and ensure their **safety** and **happiness**. 🐾📲
+WAGGURACY is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed to enhance your pet's life through a range of comprehensive services. With WAGGURACY, you can track your pet's **location**, monitor their **health**, and ensure their **safety** and **happiness**. 🐾📲
 
-#### 📥 Download Wagguracy:📥 [Apple App Store (IOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app)
-**The Wagguracy mobile app is compatible with the following devices:**
+#### 📥 Download WAGGURACY:📥 [Apple App Store (IOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app)
+**The WAGGURACY mobile app is compatible with the following devices:**
 + iPhone with iOS **11** or above.📱
 + Android devices with operating system **7.0** and above (Google Play Services required).
 
@@ -18,7 +18,7 @@ With the help of a strong GPS signal and reliable network coverage, you can easi
 
 ![Map](/img/get-to-know/GPS.jpg)
 
-**Interface interactive :** Wagguracy's map feature provides a comprehensive and intuitive real-time location tracking experience.
+**Interface interactive :** WAGGURACY's map feature provides a comprehensive and intuitive real-time location tracking experience.
 
 ![update](/img/get-to-know/Map.jpg)
 
@@ -28,7 +28,7 @@ With the help of a strong GPS signal and reliable network coverage, you can easi
 
 2. [Customizable Working mode:](/docs/petority/general-setting/refresh-rates)
 
-	Wagguracy offers multiple operating modes to meet the needs of different usage scenarios.
+	WAGGURACY offers multiple operating modes to meet the needs of different usage scenarios.
 
 3. [Current Location Positioning:](/docs/petority/features/live-tracking#1-monitor-movement---real-time-tracking)
 
@@ -36,9 +36,9 @@ With the help of a strong GPS signal and reliable network coverage, you can easi
 
 4. [Location tracking:](/docs/petority/features/live-tracking#2-call-your-pet)
 
-	Wagguracy tracks your pet’s movements and alerts you if they leave safe areas. 📝🚨
+	WAGGURACY tracks your pet’s movements and alerts you if they leave safe areas. 📝🚨
 
-Never worry about your pet wandering off again. Wagguracy records your pet's movements and alerts you if they leave designated safe areas.
+Never worry about your pet wandering off again. WAGGURACY records your pet's movements and alerts you if they leave designated safe areas.
 ### [2. Exercise Monitoring and Real-time Heart Rate Tracking](/docs/petority/features/realtime-heartrate-monitoring)
 Ensure your pet's health by monitoring their daily exercise routines. Track their heart rate in real-time, and [receive alerts](/docs/petority/notification/type) if any irregularities are detected, helping you spot potential health issues early on.🏃‍♂️❤️
 
@@ -62,7 +62,7 @@ easily review your pet’s health data over a desired time frame. You can trace 
 
     Monitor your pet's heart rate with ease.💓🌈 
 	
-Wagguracy provides visual cues for different heart rate ranges:
+WAGGURACY provides visual cues for different heart rate ranges:
 
 ![Health](/img/get-to-know/Heart-Rate-Indicators.jpg)
 
@@ -73,19 +73,19 @@ Wagguracy provides visual cues for different heart rate ranges:
 | High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
 
 ### 4. [Alert ](/docs/petority/notification/type)
-1. [Instant Fence Alerts](/docs/petority/notification/fence-event)
+1. Instant Fence Alerts
 	1. [Set up virtual fences](/docs/petority/features/fence) to define safe areas for your pet.🚧📢 
 	2. Receive instant [notifications](/docs/petority/notification/fence-event) on your phone if your pet leaves these designated zones.
 
 ![fence alert](/img/get-to-know/Instant-Fence-Alerts.jpg)
 
-2. [Stay Updated](/docs/petority/notification/type)
+1. Stay Updated
 
-	Wagguracy keeps you in the loop by providing real-time [alerts](/docs/petority/notification/type) about your **device battery status**, **app version updates**, and more.
+	WAGGURACY keeps you in the loop by providing real-time alerts about your **device battery status**, **app version updates**, and more.
 
-This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy. Experience the convenience and peace of mind that Wagguracy brings to pet ownership.🐕‍🦺🏡
+This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy. Experience the convenience and peace of mind that WAGGURACY brings to pet ownership.🐕‍🦺🏡
 
-Download Wagguracy now and start enjoying these features for the well-being of your furry friends.🐶🐱🦔
+Download WAGGURACY now and start enjoying these features for the well-being of your furry friends.🐶🐱🦔
 
 
 

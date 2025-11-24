@@ -86,7 +86,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'petoritySidebar',
             position: 'left',
-            label: 'Petority App',
+            label: 'WAGGURACY App',
           },
           //{ to: '/blog', label: 'Blog  position: 'left' },
           {
@@ -141,7 +141,7 @@ const config = {
           target: '_self',
           height: 50,
         }, */
-        copyright: `Copyright © ${new Date().getFullYear()} Petaverse Pte. Ltd.`,
+        copyright: `Copyright © ${new Date().getFullYear()} WAGGURACY Pte. Ltd.`,
       },
       prism: {
         theme: lightCodeTheme,

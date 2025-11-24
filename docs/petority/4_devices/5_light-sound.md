@@ -4,28 +4,28 @@ title: Sound Customization
 ---
 
 # Sound Customization
-Wagguracy is all about tailoring your pet tracking and monitoring experience to suit your preferences. 
+WAGGURACY is all about tailoring your pet tracking and monitoring experience to suit your preferences. 
 
-In this comprehensive guide, we'll explore how you can personalize your Wagguracy experience by selecting **sound types**, and customizing your pet's **recall**. By adjusting these settings, you can better manage and protect your pet.
+In this comprehensive guide, we'll explore how you can personalize your WAGGURACY experience by selecting **sound types**, and customizing your pet's **recall**. By adjusting these settings, you can better manage and protect your pet.
 
 ![Tag light](/img/light-sound/Light-and-Sound.jpg)
 
 ## 1. Sound Choices: Tailoring Audio Cues to Your Liking
-Wagguracy understands that every pet and owner has unique preferences. That's why it offers a selection of sound choices, including the option to customize your pet's recall sound.
+WAGGURACY understands that every pet and owner has unique preferences. That's why it offers a selection of sound choices, including the option to customize your pet's recall sound.
 
 **Default Sounds:** 
 
-The Wagguracy system includes a sound for pet recall. This is carefully designed to be pet-friendly and attention-grabbing. 
+The WAGGURACY system includes a sound for pet recall. This is carefully designed to be pet-friendly and attention-grabbing. 
 
 **Customizing Pet Recall Sound: Make It Your Own**
 
-One of Wagguracy's standout features is the ability to personalize your pet's recall sound. This allows you to use a sound that resonates with your pet and captures their attention effectively. 
+One of WAGGURACY's standout features is the ability to personalize your pet's recall sound. This allows you to use a sound that resonates with your pet and captures their attention effectively. 
 
 Here's how to do it:
 
 **Step 1:** Access Settings:
 
-+ Open the Wagguracy app on your Android or iOS device and log in to your account.
++ Open the WAGGURACY app on your Android or iOS device and log in to your account.
 
 **Step 2:** Navigate to Sound Customization:
 
@@ -41,7 +41,7 @@ Here's how to do it:
 
 **Step 5:** Save and Confirm:
 
-+ Once you've selected your custom sound, save the changes. Wagguracy will now use this sound for pet recall.
++ Once you've selected your custom sound, save the changes. WAGGURACY will now use this sound for pet recall.
 
 ### Why Customize Pet Recall Sound?
 
@@ -60,9 +60,9 @@ Personalizing your pet's recall sound has several benefits:
     A customized recall sound can be a form of positive reinforcement, creating a strong bond between you and your pet.
 
 ## How to Access Device Information and Settings:
-1. Open the Wagguracy App: 
+1. Open the WAGGURACY App: 
 
-    Download and open the Wagguracy app, ensuring that you are logged into your account.
+    Download and open the WAGGURACY app, ensuring that you are logged into your account.
 2. Select the PHAST 1: 
 
     Access the list of device associated with your pet.
@@ -76,4 +76,4 @@ Personalizing your pet's recall sound has several benefits:
 **Important Tips：**
 + Choose sound effects that match your pet's personality and habits.
 + Use sound effects appropriately to avoid unnecessary disturbances, considering the time and environment.
-+ By fine-tuning the sound settings of the Wagguracy PHAST 1, you can provide enhanced safety and a personalized experience for your pet, making them more visible and manageable in various situations.
++ By fine-tuning the sound settings of the WAGGURACY PHAST 1, you can provide enhanced safety and a personalized experience for your pet, making them more visible and manageable in various situations.

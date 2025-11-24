@@ -10,7 +10,7 @@ title: Extended Hardware Warranty
 
 ## Warranty Extension:
 
-Extend the standard warranty coverage for your Petority products with our Extended Hardware Warranty.
+Extend the standard warranty coverage for your WAGGURACY products with our Extended Hardware Warranty.
 
 ## Benefits:
 
@@ -20,11 +20,11 @@ Extend the standard warranty coverage for your Petority products with our Extend
 
 - **Comprehensive Coverage:** 
 
-	The Extended Hardware Warranty covers defects in materials and workmanship, ensuring that your Petority products continue to perform optimally.
+	The Extended Hardware Warranty covers defects in materials and workmanship, ensuring that your WAGGURACY products continue to perform optimally.
 
 - **Convenient Service:** 
 
-	Access hassle-free repairs or replacements for covered products, with Petority's dedicated support team ready to assist you throughout the warranty period.
+	Access hassle-free repairs or replacements for covered products, with WAGGURACY's dedicated support team ready to assist you throughout the warranty period.
 
 ## Eligibility:
 
@@ -32,11 +32,11 @@ The Extended Hardware Warranty is available for purchase within a specified time
 
 ## How to Purchase:
 
-To purchase the Extended Hardware Warranty for your Petority products, visit our website or contact our customer service team. You will need to provide details of your original product purchase for validation.
+To purchase the Extended Hardware Warranty for your WAGGURACY products, visit our website or contact our customer service team. You will need to provide details of your original product purchase for validation.
 
 ## Terms and Conditions:
 
-- The Extended Hardware Warranty extends the coverage period beyond the standard warranty period for eligible Petority products.
+- The Extended Hardware Warranty extends the coverage period beyond the standard warranty period for eligible WAGGURACY products.
   
 - Coverage under the Extended Hardware Warranty is subject to the terms and conditions outlined in the warranty agreement.
 
@@ -44,8 +44,8 @@ To purchase the Extended Hardware Warranty for your Petority products, visit our
 
 - The Extended Hardware Warranty does not cover accidental damage, misuse, or unauthorized modifications to the covered products.
 
-- Petority reserves the right to determine the eligibility of products for warranty extension and may reject applications that do not meet the specified criteria.
+- WAGGURACY reserves the right to determine the eligibility of products for warranty extension and may reject applications that do not meet the specified criteria.
 
 ## Contact Us:
 
-For inquiries about the Extended Hardware Warranty or assistance with purchasing, please contact our customer service team at help@petority.com. We are here to help ensure your Petority products are protected for years to come.
+For inquiries about the Extended Hardware Warranty or assistance with purchasing, please contact our customer service team at help@wagguracy.com. We are here to help ensure your WAGGURACY products are protected for years to come.

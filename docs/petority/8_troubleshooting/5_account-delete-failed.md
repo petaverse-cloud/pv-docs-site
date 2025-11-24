@@ -4,11 +4,11 @@ title: Account Deletion Failed
 ---
 
 # What to Do If the Account Deletion Fails:
-If you encounter issues with the failed deletion of your Wagguracy account, you can take the following steps to resolve the issue:
+If you encounter issues with the failed deletion of your WAGGURACY account, you can take the following steps to resolve the issue:
 
 1. Check Network Connection: 
 
-	Ensure that your device is connected to the internet and has a stable network connection. Deleting an account may require communication with Wagguracy servers.
+	Ensure that your device is connected to the internet and has a stable network connection. Deleting an account may require communication with WAGGURACY servers.
 
 2. Clear Cache and Cookies: 
 

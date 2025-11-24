@@ -3,8 +3,8 @@ sidebar_position: 2
 title: Device Pairing
 ---
 
-# A Comprehensive Guide to Device Pairing and Pet Care with Wagguracy
-Wagguracy is your go-to solution for advanced pet tracking and monitoring. 
+# A Comprehensive Guide to Device Pairing and Pet Care with WAGGURACY
+WAGGURACY is your go-to solution for advanced pet tracking and monitoring. 
 
 Whether you want to ensure your furry companion’s safety or closely monitor their health, here is a step-by-step guide to pairing your device, setting up a Home Fence, and providing top-notch care for your pet.
 
@@ -17,11 +17,11 @@ Follow these steps to pair your device:
 
 1. Download and Install the App:
 
-    Start by downloading the Wagguracy app from the Apple App Store (iOS) or Google Play Store (Android). Install the app on your smartphone.
+    Start by downloading the WAGGURACY app from the Apple App Store (iOS) or Google Play Store (Android). Install the app on your smartphone.
 
 2. Create or Log In to Your Account:
 
-    + If you're a new user, [create a Wagguracy account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
+    + If you're a new user, [create a WAGGURACY account](/docs/petority/accounts/signing-up) using a valid email address and secure password.
     + If you already have an account, **log in** using your credentials.
 
 3. Preparation:
@@ -55,8 +55,6 @@ Follow these steps to pair your device:
 + Make sure your phone's **Bluetooth** is **turned on**.
 + Keep your phone as **close** to the device as possible.
 
-[Wondering what to do if the device cannot be scanned?](/docs/petority/troubleshooting/device-pairing)
-
 [Encountering issues with pairing? Learn what to do if pairing fails.](/docs/petority/troubleshooting/device-pairing)
 
-Simply follow the steps above: **pair your device**, **create and link your pet profile**, and you can start using the Wagguracy system to [**monitor your pet**](/docs/petority/features/health-monitoring) and [**track them in real time**](/docs/petority/features/live-tracking), ensuring their safety. Whether you’re at home or away, Wagguracy keeps you informed about your pet’s activities and needs.
+Simply follow the steps above: **pair your device**, **create and link your pet profile**, and you can start using the WAGGURACY system to [**monitor your pet**](/docs/petority/features/health-monitoring) and [**track them in real time**](/docs/petority/features/live-tracking), ensuring their safety. Whether you’re at home or away, WAGGURACY keeps you informed about your pet’s activities and needs.

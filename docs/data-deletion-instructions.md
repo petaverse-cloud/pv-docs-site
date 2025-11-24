@@ -9,7 +9,7 @@ Effective as of November 19, 2025.
 
 Introduction:
 
-This Account Deletion Agreement (hereinafter referred to as the "Agreement") outlines the terms and procedures for users (hereinafter referred to as "you" or "user") to delete their user accounts with Wagguracy. Please read and understand this Agreement carefully because by submitting an account deletion request, you agree to abide by the terms and conditions of this Agreement.
+This Account Deletion Agreement (hereinafter referred to as the "Agreement") outlines the terms and procedures for users (hereinafter referred to as "you" or "user") to delete their user accounts with WAGGURACY. Please read and understand this Agreement carefully because by submitting an account deletion request, you agree to abide by the terms and conditions of this Agreement.
 
 ## Account Deletion Conditions:
 + Account Owner: 

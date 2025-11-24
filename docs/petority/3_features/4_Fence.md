@@ -4,7 +4,7 @@ title: Fence
 ---
 
 # Fences for Pet Safety
-The Wagguracy fence feature allows you to establish **virtual borders** for your pets, ensuring they stay within safe areas while roaming. This feature enables you to monitor and manage your pet's activity range, while also providing real-time alerts and notifications to keep you informed about their whereabouts and movements. 
+The WAGGURACY fence feature allows you to establish **virtual borders** for your pets, ensuring they stay within safe areas while roaming. This feature enables you to monitor and manage your pet's activity range, while also providing real-time alerts and notifications to keep you informed about their whereabouts and movements. 
 
 ![fence-map](/img/fence/Fence1.jpg)
 
@@ -13,12 +13,12 @@ Would you like to be notified when your pet leaves or enters your home? If so, y
 
 ![fence edit](/img/fence/Fence4.jpg)
 
-1. Open the Wagguracy App:
+1. Open the WAGGURACY App:
 
-	Launch the Wagguracy app on your Android or iOS device.
+	Launch the WAGGURACY app on your Android or iOS device.
 2. Log In to Your Account:
 
-	Log in to your Wagguracy account.
+	Log in to your WAGGURACY account.
 3. Access the Fence Section:
 
 	Tap **User** > **Fences** .
@@ -37,12 +37,12 @@ Would you like to be notified when your pet leaves or enters a specific area? If
 
 ![fence edit](/img/fence/Fence.gif)
 
-1. Open the Wagguracy App:
+1. Open the WAGGURACY App:
 
-	Launch the Wagguracy app on your Android or iOS device.
+	Launch the WAGGURACY app on your Android or iOS device.
 2. Log In to Your Account:
 
-	Log in to your Wagguracy account.
+	Log in to your WAGGURACY account.
 3. Access the Fence Section:
 
 	Tap **User** > **Fences**.
@@ -70,7 +70,7 @@ If you need to **modify** your fence's *boundaries* or *other parameters*, simpl
 
 ![Editing and Deleting](/img/fence/Fence2.jpg)
 
-1. Open the Wagguracy app and **log in** to your account.
+1. Open the WAGGURACY app and **log in** to your account.
 2. Tap **User**> **Fence**.
 3. Tap **Edit**.
 + For editing, make the necessary **adjustments** to the fence's *shape* or *boundaries*, and then save the updated fence settings.
@@ -80,4 +80,4 @@ If you no longer require a specific fence, you can choose to **turn off** the fe
 
 ![switch](/img/fence/Fence3.jpg)
 
-Wagguracy's fence feature provides an added layer of safety and control, allowing you to create secure zones for your pets. By following these simple steps, you can ensure your furry friends stay within safe areas while they explore, giving you peace of mind and enhancing their well-being.
+WAGGURACY's fence feature provides an added layer of safety and control, allowing you to create secure zones for your pets. By following these simple steps, you can ensure your furry friends stay within safe areas while they explore, giving you peace of mind and enhancing their well-being.

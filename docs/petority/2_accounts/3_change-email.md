@@ -3,14 +3,14 @@ sidebar_position: 3
 title: Change Account
 ---
 
-Updating your email address in Wagguracy is a straightforward process that ensures your account information remains current. Here's a step-by-step guide on how to change your email address within the Wagguracy app.
+Updating your email address in WAGGURACY is a straightforward process that ensures your account information remains current. Here's a step-by-step guide on how to change your email address within the WAGGURACY app.
 
 ![Update email](/img/manage-account/Change-Email.gif)
 
 To Change the email of your account, follow these steps:
-1. Open the Wagguracy App and Log In:
+1. Open the WAGGURACY App and Log In:
 
-    Launch the Wagguracy app and log in to your existing account.
+    Launch the WAGGURACY app and log in to your existing account.
 2. Access Account Settings:
 
    Tap **User** > **Settings** > **Account security** > **Change account**.
@@ -22,7 +22,7 @@ To Change the email of your account, follow these steps:
     Check your inbox for the verification email sent to your original email address. Follow the instructions in the email to complete the account verification process. This step helps confirm your identity.
 5. Enter the New Email Address:
 
-    After successfully verifying your original email address, you can now enter the new email address you want to use for your Wagguracy account.
+    After successfully verifying your original email address, you can now enter the new email address you want to use for your WAGGURACY account.
 6. Get Verification Code for the New Email: 
 
     Click on the **Get Code** button again. This will send a verification email to the new email address you've provided.
@@ -30,6 +30,6 @@ To Change the email of your account, follow these steps:
 
     Check your new email inbox for the verification email and follow the provided instructions to complete the account verification process for your new email address.
 
-Your Wagguracy account's email address will be successfully updated to the new one you've provided. This ensures that your account information remains accurate and up-to-date. Make sure to use accurate and truthful information throughout the email change process for security and authentication purposes. 
+Your WAGGURACY account's email address will be successfully updated to the new one you've provided. This ensures that your account information remains accurate and up-to-date. Make sure to use accurate and truthful information throughout the email change process for security and authentication purposes. 
 
 

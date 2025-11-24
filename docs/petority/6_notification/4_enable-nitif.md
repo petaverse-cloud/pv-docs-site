@@ -3,14 +3,14 @@ sidebar_position: 4
 title: Message Alerts
 ---
 
-# Enabling Message Alerts in Wagguracy
-Wagguracy offers **[various alerts](/docs/petority/notification/type)** to keep you informed about your pet's well-being and device status. 
+# Enabling Message Alerts in WAGGURACY
+WAGGURACY offers **[various alerts](/docs/petority/notification/type)** to keep you informed about your pet's well-being and device status. 
 
-To ensure you receive these important alerts, follow these steps to [enable message alerts](/docs/petority/general-setting/notification) in the Wagguracy app.
+To ensure you receive these important alerts, follow these steps to [enable message alerts](/docs/petority/general-setting/notification) in the WAGGURACY app.
 
-**Step 1:** Open the Wagguracy App
+**Step 1:** Open the WAGGURACY App
 
-Download and launch the Wagguracy app on your Android or iOS device.
+Download and launch the WAGGURACY app on your Android or iOS device.
 
 **Step 2:** Log In to Your Account
 

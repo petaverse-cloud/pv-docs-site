@@ -3,24 +3,24 @@ sidebar_position: 1
 title: Return Policy
 ---
 
-Here is the detailed explanation of Petority's **30-Day** Satisfaction Guarantee Return Policy:
+Here is the detailed explanation of WAGGURACY's **30-Day** Satisfaction Guarantee Return Policy:
 
 ### Overview of the Return Policy:
 
-Petority is committed to ensuring customer satisfaction with its products. Therefore, we offer a **30-day** satisfaction guarantee return policy to allow customers sufficient time to evaluate and initiate returns for products purchased.
+WAGGURACY is committed to ensuring customer satisfaction with its products. Therefore, we offer a **30-day** satisfaction guarantee return policy to allow customers sufficient time to evaluate and initiate returns for products purchased.
 
 ### Eligibility Requirements for Returns:
 
 To qualify for a return, customers need to meet the following conditions:
 
 1. **Purchase Source:** 
-- Petority.net Purchases:
+- WAGGURACY.net Purchases:
 
-	If you purchased your Petority smart device on Petority.net and are dissatisfied, you have the option to return the smart device within 30 days from the date of purchase.
+	If you purchased your WAGGURACY smart device on WAGGURACY.net and are dissatisfied, you have the option to return the smart device within 30 days from the date of purchase.
 
 - Amazon or Other Authorized Dealers:
 
-	If you made your purchase through an authorized dealer such as Amazon, the return of your Petority tracker is subject to the seller's return policy. Please adhere to the dealer's policies regarding returns.
+	If you made your purchase through an authorized dealer such as Amazon, the return of your WAGGURACY tracker is subject to the seller's return policy. Please adhere to the dealer's policies regarding returns.
 
 2. **Obtain RMA Number:** 
 
@@ -28,7 +28,7 @@ To qualify for a return, customers need to meet the following conditions:
 
 3. **Product Condition:** 
 
-	The returned Petority product must be in good, clean physical condition and packaged in its original packaging or equivalent protective packaging.
+	The returned WAGGURACY product must be in good, clean physical condition and packaged in its original packaging or equivalent protective packaging.
 
 4. **Included Items:** 
 
@@ -46,7 +46,7 @@ To qualify for a return, customers need to meet the following conditions:
 
 3. **Send the Return:** 
 
-	Customers should send the return items along with the RMA number to the address specified by Petority. It is recommended to use a tracking service to ensure the safety of the return.
+	Customers should send the return items along with the RMA number to the address specified by WAGGURACY. It is recommended to use a tracking service to ensure the safety of the return.
 
 4. **Refund Processing:** 
 
@@ -66,4 +66,4 @@ To qualify for a return, customers need to meet the following conditions:
 
 ### Contact Us:
 
-If customers have any questions or need further information about the return policy, they can contact us through Petority's support form. Our support team will be happy to assist and address any concerns.
+If customers have any questions or need further information about the return policy, they can contact us through WAGGURACY's support form. Our support team will be happy to assist and address any concerns.

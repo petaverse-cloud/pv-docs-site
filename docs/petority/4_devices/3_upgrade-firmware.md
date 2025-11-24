@@ -3,16 +3,16 @@ sidebar_position: 3
 title: Update Firmware
 ---
 
-# Updating Your Wagguracy PHAST 1
-Keeping your Wagguracy PHAST 1 **up to date** with the latest software is *essential* to ensure optimal performance and access to **new** features.
+# Updating Your WAGGURACY PHAST 1
+Keeping your WAGGURACY PHAST 1 **up to date** with the latest software is *essential* to ensure optimal performance and access to **new** features.
 
 ![Upgrade](/img/devices/Upgrade.jpg)
 
-Follow these steps to Update your Wagguracy PHAST 1:
+Follow these steps to Update your WAGGURACY PHAST 1:
 
 **Step 1:** Check for Updates
 
-+ Open the Wagguracy app on your smartphone.
++ Open the WAGGURACY app on your smartphone.
 + Log in to your account.
 + Tap **User** > **Device**
 
@@ -20,7 +20,7 @@ Follow these steps to Update your Wagguracy PHAST 1:
 
 + Tap **Upgrade** . 
 
-    This will initiate a check to see if there are any **available** updates for your Wagguracy PHAST 1.
+    This will initiate a check to see if there are any **available** updates for your WAGGURACY PHAST 1.
 
 **Step 3:** Download and Install
 
@@ -33,11 +33,11 @@ If an update is available, follow the prompts to download and install it.
 
 **Step 4:** Restart and Verify
 
-After the update is installed, you may be prompted to restart your Wagguracy PHAST 1. Once it's back online, verify that the update has been successfully applied by checking the device's settings.
+After the update is installed, you may be prompted to restart your WAGGURACY PHAST 1. Once it's back online, verify that the update has been successfully applied by checking the device's settings.
 
 **Step 5:** Enjoy New Features
 
-Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the Wagguracy app to discover any changes and enhancements resulting from the update.
+Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the WAGGURACY app to discover any changes and enhancements resulting from the update.
 
 ### Bluetooth Firmware Update：
 When a normal network update is unavailable, Bluetooth upgrades serve as a reliable alternative to ensure device stability and access to the latest features.
@@ -58,16 +58,16 @@ Open the **Update page** in the app, tap the **“...”** icon in the upper-rig
 
 **Step 4:** Restart and Verify
 
-After the update is installed, you may be prompted to restart your Wagguracy PHAST 1. Once it's back online, verify that the update has been successfully applied by checking the device's settings.
+After the update is installed, you may be prompted to restart your WAGGURACY PHAST 1. Once it's back online, verify that the update has been successfully applied by checking the device's settings.
 
 **Step 5:** Enjoy New Features
 
-Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the Wagguracy app to discover any changes and enhancements resulting from the update.
+Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the WAGGURACY app to discover any changes and enhancements resulting from the update.
 
 ### Important Tips:
-+ It's recommended to keep your Wagguracy app up to date as well, as new device updates might require app compatibility.
++ It's recommended to keep your WAGGURACY app up to date as well, as new device updates might require app compatibility.
 + Be patient during the update process, as it might take some time based on your device and internet speed.
-+ If you encounter any issues during the update or have questions, refer to the official Wagguracy documentation or contact customer support for assistance.
-+ Remember, regular updates contribute to the overall performance and security of your Wagguracy PHAST 1, ensuring the best experience for you and your pet.
++ If you encounter any issues during the update or have questions, refer to the official WAGGURACY documentation or contact customer support for assistance.
++ Remember, regular updates contribute to the overall performance and security of your WAGGURACY PHAST 1, ensuring the best experience for you and your pet.
 
 

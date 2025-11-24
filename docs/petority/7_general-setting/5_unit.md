@@ -4,7 +4,7 @@ title: Unit Settings
 ---
 
 # Unit Preferences:
-Wagguracy allows users to customize their preferred units for various measurements, ensuring that the information provided aligns with their preferences and familiarity.
+WAGGURACY allows users to customize their preferred units for various measurements, ensuring that the information provided aligns with their preferences and familiarity.
 
 ![units](/img/setting/Unit-Settings.jpg)
 

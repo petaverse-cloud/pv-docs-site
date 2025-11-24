@@ -13,4 +13,4 @@ The device boasts remarkable battery life, catering to various usage demands:
 
 	When not in active use, the device remains online and ready to receive instructions or perform monitoring tasks, ensuring you stay connected at all times.
 
-Petority devices ensure prolonged reliability and flexibility with their battery performance. 
+PHAST 1 ensure prolonged reliability and flexibility with their battery performance. 

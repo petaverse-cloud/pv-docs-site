@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Introduction
 ---
 
-Wagguracy-PHAST 1 is a smart device designed to monitor your pet’s health and activity. It’s crafted from carefully selected materials to ensure both comfort and durability.
+WAGGURACY PHAST 1 is a smart device designed to monitor your pet’s health and activity. It’s crafted from carefully selected materials to ensure both comfort and durability.
 
 Here are the key details:
 
@@ -13,4 +13,4 @@ Here are the key details:
 
 Together, the PHAST 1 and its companion App create a comprehensive system for [monitoring and managing your pet's health and activities](/docs/petority/features/health-monitoring).
 
-If you'd like to learn more about the Wagguracy PHAST 1 Kit, please see: [Wagguracy PHAST 1 Kit.](/docs/devices/general-information/kit)
+If you'd like to learn more about the WAGGURACY PHAST 1 Kit, please see: [WAGGURACY PHAST 1 Kit.](/docs/devices/general-information/kit)

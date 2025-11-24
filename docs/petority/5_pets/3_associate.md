@@ -4,7 +4,7 @@ title: Pet Binding
 ---
 
 # Binding, Unbinding, and Switching Devices for Pets
-In Wagguracy, you can easily **bind**, **unbind**, and **switch** devices for your pets to track and monitor their activities.
+In WAGGURACY, you can easily **bind**, **unbind**, and **switch** devices for your pets to track and monitor their activities.
 
 Here are the steps to perform these actions:
 
@@ -12,9 +12,9 @@ Here are the steps to perform these actions:
 
 ![disassociating](/img/pet/Associating.jpg)
 
-1. Open the Wagguracy App:
+1. Open the WAGGURACY App:
 
-	Launch the Wagguracy app and **log in** to your account.
+	Launch the WAGGURACY app and **log in** to your account.
 
 2. Access the Device List:
 
@@ -54,4 +54,4 @@ Here are the steps to perform these actions:
 
 	You can follow the **Binding a Device with a Pet** steps to choose another pet and associate the device with him/her.
 
-By following these steps, you can effortlessly manage your Wagguracy devices and ensure they are bound with the right pets for accurate tracking and monitoring.
+By following these steps, you can effortlessly manage your WAGGURACY devices and ensure they are bound with the right pets for accurate tracking and monitoring.

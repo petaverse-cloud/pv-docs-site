@@ -22,9 +22,9 @@ If you are experiencing difficulties with pairing your PHAST 1, consider the fol
 
 	Sometimes, resolving temporary connection issues can be achieved by restarting both your smartphone and the PHAST 1.
 
-5. Update Wagguracy Application:
+5. Update WAGGURACY Application:
 
-	Ensure that you are using the **latest** version of the Wagguracy application. Check for [available updates](/docs/petority/general-setting/update-app) in the app store or on the official website.
+	Ensure that you are using the **latest** version of the WAGGURACY application. Check for [available updates](/docs/petority/general-setting/update-app) in the app store or on the official website.
 
 6. [Check Battery Level:](/docs/devices/battery-charging/battery-checking)
 

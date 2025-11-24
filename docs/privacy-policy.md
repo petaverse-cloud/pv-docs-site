@@ -6,11 +6,11 @@ title: Privacy Policy
 # Privacy Policy
 Effective as of November 19, 2025.
 
-This Privacy Policy outlines how Wagguracy ("Wagguracy," "we," "us," or "our") collects, uses, shares, processes, and protects the information provided by you through our digital assets (linked to this Privacy Policy) when using our products and services. These include our website ("Website"), PHAST 1, and mobile application ("App," collectively referred to as "Services"), as well as information collected through social media, marketing activities, live events, and other activities described in this Privacy Policy.
+This Privacy Policy outlines how WAGGURACY ("WAGGURACY," "we," "us," or "our") collects, uses, shares, processes, and protects the information provided by you through our digital assets (linked to this Privacy Policy) when using our products and services. These include our website ("Website"), PHAST 1, and mobile application ("App," collectively referred to as "Services"), as well as information collected through social media, marketing activities, live events, and other activities described in this Privacy Policy.
 
 We manufacture and sell smart collars using geolocation technology, known as the "PHAST 1" allowing users to track their dogs. We collect and use geolocation information to provide you with the tracking services of PHAST 1 and do not sell such information to third parties in any other way. 
 
-We value user privacy and strive to transparently explain how we collect and use personal information. This Privacy Policy provides details on how we manage the privacy of the personal information disclosed when using the "Wagguracy" app, connecting devices to the "Wagguracy" app, and utilizing related services. Please take some time to familiarize yourself with our Privacy Policy, and feel free to contact us if you have any questions or concerns about privacy.
+We value user privacy and strive to transparently explain how we collect and use personal information. This Privacy Policy provides details on how we manage the privacy of the personal information disclosed when using the "WAGGURACY" app, connecting devices to the "WAGGURACY" app, and utilizing related services. Please take some time to familiarize yourself with our Privacy Policy, and feel free to contact us if you have any questions or concerns about privacy.
 
 ## Index
 1. Information Collection
@@ -31,9 +31,9 @@ In order to provide you with our services, we may request you to provide persona
 The personal information you may provide to us through the services or other means includes:
 
 + **Contact Data:** This includes your name, gender, birthday, email address, home address (such as city, state, residential country), and phone number for providing efficient login services. If you use third-party platform accounts for login, we collect authentication information (phone number, email, verification code matching results) for providing account login services.
-+ **Profile Data:** Account information on the "Wagguracy" app (such as username and password set when creating an online account on the service), information about your dogs (such as the dog's name, gender, age, breed, sterilization status, and weight), data or information synchronized from devices accessing the Wagguracy app, account and related settings information created on the Wagguracy app, devices added or messages sent, feedback, and any other information added to the account profile.
++ **Profile Data:** Account information on the "WAGGURACY" app (such as username and password set when creating an online account on the service), information about your dogs (such as the dog's name, gender, age, breed, sterilization status, and weight), data or information synchronized from devices accessing the WAGGURACY app, account and related settings information created on the WAGGURACY app, devices added or messages sent, feedback, and any other information added to the account profile.
 + **Precise Geolocation Data:** Various information related to your location, such as region and country codes, city codes, mobile network codes, mobile device country codes, cell identification codes, region names, latitude and longitude information, time zone settings, and language settings. When you explicitly consent to allowing us to use your Bluetooth connection to connect to your PHAST 1 to provide our services, the location is recorded.
-+ **PHAST 1 Data:** When you synchronize data from related devices using the "Wagguracy" app, we record information about your pet, such as heart rate trends and activity information (distance, steps, motion status).
++ **PHAST 1 Data:** When you synchronize data from related devices using the "WAGGURACY" app, we record information about your pet, such as heart rate trends and activity information (distance, steps, motion status).
 + **Communication Data:** This includes communication data generated when you contact us through the service, social media, or other means.
 + **Transaction Data:** Information related to orders placed on the service or completed through the service, including subscription information, order numbers, and transaction history.
 + **Marketing Data:** Preferences for receiving our marketing communications and detailed information about your interaction with these communications.
@@ -50,7 +50,7 @@ We may combine the personal information we receive from you with personal inform
 
 We, our service providers, and business partners may automatically record information about you, your mobile device, and your interaction with the service, our communications, and other online services, including:
 
-+ **Device Data:** We may collect information related to the handheld terminal running Wagguracy, such as the operating system type and version, manufacturer and model of the mobile device, screen resolution, RAM and disk size, CPU usage, IP address, unique identifiers (including identifiers for advertising purposes), language settings, city, state, and general location information.
++ **Device Data:** We may collect information related to the handheld terminal running WAGGURACY, such as the operating system type and version, manufacturer and model of the mobile device, screen resolution, RAM and disk size, CPU usage, IP address, unique identifiers (including identifiers for advertising purposes), language settings, city, state, and general location information.
 + **Online Activity Data:** Such as pages or screens you view, time spent on pages or screens, navigation paths between pages or screens visited before reaching the service, information about your activities on pages or screens, access time, and duration of access, as well as whether you have opened our emails or clicked on links within them.
 + **Location Data:** If you authorize our service to access your device's location (for automatic connection to your PHAST 1), we collect your location information to provide our services (allowing our users to track their dog's location). We actively collect location information (such as using GPS or Bluetooth) and passively collect location information (such as using Wi-Fi).
 ### Local Storage and Firebase Crashlytics
@@ -85,7 +85,7 @@ The above are some purposes for using your personal information, and additional 
 We may use pet info for research and development to analyze and improve services. Through data analysis, we understand pets' health better. Aggregating data like heart rate, steps, activity, with factors like breed, age, gender, we create pet data reports. Committed to providing deeper insights, contributing to service analysis and improvement for targeted pet health management.
 ### Marketing and Advertising
 We, our service providers, and third-party advertising partners may collect and use your personal information for marketing and advertising purposes:
-+ **Direct Marketing:** We may send you personalized marketing communications based on the personal information you provided(such as pet information, order details), using your email address and Wagguracy account for promotional materials related to our products and services.
++ **Direct Marketing:** We may send you personalized marketing communications based on the personal information you provided(such as pet information, order details), using your email address and WAGGURACY account for promotional materials related to our products and services.
 + **Interest-based Advertising:** Our third-party ad partners use local storage and similar techniques to collect info about your interaction with the service and other online activities. This helps deliver ads they think will interest you. We may share user info for interest-based advertising on other platforms.
 Compliance and Protection
 ## We may use your personal information to:
@@ -108,7 +108,7 @@ In addition to other purposes included in this section, we may use the described
 When we no longer need to collect personal information about you, we may delete it, de-identify it, or isolate it from further processing.
 
 ## How We Share Your Personal Information
-We may share your personal information with third parties to provide requested products or services. Rest assured, Wagguracy will only share your data with authorized suppliers or agents for the outlined purposes in this Privacy Policy.
+We may share your personal information with third parties to provide requested products or services. Rest assured, WAGGURACY will only share your data with authorized suppliers or agents for the outlined purposes in this Privacy Policy.
 + **Affiliated Companies:** Our parent company, subsidiaries, and affiliated companies, for purposes consistent with this Privacy Policy.
 + **Service Providers:** Third parties that provide services to us or assist us in operating the service or business (such as hosting, IT, customer support, email delivery, marketing, consumer research, and website analytics). We may share location data with our service providers to enable the provision of our services.
 + **Payment Processors:** Any payment card information you use for purchases on the service is collected and processed directly by our payment processors (such as PayPal). PayPal may use your payment data in accordance with its privacy policy. You may also choose to be billed by your mobile carrier, which may use your payment data according to its privacy policy.
@@ -121,7 +121,7 @@ We'll verify third parties' data protection practices align with this Privacy Po
 Your Choices
 
 In this section, we outline the rights and choices available to all users:
-+ Log in, Log out, and Deactivate Wagguracy Account: You have the option to log in, log out, and deactivate your Wagguracy account.
++ Log in, Log out, and Deactivate WAGGURACY Account: You have the option to log in, log out, and deactivate your WAGGURACY account.
 + Access, Query, Update, Correct Your Personal Information: If you have registered an account through the service, you can view and update certain account information by logging into the service and accessing the account settings section.
 + Opt-Out of Marketing: You can contact us to opt-out of marketing-related emails. Please note that if you choose to refuse marketing-related emails, you may still receive service-related and other non-marketing emails.
 + Enable or Disable Location Access: You can disable our access to your device's precise location in your mobile device settings. However, please note that if you disable our access to your device's Bluetooth connection, we may not be able to provide location tracking services for your PHAST 1.
@@ -147,7 +147,7 @@ You can delete your account anytime by navigating to "User" - "Settings" - "Acco
 The service includes links to third-party websites, apps, and online services. Our content may be integrated into unrelated web pages or online services, but it doesn't imply affiliation with these third parties. We lack control over them and disclaim responsibility for their actions. Please read the privacy policies of other websites and services you use.
 
 ## Security 
-We prioritize the security of your personal information. Employing physical, electronic, and managerial measures, we aim to prevent unauthorized access or disclosure risks associated with data collected through the "Wagguracy" app. Encryption methods, such as Secure Socket Layer (SSL), secure information transmission between Wagguracy devices and our servers. 
+We prioritize the security of your personal information. Employing physical, electronic, and managerial measures, we aim to prevent unauthorized access or disclosure risks associated with data collected through the "WAGGURACY" app. Encryption methods, such as Secure Socket Layer (SSL), secure information transmission between WAGGURACY devices and our servers. 
 
 Your personal information is stored securely, classified by importance and sensitivity for the highest level of security. We implement specific access controls for cloud-based data storage. Regular reviews of information practices, including physical security measures, are conducted to prevent unauthorized access and use.
 However, all internet and information technologies inherently carry security risks, and we cannot guarantee the security of your personal information. We appreciate your understanding.
@@ -156,9 +156,9 @@ We are headquartered in the United States, we may use service providers in other
 ## Children
 We encourage parents or guardians to guide minors under eighteen in using our services. If you are under 14 years old or not considered a legal adult per local laws, have your parents or guardians read this policy and use our services with their consent. Avoid providing personally identifiable information if your guardian disagrees with your use or you've shared such information. If your guardian disagrees or you've shared identifiable information, stop using our services and promptly notify us for appropriate measures as per applicable laws.
 ## Privacy Policy Updates
-We may update this privacy policy at any time. In case of significant changes, we will notify you via email or by posting on the Wagguracy app. The changes will be effective upon publication. Your continued use of the service after the effective date will be considered acceptance of the updated policy.
+We may update this privacy policy at any time. In case of significant changes, we will notify you via email or by posting on the WAGGURACY app. The changes will be effective upon publication. Your continued use of the service after the effective date will be considered acceptance of the updated policy.
 ## Contact Us
-If you have any comments, questions, or concerns about this privacy policy or Wagguracy's handling of your personal information, please email us. We will respond promptly.
+If you have any comments, questions, or concerns about this privacy policy or WAGGURACY's handling of your personal information, please email us. We will respond promptly.
 
 **Email:** help@wagguracy.net
 

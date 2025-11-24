@@ -3,14 +3,14 @@ sidebar_position: 1
 title: View Pet's Heart Rate
 ---
 
-# How to View Your Pet's Heart Rate on Wagguracy
+# How to View Your Pet's Heart Rate on WAGGURACY
 PHAST 1's heart rate monitoring feature allows you to keep a close eye on your pet's heart rate, providing valuable insights into their health and well-being.
 
-Here's a brief guide on how to check your pet's heart rate using Wagguracy:
+Here's a brief guide on how to check your pet's heart rate using WAGGURACY:
 
-1. Open the Wagguracy App:
+1. Open the WAGGURACY App:
 
-	Start by downloading and installing the Wagguracy app on your smartphone, then log in to your account.
+	Start by downloading and installing the WAGGURACY app on your smartphone, then log in to your account.
 2. Select Your Pet:
 
 	Within the app, navigate to your list of registered pets.
@@ -26,7 +26,7 @@ On **Home** page, you can find information about their [real-time heart rate](/d
 
 **Heart Rate Range Indicators:**
 
-Wagguracy uses color coding or icons to indicate different heart rate ranges, such as low, normal, or high heart rates.
+WAGGURACY uses color coding or icons to indicate different heart rate ranges, such as low, normal, or high heart rates.
 
 | Heart Rate   | Color   |
 | ----------- |  ----------- |

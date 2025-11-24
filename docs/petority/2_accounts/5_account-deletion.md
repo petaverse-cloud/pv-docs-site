@@ -4,13 +4,13 @@ title: Delete Account
 ---
 
 # Delete Your Account
-Sometimes, you may decide to part ways with your Wagguracy account. This guide provides a step-by-step process for deleting your account, along with essential information and solutions to common questions. See: [Data Deletion Instructions](/docs/data-deletion-instructions).
+Sometimes, you may decide to part ways with your WAGGURACY account. This guide provides a step-by-step process for deleting your account, along with essential information and solutions to common questions. See: [Data Deletion Instructions](/docs/data-deletion-instructions).
 
 
-To delete your Wagguracy account, you can follow these steps:
-1. Open the Wagguracy App and Log In:
+To delete your WAGGURACY account, you can follow these steps:
+1. Open the WAGGURACY App and Log In:
 
-    Begin by opening the Wagguracy app and logging in to your account.
+    Begin by opening the WAGGURACY app and logging in to your account.
 2. Access Account Settings:
 
     Click on **User** > **Settings**.
@@ -42,5 +42,5 @@ To delete your Wagguracy account, you can follow these steps:
 
 	If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives to help you troubleshoot and resolve the issue. Ways to Contact Us: help@wagguracy.net.
 
-Make sure to fully understand these rules and considerations before deleting your Wagguracy account to avoid unnecessary loss.
+Make sure to fully understand these rules and considerations before deleting your WAGGURACY account to avoid unnecessary loss.
 

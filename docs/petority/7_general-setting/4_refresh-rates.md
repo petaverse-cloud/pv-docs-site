@@ -24,11 +24,11 @@ PHAST 1 provides three Working Mode options for updating pet location and health
 	Maximizes battery life, suitable for pets in a safe zone with less frequent updates.
 
 ## Configuring Working Mode:
-Follow these steps to configure the Working Mode within the Wagguracy app:
+Follow these steps to configure the Working Mode within the WAGGURACY app:
 
-1. Open the Wagguracy App: 
+1. Open the WAGGURACY App: 
 
-	Ensure you have the Wagguracy app installed on your smartphone, and log in to your account.
+	Ensure you have the WAGGURACY app installed on your smartphone, and log in to your account.
 
 2. Access Settings: 
 

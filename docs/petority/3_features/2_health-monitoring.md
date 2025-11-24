@@ -3,8 +3,8 @@ sidebar_position: 2
 title: Health Monitoring
 ---
 
-# Tracking Your Pet's Well-being with Wagguracy's Health Feature
-Wagguracy, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. Some of its standout capabilities are the **comprehensive health data detection** and **location history tracking functionality**. 
+# Tracking Your Pet's Well-being with WAGGURACY's Health Feature
+WAGGURACY, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. Some of its standout capabilities are the **comprehensive health data detection** and **location history tracking functionality**. 
 
 ![Health](/img/health/Health.jpg)
 
@@ -16,9 +16,9 @@ By following a few simple steps, you can access a wealth of information right at
 
 **Easy Steps to Access Health Data:**
 
-1. Open the Wagguracy App:
+1. Open the WAGGURACY App:
   
-  Open the **Wagguracy app** on your Android or iOS device and log in.
+  Open the **WAGGURACY app** on your Android or iOS device and log in.
 2. Navigate to the Health Tab:
 
   Tap **Health**.
@@ -32,7 +32,7 @@ By following these simple steps, you'll be able to access and review your pet's 
 
 ### Insights into Your Pet's Activities:
 
-With Wagguracy's Health Data and Location History feature, you gain a comprehensive overview of your pet's daily activities. 
+With WAGGURACY's Health Data and Location History feature, you gain a comprehensive overview of your pet's daily activities. 
 
 ![Path](/img/health/Activities.jpg)
 
@@ -47,7 +47,7 @@ The tag emits a **blue** breathing light when actively collecting your pet's hea
 
 By having access to their heart rate data, you can promptly detect any irregularities and take necessary actions for their well-being.
 
-**Monitor your pet's heart rate with ease. Wagguracy provides visual cues for different heart rate ranges:**
+**Monitor your pet's heart rate with ease. WAGGURACY provides visual cues for different heart rate ranges:**
  
 | Heart Rate  | Color   |
 | ----------- | ----------- |
@@ -78,7 +78,7 @@ Check whether your pet are getting sufficient exercise daily.
 
 ## Benefits of Historical Data Viewing
 
-Wagguracy's Historical Data feature provides several advantages:
+WAGGURACY's Historical Data feature provides several advantages:
 
 + Activity Insights:
     
@@ -96,6 +96,6 @@ Wagguracy's Historical Data feature provides several advantages:
     
     Observe *long-term trends* in your pet's **activity levels**, **sleep patterns**, and more. This information can be essential for maintaining their overall health and happiness.
 
-Wagguracy's Health Data and Location History feature offers a holistic view of your pet's well-being, helping you ensure their happiness and health. With its user-friendly interface and insightful data, you can stay connected and make the best choices for your beloved companion.
+WAGGURACY's Health Data and Location History feature offers a holistic view of your pet's well-being, helping you ensure their happiness and health. With its user-friendly interface and insightful data, you can stay connected and make the best choices for your beloved companion.
 
  

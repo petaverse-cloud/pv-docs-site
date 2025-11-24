@@ -4,7 +4,7 @@ title: Real-Time Heart Rate Monitoring
 ---
 
 # Real-Time Heart Rate Monitoring
-Wagguracy offers a cutting-edge feature that allows you to **monitor your pet's heart rate in real time**. This innovative function provides valuable insights into your pet's **health** and **well-being**, Allowing you to stay on top of their needs.
+WAGGURACY offers a cutting-edge feature that allows you to **monitor your pet's heart rate in real time**. This innovative function provides valuable insights into your pet's **health** and **well-being**, Allowing you to stay on top of their needs.
 
 ![Real-Time Heart Rate](/img/heart/Heart-Rate1.jpg)
 
@@ -20,7 +20,7 @@ Even when you're not physically present, you can stay connected and monitor your
 
 **Monitor your pet's heart rate with ease.**
 
-Wagguracy provides visual cues for different heart rate ranges:
+WAGGURACY provides visual cues for different heart rate ranges:
  
 | Heart Rate   | Color   |
 | ----------- | ----------- |
@@ -47,7 +47,7 @@ When dogs exercise vigorously, their heart rate goes up to meet the increased de
 
 1. Access the Feature:
 
-    Open the **Wagguracy app** on your Android or iOS device and log in.
+    Open the **WAGGURACY app** on your Android or iOS device and log in.
 2. Navigate to Heart Rate: 
 
     Tap on the **Home** section in the app's menu.
@@ -58,6 +58,6 @@ When dogs exercise vigorously, their heart rate goes up to meet the increased de
 
     Once you've selected the pet, you'll be able to see their heart rate in real time. The app provides a graphical representation of the heart rate data, making it easy to track any fluctuations.
 
-Wagguracy's real-time heart rate monitoring enables you to provide the best care for your pet's cardiovascular health. By integrating technology with pet care, you can enhance your pet's overall quality of life and well-being. 
+WAGGURACY's real-time heart rate monitoring enables you to provide the best care for your pet's cardiovascular health. By integrating technology with pet care, you can enhance your pet's overall quality of life and well-being. 
 
-Please note that this feature requires **a Wagguracy device** with heart rate monitoring capability and a stable connection to the app. Always consult with a veterinarian for professional guidance on interpreting your pet's heart rate data and any potential health concerns. 
+Please note that this feature requires **a WAGGURACY device** with heart rate monitoring capability and a stable connection to the app. Always consult with a veterinarian for professional guidance on interpreting your pet's heart rate data and any potential health concerns. 

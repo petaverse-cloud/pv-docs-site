@@ -3,10 +3,10 @@ sidebar_position: 2
 title: Fence Event
 ---
 
-# Wagguracy Fence Event Alerts
-Wagguracy's geofence feature allows you to create virtual boundaries for your pet's safety and to receive alerts when your pet enters or exits these predefined areas. Fence event alerts help you stay informed about your pet's location and movements, ensuring their safety and well-being.
+# WAGGURACY Fence Event Alerts
+WAGGURACY's geofence feature allows you to create virtual boundaries for your pet's safety and to receive alerts when your pet enters or exits these predefined areas. Fence event alerts help you stay informed about your pet's location and movements, ensuring their safety and well-being.
 
-Before receiving fence event alerts, you'll need to [set up a fence](/docs/petority/features/fence) in the Wagguracy app.
+Before receiving fence event alerts, you'll need to [set up a fence](/docs/petority/features/fence) in the WAGGURACY app.
 
 1. Receiving Fence Event Alerts:
 

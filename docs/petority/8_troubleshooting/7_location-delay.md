@@ -19,9 +19,9 @@ If you are experiencing issues with delayed or inaccurate location information f
 
 	Confirm that the PHAST 1 is **powered on** to ensure proper functioning and transmission of location information.
 
-4. Update Wagguracy App:
+4. Update WAGGURACY App:
 
-	Make sure you are using the **latest** version of the PetoWagguracyrity app. [Updating the application](/docs/petority/general-setting/update-app) can resolve some performance and stability-related issues.
+	Make sure you are using the **latest** version of the WAGGURACY app. [Updating the application](/docs/petority/general-setting/update-app) can resolve some performance and stability-related issues.
 
 5. Restart Devices:
 
