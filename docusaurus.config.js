@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Petority',
+  title: 'WAGGURACY Help Center',
   tagline: 'The next generation of pet tracking',
   favicon: 'img/favicon.ico',
 
