@@ -20,20 +20,13 @@ const FeatureList = [
 	},
 	{
 		key: 3,
-		title: 'Attaching to the Collar',
-		src: require('@site/static/img/petority_attaching_collar.png').default,
-		href: '/docs/devices/general-information/attaching',
-		description: <>How to Properly Wear Petority Tag?</>,
-	},
-	{
-		key: 4,
 		title: 'LIVE Tracking',
 		src: require('@site/static/img/petority_living_tracking.png').default,
 		href: '/docs/petority/features/live-tracking',
 		description: <>How to use Real-time Location Tracking?</>,
 	},
 	{
-		key: 5,
+		key: 4,
 		title: 'Health Monitoring',
 		src: require('@site/static/img/petority_health_monitoring.png').default,
 		href: '/docs/petority/features/health-monitoring',
@@ -42,7 +35,7 @@ const FeatureList = [
 		),
 	},
 	{
-		key: 6,
+		key: 5,
 		title: 'Fence',
 		src: require('@site/static/img/petority_fence.png').default,
 		href: '/docs/petority/features/Fence',
