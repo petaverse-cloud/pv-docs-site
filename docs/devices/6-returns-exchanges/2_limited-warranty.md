@@ -5,11 +5,11 @@ title: Limited Warranty Policy
 
 # Limited Warranty Policy
 
-**Six-Month** Limited Warranty.
+**Twelve-Month** Limited Warranty.
 
 ## Warranty Period:
 
-The warranty period is **six months** from the retail purchase date or, for online orders, from the confirmed delivery date as documented by postal delivery confirmation.
+The warranty period is **Twelve-Month** from the retail purchase date or, for online orders, from the confirmed delivery date as documented by postal delivery confirmation.
 
 ## Covered Products:
 
@@ -26,7 +26,7 @@ If WAGGURACY determines that replacing the defective covered product is unreason
 
 ## How to Obtain Warranty Service?
 
-- To obtain warranty service, fill out the warranty service form. You must first obtain a Return Merchandise Authorization (RMA), which you can request from our support team at help@wagguracy.net. In your request, include the serial number of the warranty product, a brief description of the reason for your return, photos of the damage or defect (where visible), and a description of the steps you have taken to address the issue. Proof of purchase details may also be required to obtain an RMA.
+- To obtain warranty service, fill out the warranty service form. You must first obtain a Return Merchandise Authorization (RMA), which you can request from our support team at support@wagguracy.com. In your request, include the serial number of the warranty product, a brief description of the reason for your return, photos of the damage or defect (where visible), and a description of the steps you have taken to address the issue. Proof of purchase details may also be required to obtain an RMA.
 
 - Upon receipt of an RMA, deliver the defective warranty product (using its original packaging or equivalent protective packaging) along with proof of purchase indicating the purchase date to the address specified by WAGGURACY. By sending the covered product, you confirm that upon WAGGURACY's receipt of the defective covered product, ownership of the covered product transfers to us. If WAGGURACY determines that the claim is reasonable under this limited warranty, WAGGURACY will bear the cost of shipping the repaired or replacement warranty product to you. Any warranty product returned to WAGGURACY without a valid warranty claim or RMA may be refused, returned at your expense (prepaid), or disposed of at WAGGURACY's sole discretion, with no further liability or obligation to you.
 
@@ -42,13 +42,16 @@ If WAGGURACY determines that replacing the defective covered product is unreason
 
 3. **Usage Restrictions:**
 
-- The warranty does not apply to damages caused by:
+  The warranty does not apply to damages caused by:
 - Use with non-WAGGURACY products.
 - Accidents, abuse, misuse, food or liquid spills, or other external causes.
+- Damage caused by pets, including but not limited to chewing, scratching, or biting.
 - Operation outside of the permitted or intended uses described in the product specifications and user manual.
 - Failure to follow instructions for the use of the product or using incorrect voltage or power source.
+- Unauthorized disassembly, repair, or modification by anyone other than WAGGURACY representatives.
 - Services provided by non-WAGGURACY representatives.
 - Cosmetic damage, such as scratches or dents, unless there is ordinary wear and tear on the product's casing or paint requiring replacement of defective components.
+- Damage caused by extreme environmental conditions or Force Majeure (e.g., lightning, fire, or flood).
 
 ## Implied Warranties and Conditions:
 

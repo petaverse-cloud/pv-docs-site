@@ -8,7 +8,7 @@ WAGGURACY PHAST 1 offers a reliable tracking solution to help you keep tabs on y
 
 **Optimal range:**
 
-**1-2 kilometers** from the base station. WAGGURACY PHAST 1 provide reliable real-time pet tracking within this distance.
+WAGGURACY PHAST 1 provide reliable real-time pet tracking within this distance.
 
 Here's what you need to know about the tracking range of WAGGURACY PHAST 1:
 

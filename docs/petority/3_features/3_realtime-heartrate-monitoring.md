@@ -24,11 +24,11 @@ WAGGURACY provides visual cues for different heart rate ranges:
  
 | Heart Rate   | Color   |
 | ----------- | ----------- |
-| Low    | <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
-|  Normal  |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| Low    | <li style={{ "color": "#FFA6BC" }}><span style={{ "color": "#000" }}>Pink</span></li> |
+|  Normal  |  <li style={{ "color": "#FF3366" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| High      |  <li style={{ "color": "#B22E3C" }}><span style={{ "color": "#000" }}>Crimson</span></li> |
 
-Heart Rate Ranges for Dogs of Different Sizes:
+<!-- Heart Rate Ranges for Dogs of Different Sizes:
 
  | Weight  | Pet Size | Heart Rate Range   | 
 | ----------- | ----------- | ----------- | 
@@ -36,11 +36,11 @@ Heart Rate Ranges for Dogs of Different Sizes:
 | 21 ~ 50lb |  Medium  |70~110bpm | 
 | 51+lb  | Large/Extra Large | 60 ~ 100bpm   | 
 
-Dogs **under one year old** generally have a heart rate range of **120 ~ 220 bpm**.
+Dogs **under one year old** generally have a heart rate range of **120 ~ 220 bpm**. -->
 
 Heart rate is influenced by factors such as age, health condition, and activity level. For any concerns, please consult a veterinarian.
 
-When dogs exercise vigorously, their heart rate goes up to meet the increased demand for blood and oxygen. Research shows their heart rate can **rise by about 20%** compared to rest. It's a normal response, helping them adapt to activity levels. So, if your dog's heart rate is up during playtime, it's usually nothing to worry about—it's just their body keeping up with the fun!
+When pets exercise vigorously, their heart rate goes up to meet the increased demand for blood and oxygen. Research shows their heart rate can **rise by about 20%** compared to rest. It's a normal response, helping them adapt to activity levels. So, if your pet's heart rate is up during playtime, it's usually nothing to worry about—it's just their body keeping up with the fun!
 
 ### How to use:
 ![steps](/img/heart/Heart-Rate2.jpg)
@@ -50,7 +50,7 @@ When dogs exercise vigorously, their heart rate goes up to meet the increased de
     Open the **WAGGURACY app** on your Android or iOS device and log in.
 2. Navigate to Heart Rate: 
 
-    Tap on the **Home** section in the app's menu.
+    Tap on the **Health** section in the app's menu.
 3. Select Your Pet: 
 
     If you have multiple pets registered in the app, choose the pet whose heart rate you want to monitor.

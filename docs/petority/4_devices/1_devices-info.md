@@ -8,7 +8,7 @@ WAGGURACY offers a range of innovative devices designed to help you track and ca
 
 Below is a brief overview of the device information and settings available within the WAGGURACY ecosystem:
 
-![Device Information:](/img/device/Device-info.jpg)
+![Device Information:](/img/battery/home-battery.jpg)
 
 **Signal Strength:**
 
@@ -18,9 +18,9 @@ View the 4G signal strength of PHAST 1 to ensure stable and reliable communicati
 
 View the battery status of PHAST 1 to ensure it remains operational at all times.
 
-**Home mode**
+**Working mode**
 
-Check whether PHAST 1 is at home through the [Home Fence](/docs/petority/features/Fence) feature.
+View PHAST 1 [Working mode](/docs/petority/devices/Working-mode) .
 
 **GPS Status:**
 
@@ -45,7 +45,7 @@ View the GPS Status of the PHAST 1.
     Download and launch the WAGGURACY app on your smartphone.
 2. Device List: 
 
-    Tap **User** > **Device**
+    Tap **User** > **Device Card**
 3.  Device Details:
 
     View essential information about the device, such as battery level and signal strength.

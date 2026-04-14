@@ -23,7 +23,6 @@ Forgetting your WAGGURACY account password doesn't have to be a headache. This g
     Once verified, you can set a new password for your account. Make sure it's secure and meets any requirements specified by WAGGURACY.
 
 ### Resetting Your Password Within the App:
-![user update](/img/manage-account/Password-Reset2.gif)
 
 1. Access Account Security:
 

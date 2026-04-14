@@ -15,7 +15,7 @@ Here's a step-by-step guide on how to unpair a device:
 	Launch the WAGGURACY app on your smartphone.
 2. Access the Device settings: 
 
-	Tap **User** > **Device** > **PHAST 1 settings**
+	Tap **User** > **Device Card** > **Settings**
 3. Initiate Unpairing: 
     
     Look for an option labeled **Unpair**. Click on this option.

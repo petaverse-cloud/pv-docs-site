@@ -57,7 +57,7 @@ The platform reserves the right to change this Agreement at any time. Any change
 
 ## Contact Us:
 
-If you have any concerns or questions about this Agreement or the account deletion process, please contact our customer support. Contact Us Via: help@wagguracy.net.
+If you have any concerns or questions about this Agreement or the account deletion process, please contact our customer support. Contact Us Via: support@wagguracy.com.
 ## Acceptance of Agreement:
 
 By submitting an account deletion request, you confirm that you have read, understood, and agreed to all the terms and conditions of this Agreement.

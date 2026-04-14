@@ -16,29 +16,29 @@ To qualify for a return, customers need to meet the following conditions:
 1. **Purchase Source:** 
 - WAGGURACY.net Purchases:
 
-	If you purchased your WAGGURACY smart device on WAGGURACY.net and are dissatisfied, you have the option to return the smart device within 30 days from the date of purchase.
+	If you purchased your WAGGURACY product on WAGGURACY.net and are dissatisfied, you have the option to return such product within 30 days from the date of purchase.
 
 - Amazon or Other Authorized Dealers:
 
-	If you made your purchase through an authorized dealer such as Amazon, the return of your WAGGURACY tracker is subject to the seller's return policy. Please adhere to the dealer's policies regarding returns.
+	If you made your purchase through an authorized dealer such as Amazon, the return of your WAGGURACY product is subject to the return policy of Amazon or other authorized dealers. Please adhere to the authorized dealer's policies regarding returns.
 
 2. **Obtain RMA Number:** 
 
-	Customers need to request a Return Merchandise Authorization (RMA) number through our application form within 30 days of purchase. This number is essential for the smooth processing of returns.
+	Customers need to contact our customer support team at support@wagguracy.com to request a Return Merchandise Authorization (RMA) number within 30 days of purchase. This number is essential for the smooth processing of returns.
 
 3. **Product Condition:** 
 
-	The returned WAGGURACY product must be in good, clean physical condition and packaged in its original packaging or equivalent protective packaging.
+	The returned WAGGURACY product must be in resalable condition, clean and undamaged, and free of pet hair, odors, or signs of washing/wear.  All items must be returned in their original packaging or equivalent protective packaging with all tags and labels intact.
 
 4. **Included Items:** 
 
-	Returns must include original accessories and documentation to ensure the complete return of the product.
+	Returns must include all original accessories and documentation to ensure the complete return of the product.
 
 ### Return Process:
 
 1. **Request RMA Number:** 
 
-	Customers are required to apply for an RMA number through our application form within the return period. Upon submission, we will confirm and provide the RMA number within 2 business days.
+	Customers are required to contact our customer support team at support@wagguracy.com to request an RMA number within the return period. Upon receiving the request, we will confirm and provide the RMA number within 2 business days.
 
 2. **Prepare for Return:** 
 
@@ -62,8 +62,10 @@ To qualify for a return, customers need to meet the following conditions:
 
 - **Unauthorized Returns:** Unauthorized returns will be refused or subject to restocking fees.
 
-- **Cancellation of Subscriptions or Activation Fees:** Any subscriptions or activation fees associated with the purchase will be canceled after the return is processed.
+- **Subscriptions Fees:** 
+  - Complimentary subscription plans will be automatically canceled once the return is completed and are non-refundable.
+  - For paid subscription plans, you may contact our customer support team at support@wagguracy.com after the return is completed to request a refund for the unused portion.
 
 ### Contact Us:
 
-If customers have any questions or need further information about the return policy, they can contact us through WAGGURACY's support form. Our support team will be happy to assist and address any concerns.
+If customers have any questions or need further information about the return policy, please contact our customer service team at support@wagguracy.com. Our support team will be happy to assist and address any concerns.

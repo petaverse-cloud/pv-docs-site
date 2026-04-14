@@ -5,8 +5,6 @@ title: Change Account
 
 Updating your email address in WAGGURACY is a straightforward process that ensures your account information remains current. Here's a step-by-step guide on how to change your email address within the WAGGURACY app.
 
-![Update email](/img/manage-account/Change-Email.gif)
-
 To Change the email of your account, follow these steps:
 1. Open the WAGGURACY App and Log In:
 

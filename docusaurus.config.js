@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'WAGGURACY Help Center',
+  title: 'WAGGURACY',
   tagline: 'The next generation of pet tracking',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/WAGGURACY-logo.ico',
 
   // Set the production url of your site here
   url: 'https://help-dev.petority.net',
@@ -70,10 +70,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'HELP',
+        title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/petaverse-logo.svg',
+          src: 'img/WAGGURACY-logo.svg',
         },
         items: [
           {
@@ -89,15 +89,15 @@ const config = {
             label: 'WAGGURACY App',
           },
           //{ to: '/blog', label: 'Blog  position: 'left' },
-          {
+          /* {
             href: 'https://www.petority.net',
             label: 'Back to Official',
             position: 'right',
-          },
-          {
-            type: 'localeDropdown',
-            position: 'right',
-          },
+          },*/
+          // {
+          //   type: 'localeDropdown',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {

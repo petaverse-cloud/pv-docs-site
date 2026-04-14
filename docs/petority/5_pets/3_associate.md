@@ -4,7 +4,7 @@ title: Pet Binding
 ---
 
 # Binding, Unbinding, and Switching Devices for Pets
-In WAGGURACY, you can easily **bind**, **unbind**, and **switch** devices for your pets to track and monitor their activities.
+In WAGGURACY, you can easily **bind**,<!--  **unbind**, and --> **switch** devices for your pets to track and monitor their activities.
 
 Here are the steps to perform these actions:
 
@@ -18,15 +18,15 @@ Here are the steps to perform these actions:
 
 2. Access the Device List:
 
-	Tap **User** > **Devices** to view your connected device list.
+	Tap **User** to view your connected device list.
 
 3. Select the Device to Bind: 
 
-	In the device list, choose the device you want to assign to a specific pet.
+	Tap **Device Card** choose the device you want to assign to a specific pet.
 
 4. Assign to a Pet:
 
-	Click **change** icon
+	Tap **Setting** > **Bind pets** 
 
 5. Choose a Pet:
 
@@ -36,7 +36,7 @@ Here are the steps to perform these actions:
 
 	After making your selection, save the device-to-pet binding settings. Your device is now linked to the chosen pet.
 
-## Unbinding a Device from a Pet:
+<!-- ## Unbinding a Device from a Pet:
 
 ![disassociating](/img/pet/Disassociating.jpg)
 
@@ -46,7 +46,7 @@ Here are the steps to perform these actions:
 
 2. Confirm Unbind: 
 
-	The system will ask you to confirm if you want to Unbind the device from the pet. Once confirmed , the pet will be unbound
+	The system will ask you to confirm if you want to Unbind the device from the pet. Once confirmed , the pet will be unbound -->
 
 ## Switching a Device to Another Pet:
 

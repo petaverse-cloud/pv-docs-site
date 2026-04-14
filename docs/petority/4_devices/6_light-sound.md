@@ -29,7 +29,7 @@ Here's how to do it:
 
 **Step 2:** Navigate to Sound Customization:
 
-+ Tap **User** > **Device** > **PHAST 1 settings**
++ Tap **User** > **Device Card** > **Settings**
 
 **Step 3:** Select Custom Sound:
 
@@ -59,7 +59,7 @@ Personalizing your pet's recall sound has several benefits:
     
     A customized recall sound can be a form of positive reinforcement, creating a strong bond between you and your pet.
 
-## How to Access Device Information and Settings:
+<!-- ## How to Access Device Information and Settings:
 1. Open the WAGGURACY App: 
 
     Download and open the WAGGURACY app, ensuring that you are logged into your account.
@@ -71,7 +71,7 @@ Personalizing your pet's recall sound has several benefits:
     Tap **Device** > **PHAST 1 settings**
 4. Adjust Settings: 
 
-    Based on your preferences and needs, enable/disable pet PHAST 1 sound settings.
+    Based on your preferences and needs, enable/disable pet PHAST 1 sound settings. -->
     
 **Important Tips：**
 + Choose sound effects that match your pet's personality and habits.

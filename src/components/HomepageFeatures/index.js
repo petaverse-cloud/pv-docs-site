@@ -4,40 +4,40 @@ import Link from '@docusaurus/Link';
 import styles from './styles.module.css';
 
 const FeatureList = [
-	{
-		key: 1,
-		title: 'Getting Started',
-		src: require('@site/static/img/petority_getting_started.png').default,
-		href: '/docs/devices/getting-started/getting-started',
-		description: <>What is Petority?</>,
-	},
-	{
-		key: 2,
-		title: 'Tracking Range',
-		src: require('@site/static/img/petority_tracking_range.png').default,
-		href: '/docs/devices/network-bluetooth/tracking-range',
-		description: <>How Far Can It Track My Dog?</>,
-	},
+	// {
+	// 	key: 1,
+	// 	title: 'Getting Started',
+	// 	src: require('@site/static/img/Phast_1_zheng.png').default,
+	// 	href: '/docs/devices/getting-started/getting-started',
+	// 	description: <>What is Wagguracy?</>,
+	// },
+	// {
+	// 	key: 2,
+	// 	title: 'Tracking Range',
+	// 	src: require('@site/static/img/dog.png').default,
+	// 	href: '/docs/devices/network-bluetooth/tracking-range',
+	// 	description: <>How Far Can It Track My Dog?</>,
+	// },
 	{
 		key: 3,
 		title: 'LIVE Tracking',
-		src: require('@site/static/img/petority_living_tracking.png').default,
+		src: require('@site/static/img/wagguracy_living_tracking.png').default,
 		href: '/docs/petority/features/live-tracking',
 		description: <>How to use Real-time Location Tracking?</>,
 	},
 	{
 		key: 4,
 		title: 'Health Monitoring',
-		src: require('@site/static/img/petority_health_monitoring.png').default,
+		src: require('@site/static/img/wagguracy_health_monitoring.png').default,
 		href: '/docs/petority/features/health-monitoring',
 		description: (
-			<>How to Track Your Pet's Well-being with Petority's Health Feature?</>
+			<>How to Track Your Pet's Well-being with Wagguracy's Health Feature?</>
 		),
 	},
 	{
 		key: 5,
 		title: 'Fence',
-		src: require('@site/static/img/petority_fence.png').default,
+		src: require('@site/static/img/wagguracy_fence.png').default,
 		href: '/docs/petority/features/Fence',
 		description: <>How do I create a virtual fence for my pet?</>,
 	},

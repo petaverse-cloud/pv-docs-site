@@ -6,7 +6,7 @@ title: Sound Alerts and Autoplay Ringtones
 # Sound Alerts and Autoplay Ringtones
 **Sound Alerts:**
 
-When a pet ventures outside the predefined safe zone, WAGGURACY PHAST 1 trigger the **[Autoplay ringtone](/docs/petority/devices/light-sound)** function. This function is pre-configured to guide the pet back within the safety of the designated area. 
+When a pet ventures outside the predefined safe zone, WAGGURACY PHAST 1 trigger the **[Autoplay ringtone](/docs/petority/devices/light-sound)** function. This feature requires prior setup and is designed to guide your pet back to a safe area.
 
 ![fence](/img/get-to-know/Instant-Fence-Alerts.jpg)
 

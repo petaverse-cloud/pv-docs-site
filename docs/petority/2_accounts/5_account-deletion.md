@@ -40,7 +40,7 @@ To delete your WAGGURACY account, you can follow these steps:
 
 + Contact Support: 
 
-	If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives to help you troubleshoot and resolve the issue. Ways to Contact Us: help@wagguracy.net.
+	If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives to help you troubleshoot and resolve the issue. Ways to Contact Us:  support@wagguracy.com.
 
 Make sure to fully understand these rules and considerations before deleting your WAGGURACY account to avoid unnecessary loss.
 

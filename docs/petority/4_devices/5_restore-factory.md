@@ -16,7 +16,7 @@ Launch the WAGGURACY app on your smartphone. Log in to your account.
 
 **Step 2:** Access Device Settings
 
-Tap **User** > **Device** > **Setting**
+Tap **User** > **Device Card** > **Setting**
 
 **Step 3:** Choose Factory Reset
 

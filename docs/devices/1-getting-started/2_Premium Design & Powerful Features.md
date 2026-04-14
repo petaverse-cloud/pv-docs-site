@@ -6,7 +6,7 @@ title: Premium Design & Powerful Features
 # Premium Design and Powerful Features
 WAGGURACY is committed to offering pet owners a range of high-quality hardware devices designed to enhance pet safety and well-being. From material quality to functionality and advantages, let's delve into the remarkable aspects of WAGGURACY PHAST 1.
 
-![device](/img/devices/PHAST-1-nologo.png)
+![device](/img/devices/PHAST-1.png)
 
 ## Design and Style:
 The WAGGURACY PHAST 1 features a **sleek** and **minimalist** design, ensuring **comfort** and **style** for your pets. The device seamlessly integrates into your pet's daily life without compromising on their comfort or style. 

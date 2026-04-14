@@ -11,10 +11,8 @@ Here's a comprehensive overview of the WAGGURACY general settings:
 
 1. [Privacy and Security:](/docs/petority/general-setting/privacy)
 2. [Alert Settings:](/docs/petority/general-setting/notification)
-3. [Working mode:](/docs/petority/general-setting/refresh-rates)
-4. [Unit Preferences:](/docs/petority/general-setting/unit)
-5. [Log Out of Your Account:](/docs/petority/accounts/logout)
-6. [Update WAGGURACY App:](/docs/petority/general-setting/update-app)
+3. [Unit Preferences:](/docs/petority/general-setting/unit)
+4. [Log Out of Your Account:](/docs/petority/accounts/logout)
 
 **Accessing General Settings:**
 

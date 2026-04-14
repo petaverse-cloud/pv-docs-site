@@ -18,15 +18,11 @@ Here's how you can easily check the battery status:
 
 + Check the Battery Widget:
 
-    Navigate to the Home page and then tap on the Map tab.
-    
-   On the **Home** page, you can check the battery percentage of your PHAST 1.
+    On the **Home** page, you can check the battery percentage of your PHAST 1.
 
     ![battery](/img/battery/home-battery.jpg)
 
-    On the **Map** page, select the icon corresponding to the Pet's PHAST 1 you wish to check.
-
-    Click **>** icon to expand, and you will see the detailed battery percentage information.
+    On the **Device** page, you can see the detailed battery percentage information.
 
     ![battery](/img/map/Status.jpg)
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Update Firmware
 ---
 
@@ -14,7 +14,7 @@ Follow these steps to Update your WAGGURACY PHAST 1:
 
 + Open the WAGGURACY app on your smartphone.
 + Log in to your account.
-+ Tap **User** > **Device**
++ Tap **User** > **Device Card**
 
 **Step 2:** Check for Available Updates
 
@@ -26,10 +26,17 @@ Follow these steps to Update your WAGGURACY PHAST 1:
 
 If an update is available, follow the prompts to download and install it.
 
-+ Please ensure that PHAST 1’s 4G signal remains stable.
-+ Ensure that your device has **sufficient** battery power.
+  1. Activate the Bluetooth module
 
-   During the device upgrade, low battery levels can lead to upgrade failures or device damage. It is recommended to connect your device to a power adapter and keep it charging.
+        **After charging** your PHAST 1, the device will automatically activate its Bluetooth module and enter pairing mode.
+
+  2. Connect the device
+
+        Go to your phone’s **Bluetooth settings** and connect to “PHAST 1.”
+
+  3. Perform the Bluetooth update
+
+        When the Bluetooth icon lights up, your PHAST 1 is ready. Simply select the device and tap Update to begin. For a smooth upgrade experience, please remain on this page until the process is complete.
 
 **Step 4:** Restart and Verify
 
@@ -39,28 +46,22 @@ After the update is installed, you may be prompted to restart your WAGGURACY PHA
 
 Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the WAGGURACY app to discover any changes and enhancements resulting from the update.
 
-### Bluetooth Firmware Update：
-When a normal network update is unavailable, Bluetooth upgrades serve as a reliable alternative to ensure device stability and access to the latest features.
+![Bluetooth Upgrade](/img/devices/4G-update.jpg)
 
-![Bluetooth Upgrade](/img/devices/bluetooth-update.jpg)
+**Step 1:** Download and Install
 
-**Step 1:** Activate the Bluetooth module
+If an update is available, follow the prompts to download and install it.
 
-**After charging** your PHAST 1, the device will automatically activate its Bluetooth module and enter pairing mode.
++ Please ensure that PHAST 1’s 4G signal remains stable.
++ Ensure that your device has **sufficient** battery power.
 
-**Step 2:** Connect the device
+   During the device upgrade, low battery levels can lead to upgrade failures or device damage. It is recommended to connect your device to a power adapter and keep it charging.
 
-Go to your phone’s **Bluetooth settings** and connect to “PHAST 1.”
-
-**Step 3:** Perform the Bluetooth update
-
-Open the **Update page** in the app, tap the **“...”** icon in the upper-right corner, and select **Bluetooth Update**.Follow the on-screen instructions to complete the firmware update and ensure your device is running the latest version.
-
-**Step 4:** Restart and Verify
+**Step 2:** Restart and Verify
 
 After the update is installed, you may be prompted to restart your WAGGURACY PHAST 1. Once it's back online, verify that the update has been successfully applied by checking the device's settings.
 
-**Step 5:** Enjoy New Features
+**Step 3:** Enjoy New Features
 
 Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the WAGGURACY app to discover any changes and enhancements resulting from the update.
 

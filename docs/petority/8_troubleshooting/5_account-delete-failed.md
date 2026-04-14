@@ -30,4 +30,4 @@ Once you submit the account deletion request, the account enters a **30-day** re
 
 **Contact Support:**
 
-If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives to help you troubleshoot and resolve the issue. Contact Us Via: help@wagguracy.net.
+If you have tried all the mentioned steps and are still facing issues, you can try contacting customer service representatives to help you troubleshoot and resolve the issue. Contact Us Via: support@wagguracy.com.

@@ -22,11 +22,14 @@ To view your pet's activity on WAGGURACY, follow these steps using the WAGGURACY
 
 	You can choose **different time perious** to view your pet's activity history. WAGGURACY allows you to check activity for the **day**, **week**, **month**.
 
+	![Health](/img/health/time.jpg)
+
 **Graphs and Charts:**
 
 The app typically provides graphs and charts to visually display your pet's activity patterns. You can check details like step count, active time, rest time, and more.
 
-![step](/img/get-to-know/Comprehensive-Health-Insights.gif)
+<!-- ![step](/img/get-to-know/Comprehensive-Health-Insights.gif) -->
+![home-step](/img/get-to-know/Exercise-Monitoring-and-Real-time-Heart-Rate-Tracking.jpg)
 
 **Alerts:**
 

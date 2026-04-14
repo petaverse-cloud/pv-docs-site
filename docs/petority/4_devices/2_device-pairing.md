@@ -30,6 +30,7 @@ Follow these steps to pair your device:
     + **Press and hold** the side button of PHAST 1 to power it on. When the indicator light **flashes blue**, the device is ready for pairing.
     + **Open** your phone's **Bluetooth**.
     + Keep your phone **close to** the **PHAST 1**.
+    + Please place your **PHAST 1 Outdoors** or near a **Window**.
 
 4. Access Device Pairing:
 
@@ -44,7 +45,7 @@ Follow these steps to pair your device:
 
 6. Set up [Home Fence](/docs/petority/features/Fence):
 
-    Tap the **To set** button and select your home address on the map as the center point of the Home Fence. Once the location is confirmed, tap **OK** to save the settings and complete the configuration.
+    Tap the **To set** button and select your home address on the map as the center point of the Home Fence. Once your home location is set, follow the in-app guidance to complete the environment scan and finish setting up the Home Fence.
 
 7. Set up your pet’s profile and link it to PHAST 1:
 
@@ -54,6 +55,7 @@ Follow these steps to pair your device:
 
 + Make sure your phone's **Bluetooth** is **turned on**.
 + Keep your phone as **close** to the device as possible.
++ Please place your **PHAST 1 Outdoors** or near a **Window**.
 
 [Encountering issues with pairing? Learn what to do if pairing fails.](/docs/petority/troubleshooting/device-pairing)
 

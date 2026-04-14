@@ -24,7 +24,7 @@ If you have a WAGGURACY PHAST 1, there are a few steps you can take to get start
 
 + Configure Settings:
 
-    Inside the app, you can configure various settings for your device including **[setting up fences](/docs/petority/features/fence#set-up-a-fence)**, adjusting [notification](/docs/petority/notification/enable-nitif) preferences, and customizing activity [tracking](/docs/petority/general-setting/refresh-rates).
+    Inside the app, you can configure various settings for your device including **[setting up fences](/docs/petority/features/fence#set-up-a-fence)**, adjusting [notification](/docs/petority/notification/enable-nitif) preferences, and customizing activity [tracking](/docs/petority/devices/Working-mode).
 
 
 + Monitor Location and Health:

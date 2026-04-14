@@ -17,10 +17,10 @@ Here are the simple steps to create a pet profile in the WAGGURACY app:
     Log in to your WAGGURACY account if you haven't already.
 3. Access Pet Profile:
   
-    Tap **User** > **Pet Profile** 
+    Tap **User** > **Pet info** 
 4. Add a New Pet:
  
-    In the pet profile section, click on **+** . This will initiate the process of adding a new pet to your profile.
+    In the pet profile section, click on **+** . This will initiate the process of adding a new pet to your account.
 5. Enter Pet Details:
   
     Provide essential information about your pet, such as its **name**, **breed**, **species**, **date of birth**, and **gender**. it also allows you to upload a photo of your pet.

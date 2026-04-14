@@ -20,11 +20,11 @@ Here's a brief guide on how to check your pet's heart rate using WAGGURACY:
 
 ## View Heart Rate Data:
 
-On **Home** page, you can find information about their [real-time heart rate](/docs/petority/features/realtime-heartrate-monitoring), typically displayed as beats per minute (bpm), allowing you to see your pet's current heart rate at any time.
+On **Health** page, you can find information about their [real-time heart rate](/docs/petority/features/realtime-heartrate-monitoring), typically displayed as beats per minute (bpm), allowing you to see your pet's current heart rate at any time.
 
 ![heart rate](/img/heart/Heart-Rate2.jpg)
 
-**Heart Rate Range Indicators:**
+<!-- **Heart Rate Range Indicators:**
 
 WAGGURACY uses color coding or icons to indicate different heart rate ranges, such as low, normal, or high heart rates.
 
@@ -32,7 +32,7 @@ WAGGURACY uses color coding or icons to indicate different heart rate ranges, su
 | ----------- |  ----------- |
 | Low    |  <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 |  Normal      |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
-| High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> |
+| High      |  <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> | -->
 
 ## Set Up Heart Rate Alerts:
 You may have the option to configure heart rate alerts, so you'll [receive notifications](/docs/petority/notification/type) if your pet's heart rate becomes abnormal, allowing you to take action.

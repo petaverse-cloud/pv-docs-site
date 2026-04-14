@@ -4,9 +4,11 @@ title: Fence
 ---
 
 # Fences for Pet Safety
-The WAGGURACY fence feature allows you to establish **virtual borders** for your pets, ensuring they stay within safe areas while roaming. This feature enables you to monitor and manage your pet's activity range, while also providing real-time alerts and notifications to keep you informed about their whereabouts and movements. 
+The WAGGURACY fence feature allows you to establish virtual boundaries for your pets, helping ensure they stay within safe areas while roaming. It enables you to monitor and manage your pet’s activity range, with real-time alerts and notifications to keep you informed of their location and movements.
 
-![fence-map](/img/fence/Fence1.jpg)
+To support different usage scenarios, WAGGURACY provides two dedicated fence types: Home Fence, designed for defining your home environment, and Custom Fence, which allows you to create flexible zones tailored to specific needs.
+
+![fence-map](/img/fence/Fence.jpg)
 
 ## Set up a Home Fence
 Would you like to be notified when your pet leaves or enters your home? If so, you can set up a Fence, which defines a safe zone for your pet’s activity.
@@ -21,7 +23,7 @@ Would you like to be notified when your pet leaves or enters your home? If so, y
 	Log in to your WAGGURACY account.
 3. Access the Fence Section:
 
-	Tap **User** > **Fences** .
+	Tap **User** > **Device Card** .
 4. Edit Your Fence:
 
 	Tap **Home Fence** > **Edit**.
@@ -30,12 +32,12 @@ Would you like to be notified when your pet leaves or enters your home? If so, y
 	Choose your home location to set up your pet’s safe zone.
 6. Confirm Fence Settings:
 
-	After defining the fence's shape and boundaries, tap the **OK** button to confirm your fence settings.
+	Once your home location is set, follow the in-app guidance to complete the environment scan and finish setting up the Home Fence.
 
 ## Set up a Custom Fence
 Would you like to be notified when your pet leaves or enters a specific area? If so, you can set up a Fence, which defines a safe zone for your pet’s activity.
 
-![fence edit](/img/fence/Fence.gif)
+![fence edit](/img/fence/Fence5.jpg)
 
 1. Open the WAGGURACY App:
 
@@ -45,7 +47,7 @@ Would you like to be notified when your pet leaves or enters a specific area? If
 	Log in to your WAGGURACY account.
 3. Access the Fence Section:
 
-	Tap **User** > **Fences**.
+	Tap **User** > **Device Card**.
 4. Edit Your Fence:
 
 	Tap **Custom Fence** > **Edit**.
@@ -71,7 +73,7 @@ If you need to **modify** your fence's *boundaries* or *other parameters*, simpl
 ![Editing and Deleting](/img/fence/Fence2.jpg)
 
 1. Open the WAGGURACY app and **log in** to your account.
-2. Tap **User**> **Fence**.
+2. Tap **User** > **Device Card** > **Fence**.
 3. Tap **Edit**.
 + For editing, make the necessary **adjustments** to the fence's *shape* or *boundaries*, and then save the updated fence settings.
 + For deletion, you can choose to **remove** the fence. Keep in mind that deleting a fence will also clear any associated data related to it.
