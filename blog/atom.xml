@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://help-dev.petority.net/blog</id>
-    <title>WAGGURACY Help Center Blog</title>
+    <title>WAGGURACY Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://help-dev.petority.net/blog"/>
-    <subtitle>WAGGURACY Help Center Blog</subtitle>
-    <icon>https://help-dev.petority.net/img/favicon.ico</icon>
+    <subtitle>WAGGURACY Blog</subtitle>
+    <icon>https://help-dev.petority.net/img/WAGGURACY-logo.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://help-dev.petority.net/blog/welcome</id>
