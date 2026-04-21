@@ -27,13 +27,13 @@ If you have a WAGGURACY PHAST 1, there are a few steps you can take to get start
     Inside the app, you can configure various settings for your device including **[setting up fences](/docs/petority/features/fence#set-up-a-fence)**, adjusting [notification](/docs/petority/notification/enable-nitif) preferences, and customizing activity [tracking](/docs/petority/devices/Working-mode).
 
 
-+ Monitor Location and Health:
++ Monitor Location and Habit:
 
-    Once your device is paired and set up, you can use the app to [monitor your pet's location](/docs/petority/features/live-tracking) and [health data](/docs/petority/features/health-monitoring). You'll be able to see where your pet has been and monitor their heart rate and activity levels. 
+    Once your device is paired and set up, you can use the app to [monitor your pet's location](/docs/petority/features/live-tracking) and [habit data](/docs/petority/features/health-monitoring). You'll be able to see where your pet has been and monitor their pulse and activity levels. 
 
 + Set Up Notifications
 
-    Customize the [notification settings](/docs/petority/general-setting/notification) to receive [alerts](/docs/petority/notification/type) when your pet leaves a designate area (fence) or if there are any changes in their health.
+    Customize the [notification settings](/docs/petority/general-setting/notification) to receive [alerts](/docs/petority/notification/type) when your pet leaves a designate area (fence) or if there are any changes in their habit.
 
 + Explore Features:
 

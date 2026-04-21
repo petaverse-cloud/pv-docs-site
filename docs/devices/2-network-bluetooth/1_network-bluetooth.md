@@ -10,7 +10,7 @@ In the realm of pet care, WAGGURACY stands out not only for its advanced feature
 WAGGURACY PHAST 1 utilize network connectivity, enabling real-time tracking and communication. These devices are equipped with **GPS** and **eSIM** technology, allowing them to transmit location data to the app. This data is then processed and displayed on your device, giving you insights into your pet's whereabouts.
 
 ## Bluetooth Technology:
-Bluetooth plays a pivotal role in ensuring a **strong** and **reliable** connection between your WAGGURACY PHAST 1 and the app on your smartphone. Bluetooth facilitates initial setup, data synchronization, and communication between the two devices. This technology ensures that you receive up-to-date information about your pet's location and health status.
+Bluetooth plays a pivotal role in ensuring a **strong** and **reliable** connection between your WAGGURACY PHAST 1 and the app on your smartphone. Bluetooth facilitates initial setup, data synchronization, and communication between the two devices. This technology ensures that you receive up-to-date information about your pet's location and habit status.
 
 ## Benefits of Network and Bluetooth Connectivity:
 

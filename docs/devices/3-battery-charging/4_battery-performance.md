@@ -7,7 +7,7 @@ The device boasts remarkable battery life, catering to various usage demands:
 
 - Under normal usage conditions, the device can operate continuously for **8 hours**.
 
-	During outdoor adventures or activities, the device can sustain operations such as location tracking, heart rate data collection, or communication, meeting the needs of your pet.
+	During outdoor adventures or activities, the device can sustain operations such as location tracking, pulse data collection, or communication, meeting the needs of your pet.
 
 - Standby time extends up to **12 hours**, ensuring battery longevity even during prolonged periods of non-use.
 

@@ -11,10 +11,10 @@ To view your pet's activity on WAGGURACY, follow these steps using the WAGGURACY
 	Download and install the WAGGURACY app, then **log in** to your account.
 2. Access Pet Activity:
 
-	Tap **Health**.
+	Tap **Habit**.
 3. View Pet Activity:
 
-	On the **[Health](/docs/petority/features/health-monitoring)** page, you can see various activity information about your pet, such as steps, heart rate, and other activity history.
+	On the **[Habit](/docs/petority/features/health-monitoring)** page, you can see various activity information about your pet, such as steps, pulse, and other activity history.
 
 	![step](/img/health/Health.jpg)
     

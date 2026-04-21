@@ -6,7 +6,7 @@ title: Device Pairing
 # A Comprehensive Guide to Device Pairing and Pet Care with WAGGURACY
 WAGGURACY is your go-to solution for advanced pet tracking and monitoring. 
 
-Whether you want to ensure your furry companion’s safety or closely monitor their health, here is a step-by-step guide to pairing your device, setting up a Home Fence, and providing top-notch care for your pet.
+Whether you want to ensure your furry companion’s safety or closely monitor their habit, here is a step-by-step guide to pairing your device, setting up a Home Fence, and providing top-notch care for your pet.
 
 ![pairing](/img/devices/pairing.jpg)
 

@@ -6,7 +6,7 @@ title: Privacy Policy
 # Privacy Policy
 Last revised on: March 20, 2026.
 
-Petaverse (“Petaverse”, “us”, “our”, and “we”) offers smart GPS-enabled pet collars and other accessories for pets, related GPS-tracking, Real-Time Heart Rate Monitoring and activity monitoring services for such pet collars that we offer via desktop and mobile applications (“services”) and other content and features for Petaverse Products and Petaverse Services, including website (the “Websites”) and mobile applications (“Apps”). The Petaverse Products, Petaverse Services, Apps and Websites collectively are referred to herein as the “Petaverse Offerings”.
+Petaverse (“Petaverse”, “us”, “our”, and “we”) offers smart GPS-enabled pet collars and other accessories for pets, related GPS-tracking, Real-Time Pulse Monitoring and activity monitoring services for such pet collars that we offer via desktop and mobile applications (“services”) and other content and features for Petaverse Products and Petaverse Services, including website (the “Websites”) and mobile applications (“Apps”). The Petaverse Products, Petaverse Services, Apps and Websites collectively are referred to herein as the “Petaverse Offerings”.
 
 We take your privacy and data security seriously. This privacy policy (“Privacy Policy”) is meant to help you understand what information we collect, how we use such information, and the recipients with whom we share such information.
 
@@ -36,7 +36,7 @@ The personal information you may provide to us through the services or other mea
 + Contact Data: This includes your name, gender, birthday, email address, home address (such as city, state, residential country), and phone number for providing efficient login services. If you use third-party platform accounts for login, we collect authentication information (phone number, email, verification code matching results) for providing account login services.
 + Profile Data: Account information on the Websites and Apps (such as username and password set when creating an online account on the service), information about your pets (such as the pet's name, gender, age, breed, sterilization status, and weight), data or information synchronized from devices accessing the Websites and Apps, account and related settings information created on the Websites and Apps, devices added or messages sent, feedback, and any other information added to the account profile.
 + Precise Geolocation Data: Various information related to your location, such as region and country codes, city codes, mobile network codes, mobile device country codes, cell identification codes, region names, latitude and longitude information, time zone settings, and language settings. When you explicitly consent to allowing us to use your Bluetooth connection to connect to your devices to provide our services, the location is recorded.
-+ Smart Device Data: When you synchronize data from related devices using our Apps, we record information about your pet, such as heart rate trends and activity information (distance, steps, motion status).
++ Smart Device Data: When you synchronize data from related devices using our Apps, we record information about your pet, such as pulse trends and activity information (distance, steps, motion status).
 + Communication Data: This includes communication data generated when you contact us through the service, social media, or other means.
 + Transaction Data: Information related to orders placed on the service or completed through the service, including subscription information, order numbers, and transaction history.
 + Marketing Data: Preferences for receiving our marketing communications and detailed information about your interaction with these communications.
@@ -76,7 +76,7 @@ We may use your personal information for the following purposes or as described 
 ### Service Delivery and Business Operations
 + Communicate with you regarding your device, services, or any general queries (such as updates, device firmware/software upgrades, customer support, relevant information, notifications).
 + Utilize location tracking technologies such as Bluetooth, GPS, and Wi-Fi to identify and locate your devices.
-+ Collect heart rate and other health data of your pets, generate data insights to enhance our products and services.
++ Collect pulse and other habit data of your pets, generate data insights to enhance our products and services.
 + Analyze and develop statistical information related to the use of our products and services for improvement.
 + Establish and maintain your user profile on the service for business operations or legal obligations.
 + Verify your personal identity to prevent, detect, investigate illegal or behavior that violates our policies or rules, protecting your or our legitimate interests.
@@ -90,7 +90,7 @@ We may use your personal information for the following purposes or as described 
 + Other purposes with your consent and authorization. The above are some purposes for using your personal information, and additional situations as described at the time of collection.
 
 ### Research and Development
-We may use pet info for research and development to analyze and improve services. Through data analysis, we understand pets' health better. Aggregating data like heart rate, steps, activity, with factors like breed, age, gender, we create pet data reports. Committed to providing deeper insights, contributing to service analysis and improvement for targeted pet health management.
+We may use pet info for research and development to analyze and improve services. Through data analysis, we understand pets' habit better. Aggregating data like pulse, steps, activity, with factors like breed, age, gender, we create pet data reports. Committed to providing deeper insights, contributing to service analysis and improvement for targeted pet habit management.
 
 ### Marketing and Advertising
 We, our service providers, and third-party advertising partners may collect and use your personal information for marketing and advertising purposes:

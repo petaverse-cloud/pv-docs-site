@@ -4,7 +4,7 @@ title: What is WAGGURACY?
 ---
 
 #### Know More, Worry Less. Powered by Accuracy, Driven by Love.
-WAGGURACY is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed to enhance your pet's life through a range of comprehensive services. With WAGGURACY, you can track your pet's **location**, monitor their **health**, and ensure their **safety** and **happiness**. 🐾📲
+WAGGURACY is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed to enhance your pet's life through a range of comprehensive services. With WAGGURACY, you can track your pet's **location**, monitor their **habit**, and ensure their **safety** and **happiness**. 🐾📲
 
 #### 📥 Download WAGGURACY:📥 [Apple App Store (IOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app)
 **The WAGGURACY mobile app is compatible with the following devices:**
@@ -12,7 +12,7 @@ WAGGURACY is your ultimate companion for keeping a watchful eye on your beloved 
 + Android devices with operating system **7.0** and above (Google Play Services required).
 
 ## App features:
-This app offers a range of cutting-edge features that ensure the **health**, **safety**, and **happiness** for your furry friends.
+This app offers a range of cutting-edge features that ensure the **habit**, **safety**, and **happiness** for your furry friends.
 ### [1. Real-time Location Tracking and Monitoring](/docs/petority/features/live-tracking)
 With the help of a strong GPS signal and reliable network coverage, you can easily track your pet's **real-time** location, regardless of how near or far they are from you. This feature gives you peace of mind, knowing exactly where your pet is at all times.🗺️🐶
 
@@ -37,11 +37,11 @@ With the help of a strong GPS signal and reliable network coverage, you can easi
 	WAGGURACY offers an intelligent **Auto Recall** feature designed to make recalling and controlling your pets easier.
 
 Never worry about your pet wandering off again. WAGGURACY records your pet's movements and alerts you if they leave designated safe areas.
-### [2. Exercise Monitoring and Real-time Heart Rate Tracking](/docs/petority/features/realtime-heartrate-monitoring)
-Ensure your pet's health by monitoring their daily exercise routines. Track their heart rate in real-time, and [receive alerts](/docs/petority/notification/type) if any irregularities are detected, helping you spot potential health issues early on.🏃‍♂️❤️
+### [2. Exercise Monitoring and Real-time Pulse Tracking](/docs/petority/features/realtime-heartrate-monitoring)
+Ensure your pet's habit by monitoring their daily exercise routines. Track their pulse in real-time, and [receive alerts](/docs/petority/notification/type) if any irregularities are detected, helping you spot potential habit issues early on.🏃‍♂️❤️
 
 + Check whether they're getting sufficient exercise daily.🐾🏃
-+ Monitor their heart rate in real-time and proactively detect potential signs of illness.🩺🚑
++ Monitor their pulse in real-time and proactively detect potential signs of illness.🩺🚑
 + Track your pet's steps.
 
     Keep tabs on your pet's activity levels by tracking their steps throughout the day.
@@ -49,14 +49,14 @@ Ensure your pet's health by monitoring their daily exercise routines. Track thei
 ![home-step](/img/get-to-know/Exercise-Monitoring-and-Real-time-Heart-Rate-Tracking.jpg)
 
 ### [3. Track Your Pet's Physical Well-being](/docs/petority/features/health-monitoring)
-easily review your pet’s health data over a desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.📈🐕
+easily review your pet’s habit data over a desired time frame. You can trace their exact path and activities, enabling you to understand their daily routines and behaviors better.📈🐕
 
-+ Comprehensive Health Insights
++ Comprehensive Habit Insights
     
-    Get a holistic view of your pet's health with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, heart rate trends, and more.📊🐈
-+ Heart Rate Indicators
+    Get a holistic view of your pet's habit with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, pulse trends, and more.📊🐈
++ Pulse Indicators
 
-    Monitor your pet's heart rate with ease.💓🌈 
+    Monitor your pet's pulse with ease.💓🌈 
 
 ### 4. [Alert ](/docs/petority/notification/type)
 1. Instant Fence Alerts
@@ -69,7 +69,7 @@ easily review your pet’s health data over a desired time frame. You can trace 
 
 	WAGGURACY keeps you in the loop by providing real-time alerts about your **device battery status**, **app version updates**, and more.
 
-This comprehensive app combines innovative tracking technology with health monitoring features, ensuring your pets live their best lives while staying safe and happy. Experience the convenience and peace of mind that WAGGURACY brings to pet ownership.🐕‍🦺🏡
+This comprehensive app combines innovative tracking technology with habit monitoring features, ensuring your pets live their best lives while staying safe and happy. Experience the convenience and peace of mind that WAGGURACY brings to pet ownership.🐕‍🦺🏡
 
 Download WAGGURACY now and start enjoying these features for the well-being of your furry friends.🐶🐱🦔
 

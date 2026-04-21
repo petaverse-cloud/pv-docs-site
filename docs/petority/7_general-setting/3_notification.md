@@ -12,7 +12,7 @@ In the alert settings, you can customize your alerts as follows:
 
 + Choose Alert Types: 
 
-	Select the types of alerts you want to receive, such as **Battery**, **Signal**, **Heart Rate**, **Fence**, and more. Enable or disable each alert type as needed.
+	Select the types of alerts you want to receive, such as **Battery**, **Signal**, **Pulse**, **Fence**, and more. Enable or disable each alert type as needed.
 
 + Alert Channels:
 

@@ -14,15 +14,15 @@ WAGGURACY offers a range of Alerts that allow you to stay informed about your pe
 + **Signal Alert:**
 
     If your PHAST 1 loses connection or experiences weak signal, you'll be notified about the signal status to keep you informed about the device's connectivity.
-+ **Heart Rate Alert:**
++ **Pulse Alert:**
 
-    PHAST 1 can monitor your pet's heart rate. You can set up heart rate alerts to receive alerts in case of abnormal heart rates, allowing you to take action.
+    PHAST 1 can monitor your pet's pulse. You can set up pulse alerts to receive alerts in case of abnormal pulses, allowing you to take action.
 + **[Fence Alert:](/docs/petority/notification/fence-event)**
 
     If you've set up a fence (safe zone), you'll receive alerts when your pet enters or exits the defined area, allowing you're always aware of your pet's location.
-+ **Health Alert:**
++ **Habit Alert:**
 
-    You can configure health alerts to monitor your pet's activity levels and well-being. Alerts will be sent if there are unusual activities or changes in your pet's health condition.
+    You can configure habit alerts to monitor your pet's activity levels and well-being. Alerts will be sent if there are unusual activities or changes in your pet's habit condition.
 
 + **[Firmware Update](/docs/petority/devices/upgrade-firmware) Alert:**
 

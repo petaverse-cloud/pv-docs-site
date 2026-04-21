@@ -38,9 +38,9 @@ Beyond its aesthetic appeal, the WAGGURACY PHAST 1 integrates several robust fea
   
     Leveraging reliable GPS signals and network coverage, you can stay informed about your pet's location regardless of their distance. The map feature precisly tracks your pet's path, revealing their activities.
 
-+ [Health Data Detection:](/docs/petority/features/health-monitoring)
++ [Habit Data Detection:](/docs/petority/features/health-monitoring)
 
-  WAGGURACY PHAST 1 monitors your pet's health, including heart rate. You can monitor your pet's heart rate at any time and promptly detect anomalies.
+  WAGGURACY PHAST 1 monitors your pet's habit, including pulse. You can monitor your pet's pulse at any time and promptly detect anomalies.
   
 + [Fence Setup](/docs/petority/features/fence) and [Alerts](/docs/petority/notification/fence-event):
 
@@ -61,4 +61,4 @@ WAGGURACY hardware comes with unique advantages:
 
   Even if pets need time to adjust to the new accessory, WAGGURACY's design ensures a smooth transition period. Pets quickly adapt to the new accessory.
 
-Through WAGGURACY PHAST 1, you can provide comprehensive care and security for your pets. Whether it's [**real-time tracking**](/docs/petority/features/live-tracking), [**health monitoring**](/docs/petority/features/health-monitoring), or [**fence**](/docs/petority/features/Fence) setup, WAGGURACY PHAST 1 becomes an indispensable companion in your pet's life.
+Through WAGGURACY PHAST 1, you can provide comprehensive care and security for your pets. Whether it's [**real-time tracking**](/docs/petority/features/live-tracking), [**habit monitoring**](/docs/petority/features/health-monitoring), or [**fence**](/docs/petority/features/Fence) setup, WAGGURACY PHAST 1 becomes an indispensable companion in your pet's life.

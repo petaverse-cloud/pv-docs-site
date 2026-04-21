@@ -27,11 +27,11 @@ const FeatureList = [
 	},
 	{
 		key: 4,
-		title: 'Health Monitoring',
+		title: 'Habit Monitoring',
 		src: require('@site/static/img/wagguracy_health_monitoring.png').default,
 		href: '/docs/petority/features/health-monitoring',
 		description: (
-			<>How to Track Your Pet's Well-being with Wagguracy's Health Feature?</>
+			<>How to Track Your Pet's Well-being with Wagguracy's Habit Feature?</>
 		),
 	},
 	{

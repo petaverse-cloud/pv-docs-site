@@ -4,7 +4,7 @@ title: Working Mode
 ---
 
 # A Comprehensive Guide to WAGGURACY Working Modes
-WAGGURACY offers four intelligent working modes designed to adapt to your pet’s real-life scenarios. By automatically switching between modes or allowing manual control, the system ensures optimal tracking accuracy, health monitoring, and battery performance.
+WAGGURACY offers four intelligent working modes designed to adapt to your pet’s real-life scenarios. By automatically switching between modes or allowing manual control, the system ensures optimal tracking accuracy, habit monitoring, and battery performance.
 
 ![pairing](/img/battery/home-battery.jpg)
 
@@ -26,7 +26,7 @@ If your pet leaves home unexpectedly, please use real-time location tracking to 
 
 Activity mode is specifically designed for exercise and outdoor activities.
 
-In this mode, PHAST 1 increases its data collection frequency, ensuring more accurate tracking of movement and health metrics.
+In this mode, PHAST 1 increases its data collection frequency, ensuring more accurate tracking of movement and habit metrics.
 
 Please note that higher performance will result in increased battery consumption.
 
@@ -34,13 +34,13 @@ Please note that higher performance will result in increased battery consumption
 
 Emergency mode is designed for situations where your pet is lost.
 
-In this mode, PHAST 1 operates at maximum performance, providing the most accurate GPS positioning and health monitoring data.
+In this mode, PHAST 1 operates at maximum performance, providing the most accurate GPS positioning and habit monitoring data.
 
 This ensures you can track your pet’s condition and location in real time. However, battery consumption will be at its highest.
 
 ## Feature Comparison Table:
 
-| Mode      | Gps | Health Data | Sampling Frequency | Battery Usage | 
+| Mode      | Gps | Habit Data | Sampling Frequency | Battery Usage | 
 | ----------- |----------- |----------- |----------- |----------- |
 | ![N_icon](/img/devices/At-Home.png) | No | Yes | Normal | Low |
 | ![L_icon](/img/devices/Out-of-Home.png) | Yes | Yes | Normal | Normal |

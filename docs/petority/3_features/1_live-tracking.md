@@ -19,7 +19,7 @@ WAGGURACY offers advanced **real-time location tracking and monitoring** feature
     Tap **Home**.
 
 ## Key Features:
-In the WAGGURACY app, on the **Home** screen, as long as your pet is wearing PHAST 1 and it is working properly, you can view your pet’s **current location** and **health data**.
+In the WAGGURACY app, on the **Home** screen, as long as your pet is wearing PHAST 1 and it is working properly, you can view your pet’s **current location** and **habit data**.
 
 ### 1. Monitor Movement - Real-time Tracking:
 
@@ -73,7 +73,7 @@ When you need to recall your pet, simply tap the appropriate button to play a re
 
     The interface of the Auto Recall feature is user-friendly, allowing for easy operation.
 
-Additionally, you can also check the **status** of your **device**, including its **battery level**, and **signal strength**. This allows you to stay informed about the health and performance of your device while using the WAGGURACY app.
+Additionally, you can also check the **status** of your **device**, including its **battery level**, and **signal strength**. This allows you to stay informed about the habit and performance of your device while using the WAGGURACY app.
 
 ![icon](/img/battery/home-battery.jpg)
 

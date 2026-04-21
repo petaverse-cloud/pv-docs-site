@@ -1,6 +1,6 @@
 ---
 sidebar_position: 5
-title: Health & Safety
+title: Habit & Safety
 ---
 # Designed for Safe and Comfortable Pet Wear
 WAGGURACY PHAST 1 is specifically designed for pets and meticulously crafted to ensure comfortable and safe wear for your beloved companions. 
@@ -11,7 +11,7 @@ WAGGURACY PHAST 1 is specifically designed for pets and meticulously crafted to 
 
 + Frienldy Materials:
 
-   We select materials compatible with your pet's skin to prevent allergies or irritations. These materials undergo rigorous testing to meet health and safety standards.
+   We select materials compatible with your pet's skin to prevent allergies or irritations. These materials undergo rigorous testing to meet habit and safety standards.
 
 + Harmless Design:
 
@@ -25,4 +25,4 @@ WAGGURACY PHAST 1 is specifically designed for pets and meticulously crafted to 
 
     Our design considers your pet's body structure and habits, ensuring that the WAGGURACY PHAST 1 doesn't interfere with pets' natural activities like walking, running, and resting.
 
-In summary, WAGGURACY PHAST 1 prioritizes your pet's health and comfort, offering a safe and comfortable wearing experience through features like comfortable wear, friendly materials.
+In summary, WAGGURACY PHAST 1 prioritizes your pet's habit and comfort, offering a safe and comfortable wearing experience through features like comfortable wear, friendly materials.
