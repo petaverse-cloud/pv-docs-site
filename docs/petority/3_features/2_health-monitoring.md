@@ -34,7 +34,7 @@ By following these simple steps, you'll be able to access and review your pet's 
 
 With WAGGURACY's Habit Data and Location History feature, you gain a comprehensive overview of your pet's daily activities. 
 
-![Path](/img/health/activities.jpg)
+![Path](/img/health/Activities1.jpg)
 
 This feature allows you to understand their movement patterns, providing insights into their exercise routines and overall lifestyle.
 
