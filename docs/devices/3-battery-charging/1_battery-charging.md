@@ -7,7 +7,7 @@ title: Battery Charging
 
 **Device Charging Time:**
 
-The WAGGURACY PHAST 1 takes approximately **3.35** hours to charge. Simply connect the device to a power source and wait for the charging process to complete.
+The WAGGURACY PHAST 1 takes approximately **2** hours to charge. Simply connect the device to a power source and wait for the charging process to complete.
 
 **Battery Level Alert Functionality:**
 

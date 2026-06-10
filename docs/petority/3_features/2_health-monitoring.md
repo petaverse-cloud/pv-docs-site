@@ -38,6 +38,19 @@ With WAGGURACY's Habit Data and Location History feature, you gain a comprehensi
 
 This feature allows you to understand their movement patterns, providing insights into their exercise routines and overall lifestyle.
 
+### Calorie Goal:
+Calorie Goal helps you understand your pet's daily energy expenditure and track whether their activity level meets the recommended target.
+
+![Path](/img/health/Calorie-Goal.jpg)
+
+You can view:
++ **Burned**: The calories your pet has burned through daily activity.
++ **Target**: The recommended daily calorie-burn goal for your pet.
++ **Achievement**: The percentage of the target calories achieved.
++ **Avg Achievement**: The average goal completion rate over a period of time.
+
+By monitoring your pet's Calorie Goal regularly, you can better understand their activity level and help maintain a healthy, active lifestyle.
+
 ### Pulse Monitoring:
 Keeping an eye on your pet's heart habit is crucial. This feature empowers you to closely monitor their pulse in real-time. 
 
