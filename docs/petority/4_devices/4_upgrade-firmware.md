@@ -52,10 +52,10 @@ Updated software may introduce **new features**, **improvements**, and **bug fix
 
 If an update is available, follow the prompts to download and install it.
 
-+ Please ensure that PHAST 1’s 4G signal remains stable.
-+ Ensure that your device has **sufficient** battery power.
-
-   During the device upgrade, low battery levels can lead to upgrade failures or device damage. It is recommended to connect your device to a power adapter and keep it charging.
++ Make sure your device is connected to a charger before starting the update.
++ Do not interrupt charging during the update.
++ Do not power off the device during the update.
++ Please stay on this page during the update to avoid failure.
 
 **Step 2:** Restart and Verify
 

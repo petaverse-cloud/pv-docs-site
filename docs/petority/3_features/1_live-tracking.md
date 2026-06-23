@@ -23,7 +23,7 @@ In the WAGGURACY app, on the **Home** screen, as long as your pet is wearing PHA
 
 ### 1. Monitor Movement - Real-time Tracking:
 
-![realtime tracking](/img/map/activities.jpg)
+![realtime tracking](/img/map/activities1.jpg)
 
 The map displays your pet's **movement** in **real-time**, enabling you to track their paths and activities.
 
