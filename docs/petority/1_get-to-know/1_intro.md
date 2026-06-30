@@ -6,7 +6,7 @@ title: What is WAGGURACY?
 #### Know More, Worry Less. Powered by Accuracy, Driven by Love.
 WAGGURACY is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed to enhance your pet's life through a range of comprehensive services. With WAGGURACY, you can track your pet's **location**, monitor their **habit**, and ensure their **safety** and **happiness**. 🐾📲
 
-#### 📥 Download WAGGURACY:📥 [Apple App Store (IOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app)
+#### 📥 Download WAGGURACY:📥 [Apple App Store (IOS)](https://apps.apple.com/us/app/wagguracy/id6776070186) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.wagguracy.app)
 **The WAGGURACY mobile app is compatible with the following devices:**
 + iPhone with iOS **11** or above.📱
 + Android devices with operating system **7.0** and above (Google Play Services required).
