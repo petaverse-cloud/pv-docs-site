@@ -1,0 +1,96 @@
+.section {
+	padding: var(--section-padding-y) 0;
+	background: var(--surface-muted);
+}
+
+.sectionHeader {
+	text-align: center;
+	max-width: 560px;
+	margin: 0 auto 3rem;
+}
+
+.sectionTitle {
+	font-size: 2.25rem;
+	font-weight: 700;
+	margin-bottom: 1rem;
+}
+
+.sectionSubtitle {
+	font-size: 1.0625rem;
+	color: var(--text-secondary);
+	line-height: 1.6;
+	margin: 0;
+}
+
+.cardGrid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 1.5rem;
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.card {
+	display: block;
+	background: #fff;
+	border-radius: 20px;
+	padding: 2rem;
+	border: 1px solid rgba(128, 102, 255, 0.12);
+	text-decoration: none;
+	color: inherit;
+	transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
+}
+
+.card:hover {
+	text-decoration: none;
+	color: inherit;
+	box-shadow: 0 12px 40px rgba(128, 102, 255, 0.15);
+	transform: translateY(-4px);
+	border-color: rgba(128, 102, 255, 0.25);
+}
+
+.cardEyebrow {
+	font-size: 0.8125rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.06em;
+	color: var(--brand-purple);
+	margin-bottom: 0.5rem;
+}
+
+.cardTitle {
+	font-size: 1.5rem;
+	font-weight: 700;
+	margin-bottom: 0.75rem;
+}
+
+.cardDescription {
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	color: var(--text-secondary);
+	margin-bottom: 1.25rem;
+}
+
+.cardLink {
+	font-weight: 600;
+	color: var(--brand-purple);
+}
+
+@media screen and (max-width: 996px) {
+	.section {
+		padding: 4rem 0;
+	}
+
+	.cardGrid {
+		grid-template-columns: 1fr;
+	}
+}
+
+[data-theme='dark'] .card {
+	background: rgba(255, 255, 255, 0.05);
+	border-color: rgba(168, 153, 255, 0.15);
+}
+
+[data-theme='dark'] .card:hover {
+	border-color: rgba(168, 153, 255, 0.3);
+}

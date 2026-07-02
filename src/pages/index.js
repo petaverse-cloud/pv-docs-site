@@ -1,42 +1,24 @@
 import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Hero from '@site/src/components/Homepage/Hero';
+import FeatureShowcase from '@site/src/components/Homepage/FeatureShowcase';
+import ProductShowcase from '@site/src/components/Homepage/ProductShowcase';
+import DownloadSection from '@site/src/components/Homepage/DownloadSection';
+import HelpCenterCTA from '@site/src/components/Homepage/HelpCenterCTA';
 
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className='container'>
-        <h1 className='hero__title'>{siteConfig.title}</h1>
-        <p className='hero__subtitle'>{siteConfig.tagline}</p>
-        {/* <div className={styles.buttons}>
-          <Link
-            className='button button--secondary button--lg'
-            to='https://www.petority.net/'
-          >
-            Purchase Now
-          </Link>
-        </div> */}
-      </div>
-    </header>
-  )
-}
+const META_DESCRIPTION =
+	'Know More, Worry Less. WAGGURACY is the next generation of pet tracking — real-time location, habit monitoring, virtual fences, and pulse tracking for your furry friends.';
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      // title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
-    </Layout>
-  );
+	return (
+		<Layout title="WAGGURACY" description={META_DESCRIPTION}>
+			<Hero />
+			<main>
+				<FeatureShowcase />
+				<ProductShowcase />
+				<DownloadSection />
+				<HelpCenterCTA />
+			</main>
+		</Layout>
+	);
 }

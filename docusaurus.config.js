@@ -4,6 +4,11 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github')
 const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
+const APP_STORE_URL =
+  'https://apps.apple.com/us/app/wagguracy/id6776070186'
+const GOOGLE_PLAY_URL =
+  'https://play.google.com/store/apps/details?id=com.wagguracy.app'
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'WAGGURACY',
@@ -72,44 +77,85 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'WAGGURACY',
           src: 'img/WAGGURACY-logo.svg',
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'devicesSidebar',
+            to: '/',
+            label: 'Home',
             position: 'left',
-            label: 'Devices',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'petoritySidebar',
+            type: 'dropdown',
+            label: 'Help Center',
             position: 'left',
-            label: 'WAGGURACY App',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'devicesSidebar',
+                label: 'Devices',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'petoritySidebar',
+                label: 'WAGGURACY App',
+              },
+            ],
           },
-          //{ to: '/blog', label: 'Blog  position: 'left' },
-          /* {
-            href: 'https://www.petority.net',
-            label: 'Back to Official',
-            position: 'right',
-          },*/
           // {
-          //   type: 'localeDropdown',
+          //   href: '/#download',
+          //   label: 'Download App',
           //   position: 'right',
+          //   className: 'navbar-download-button',
           // },
         ],
       },
       footer: {
         style: 'light',
         links: [
+          // {
+          //   title: 'Product',
+          //   items: [
+          //     {
+          //       label: 'PHAST 1 Overview',
+          //       to: '/docs/devices/getting-started/introduction',
+          //     },
+          //     {
+          //       label: 'Features',
+          //       to: '/docs/petority/get-to-know/intro',
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: 'Help Center',
+          //   items: [
+          //     {
+          //       label: 'Devices Docs',
+          //       to: '/docs/devices/getting-started/introduction',
+          //     },
+          //     {
+          //       label: 'App Docs',
+          //       to: '/docs/petority/get-to-know/intro',
+          //     },
+          //   ],
+          // },
           {
-            title: 'Docs',
+            title: 'Download',
             items: [
               {
-                label: 'Data Deletion Instructions',
-                to: '/docs/data-deletion-instructions',
+                label: 'App Store',
+                href: APP_STORE_URL,
               },
+              {
+                label: 'Google Play',
+                href: GOOGLE_PLAY_URL,
+              },
+            ],
+          },
+          {
+            title: 'Legal',
+            items: [
               {
                 label: 'Privacy Policy',
                 to: '/docs/privacy-policy',
@@ -118,29 +164,13 @@ const config = {
                 label: 'Terms of Service',
                 to: '/docs/terms-of-service',
               },
+              {
+                label: 'Data Deletion',
+                to: '/docs/data-deletion-instructions',
+              },
             ],
           },
-          /* {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          }, */
         ],
-        /* logo: {
-          alt: 'Petaverse Logo',
-          src: 'img/petaverse-logo.svg',
-          href: 'https://www.petority.net',
-          target: '_self',
-          height: 50,
-        }, */
         copyright: `Copyright © ${new Date().getFullYear()} WAGGURACY Pte. Ltd.`,
       },
       prism: {

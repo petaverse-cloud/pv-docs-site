@@ -1,0 +1,137 @@
+.section {
+	padding: var(--section-padding-y) 0;
+	background: var(--surface-muted);
+}
+
+.sectionHeader {
+	text-align: center;
+	max-width: 640px;
+	margin: 0 auto 3rem;
+}
+
+.eyebrow {
+	font-size: 0.875rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	color: var(--brand-purple);
+	margin-bottom: 0.75rem;
+}
+
+.sectionTitle {
+	font-size: 2.5rem;
+	font-weight: 700;
+	line-height: 1.2;
+	margin-bottom: 1rem;
+}
+
+.sectionSubtitle {
+	font-size: 1.125rem;
+	color: var(--text-secondary);
+	line-height: 1.6;
+	margin: 0;
+}
+
+.productVisual {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 3rem;
+}
+
+.productImage {
+	max-width: 280px;
+	height: auto;
+	filter: drop-shadow(0 20px 40px rgba(93, 84, 140, 0.15));
+}
+
+.highlights {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 1.5rem;
+	margin-bottom: 3rem;
+}
+
+.highlightCard {
+	background: #fff;
+	border-radius: 16px;
+	padding: 1.5rem;
+	border: 1px solid rgba(128, 102, 255, 0.1);
+	transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.highlightCard:hover {
+	box-shadow: 0 8px 32px rgba(128, 102, 255, 0.12);
+	transform: translateY(-2px);
+}
+
+.highlightTitle {
+	font-size: 1.0625rem;
+	font-weight: 600;
+	margin-bottom: 0.5rem;
+	color: var(--brand-purple-dark);
+}
+
+.highlightDescription {
+	font-size: 0.9375rem;
+	line-height: 1.6;
+	color: var(--text-secondary);
+	margin: 0;
+}
+
+.ctaWrapper {
+	text-align: center;
+}
+
+.ctaButton {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0.875rem 2rem;
+	border-radius: 10px;
+	font-weight: 600;
+	font-size: 1rem;
+	text-decoration: none;
+	background: var(--brand-purple);
+	color: #fff;
+	transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.ctaButton:hover {
+	background: var(--brand-purple-dark);
+	color: #fff;
+	text-decoration: none;
+	transform: translateY(-2px);
+}
+
+@media screen and (max-width: 996px) {
+	.section {
+		padding: 4rem 0;
+	}
+
+	.sectionTitle {
+		font-size: 2rem;
+	}
+
+	.highlights {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	.highlightCard {
+		text-align: center;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.highlights {
+		grid-template-columns: 1fr;
+	}
+}
+
+[data-theme='dark'] .highlightCard {
+	background: rgba(255, 255, 255, 0.05);
+	border-color: rgba(168, 153, 255, 0.15);
+}
+
+[data-theme='dark'] .highlightTitle {
+	color: var(--brand-purple-light);
+}

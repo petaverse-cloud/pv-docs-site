@@ -1,68 +1,144 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * WAGGURACY global styles — brand tokens, navbar, footer, docs alignment.
  */
 
-/* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 :root {
-	--ifm-color-primary: #8066FF;
-	--ifm-color-primary-dark: #21af90;
-	--ifm-color-primary-darker: #1fa588;
-	--ifm-color-primary-darkest: #1a8870;
-	--ifm-color-primary-light: #29d5b0;
-	--ifm-color-primary-lighter: #32d8b4;
-	--ifm-color-primary-lightest: #4fddbf;
+	--brand-purple: #8066ff;
+	--brand-purple-dark: #5d548c;
+	--brand-purple-light: #a899ff;
+	--brand-purple-darker: #4a4270;
+	--brand-purple-darkest: #3a3458;
+	--brand-purple-lighter: #c4b8ff;
+	--brand-purple-lightest: #e8e4ff;
+	--brand-gradient: linear-gradient(135deg, #8066ff 0%, #5d548c 100%);
+	--surface-muted: #f7f6ff;
+	--text-primary: #1a1a2e;
+	--text-secondary: #606770;
+	--section-padding-y: 6rem;
+	--font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+
+	--ifm-color-primary: var(--brand-purple);
+	--ifm-color-primary-dark: var(--brand-purple-dark);
+	--ifm-color-primary-darker: var(--brand-purple-darker);
+	--ifm-color-primary-darkest: var(--brand-purple-darkest);
+	--ifm-color-primary-light: var(--brand-purple-light);
+	--ifm-color-primary-lighter: var(--brand-purple-lighter);
+	--ifm-color-primary-lightest: var(--brand-purple-lightest);
+	--ifm-font-family-base: var(--font-family-base);
+	--ifm-heading-font-family: var(--font-family-base);
 	--ifm-code-font-size: 95%;
-	--ifm-color-link-color: black;
+	--ifm-color-link-color: var(--text-primary);
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-	--ifm-color-primary: #8066FF;
-	--ifm-color-primary-dark: #21af90;
-	--ifm-color-primary-darker: #1fa588;
-	--ifm-color-primary-darkest: #1a8870;
-	--ifm-color-primary-light: #29d5b0;
-	--ifm-color-primary-lighter: #32d8b4;
-	--ifm-color-primary-lightest: #4fddbf;
-	--ifm-color-link-color: white;
+	--ifm-color-primary: var(--brand-purple-light);
+	--ifm-color-primary-dark: var(--brand-purple);
+	--ifm-color-primary-darker: var(--brand-purple-dark);
+	--ifm-color-primary-darkest: var(--brand-purple-darker);
+	--ifm-color-primary-light: var(--brand-purple-lighter);
+	--ifm-color-primary-lighter: var(--brand-purple-lightest);
+	--ifm-color-primary-lightest: #f0edff;
+	--ifm-color-link-color: #f0edff;
+	--surface-muted: #1e1b2e;
+	--text-primary: #f0edff;
+	--text-secondary: #a8a4b8;
 	--docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-.hero {
-	background-image: url('~/img/team.png');
-	background-size: cover;
-	background-position: 0% 30%;
-	height: 500px;
+html {
+	scroll-behavior: smooth;
 }
 
-.navbar__title {
-	font-size: 20px;
+body {
+	font-family: var(--font-family-base);
+	color: var(--text-primary);
 }
 
 h1,
 h2,
 h3,
 h4,
-h5 {
-	font-family: Candara, 'Work Sans', 'roboto', sans-serif;
+h5,
+h6 {
+	font-family: var(--font-family-base);
+	color: var(--text-primary);
 }
 
-p {
-	font-family: roboto;
+/* Navbar */
+.navbar {
+	backdrop-filter: blur(12px);
+	background-color: rgba(255, 255, 255, 0.85);
+	border-bottom: 1px solid rgba(128, 102, 255, 0.1);
+}
+
+[data-theme='dark'] .navbar {
+	background-color: rgba(26, 26, 46, 0.9);
+	border-bottom-color: rgba(168, 153, 255, 0.15);
+}
+
+.navbar__link {
+	font-weight: 500;
+}
+
+.navbar__link--active {
+	color: var(--brand-purple);
+}
+
+.navbar-download-button {
+	background: var(--brand-purple) !important;
+	color: #fff !important;
+	border-radius: 8px;
+	padding: 0.4rem 1rem !important;
+	font-weight: 600 !important;
+	margin-left: 0.5rem;
+	transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.navbar-download-button:hover {
+	background: var(--brand-purple-dark) !important;
+	color: #fff !important;
+	transform: translateY(-1px);
+}
+
+/* Docs sidebar active item */
+.menu__link--active:not(.menu__link--sublist) {
+	background-color: rgba(128, 102, 255, 0.1);
+	color: var(--brand-purple-dark);
+	font-weight: 600;
+}
+
+[data-theme='dark'] .menu__link--active:not(.menu__link--sublist) {
+	background-color: rgba(168, 153, 255, 0.15);
+	color: var(--brand-purple-light);
+}
+
+/* Footer */
+.footer {
+	background-color: var(--surface-muted);
+	border-top: 1px solid rgba(128, 102, 255, 0.12);
+}
+
+.footer__title {
+	font-size: 0.875rem;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	color: var(--text-primary);
 }
 
 .footer__link-item {
 	font-size: 14px;
+	color: var(--text-secondary);
 }
 
 .footer__links {
-	margin-bottom: 8rem;
+	margin-bottom: 2rem;
 }
 
 .footer__copyright {
 	font-size: 14px;
-	color: #606770;
+	color: var(--text-secondary);
 }
