@@ -38,4 +38,4 @@ WAGGURACY combines multiple positioning technologies for fast, accurate indoor a
 
 ---
 
-WAGGURACY’s smart location tracking helps you stay connected to your pet wherever you are. Whether at home or away, you can stay informed about their location and enjoy greater peace of mind in everyday care.
+WAGGURACY’s smart location tracking helps you stay connected to your pet wherever you are. Whether at home or away, you can stay informed about their location and enjoy greater peace of mind in everyday care. 

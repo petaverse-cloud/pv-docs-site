@@ -29,14 +29,14 @@ WAGGURACY PHAST 1, constructed from Polycarbonate, offer several advantages:
 
 4. Easy Maintenance:
 
-  The smooth surface of Polycarbonate makes WAGGURACY PHAST 1 [easy to clean](/docs/devices/general-information/cleaning). This simplifies maintenance for pet owners, allowing them to keep the device clean and hygienic effortlessly. 
+  The smooth surface of Polycarbonate makes WAGGURACY PHAST 1 [easy to clean](/docs/devices/general-information/cleaning). This simplifies maintenance for pet owners, allowing them to keep the device clean and hygienic effortlessly.
 
 ## Key Features:
 Beyond its aesthetic appeal, the WAGGURACY PHAST 1 integrates several robust features to cater to the diverse needs of pet owners.
 
 + [Smart Location Tracking:](/docs/petority/features/live-tracking)
   
-    Stay connected to your pet’s whereabouts with GPS positioning and network connectivity. The in-app map provides location updates and movement history, helping you follow their journeys and better understand where they’ve been.
+  Stay connected to your pet’s whereabouts with GPS positioning and network connectivity. The in-app map provides location updates and movement history, helping you follow their journeys and better understand where they’ve been.
 
 + [Daily Habit & Activity Tracking:](/docs/petority/features/health-monitoring)
 
@@ -44,7 +44,7 @@ Beyond its aesthetic appeal, the WAGGURACY PHAST 1 integrates several robust fea
   
 + [Fence Setup](/docs/petority/features/fence) and [Alerts](/docs/petority/notification/fence-event):
 
-    Set up a virtual safe zone and receive notifications when your pet moves outside the defined area, helping you stay aware of their whereabouts.
+  Set up a virtual safe zone and receive notifications when your pet moves outside the defined area, helping you stay aware of their whereabouts.
 
 ## Advantages and Benefits:
 WAGGURACY hardware comes with unique advantages:
