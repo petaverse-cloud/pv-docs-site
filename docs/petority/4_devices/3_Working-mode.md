@@ -20,7 +20,7 @@ When PHAST 1 exits the Home Fence, it will automatically switch to Out of Home m
 
 If you are accompanying your pet outdoors for activities, you may switch to Activity mode or remain in this mode.
 
-If your pet leaves home unexpectedly, please use real-time location tracking to find your pet as soon as possible.
+If your pet leaves home unexpectedly, please use smart location tracking to find your pet as soon as possible.
 
 ## Activity Mode:
 
@@ -34,9 +34,7 @@ Please note that higher performance will result in increased battery consumption
 
 Emergency mode is designed for situations where your pet is lost.
 
-In this mode, PHAST 1 operates at maximum performance, providing the most accurate GPS positioning and habit monitoring data.
-
-This ensures you can track your pet’s condition and location in real time. However, battery consumption will be at its highest.
+In this mode, PHAST 1 prioritizes tracking performance, providing more frequent GPS location updates and detailed habit and activity data, but may result in higher battery consumption.
 
 ## Feature Comparison Table:
 
@@ -47,4 +45,4 @@ This ensures you can track your pet’s condition and location in real time. How
 | ![L_icon](/img/devices/Activity.png) | Yes | Yes | High | High |
 | ![L_icon](/img/devices/Emergency.png) | Yes | Yes | Highest | Highest |
 
-From peaceful moments at home to unexpected emergencies, WAGGURACY intelligently adapts to every situation—so your pet is always protected.
+From everyday moments at home to situations that need extra attention, WAGGURACY intelligently adapts to different scenarios, helping you stay informed and support your pet’s safety.

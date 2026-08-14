@@ -54,4 +54,4 @@ Here are the steps to perform these actions:
 
 	You can follow the **Binding a Device with a Pet** steps to choose another pet and associate the device with him/her.
 
-By following these steps, you can effortlessly manage your WAGGURACY devices and ensure they are bound with the right pets for accurate tracking and monitoring.
+By following these steps, you can effortlessly manage your WAGGURACY devices and ensure they are bound with the right pets for accurate tracking.

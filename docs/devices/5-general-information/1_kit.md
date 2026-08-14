@@ -7,7 +7,7 @@ title: WAGGURACY PHAST 1 Kit
 
 1. [PHAST 1:](/docs/devices/getting-started/introduction) 
 
-	The heart of WAGGURACY's intelligent tracking system, providing real-time monitoring and data collection.
+	The core of WAGGURACY’s smart tracking system, designed to support smart location tracking, instant sync habit and activity data collection.
 
 
 2. [USB Charging Cable:](/docs/devices/battery-charging/battery-charging) 
@@ -31,7 +31,7 @@ title: WAGGURACY PHAST 1 Kit
 
 1. PHAST 1 Placement:
 
-	Attach the PHAST 1 securely to your pet's collar for optimal performance and tracking accuracy.
+	Securely attach the PHAST 1 to your pet’s collar to support consistent tracking performance and location accuracy.
 
 2. [Charging the PHAST 1:](/docs/devices/battery-charging/battery-charging) 
 

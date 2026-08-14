@@ -16,13 +16,13 @@ WAGGURACY offers a range of Alerts that allow you to stay informed about your pe
     If your PHAST 1 loses connection or experiences weak signal, you'll be notified about the signal status to keep you informed about the device's connectivity.
 + **Pulse Alert:**
 
-    PHAST 1 can monitor your pet's pulse. You can set up pulse alerts to receive alerts in case of abnormal pulses, allowing you to take action.
+    PHAST 1 tracks your pet’s pulse trends and lets you set alerts for readings outside your selected range, helping you stay informed about changes over time.
 + **[Fence Alert:](/docs/petority/notification/fence-event)**
 
     If you've set up a fence (safe zone), you'll receive alerts when your pet enters or exits the defined area, allowing you're always aware of your pet's location.
 + **Habit Alert:**
 
-    You can configure habit alerts to monitor your pet's activity levels and well-being. Alerts will be sent if there are unusual activities or changes in your pet's habit condition.
+    You can configure habit alerts to track your pet's activity levels and well-being. Alerts will be sent if there are unusual activities or changes in your pet's habit condition.
 
 + **[Firmware Update](/docs/petority/devices/upgrade-firmware) Alert:**
 
@@ -30,4 +30,4 @@ WAGGURACY offers a range of Alerts that allow you to stay informed about your pe
 
 **How to Manage Alerts? See:[Alert Settings](/docs/petority/general-setting/notification)**.
 
-By familiarizing yourself with the device information and settings in the WAGGURACY app, you can optimize the care and safety of your pets while enjoying the convenience of modern technology.
+By familiarizing yourself with the device information and settings in the WAGGURACY app, you can make better use of its features to stay informed and support your pet’s everyday care and safety.

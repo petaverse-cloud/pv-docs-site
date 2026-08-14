@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Habit Monitoring
+title: Habit & Activity Tracking
 ---
 
-# Tracking Your Pet's Well-being with WAGGURACY's Habit Feature
-WAGGURACY, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. Some of its standout capabilities are the **comprehensive habit data detection** and **location history tracking functionality**. 
+# Tracking Your Pet's Well-being with WAGGURACY's Habit & Activity Features
+WAGGURACY, the advanced pet tracking solution, offers an array of features designed to keep you connected with your furry friend's activities and well-being. Some of its standout capabilities are the **comprehensive habit & activity data tracking** and **location history tracking functionality**. 
 
 ![Health](/img/health/Health.jpg)
 
@@ -49,18 +49,18 @@ You can view:
 + **Achievement**: The percentage of the target calories achieved.
 + **Avg Achievement**: The average goal completion rate over a period of time.
 
-By monitoring your pet's Calorie Goal regularly, you can better understand their activity level and help maintain a healthy, active lifestyle.
+By tracking your pet's Calorie Goal regularly, you can better understand their activity level and help maintain a healthy, active lifestyle.
 
-### Pulse Monitoring:
-Keeping an eye on your pet's heart habit is crucial. This feature empowers you to closely monitor their pulse in real-time. 
+### Pulse Trend Tracking:
+WAGGURACY lets you track your pet’s pulse trends, helping you stay informed about changes in their everyday patterns. 
 
 ![Heart](/img/health/Heart-Rate-Indicators.jpg)
 
 The PHAST-1 emits a **blue** breathing light when actively collecting your pet's pulse data.
 
-By having access to their pulse data, you can promptly detect any irregularities and take necessary actions for their well-being.
+By reviewing your pet’s pulse data over time, you can stay informed about noticeable changes and decide whether further attention may be needed.
 
-**Monitor your pet's pulse with ease. WAGGURACY provides visual cues for different pulse ranges:**
+**Tracking your pet's pulse with ease. WAGGURACY provides visual cues for different pulse ranges:**
  
 | Pulse  | Color   |
 | ----------- | ----------- |
@@ -68,7 +68,7 @@ By having access to their pulse data, you can promptly detect any irregularities
 |  Normal     |  <li style={{ "color": "#FF3366" }}><span style={{ "color": "#000" }}>Red</span></li> |
 | High      |  <li style={{ "color": "#B22E3C" }}><span style={{ "color": "#000" }}>Crimson</span></li> |
 
-### Tracking
+### Motion Tracking
 Check whether your pet are getting sufficient exercise daily.
 
 ![tracking](/img/get-to-know/Tracking.jpg)
@@ -97,18 +97,15 @@ WAGGURACY's Historical Data feature provides several advantages:
     
     Gain valuable insights into your pet's **past activities** and **behavior patterns**. Understand how they spend their days and how their routines may have changed over time.
 
-+ Habit Monitoring:
++ Habit Tracking:
     
-    Monitor your pet's **habit trends** by **reviewing** historical data. Detect any irregularities or changes in their behavior that might indicate underlying habit issues.
+    Track your pet's **habit trends** by **reviewing** historical data. Stay informed about noticeable changes in your pet’s behavior and activity patterns that may deserve closer attention.
 
-+ Behavioral Changes:
-    
-    Identify any behavioral *changes* or *trends* in your pet's daily routines. This can help you make informed decisions about their care and well-being.
 
 + Long-Term Trends:
     
-    Observe *long-term trends* in your pet's **activity levels**, **sleep patterns**, and more. This information can be essential for maintaining their overall habit and happiness.
+    Observe *long-term trends* in your pet’s **activity levels**, **sleep patterns**, and other daily behaviors to better understand their everyday routines and patterns.
 
-WAGGURACY's Habit Data and Location History feature offers a holistic view of your pet's well-being, helping you ensure their happiness and habit. With its user-friendly interface and insightful data, you can stay connected and make the best choices for your beloved companion.
+AGGURACY’s Habit Data and Location History features give you a clearer picture of your pet’s everyday routines over time. With easy-to-review activity insights, behavior patterns, and long-term trends, you can better understand their habits and stay more connected to their daily life.
 
  

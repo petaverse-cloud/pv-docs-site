@@ -4,7 +4,7 @@ title: View Pet's Pulse
 ---
 
 # How to View Your Pet's Pulse on WAGGURACY
-PHAST 1's pulse monitoring feature allows you to keep a close eye on your pet's pulse, providing valuable insights into their habit and well-being.
+PHAST 1's pulse tracking feature allows you to keep a close eye on your pet's pulse, providing valuable insights into their habit and well-being.
 
 Here's a brief guide on how to check your pet's pulse using WAGGURACY:
 
@@ -24,11 +24,11 @@ On **Habit** page, you can find information about their [real-time pulse](/docs/
 
 ![pulse](/img/heart/Heart-Rate2.jpg)
 
-<!-- **Heart Rate Range Indicators:**
+<!-- **Pulse Range Indicators:**
 
-WAGGURACY uses color coding or icons to indicate different heart rate ranges, such as low, normal, or high heart rates.
+WAGGURACY uses color coding or icons to indicate different pulse ranges, such as low, normal, or high heart rates.
 
-| Heart Rate   | Color   |
+| Pulse   | Color   |
 | ----------- |  ----------- |
 | Low    |  <li style={{ "color": "#FFFF00" }}><span style={{ "color": "#000" }}>Yellow</span></li> |
 |  Normal      |  <li style={{ "color": "#00FF00" }}><span style={{ "color": "#000" }}>Green</span></li> |
@@ -36,5 +36,5 @@ WAGGURACY uses color coding or icons to indicate different heart rate ranges, su
 
 ## Set Up Pulse Alerts:
 You may have the option to configure pulse alerts, so you'll [receive notifications](/docs/petority/notification/type) if your pet's pulse becomes abnormal, allowing you to take action.
-## Habit Trends:
-The app typically provides insights into your pet's pulse trends and [historical](/docs/petority/features/health-monitoring) data, helping you track their cardiovascular habit over time.
+## Pulse Trends:
+The app typically provides insights into your pet's pulse trends and [historical](/docs/petority/features/health-monitoring) data, helping you better understand your pet’s pulse patterns over time.

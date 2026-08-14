@@ -4,7 +4,7 @@ title: Fence
 ---
 
 # Fences for Pet Safety
-The WAGGURACY fence feature allows you to establish virtual boundaries for your pets, helping ensure they stay within safe areas while roaming. It enables you to monitor and manage your pet’s activity range, with real-time alerts and notifications to keep you informed of their location and movements.
+The WAGGURACY fence feature allows you to establish virtual boundaries for your pets, helping ensure they stay within safe areas while roaming. It enables you to track your pet’s activity range, with smart alerts and notifications to keep you informed of their location and movements.
 
 To support different usage scenarios, WAGGURACY provides two dedicated fence types: Home Fence, designed for defining your home environment, and Custom Fence, which allows you to create flexible zones tailored to specific needs.
 
@@ -82,4 +82,4 @@ If you no longer require a specific fence, you can choose to **turn off** the fe
 
 ![switch](/img/fence/Fence3.jpg)
 
-WAGGURACY's fence feature provides an added layer of safety and control, allowing you to create secure zones for your pets. By following these simple steps, you can ensure your furry friends stay within safe areas while they explore, giving you peace of mind and enhancing their well-being.
+WAGGURACY’s fence feature adds an extra layer of awareness by allowing you to define designated zones for your pet. You can receive alerts when your pet moves beyond those areas, helping you stay informed and support safer everyday exploration.
