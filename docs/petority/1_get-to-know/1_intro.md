@@ -8,8 +8,8 @@ WAGGURACY is your ultimate companion for keeping a watchful eye on your beloved 
 
 #### 📥 Download WAGGURACY:📥 [Apple App Store (IOS)](https://apps.apple.com/us/app/wagguracy/id6776070186) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.wagguracy.app)
 **The WAGGURACY mobile app is compatible with the following devices:**
-+ iPhone with iOS **11** or above.📱
-+ Android devices with operating system **7.0** and above (Google Play Services required).
++ iPhone with iOS **16** or above.📱
++ Android devices with operating system **5.1** and above (Google Play Services required).
 
 ## App features:
 This app offers a range of cutting-edge features that ensure the **habit**, **safety**, and **happiness** for your furry friends.
