@@ -10,7 +10,7 @@ WAGGURACY PHAST 1 is an intelligent tracking device meticulously designed and te
 
 + Dedicated to Dogs:
 
-	PHAST 1 is crafted with careful consideration to meet the specific needs of dogs and cats, providing efficient tracking and monitoring capabilities.
+	PHAST 1 is crafted with careful consideration to meet the specific needs of dogs and cats, providing efficient tracking capabilities.
 
 + Not Recommended for Other Pets: 
 
@@ -24,4 +24,4 @@ WAGGURACY PHAST 1 is an intelligent tracking device meticulously designed and te
 
 + [Intelligent Tracking:](/docs/petority/features/live-tracking) 
 
-	With PHAST 1, you can achieve real-time tracking of your dog/cat, providing enhanced peace of mind.
+	With PHAST 1, you can achieve instant sync tracking of your dog/cat, providing enhanced peace of mind.

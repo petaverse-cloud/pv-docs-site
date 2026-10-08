@@ -4,7 +4,8 @@ title: Pet Binding
 ---
 
 # Binding, Unbinding, and Switching Devices for Pets
-In WAGGURACY, you can easily **bind**,<!--  **unbind**, and --> **switch** devices for your pets to track and monitor their activities.
+
+In WAGGURACY, you can easily **bind**, **switch** devices for your pets to track their activities.
 
 Here are the steps to perform these actions:
 

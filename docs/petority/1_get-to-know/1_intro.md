@@ -56,7 +56,7 @@ Review your pet's recorded habit and activity data over selected time periods. Y
     Get a holistic view of your pet's habit with daily, weekly, and monthly data breakdowns. Stay informed about their exercise levels, pulse trends, and more.📊🐈
 + Pulse Indicators
 
-    Monitor your pet's pulse with ease.💓🌈 
+    Track your pet's pulse with ease.💓🌈 
 
 ### 4. [Alert ](/docs/petority/notification/type)
 1. Virtual Fence Alerts

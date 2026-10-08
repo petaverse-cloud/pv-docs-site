@@ -4,7 +4,7 @@ title: Sound Customization
 ---
 
 # Sound Customization
-WAGGURACY is all about tailoring your pet tracking and monitoring experience to suit your preferences. 
+WAGGURACY is all about tailoring your pet tracking experience to suit your preferences.
 
 In this comprehensive guide, we'll explore how you can personalize your WAGGURACY experience by selecting **sound types**, and customizing your pet's **recall**. By adjusting these settings, you can better manage and protect your pet.
 

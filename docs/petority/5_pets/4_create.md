@@ -28,4 +28,4 @@ Here are the simple steps to create a pet profile in the WAGGURACY app:
 
     Once you've filled in the necessary information, save the changes to create the new pet profile.
 
-By creating pet profiles in the WAGGURACY app, you can ensure you have accurate information at your fingertips, helping you provide the best care and monitoring for your pets. If you have multiple pets, repeat these steps to create profiles for each pet and ensure their information remains up-to-date.
+By creating pet profiles in the WAGGURACY app, you can ensure you have accurate information at your fingertips, helping you provide the best care and trakcing for your pets. If you have multiple pets, repeat these steps to create profiles for each pet and ensure their information remains up-to-date.

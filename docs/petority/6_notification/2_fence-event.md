@@ -28,4 +28,4 @@ Before receiving fence event alerts, you'll need to [set up a fence](/docs/petor
 
 Managing Fence Event Alerts. See: [Alert Settings](/docs/petority/general-setting/notification)
 
-Fence event alerts are a valuable feature that helps you ensure your pet's safety and monitor their whereabouts, especially in areas where they should be supervised or restricted. By setting up and managing fence effectively, you can have peace of mind and a greater sense of control over your pet's outdoor activities.
+Fence event alerts are a valuable feature that helps you ensure your pet's safety and track their whereabouts, especially in areas where they should be supervised or restricted. By setting up and managing fence effectively, you can have peace of mind and a greater sense of control over your pet's outdoor activities.

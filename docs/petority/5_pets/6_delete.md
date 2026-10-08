@@ -26,6 +26,6 @@ Here are the straightforward steps on how to delete a created pet profile in the
     Confirm your decision to delete the pet profile.
 6. Completion:
 
-    Once confirmed, the pet profile and associated data will be permanently deleted from your Petority account.
+    Once confirmed, the pet profile and associated data will be permanently deleted from your Wagguracy account.
 
 Deleting pet information is irreversible, and all associated data will be removed. Make sure to double-check before proceeding with the deletion.

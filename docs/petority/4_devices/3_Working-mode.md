@@ -4,7 +4,7 @@ title: Working Mode
 ---
 
 # A Comprehensive Guide to WAGGURACY Working Modes
-WAGGURACY offers four intelligent working modes designed to adapt to your pet’s real-life scenarios. By automatically switching between modes or allowing manual control, the system ensures optimal tracking accuracy, habit monitoring, and battery performance.
+WAGGURACY offers four intelligent working modes designed to adapt to your pet’s real-life scenarios. By automatically switching between modes or allowing manual control, the system ensures optimal tracking accuracy, habit tracking, and battery performance.
 
 ![pairing](/img/battery/home-battery.jpg)
 

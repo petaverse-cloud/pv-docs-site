@@ -16,12 +16,12 @@ export default function DownloadSection() {
 							Download WAGGURACY
 						</h2>
 						<p className={styles.description}>
-							Track location, monitor habits, and keep your pets safe — all
+							Track location, track habits, and keep your pets safe — all 
 							from your phone. Available on iOS and Android.
 						</p>
 						<ul className={styles.requirements}>
-							<li>iPhone with iOS 11 or above</li>
-							<li>Android 7.0+ with Google Play Services</li>
+							<li>iPhone with iOS 16 or above</li>
+							<li>Android 5.1+ with Google Play Services</li>
 						</ul>
 					</div>
 					<div className={styles.badges}>

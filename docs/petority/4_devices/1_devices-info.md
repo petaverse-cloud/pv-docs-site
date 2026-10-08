@@ -32,7 +32,7 @@ View the GPS Status of the PHAST 1.
     Keep your device up to date with the latest features and improvements by performing firmware updates.
 + [Factory Reset](/docs/petority/devices/restore-factory)
     
-    Petority devices occasionally require a factory reset to restore them to their original settings.
+    Wagguracy devices occasionally require a factory reset to restore them to their original settings.
 + [Light and Sound](/docs/petority/devices/light-sound)
     
 	Light Settings, Sound Choices, and Personalized Pet Recall.By adjusting these settings, you can better manage and protect your pet.

@@ -14,7 +14,7 @@ const features = [
 		href: DOC_PATHS.liveTracking,
 	},
 	{
-		title: 'Habit Monitoring',
+		title: 'Habit Tracking',
 		description:
 			'Review your pet\'s habit data over daily, weekly, and monthly views. Trace their activities, understand daily routines, and stay informed about exercise levels and pulse trends.',
 		image: require('@site/static/img/wagguracy_health_monitoring.png').default,

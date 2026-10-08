@@ -4,9 +4,9 @@ title: Device Pairing
 ---
 
 # A Comprehensive Guide to Device Pairing and Pet Care with WAGGURACY
-WAGGURACY is your go-to solution for advanced pet tracking and monitoring. 
+WAGGURACY is your go-to solution for advanced pet tracking. 
 
-Whether you want to ensure your furry companion’s safety or closely monitor their habit, here is a step-by-step guide to pairing your device, setting up a Home Fence, and providing top-notch care for your pet.
+Whether you want to ensure your furry companion’s safety or closely track their habit, here is a step-by-step guide to pairing your device, setting up a Home Fence, and providing top-notch care for your pet.
 
 ![pairing](/img/devices/pairing.jpg)
 
@@ -28,7 +28,7 @@ Follow these steps to pair your device:
 
     Please follow the in-app instructions to complete the following preparations:
     + **Press and hold** the side button of PHAST 1 to power it on. When the indicator light **flashes blue**, the device is ready for pairing.
-    + **Open** your phone's **Bluetooth**.
+    + **Turn on** your phone's **Bluetooth**.
     + Keep your phone **close to** the **PHAST 1**.
     + Please place your **PHAST 1 Outdoors** or near a **Window**.
 
@@ -59,4 +59,4 @@ Follow these steps to pair your device:
 
 [Encountering issues with pairing? Learn what to do if pairing fails.](/docs/petority/troubleshooting/device-pairing)
 
-Simply follow the steps above: **pair your device**, **create and link your pet profile**, and you can start using the WAGGURACY system to [**monitor your pet**](/docs/petority/features/health-monitoring) and [**track them in real time**](/docs/petority/features/live-tracking), ensuring their safety. Whether you’re at home or away, WAGGURACY keeps you informed about your pet’s activities and needs.
+Simply follow the steps above: **pair your device**, **create and link your pet profile**, and you can start using the WAGGURACY system to [**track your pet**](/docs/petority/features/health-monitoring) in [**real time**](/docs/petority/features/live-tracking), ensuring their safety. Whether you’re at home or away, WAGGURACY keeps you informed about your pet’s activities and needs.

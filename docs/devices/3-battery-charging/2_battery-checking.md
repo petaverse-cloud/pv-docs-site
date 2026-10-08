@@ -26,4 +26,4 @@ Here's how you can easily check the battery status:
 
     ![battery](/img/map/Status.jpg)
 
-The battery percentage shown in the Battery Widget and the popup may not always be in real-time sync due to slight delays in updating. However, this should give you a good indication of the approximate battery level of your PHAST 1.
+The battery percentage shown in the Battery Widget and the popup may not always be in instant sync due to slight delays in updating. However, this should give you a good indication of the approximate battery level of your PHAST 1.

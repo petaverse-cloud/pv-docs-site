@@ -20,7 +20,7 @@ Here's a brief guide on how to check your pet's pulse using WAGGURACY:
 
 ## View Pulse Data:
 
-On **Habit** page, you can find information about their [real-time pulse](/docs/petority/features/realtime-heartrate-monitoring), typically displayed as beats per minute (bpm), allowing you to see your pet's current pulse at any time.
+On **Habit** page, you can find information about their [instant sync pulse trend](/docs/petority/features/realtime-heartrate-monitoring), typically displayed as beats per minute (bpm), allowing you to see your pet's current pulse at any time.
 
 ![pulse](/img/heart/Heart-Rate2.jpg)
 

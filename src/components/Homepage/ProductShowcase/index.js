@@ -36,7 +36,7 @@ export default function ProductShowcase() {
 						WAGGURACY PHAST 1
 					</h2>
 					<p className={styles.sectionSubtitle}>
-						A sleek, minimalist wearable designed to monitor your pet&apos;s
+						A sleek, minimalist wearable designed to track your pet&apos;s 
 						habit and activity — crafted for comfort, built for durability.
 					</p>
 				</div>

@@ -17,4 +17,4 @@ WAGGURACY employs a diverse range of notification methods to ensure users receiv
 
 	WAGGURACY also offers the option to receive notifications via email, ensuring that you stay updated even when you are not actively using the app.
 
-By utilizing these notification methods, you can access essential information about your pet and device at any time, ensuring the best care and monitoring for your beloved pets.
+By utilizing these notification methods, you can access essential information about your pet and device at any time, ensuring the best care and tracking for your beloved pets.
