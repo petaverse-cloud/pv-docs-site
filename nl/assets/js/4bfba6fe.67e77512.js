@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpv_docs_site=self.webpackChunkpv_docs_site||[]).push([[29],{8337:t=>{t.exports=JSON.parse('{"title":"Meer Informatie","slug":"/category/get-to-know","permalink":"/nl/docs/category/get-to-know","navigation":{"next":{"title":"Wat is WAGGURACY?","permalink":"/nl/docs/petority/get-to-know/intro"}}}')}}]);
