@@ -1,0 +1,75 @@
+# Docs translation gaps (kept English)
+
+- data-deletion-instructions.md: Data Deletion Instructions
+- data-deletion-instructions.md: Effective as of November 19, 2025.
+- data-deletion-instructions.md: This Account Deletion Agreement (hereinafter referred to as the "Agreement") outlines the terms and procedures for users
+- data-deletion-instructions.md: Account Deletion Conditions:
+- data-deletion-instructions.md: Account Owner:
+- data-deletion-instructions.md: Account deletion requests must be made by the legitimate owner of the account or an authorized representative. Users sub
+- data-deletion-instructions.md: Legal Requirements:
+- data-deletion-instructions.md: The platform may be required to retain certain account data under applicable laws, and within the limits allowed by the 
+- data-deletion-instructions.md: Account Deletion Procedure:
+- data-deletion-instructions.md: Users need to log in to their accounts using their credentials and access the account settings.
+- data-deletion-instructions.md: Deletion Option:
+- data-deletion-instructions.md: On the account settings page, users will find the Delete Account. Clicking on this option will initiate the deletion pro
+- data-deletion-instructions.md: Identity Verification:
+- data-deletion-instructions.md: The platform will request users to verify their identity to ensure that the deletion request is coming from the legitima
+- data-deletion-instructions.md: Deletion Confirmation:
+- data-deletion-instructions.md: Once identity verification is successful, users will be directed to a deletion confirmation page, providing final inform
+- data-deletion-instructions.md: Submit Deletion Request:
+- data-deletion-instructions.md: Users need to confirm their deletion request and submit it. Once submitted, users will not be able to reverse the deleti
+- data-deletion-instructions.md: Effects of Deletion:
+- data-deletion-instructions.md: After the account is deleted, the platform will delete the user's personal data, except as required or allowed by law.
+- data-deletion-instructions.md: Loss of Access:
+- data-deletion-instructions.md: After account deletion, users will lose access to the platform.
+- data-deletion-instructions.md: Irreversible:
+- data-deletion-instructions.md: After deletion, users will not be able to recover their account or associated data.
+- data-deletion-instructions.md: Changes to the Agreement:
+- data-deletion-instructions.md: The platform reserves the right to change this Agreement at any time. Any changes to the Agreement will be communicated 
+- data-deletion-instructions.md: If you have any concerns or questions about this Agreement or the account deletion process, please contact our customer 
+- data-deletion-instructions.md: Acceptance of Agreement:
+- data-deletion-instructions.md: By submitting an account deletion request, you confirm that you have read, understood, and agreed to all the terms and c
+- petority/4_devices/2_device-pairing.md: Turn on your phone's Bluetooth.
+- petority/4_devices/3_Working-mode.md: | Mode | Gps | Habit Data | Sampling Frequency | Battery Usage |
+- petority/4_devices/6_light-sound.md: 1. Sound Choices: Tailoring Audio Cues to Your Liking
+- petority/4_devices/6_light-sound.md: Download and open the WAGGURACY app, ensuring that you are logged into your account.
+- petority/4_devices/6_light-sound.md: Select the PHAST 1:
+- petority/4_devices/6_light-sound.md: Access the list of device associated with your pet.
+- petority/4_devices/6_light-sound.md: Pet PHAST 1 Settings:
+- petority/4_devices/6_light-sound.md: Tap Device > PHAST 1 settings
+- petority/4_devices/6_light-sound.md: Based on your preferences and needs, enable/disable pet PHAST 1 sound settings. -->
+- petority/4_devices/4_upgrade-firmware.md: Keeping your WAGGURACY PHAST 1 up to date with the latest software is *essential* to ensure optimal performance and acce
+- petority/2_accounts/5_account-deletion.md: Click on User > Settings.
+- petority/2_accounts/1_signing-up.md: Create an account
+- petority/5_pets/3_associate.md: On the Choose a Pet page, Click Unbind option.
+- petority/5_pets/3_associate.md: Confirm Unbind:
+- petority/5_pets/3_associate.md: The system will ask you to confirm if you want to Unbind the device from the pet. Once confirmed , the pet will be unbou
+- petority/5_pets/1_view-heart-rate.md: WAGGURACY uses color coding or icons to indicate different pulse ranges, such as low, normal, or high heart rates.
+- petority/5_pets/1_view-heart-rate.md: | High | <li style={{ "color": "#FF0000" }}><span style={{ "color": "#000" }}>Red</span></li> | -->
+- petority/5_pets/6_delete.md: In the WAGGURACY app, you have the flexibility to delete pet profiles that are no longer needed.
+- petority/5_pets/6_delete.md: Here are the straightforward steps on how to delete a created pet profile in the WAGGURACY app:
+- petority/8_troubleshooting/7_location-delay.md: Keep in mind that the performance of PHAST 1 may also be influenced by factors such as *environmental conditions*, *weat
+- petority/7_general-setting/7_update-app.md: Open your *App Store* app on your iPhone.
+- petority/7_general-setting/7_update-app.md: If *WAGGURACY* is listed, tap "Update" next to the app. Alternatively, you can tap "Update All" to update all your apps.
+- petority/7_general-setting/7_update-app.md: Open the *Google Play Store* app on your Android device.
+- petority/7_general-setting/7_update-app.md: If *WAGGURACY* is listed, tap on it, and then tap "Update".
+- petority/7_general-setting/7_update-app.md: Some devices may have slight variations in the steps due to *different* Android versions or *customized* interfaces.
+- petority/3_features/4_Fence.md: If you need to modify your fence's *boundaries* or *other parameters*, simply follow these steps:
+- petority/3_features/4_Fence.md: For editing, make the necessary adjustments to the fence's *shape* or *boundaries*, and then save the updated fence sett
+- petority/3_features/2_health-monitoring.md: Long-Term Trends:
+- petority/3_features/2_health-monitoring.md: Observe *long-term trends* in your pet’s activity levels, sleep patterns, and other daily behaviors to better understand
+- petority/1_get-to-know/1_intro.md: 1. Real-time Location Tracking
+- petority/1_get-to-know/1_intro.md: 2. Activity and Pulse Tracking
+- petority/1_get-to-know/1_intro.md: Track your pet’s daily activity and pulse data, and receive alerts when notable changes are detected, helping you stay i
+- petority/1_get-to-know/1_intro.md: 3. Review Your Pet's Habit and Activity Trends
+- petority/1_get-to-know/1_intro.md: WAGGURACY combines location tracking, habit tracking, and activity insights to help you stay connected to your pet and b
+- devices/3-battery-charging/1_battery-charging.md: | Low Battery | battery |Flashing |
+- devices/3-battery-charging/1_battery-charging.md: | Charging | battery | Breathing |
+- devices/3-battery-charging/1_battery-charging.md: | Charging Complete | battery | Steady |
+- devices/3-battery-charging/4_battery-performance.md: When not in active use, the device remains online and ready to receive instructions or perform monitoring tasks, ensurin
+- devices/4-light-sound/1_light-color.md: | Battery Lower 30% | battery |Orange Flashing | PHAST 1's battery is running low and needs to be charged. |
+- devices/4-light-sound/1_light-color.md: | Charging | battery | Green Slow Breathing | PHAST 1 is currently charging. |
+- devices/4-light-sound/1_light-color.md: | Charging Complete | battery | Green Steady | PHAST 1 has completed charging. |
+- devices/4-light-sound/1_light-color.md: | Weak 4G Signal or No Service | battery | Red Flashing | PHAST 1 is currently not connected to a 4G network properly du
+
+Total unique: 71

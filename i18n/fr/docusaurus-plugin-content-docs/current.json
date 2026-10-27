@@ -1,0 +1,62 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.devicesSidebar.category.Getting Started": {
+    "message": "Premiers pas",
+    "description": "The label for category Getting Started in sidebar devicesSidebar"
+  },
+  "sidebar.devicesSidebar.category.Network & Bluetooth": {
+    "message": "Réseau et Bluetooth",
+    "description": "The label for category Network & Bluetooth in sidebar devicesSidebar"
+  },
+  "sidebar.devicesSidebar.category.Battery & Charging": {
+    "message": "Batterie & charge",
+    "description": "The label for category Battery & Charging in sidebar devicesSidebar"
+  },
+  "sidebar.devicesSidebar.category.Light & Sound": {
+    "message": "Voyants & son",
+    "description": "The label for category Light & Sound in sidebar devicesSidebar"
+  },
+  "sidebar.devicesSidebar.category.General Information": {
+    "message": "Informations générales",
+    "description": "The label for category General Information in sidebar devicesSidebar"
+  },
+  "sidebar.devicesSidebar.category.Returns & exchanges": {
+    "message": "Retours & échanges",
+    "description": "The label for category Returns & exchanges in sidebar devicesSidebar"
+  },
+  "sidebar.petoritySidebar.category.Get to Know": {
+    "message": "En savoir plus",
+    "description": "The label for category Get to Know in sidebar petoritySidebar"
+  },
+  "sidebar.petoritySidebar.category.Manage Your Account": {
+    "message": "Gérer votre compte",
+    "description": "The label for category Manage Your Account in sidebar petoritySidebar"
+  },
+  "sidebar.petoritySidebar.category.Features": {
+    "message": "Fonctionnalités",
+    "description": "The label for category Features in sidebar petoritySidebar"
+  },
+  "sidebar.petoritySidebar.category.Device Management": {
+    "message": "Gestion des appareils",
+    "description": "The label for category Device Management in sidebar petoritySidebar"
+  },
+  "sidebar.petoritySidebar.category.Pet Management": {
+    "message": "Gestion des animaux",
+    "description": "The label for category Pet Management in sidebar petoritySidebar"
+  },
+  "sidebar.petoritySidebar.category.Alerts": {
+    "message": "Alertes",
+    "description": "The label for category Alerts in sidebar petoritySidebar"
+  },
+  "sidebar.petoritySidebar.category.General Settings": {
+    "message": "Paramètres généraux",
+    "description": "The label for category General Settings in sidebar petoritySidebar"
+  },
+  "sidebar.petoritySidebar.category.Troubleshooting": {
+    "message": "Dépannage",
+    "description": "The label for category Troubleshooting in sidebar petoritySidebar"
+  }
+}

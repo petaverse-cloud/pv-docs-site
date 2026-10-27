@@ -1,0 +1,22 @@
+{
+  "logo.alt": {
+    "message": "WAGGURACY",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Home": {
+    "message": "Home",
+    "description": "Navbar item with label Home"
+  },
+  "item.label.Help Center": {
+    "message": "Centre d’aide",
+    "description": "Navbar item with label Help Center"
+  },
+  "item.label.Devices": {
+    "message": "Appareils",
+    "description": "Navbar item with label Devices"
+  },
+  "item.label.WAGGURACY App": {
+    "message": "Application WAGGURACY",
+    "description": "Navbar item with label WAGGURACY App"
+  }
+}

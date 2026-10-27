@@ -1,0 +1,271 @@
+# UI translation gaps
+
+- code.json: WAGGURACY herunterladen
+- code.json: Android 5.1+ mit Google Play-Diensten
+- code.json: Download WAGGURACY on the Apple App Store
+- code.json: Download WAGGURACY on Google Play
+- code.json: Mehr erfahren
+- code.json: LIVE-Ortung
+- code.json: WAGGURACY app live tracking map with pet location
+- code.json: Gewohnheiten aufzeichnen:
+- code.json: WAGGURACY app habit monitoring dashboard
+- code.json: Virtueller Zaun
+- code.json: WAGGURACY app virtual fence alert screen
+- code.json: Alles, was Sie brauchen, um Ihr Haustier sicher zu halten
+- code.json: Brauchen Sie Hilfe beim Einstieg?
+- code.json: Dokumentation durchsuchen
+- code.json: Mobile App
+- code.json: Haustierortung neu gedacht
+- code.json: App herunterladen
+- code.json: Hilfe-Center erkunden
+- code.json: WAGGURACY app showing real-time pet location on a map
+- code.json: Leichtes Design:
+- code.json: Wasserdicht und staubdicht
+- code.json: GPS-Ortung in Echtzeit
+- code.json: LED-Statusanzeigen
+- code.json: WAGGURACY PHAST 1 pet tracking device
+- code.json: Seite nicht gefunden
+- code.json: Wir konnten nicht finden, wonach Sie gesucht haben.
+- code.json: note
+- code.json: tip
+- code.json: danger
+- code.json: info
+- code.json: caution
+- code.json: Archiv
+- code.json: Navigation der Blog-Listenseite
+- code.json: Blog Post Seiten Navigation
+- code.json: Neuer Post
+- code.json: Ein Post|{count} Posts
+- code.json: {nPosts} getaggt mit "{tagName}"
+- code.json: Alle Tags anzeigen
+- code.json: Umschalten zwischen dunkler und heller Ansicht (momentan {mode})
+- code.json: dunkler Modus
+- code.json: heller Modus
+- code.json: Breadcrumbs
+- code.json: Dokumentation Seiten
+- code.json: Weiter
+- code.json: Ein doc getaggt|{count} docs getaggt
+- code.json: {nDocsTagged} mit "{tagName}"
+- code.json: Version: {versionLabel}
+- code.json: letzte Version
+- code.json: Diese Seite bearbeiten
+- code.json: Direkter Link zur {heading}
+- code.json:  am {date}
+- code.json:  von {user}
+- code.json: Letztes Update{atDate}{byUser}
+- code.json: Versionen
+- code.json: Tags:
+- code.json: Kopiert
+- code.json: In die Zwischenablage kopieren
+- code.json: Kopieren
+- code.json: Toggle word wrap
+- code.json: Umschalten der Seitenleiste mit einklappbarer Kategorie '{label}'
+- code.json: Main
+- code.json: Sprachen
+- code.json: Auf dieser Seite
+- code.json: Mehr lesen
+- code.json: Eine Minute Lesezeit|{readingTime} Minuten Lesezeit
+- code.json: Home page
+- code.json: Seitenleiste einklappen
+- code.json: Docs sidebar
+- code.json: Close navigation bar
+- code.json: Toggle navigation bar
+- code.json: Seitenleiste ausklappen
+- code.json: Nochmal versuchen
+- code.json: Zum Hauptinhalt springen
+- code.json: Tags
+- navbar.json: WAGGURACY
+- navbar.json: Home
+- navbar.json: Hilfe-Center
+- footer.json: Herunterladen
+- footer.json: Rechtliches
+- footer.json: App Store
+- footer.json: Google Play
+- footer.json: Datenschutzrichtlinie
+- footer.json: Nutzungsbedingungen
+- footer.json: Copyright © 2026 WAGGURACY Pte. Ltd.
+- current.json: Next
+- current.json: Erste Schritte
+- current.json: Netzwerk & Bluetooth
+- current.json: Akku & Laden
+- current.json: Licht & Ton
+- current.json: Allgemeine Informationen
+- current.json: Mehr erfahren
+- current.json: Konto verwalten
+- current.json: Funktionen
+- current.json: Haustierverwaltung
+- current.json: Benachrichtigungen:
+- current.json: Allgemeine Einstellungen:
+- current.json: Fehlerbehebung
+- code.json: Android 5.1+ avec les services Google Play
+- code.json: En savoir plus
+- code.json: Suivi EN DIRECT
+- code.json: Suivi des habitudes :
+- code.json: Besoin d’aide pour commencer ?
+- code.json: Appareils
+- code.json: Guides de configuration, batterie et chargement, GPS, indicateurs LED, garantie et retours pour votr
+- code.json: Parcourir la documentation
+- code.json: Application mobile
+- code.json: Application WAGGURACY
+- code.json: Explorer le Centre d’aide
+- code.json: Voir la documentation de l’appareil
+- code.json: Page introuvable
+- code.json: remarque
+- code.json: astuce
+- code.json: attention
+- code.json: Archive
+- code.json: Pagination de la liste des articles du blog
+- code.json: Pagination des articles du blog
+- code.json: Article plus ancien
+- code.json: Un article|{count} articles
+- code.json: Voir tous les tags
+- code.json: Basculer entre le mode sombre et clair (actuellement {mode})
+- code.json: mode sombre
+- code.json: mode clair
+- code.json: Fil d'Ariane
+- code.json: Pages de documentation
+- code.json: Suivant
+- code.json: {nDocsTagged} avec "{tagName}"
+- code.json: Ceci est la documentation de la prochaine version {versionLabel} de {siteTitle}.
+- code.json: Ceci est la documentation de {siteTitle} {versionLabel}, qui n'est plus activement maintenue.
+- code.json: Lien direct vers {heading}
+- code.json:  le {date}
+- code.json:  par {user}
+- code.json: Versions
+- code.json: Tags :
+- code.json: Fermer
+- code.json: Copier le code
+- code.json: Copier
+- code.json: Langues
+- code.json: Sur cette page
+- code.json: Lire plus
+- code.json: En savoir plus sur {title}
+- code.json: Une minute de lecture|{readingTime} minutes de lecture
+- code.json: Page d'accueil
+- code.json: Fermer la barre de navigation
+- code.json: ← Retour au menu principal
+- code.json: Ouvrir/fermer la barre de navigation
+- code.json: Aller au contenu principal
+- navbar.json: Centre d’aide
+- navbar.json: Appareils
+- navbar.json: Application WAGGURACY
+- footer.json: Conditions d’utilisation
+- current.json: Premiers pas
+- current.json: Batterie & charge
+- current.json: Voyants & son
+- current.json: En savoir plus
+- current.json: Gestion des appareils
+- current.json: Gestion des animaux
+- current.json: Alertes :
+- code.json: Meer weten, minder zorgen. Gedreven door nauwkeurigheid, geleid door liefde.
+- code.json: WAGGURACY downloaden
+- code.json: Volg de locatie en gewoontes van uw huisdier en help het veilig te houden, gewoon via uw telefoon. B
+- code.json: iPhone met iOS 16 of hoger
+- code.json: Android 5.1+ met Google Play-services
+- code.json: Meer informatie
+- code.json: LIVE-tracking
+- code.json: Volg de realtime locatie van uw huisdier met sterke GPS en betrouwbare netwerkdekking. Bekijk bewegi
+- code.json: Gewoontes volgen:
+- code.json: Bekijk de gewoontes van uw huisdier per dag, week en maand. Volg de activiteiten, krijg inzicht in d
+- code.json: Virtuele omheining
+- code.json: Alles wat u nodig heeft om uw huisdier veilig te houden
+- code.json: Geavanceerde functies die de gewoontes van uw viervoeters in kaart brengen en bijdragen aan hun veil
+- code.json: Hulp nodig om aan de slag te gaan?
+- code.json: Bekijk ons Helpcentrum voor stapsgewijze handleidingen voor uw apparaat en app.
+- code.json: Apparaten
+- code.json: Installatiehandleidingen, informatie over batterij en opladen, GPS, LED-indicatoren, garantie en ret
+- code.json: Documentatie bekijken
+- code.json: Mobiele applicatie
+- code.json: Accountbeheer, locatietracking, gewoontes volgen, virtuele omheiningen, meldingen en probleemoplossi
+- code.json: Huisdiertracking opnieuw uitgevonden
+- code.json: De volgende generatie huisdiertracking
+- code.json: App downloaden
+- code.json: Helpcentrum verkennen
+- code.json: Lichtgewicht ontwerp:
+- code.json: De constructie van polycarbonaat zorgt ervoor dat PHAST 1 comfortabel is voor huisdieren van alle fo
+- code.json: Water- en stofdicht
+- code.json: Ontworpen om probleemloos te functioneren bij regen of vochtige omstandigheden en het apparaat te be
+- code.json: Realtime GPS
+- code.json: Betrouwbare GPS-signalen en netwerkdekking houden u altijd op de hoogte van de locatie van uw huisdi
+- code.json: LED-statusindicatoren
+- code.json: Een stijlvolle, minimalistische wearable om de gewoontes en activiteiten van uw huisdier te volgen, 
+- code.json: Apparaatdocumentatie bekijken
+- code.json: Deze pagina is gecrasht.
+- code.json: Pagina niet gevonden
+- code.json: We kunnen niet vinden waar je naar op zoek bent.
+- code.json: Neem contact op met de eigenaar van de website die naar de originele URL heeft geleid en laat weten 
+- code.json: notitie
+- code.json: gevaar
+- code.json: pas op
+- code.json: Scroll naar boven
+- code.json: Archief
+- code.json: Paginanavigatie blog
+- code.json: Nieuwere items
+- code.json: Oudere items
+- code.json: Nieuwer bericht
+- code.json: Ouder bericht
+- code.json: Een bericht|{count} berichten
+- code.json: {nPosts} getagd met "{tagName}"
+- code.json: Laat alle tags zien
+- code.json: Schakel tussen donkere en lichte modus (momenteel {mode})
+- code.json: donkere modus
+- code.json: lichte modus
+- code.json: Broodkruimels
+- code.json: {count} artikelen
+- code.json: Documentatie pagina
+- code.json: Vorige
+- code.json: Volgende
+- code.json: Een artikel getagd|{count} artikelen getagd
+- code.json: {nDocsTagged} met "{tagName}"
+- code.json: Versie: {versionLabel}
+- code.json: Dit is nog niet uitgegeven documentatie voor {siteTitle}, versie {versionLabel}
+- code.json: Dit is de documentatie voor {siteTitle} {versionLabel}, welke niet langer actief wordt onderhouden.
+- code.json: Voor de huidige documentatie, zie de {latestVersionLink} ({versionLabel}).
+- code.json: laatste versie
+- code.json: Bewerk deze pagina
+- code.json: Direct link naar {heading}
+- code.json:  op {date}
+- code.json:  door {user}
+- code.json: Laatst bijgewerkt{atDate}{byUser}
+- code.json: Versies
+- code.json: Sluiten
+- code.json: Navigatie recente blogitems
+- code.json: Gekopieerd
+- code.json: Kopieer code naar klembord
+- code.json: Kopieer
+- code.json: Tekstterugloop in-/uitschakelen
+- code.json: Klap de opvouwbare zijbalkcategorie '{label}' in of uit
+- code.json: Talen
+- code.json: Op deze pagina
+- code.json: Lees meer
+- code.json: Lees meer over {title}
+- code.json: Een minuut leestijd|{readingTime} minuten leestijd
+- code.json: Homepagina
+- code.json: Zijbalk inklappen
+- code.json: ← Terug naar het hoofdmenu
+- code.json: Zijbalk uitklappen
+- code.json: Probeer opnieuw
+- code.json: Ga naar hoofdinhoud
+- navbar.json: Helpcentrum
+- navbar.json: Apparaten
+- footer.json: Downloaden
+- footer.json: Juridische informatie
+- footer.json: Privacybeleid
+- footer.json: Servicevoorwaarden
+- footer.json: Gegevens verwijderen
+- current.json: Aan de slag
+- current.json: Netwerk & Bluetooth
+- current.json: Batterij & opladen
+- current.json: Licht & geluid
+- current.json: Algemene informatie
+- current.json: Retourneren & ruilen
+- current.json: Meer informatie
+- current.json: Uw account beheren
+- current.json: Functies
+- current.json: Apparaatbeheer
+- current.json: Huisdierbeheer
+- current.json: Meldingen:
+- current.json: Algemene instellingen:
+- current.json: Problemen oplossen
+
+Total unique: 267

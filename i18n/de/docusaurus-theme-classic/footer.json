@@ -1,0 +1,34 @@
+{
+  "link.title.Download": {
+    "message": "Herunterladen",
+    "description": "The title of the footer links column with title=Download in the footer"
+  },
+  "link.title.Legal": {
+    "message": "Rechtliches",
+    "description": "The title of the footer links column with title=Legal in the footer"
+  },
+  "link.item.label.App Store": {
+    "message": "App Store",
+    "description": "The label of footer link with label=App Store linking to https://apps.apple.com/us/app/wagguracy/id6776070186"
+  },
+  "link.item.label.Google Play": {
+    "message": "Google Play",
+    "description": "The label of footer link with label=Google Play linking to https://play.google.com/store/apps/details?id=com.wagguracy.app"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Datenschutzrichtlinie",
+    "description": "The label of footer link with label=Privacy Policy linking to /docs/privacy-policy"
+  },
+  "link.item.label.Terms of Service": {
+    "message": "Nutzungsbedingungen",
+    "description": "The label of footer link with label=Terms of Service linking to /docs/terms-of-service"
+  },
+  "link.item.label.Data Deletion": {
+    "message": "Datenlöschung",
+    "description": "The label of footer link with label=Data Deletion linking to /docs/data-deletion-instructions"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 WAGGURACY Pte. Ltd.",
+    "description": "The footer copyright"
+  }
+}

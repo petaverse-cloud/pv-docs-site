@@ -8,7 +8,7 @@ If you have a WAGGURACY PHAST 1, there are a few steps you can take to get start
 
 + Download the App:
 
-    First, download the WAGGURACY app from the [App Store (iOS)](https://apps.apple.com/cn/app/petority/id6450655898) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.petaverse.app) and install it on your smartphone.
+    First, download the WAGGURACY app from the [App Store (iOS)](https://apps.apple.com/us/app/wagguracy/id6776070186) or [Google Play Store (Android)](https://play.google.com/store/apps/details?id=com.wagguracy.app) and install it on your smartphone.
 
 + Create an Account:
 

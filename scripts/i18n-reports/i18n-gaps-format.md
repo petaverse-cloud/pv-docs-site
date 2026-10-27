@@ -1,0 +1,195 @@
+# Format mapping failures (kept English sentence)
+
+- petority/4_devices/5_restore-factory.md: partial format: **Step 1:** Open the WAGGURACY App
+- petority/4_devices/5_restore-factory.md: partial format: **Step 2:** Access Device Settings
+- petority/4_devices/5_restore-factory.md: partial format: Tap **User** > **Device Card** > **Setting**
+- petority/4_devices/5_restore-factory.md: partial format: **Step 3:** Choose Factory Reset
+- petority/4_devices/5_restore-factory.md: partial format: Tap **Factory reset**
+- petority/4_devices/5_restore-factory.md: partial format: **Step 4:** Confirm the Action
+- petority/4_devices/5_restore-factory.md: partial format: After the factory reset is completed, you'll need to reconfigure the device from scratch. This inclu
+- petority/4_devices/5_restore-factory.md: partial format: Keep in mind that performing a factory reset will **erase** all data and settings on your PHAST 1, e
+- petority/4_devices/2_device-pairing.md: partial format: If you already have an account, **log in** using your credentials.
+- petority/4_devices/2_device-pairing.md: partial format: **Press and hold** the side button of PHAST 1 to power it on. When the indicator light **flashes blu
+- petority/4_devices/2_device-pairing.md: partial format: Keep your phone **close to** the **PHAST 1**.
+- petority/4_devices/2_device-pairing.md: partial format: Please place your **PHAST 1 Outdoors** or near a **Window**.
+- petority/4_devices/2_device-pairing.md: partial format: Make sure your phone's **Bluetooth** is **turned on**.
+- petority/4_devices/2_device-pairing.md: partial format: Keep your phone as **close** to the device as possible.
+- petority/4_devices/2_device-pairing.md: partial format: Simply follow the steps above: **pair your device**, **create and link your pet profile**, and you c
+- petority/4_devices/6_light-sound.md: partial format: In this comprehensive guide, we'll explore how you can personalize your WAGGURACY experience by sele
+- petority/4_devices/6_light-sound.md: partial format: **Step 1:** Access Settings:
+- petority/4_devices/6_light-sound.md: partial format: **Step 2:** Navigate to Sound Customization:
+- petority/4_devices/6_light-sound.md: partial format: Tap **User** > **Device Card** > **Settings**
+- petority/4_devices/6_light-sound.md: partial format: **Step 3:** Select Custom Sound:
+- petority/4_devices/6_light-sound.md: partial format: Choose the option to **Customize audio**.
+- petority/4_devices/6_light-sound.md: partial format: **Step 4:** Choose Your Sound:
+- petority/4_devices/6_light-sound.md: partial format: **Step 5:** Save and Confirm:
+- petority/4_devices/1_devices-info.md: partial format: Tap **User** > **Device Card**
+- petority/4_devices/1_devices-info.md: partial format: Tap the **[Setting](/docs/petority/devices/light-sound)** section to configure various options based
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 1:** Check for Updates
+- petority/4_devices/4_upgrade-firmware.md: partial format: Tap **User** > **Device Card**
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 2:** Check for Available Updates
+- petority/4_devices/4_upgrade-firmware.md: partial format: Tap **Upgrade** . 
+- petority/4_devices/4_upgrade-firmware.md: partial format: This will initiate a check to see if there are any **available** updates for your WAGGURACY PHAST 1.
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 3:** Download and Install
+- petority/4_devices/4_upgrade-firmware.md: partial format: **After charging** your PHAST 1, the device will automatically activate its Bluetooth module and ent
+- petority/4_devices/4_upgrade-firmware.md: partial format: Go to your phone’s **Bluetooth settings** and connect to “PHAST 1.”
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 4:** Restart and Verify
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 5:** Enjoy New Features
+- petority/4_devices/4_upgrade-firmware.md: partial format: Updated software may introduce **new features**, **improvements**, and **bug fixes**. Explore the WA
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 1:** Download and Install
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 2:** Restart and Verify
+- petority/4_devices/4_upgrade-firmware.md: partial format: **Step 3:** Enjoy New Features
+- petority/4_devices/7_unbinding.md: partial format: Tap **User** > **Device Card** > **Settings**
+- petority/4_devices/7_unbinding.md: partial format: Look for an option labeled **Unpair**. Click on this option.
+- petority/4_devices/7_unbinding.md: partial format: Once you've completed these steps, the device will **no longer** be bound with your account. 
+- petority/2_accounts/5_account-deletion.md: partial format: Navigate to **Account security** and click on **Delete account**.
+- petority/2_accounts/5_account-deletion.md: partial format: Read the provided **Account Deletion Notice** carefully. Understand that deleting your account will 
+- petority/2_accounts/5_account-deletion.md: partial format: Deleting your account will permanently **remove** all associated data, including **pet information**
+- petority/2_accounts/5_account-deletion.md: partial format: **30-Day** Review Period: 
+- petority/2_accounts/5_account-deletion.md: partial format: After submitting an account deletion request, the account enters a **30-day** review period. During 
+- petority/2_accounts/5_account-deletion.md: partial format: Before the end of the review period, you can **restore** your account by **logging in** and **cancel
+- petority/2_accounts/3_change-email.md: partial format: Tap **User** > **Settings** > **Account security** > **Change account**.
+- petority/2_accounts/3_change-email.md: partial format: Click on the **Get code** button. This will trigger a verification email sent to your original email
+- petority/2_accounts/3_change-email.md: partial format: Click on the **Get Code** button again. This will send a verification email to the new email address
+- petority/2_accounts/1_signing-up.md: partial format: To embark on your pet tracking journey, you'll need to **create a WAGGURACY account**. This guide wi
+- petority/2_accounts/1_signing-up.md: partial format: On the login page，enter your email address, ensuring that it's **valid** and **not already registere
+- petority/2_accounts/1_signing-up.md: partial format: Create a secure **password**, which should have at least **8** characters and include both **letters
+- petority/2_accounts/1_signing-up.md: partial format: Click the **Create account** button.
+- petority/2_accounts/1_signing-up.md: partial format: On the login page, click **Login with Third-party**.
+- petority/2_accounts/6_logout.md: partial format: Tap **Setting** > **Sign out**.
+- petority/2_accounts/4_password.md: partial format: On the login page, click the **Forgot password** button.
+- petority/2_accounts/4_password.md: partial format: Tap **User** > **Account security**.
+- petority/2_accounts/4_password.md: partial format: Locate and click on **Change password**.
+- petority/2_accounts/4_password.md: partial format: Click the **Get code** button, a verification code will be sent to the email address associated with
+- petority/2_accounts/2_your-profile.md: partial format: Click the **User info** option in the user page.
+- petority/2_accounts/2_your-profile.md: partial format: In the personal settings page, locate and click on **Edit** option.
+- petority/2_accounts/2_your-profile.md: partial format: While in edit mode, you can modify your personal details, including your **profile picture**, **name
+- petority/2_accounts/2_your-profile.md: partial format: After making your edits, make sure to click the **Save** button to save your modifications.
+- petority/5_pets/5_edit.md: partial format: Look for an **Edit** button on the pet's profile page. Click on it to enter the edit mode.
+- petority/5_pets/5_edit.md: partial format: While in edit mode, you can modify various aspects of your pet's information, such as **name**, **br
+- petority/5_pets/5_edit.md: partial format: After making the necessary changes, click **Save** to save the modifications to your pet's profile.
+- petority/5_pets/4_create.md: partial format: Provide essential information about your pet, such as its **name**, **breed**, **species**, **date o
+- petority/5_pets/3_associate.md: partial format: In WAGGURACY, you can easily **bind**, **switch** devices for your pets to track their activities.
+- petority/5_pets/3_associate.md: partial format: Launch the WAGGURACY app and **log in** to your account.
+- petority/5_pets/3_associate.md: partial format: You can follow the **Binding a Device with a Pet** steps to choose another pet and associate the dev
+- petority/5_pets/1_view-heart-rate.md: partial format: On **Habit** page, you can find information about their [instant sync pulse trend](/docs/petority/fe
+- petority/5_pets/6_delete.md: partial format: Tap **User** > **Pet info** section.
+- petority/5_pets/6_delete.md: partial format: Click on **delete** to initiate the deletion process.
+- petority/5_pets/2_view-health.md: partial format: Download and install the WAGGURACY app, then **log in** to your account.
+- petority/5_pets/2_view-health.md: partial format: Tap **Habit**.
+- petority/5_pets/2_view-health.md: partial format: On the **[Habit](/docs/petority/features/health-monitoring)** page, you can see various activity inf
+- petority/5_pets/2_view-health.md: partial format: You can choose **different time perious** to view your pet's activity history. WAGGURACY allows you 
+- petority/8_troubleshooting/5_account-delete-failed.md: partial format: Once you submit the account deletion request, the account enters a **30-day** review period. During 
+- petority/8_troubleshooting/7_location-delay.md: partial format: Ensure your device is **connected** to a stable internet connection. Unstable network connections ca
+- petority/8_troubleshooting/7_location-delay.md: partial format: Confirm that location **services** on your device are **enabled**. On mobile devices, you can usuall
+- petority/8_troubleshooting/7_location-delay.md: partial format: Confirm that the PHAST 1 is **powered on** to ensure proper functioning and transmission of location
+- petority/8_troubleshooting/7_location-delay.md: partial format: Make sure you are using the **latest** version of the WAGGURACY app. [Updating the application](/doc
+- petority/8_troubleshooting/7_location-delay.md: partial format: Low battery levels may impact device performance. Ensure the PHAST 1 has **sufficient** battery char
+- petority/8_troubleshooting/2_device-pairing.md: partial format: Confirm that the **Bluetooth** feature on your smartphone is **enabled** and **set to discoverable**
+- petority/8_troubleshooting/2_device-pairing.md: partial format: Follow the instructions in the PHAST 1's user manual to ensure the device is in **pairing** mode. Ty
+- petority/8_troubleshooting/2_device-pairing.md: partial format: Ensure that you are using the **latest** version of the WAGGURACY application. Check for [available 
+- petority/8_troubleshooting/2_device-pairing.md: partial format: If the device turns off during pairing, [**Charge the device**](/docs/devices/battery-charging/batte
+- petority/8_troubleshooting/2_device-pairing.md: partial format: Keep the device **close** to your phone during pairing.
+- petority/8_troubleshooting/2_device-pairing.md: partial format: Ensure the device is in a **scannable** state with **sufficient** battery power.
+- petority/8_troubleshooting/1_device-disconnect.md: partial format: 🏃 **Take Immediate Action:**
+- petority/8_troubleshooting/1_device-disconnect.md: partial format: Make sure you're using the **latest** version of the WAGGURACY app. Similarly, check if there are an
+- petority/7_general-setting/1_general-settings.md: partial format: Tap **User** > **Setting**
+- petority/7_general-setting/2_privacy.md: partial format: Adjust your account security settings, including **password** management and **email** management.
+- petority/7_general-setting/2_privacy.md: partial format: Users can [create a **strong** and **unique** password](/docs/petority/accounts/password)for their W
+- petority/7_general-setting/2_privacy.md: partial format: It's recommended to use a combination of uppercase and lowercase **letters**, **numbers**, and **spe
+- petority/7_general-setting/3_notification.md: partial format: WAGGURACY offers a range of alerts, allowing you to stay informed about your **pet's status** and **
+- petority/7_general-setting/3_notification.md: partial format: Select the types of alerts you want to receive, such as **Battery**, **Signal**, **Pulse**, **Fence*
+- petority/7_general-setting/7_update-app.md: partial format: Keeping your WAGGURACY App **up-to-date** ensures you have access to the **latest** features and imp
+- petority/7_general-setting/7_update-app.md: partial format: In the bottom menu, select **"WAGGURACY"** at the bottom of the screen.
+- petority/7_general-setting/7_update-app.md: partial format: Scroll down to the **"Available Updates"** section.
+- petority/7_general-setting/7_update-app.md: partial format: Select **"Manage apps & device"**.
+- petority/7_general-setting/7_update-app.md: partial format: Look for the **"Updates Available"** section. 
+- petority/6_notification/4_enable-nitif.md: partial format: WAGGURACY offers **[various alerts](/docs/petority/notification/type)** to keep you informed about y
+- petority/6_notification/4_enable-nitif.md: partial format: **Step 1:** Open the WAGGURACY App
+- petority/6_notification/4_enable-nitif.md: partial format: **Step 2:** Log In to Your Account
+- petority/6_notification/4_enable-nitif.md: partial format: **Step 3:** Access Alert Settings
+- petority/6_notification/4_enable-nitif.md: partial format: Tap **User** > **Settings**.
+- petority/6_notification/4_enable-nitif.md: partial format: **Step 4:** Enable Message Alerts
+- petority/6_notification/4_enable-nitif.md: partial format: You can enable or disable various alert types, such as **battery**, **signal**, **[geofence](/docs/p
+- petority/6_notification/1_type.md: partial format: When your PHAST 1's battery is running low(Below **10%** or automatic **shutdown**), you will receiv
+- petority/6_notification/2_fence-event.md: partial format: When you receive a fence event alert, you will see an **End event** button displayed within the aler
+- petority/6_notification/2_fence-event.md: partial format: Click the **End event** button in the alert to stop the related fence event alert.
+- petority/3_features/1_live-tracking.md: partial format: WAGGURACY offers advanced **smart location tracking** designed to ensure the **safety** of your belo
+- petority/3_features/1_live-tracking.md: partial format: **log in** to your account.
+- petority/3_features/1_live-tracking.md: partial format: Tap **Home**.
+- petority/3_features/1_live-tracking.md: partial format: In the WAGGURACY app, on the **Home** screen, as long as your pet is wearing PHAST 1 and it is worki
+- petority/3_features/1_live-tracking.md: partial format: **Smart Wi-Fi Fence** on surrounding Wi-Fi fingerprint.
+- petority/3_features/1_live-tracking.md: partial format: **Multi-system GNSS support** (GPS / BeiDou / GLONASS / other satellite modes).
+- petority/3_features/4_Fence.md: partial format: Tap **User** > **Device Card** .
+- petority/3_features/4_Fence.md: partial format: Tap **Home Fence** > **Edit**.
+- petority/3_features/4_Fence.md: partial format: Tap **User** > **Device Card**.
+- petority/3_features/4_Fence.md: partial format: Tap **Custom Fence** > **Edit**.
+- petority/3_features/4_Fence.md: partial format: You can choose from different fence shapes, including **circular**, **rectangular**, or even create 
+- petority/3_features/4_Fence.md: partial format: You will receive **[fence event notifications](/docs/petority/notification/fence-event)** when your 
+- petority/3_features/4_Fence.md: partial format: By clicking on the **alert** notification, you can view **detailed** information about your pet’s lo
+- petority/3_features/4_Fence.md: partial format: Open the WAGGURACY app and **log in** to your account.
+- petority/3_features/4_Fence.md: partial format: Tap **User** > **Device Card** > **Fence**.
+- petority/3_features/4_Fence.md: partial format: Tap **Edit**.
+- petority/3_features/4_Fence.md: partial format: For deletion, you can choose to **remove** the fence. Keep in mind that deleting a fence will also c
+- petority/3_features/4_Fence.md: partial format: If you no longer require a specific fence, you can choose to **turn off** the fence.
+- petority/3_features/5_qr-code.md: partial format: **SN code:** Each PHAST 1 is equipped with a SN code, boldly labeled with a unique SN code.
+- petority/3_features/5_qr-code.md: partial format: **Lost Pet:** If your pet ever goes missing, anyone who finds them can visit the iFinda.pet website 
+- petority/3_features/5_qr-code.md: partial format: **Contact Information:** After visiting iFinda.pet, the finder can enter their contact information a
+- petority/3_features/5_qr-code.md: partial format: **Reunion:** With the contact information provided, you can directly reach out to the finder and coo
+- petority/3_features/5_qr-code.md: partial format: **Quick Retrieval:** Our Pet Retrieval Feature facilitates a swift and efficient process for reuniti
+- petority/3_features/5_qr-code.md: partial format: **Direct Communication:** The feature enables direct communication between the pet owner and the fin
+- petority/3_features/5_qr-code.md: partial format: **Increased Success Rate:** With an easy and effective method for finding lost pets, the Pet Retriev
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: WAGGURACY features a built-in high-sensitivity pulse sensor that provides **instant sync pulse readi
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Instant Pulse Reading:** A high-sensitivity pulse sensor delivers on-demand pulse data with a sing
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Continuous Trend Tracking:** Tracks pulse trends over time so you can easily review daily, weekly,
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Multi-Range Visual Cues:** The app displays different colors for different pulse ranges, helping y
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Activity & Rest Context:** Pulse readings are paired with activity and rest context (e.g., active 
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Pet-Specific Design:** The pulse sensor utilizes an adaptive algorithm specifically designed for p
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Notes on Pulse:** A pet’s pulse may vary depending on factors such as age, breed, activity level, 
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **NOT A MEDICAL DEVICE.** This product is a general wellness device and is not intended for medical 
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Access the Feature:** Open the **WAGGURACY app** on your Android or iOS device and log in.
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Navigate to Pulse:** Tap on the **Habit** section in the app's menu.
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **Select Your Pet:** If you have multiple pets registered in the app, choose the pet whose pulse you
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: **View Instant Sync Reading:** Tap to start an instant sync pulse reading, or review historical tren
+- petority/3_features/3_realtime-heartrate-monitoring.md: partial format: This feature requires a compatible **WAGGURACY device** with pulse tracking capability and a stable 
+- petority/3_features/2_health-monitoring.md: partial format: WAGGURACY, the advanced pet tracking solution, offers an array of features designed to keep you conn
+- petority/3_features/2_health-monitoring.md: partial format: The Habit Data and Location History feature is a powerful tool that provides valuable insights into 
+- petority/3_features/2_health-monitoring.md: partial format: Open the **WAGGURACY app** on your Android or iOS device and log in.
+- petority/3_features/2_health-monitoring.md: partial format: Tap **Habit**.
+- petority/3_features/2_health-monitoring.md: partial format: You can now choose the **desired time frame** for reviewing their habit data history.
+- petority/3_features/2_health-monitoring.md: partial format: **Burned**: The calories your pet has burned through daily activity.
+- petority/3_features/2_health-monitoring.md: partial format: **Target**: The recommended daily calorie-burn goal for your pet.
+- petority/3_features/2_health-monitoring.md: partial format: **Achievement**: The percentage of the target calories achieved.
+- petority/3_features/2_health-monitoring.md: partial format: **Avg Achievement**: The average goal completion rate over a period of time.
+- petority/3_features/2_health-monitoring.md: partial format: The PHAST-1 emits a **blue** breathing light when actively collecting your pet's pulse data.
+- petority/3_features/2_health-monitoring.md: partial format: Gain valuable insights into your pet's **past activities** and **behavior patterns**. Understand how
+- petority/3_features/2_health-monitoring.md: partial format: Track your pet's **habit trends** by **reviewing** historical data. Stay informed about noticeable c
+- petority/1_get-to-know/1_intro.md: partial format: WAGGURACY is your ultimate companion for keeping a watchful eye on your beloved pets. It's designed 
+- petority/1_get-to-know/1_intro.md: partial format: This app offers a range of cutting-edge features that ensure the **habit**, **safety**, and **happin
+- petority/1_get-to-know/1_intro.md: partial format: WAGGURACY PHAST 1 uses GPS technology and network connectivity to provide **real-time** location upd
+- petority/1_get-to-know/1_intro.md: partial format: **Interface interactive :** WAGGURACY's map feature provides a comprehensive and intuitive real-time
+- petority/1_get-to-know/1_intro.md: partial format: WAGGURACY offers an intelligent **Auto Recall** feature designed to make recalling and controlling y
+- petority/1_get-to-know/1_intro.md: partial format: WAGGURACY keeps you informed with alerts about your **device battery status**, **app version updates
+- devices/3-battery-charging/1_battery-charging.md: partial format: Keep an eye on the indicator **colors** and **patterns** to understand the charging progress and sta
+- devices/3-battery-charging/1_battery-charging.md: partial format: **Disconnect** the device from power once it's fully charged to prevent **overcharging**.
+- devices/3-battery-charging/3_battery-duration.md: partial format: Performance will depend on the setup. The batter life of PHAST 1 depends on several factors, includi
+- devices/3-battery-charging/4_battery-performance.md: partial format: Under normal usage conditions, the device can operate continuously for **16 hours**.
+- devices/3-battery-charging/4_battery-performance.md: partial format: Standby time extends up to **72 hours**, ensuring battery longevity even during prolonged periods of
+- devices/4-light-sound/2_sound-alerts.md: partial format: When a pet ventures outside the predefined safe zone, WAGGURACY PHAST 1 trigger the **[Autoplay ring
+- devices/1-getting-started/2_Premium Design & Powerful Features.md: partial format: The WAGGURACY PHAST 1 combines a **sleek**, **minimalist** design with a **compact** form for **comf
+- devices/1-getting-started/2_Premium Design & Powerful Features.md: partial format: WAGGURACY PHAST 1 made from Polycarbonate typically feature [**waterproof** and **dustproof**](/docs
+- devices/1-getting-started/2_Premium Design & Powerful Features.md: partial format: Through WAGGURACY PHAST 1, you can provide comprehensive care and security for your pets. Whether it
+- devices/1-getting-started/7_proper-communication.md: partial format: Ensure that both your **WAGGURACY PHAST 1** and your **smartphone** are **connected** to a stable in
+- devices/1-getting-started/7_proper-communication.md: partial format: Make sure you are using the **latest version** of the WAGGURACY app. Similarly, check for **availabl
+- devices/1-getting-started/3_getting-started.md: partial format: Follow the instructions in the app to **[pair your WAGGURACY device](/docs/petority/devices/device-p
+- devices/1-getting-started/3_getting-started.md: partial format: If your device needs [charging](/docs/devices/battery-charging/battery-charging), **use the provided
+- devices/1-getting-started/3_getting-started.md: partial format: Inside the app, you can configure various settings for your device including **[setting up fences](/
+- devices/1-getting-started/4_device-activate.md: partial format: Set your **home address** as your **home fence** to begin protecting your furry friend.
+- devices/1-getting-started/4_device-activate.md: partial format: Create your **pet’s profile** to complete the setup and start tracking right away.
+- devices/1-getting-started/6_account-device.md: partial format: Each WAGGURACY device can **only** be bound to **one account**. This means users **cannot** simultan
+- devices/1-getting-started/6_account-device.md: partial format: If a user needs to unbind a device from the current account, they must complete the **[unbinding](/d
+- devices/2-network-bluetooth/1_network-bluetooth.md: partial format: Bluetooth plays a pivotal role in ensuring a **strong** and **reliable** connection between your WAG
+- petority/4_devices/2_device-pairing.md: partial format: Tap the **To set** button and select your home address on the map as the center point of the Home Fe
+- devices/3-battery-charging/2_battery-checking.md: partial format: On the **Home** page, you can check the battery percentage of your PHAST 1.
+
+Total unique: 191

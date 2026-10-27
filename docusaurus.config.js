@@ -35,7 +35,13 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'fr'],
+    locales: ['en', 'de', 'fr', 'nl'],
+    localeConfigs: {
+      en: {label: 'English', htmlLang: 'en'},
+      de: {label: 'Deutsch', htmlLang: 'de'},
+      fr: {label: 'Français', htmlLang: 'fr'},
+      nl: {label: 'Nederlands', htmlLang: 'nl'},
+    },
   },
 
   presets: [
@@ -50,13 +56,7 @@ const config = {
           // editUrl:
           //   'https://github.com/petaverse-cloud/pv-docs-site/tree/main/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/petaverse-cloud/pv-docs-site/tree/main/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -103,12 +103,10 @@ const config = {
               },
             ],
           },
-          // {
-          //   href: '/#download',
-          //   label: 'Download App',
-          //   position: 'right',
-          //   className: 'navbar-download-button',
-          // },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {

@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
+import Translate, {translate} from '@docusaurus/Translate';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import {DOC_PATHS} from '@site/src/components/Homepage/constants';
 import styles from './styles.module.css';
@@ -14,20 +15,34 @@ export default function Hero() {
 			<div className="container">
 				<div className={styles.heroInner}>
 					<div className={styles.heroContent}>
-						<p className={styles.eyebrow}>Pet tracking, reimagined</p>
+						<p className={styles.eyebrow}>
+							<Translate id="homepage.hero.eyebrow">
+								Pet tracking, reimagined
+							</Translate>
+						</p>
 						<h1 className={styles.title}>{siteConfig.title}</h1>
-						<p className={styles.tagline}>{siteConfig.tagline}</p>
+						<p className={styles.tagline}>
+							<Translate id="homepage.hero.tagline">
+								The next generation of pet tracking
+							</Translate>
+						</p>
 						<p className={styles.valueProp}>
-							Know More, Worry Less. Powered by Accuracy, Driven by Love.
+							<Translate id="homepage.hero.valueProp">
+								Know More, Worry Less. Powered by Accuracy, Driven by Love.
+							</Translate>
 						</p>
 						<div className={styles.ctaGroup}>
 							<Link className={styles.ctaPrimary} to="#download">
-								Download App
+								<Translate id="homepage.hero.downloadApp">
+									Download App
+								</Translate>
 							</Link>
 							<Link
 								className={styles.ctaSecondary}
 								to={DOC_PATHS.appIntro}>
-								Explore Help Center
+								<Translate id="homepage.hero.exploreHelp">
+									Explore Help Center
+								</Translate>
 							</Link>
 						</div>
 					</div>
@@ -35,7 +50,11 @@ export default function Hero() {
 						<img
 							src={require('@site/static/img/wagguracy_living_tracking.png')
 								.default}
-							alt="WAGGURACY app showing real-time pet location on a map"
+							alt={translate({
+								id: 'homepage.hero.imageAlt',
+								message:
+									'WAGGURACY app showing real-time pet location on a map',
+							})}
 							className={styles.heroImage}
 						/>
 					</div>
